@@ -13,7 +13,7 @@
   "globalFilter": "",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
-  "setCreatedDate": false,
+  "setCreatedDate": true,
   "setDoneDate": true,
   "setCancelledDate": true,
   "autoSuggestInEditor": true,
@@ -29,14 +29,14 @@
     "coreStatuses": [
       {
         "symbol": " ",
-        "name": "Todo",
+        "name": "待办",
         "nextStatusSymbol": "x",
         "availableAsCommand": true,
         "type": "TODO"
       },
       {
         "symbol": "x",
-        "name": "Done",
+        "name": "已完成",
         "nextStatusSymbol": " ",
         "availableAsCommand": true,
         "type": "DONE"
