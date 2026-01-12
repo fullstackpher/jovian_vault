@@ -26,6 +26,7 @@
     "TQ_show_urgency": "checkbox",
     "title": "text",
     "开始时间": "date",
-    "截止时间": "date"
+    "截止时间": "date",
+    "领域": "multitext"
   }
 }
