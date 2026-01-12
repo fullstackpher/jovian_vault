@@ -4,4 +4,4 @@ tags:
 ---
 # 安装
 ---
-从官网下载安装：https://obsidian.md/download
+从官网下载安装：[https://obsidian.md/download](https://obsidian.md/download)
