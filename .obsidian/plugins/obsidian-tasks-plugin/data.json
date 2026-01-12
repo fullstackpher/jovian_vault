@@ -45,17 +45,24 @@
     "customStatuses": [
       {
         "symbol": "/",
-        "name": "In Progress",
+        "name": "进行中",
         "nextStatusSymbol": "x",
         "availableAsCommand": true,
         "type": "IN_PROGRESS"
       },
       {
         "symbol": "-",
-        "name": "Cancelled",
+        "name": "已取消",
         "nextStatusSymbol": " ",
         "availableAsCommand": true,
         "type": "CANCELLED"
+      },
+      {
+        "symbol": "<",
+        "name": "等待中",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
       }
     ]
   },
