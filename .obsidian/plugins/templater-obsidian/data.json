@@ -21,6 +21,14 @@
     {
       "folder": "0_Daily Notes",
       "template": "_Templates/每日笔记.md"
+    },
+    {
+      "folder": "2-Areas/Frontend",
+      "template": "_Templates/面试题八股文.md"
+    },
+    {
+      "folder": "2-Areas/Backend",
+      "template": "_Templates/面试题八股文.md"
     }
   ],
   "enable_file_templates": false,
