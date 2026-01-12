@@ -64,14 +64,16 @@
       "name": "创建日记",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "_Templates/每日笔记.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "0_Daily Notes"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
