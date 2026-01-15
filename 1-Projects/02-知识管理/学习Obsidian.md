@@ -36,7 +36,7 @@ limit 100
 
 #### 🕒 项目进度条
 
-- [ ] 学习markdown语法
+- [x] 学习markdown语法 ✅ 2026-01-15
 - [ ] 学习obsidian双链功能
 - [ ] 学习obsidian插件
 - [ ] 学习obsidian的数据库Bases
@@ -48,7 +48,7 @@ limit 100
 > [!summary]-   项目资源
 
 - [清单沙控牛](https://space.bilibili.com/443605967/lists/266172?type=season)
-- [makrdown使用指南]()
+- [[markdown使用指南]]
 
 
 > [!danger]- 项目灵感
