@@ -5,6 +5,8 @@
 状态: 进行中
 类别: 长期项目
 领域: Knowledge Management
+tags:
+  - 项目
 ---
 > [!quote] 项目描述
 
