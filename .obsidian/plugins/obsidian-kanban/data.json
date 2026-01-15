@@ -1,4 +1,6 @@
 {
   "hide-card-count": false,
-  "move-tags": true
+  "move-tags": true,
+  "move-task-metadata": true,
+  "move-dates": true
 }
