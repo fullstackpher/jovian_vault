@@ -3,7 +3,7 @@
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -25,6 +25,18 @@
         },
         {
           "timestampMillis": 1768478675418
+        },
+        {
+          "timestampMillis": 1768481236673
+        },
+        {
+          "timestampMillis": 1768481445972
+        },
+        {
+          "timestampMillis": 1768481492797
+        },
+        {
+          "timestampMillis": 1768481559004
         }
       ]
     },
@@ -51,7 +63,7 @@
     {
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -67,13 +79,16 @@
         },
         {
           "timestampMillis": 1768478755687
+        },
+        {
+          "timestampMillis": 1768481240542
         }
       ]
     },
     {
       "path": "2-Areas/Knowledge Management/obsidian双链功能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768478617602
@@ -86,6 +101,9 @@
         },
         {
           "timestampMillis": 1768478766816
+        },
+        {
+          "timestampMillis": 1768481246291
         }
       ]
     },
@@ -105,10 +123,13 @@
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
+        },
+        {
+          "timestampMillis": 1768481221311
         }
       ]
     },
@@ -170,7 +191,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -180,6 +201,15 @@
         },
         {
           "timestampMillis": 1768479411976
+        },
+        {
+          "timestampMillis": 1768479441313
+        },
+        {
+          "timestampMillis": 1768479845990
+        },
+        {
+          "timestampMillis": 1768480804824
         }
       ]
     }

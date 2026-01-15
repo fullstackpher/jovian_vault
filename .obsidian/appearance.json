@@ -1,3 +1,7 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "rainbow-tree"
+  ],
+  "theme": "obsidian"
 }
