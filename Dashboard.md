@@ -11,9 +11,9 @@ SORT progress desc
 
 ### 项目完成情况
 ```dataview
-TABLE status as "状态", deadline as "截止日期"
+TABLE 状态 as "状态", 截止时间 as "截止时间"
 FROM #项目
-SORT deadline
+SORT 截止时间
 ```
 
 ### 本周学习时间统计
