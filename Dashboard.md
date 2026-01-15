@@ -11,9 +11,9 @@ SORT progress desc
 
 ### 项目完成情况
 ```dataview
-TABLE status as "状态", dateformat(deadline, "yyyy-MM-dd") as "截止时间"
+TABLE 状态 as "状态", dateformat(截止时间, "yyyy-MM-dd") as "截止时间"
 FROM #项目
-WHERE !contains(file.path, "_Templates") AND deadline
+WHERE !contains(file.path, "_Templates") 
 SORT deadline
 ```
 
