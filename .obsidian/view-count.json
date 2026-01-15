@@ -3,7 +3,7 @@
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -13,6 +13,18 @@
         },
         {
           "timestampMillis": 1768478609923
+        },
+        {
+          "timestampMillis": 1768478619886
+        },
+        {
+          "timestampMillis": 1768478636032
+        },
+        {
+          "timestampMillis": 1768478644851
+        },
+        {
+          "timestampMillis": 1768478675418
         }
       ]
     },
@@ -39,10 +51,64 @@
     {
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
+        },
+        {
+          "timestampMillis": 1768478633321
+        },
+        {
+          "timestampMillis": 1768478643669
+        },
+        {
+          "timestampMillis": 1768478671556
+        },
+        {
+          "timestampMillis": 1768478755687
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/obsidian双链功能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1768478617602
+        },
+        {
+          "timestampMillis": 1768478641467
+        },
+        {
+          "timestampMillis": 1768478667715
+        },
+        {
+          "timestampMillis": 1768478766816
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/obsidian图床测试.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768478645806
+        },
+        {
+          "timestampMillis": 1768478768356
+        }
+      ]
+    },
+    {
+      "path": "1-Projects/02-知识管理/学习Obsidian.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768478789164
         }
       ]
     }
