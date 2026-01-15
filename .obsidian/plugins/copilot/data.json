@@ -20,8 +20,8 @@
   "amazonBedrockApiKey": "",
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
-  "defaultChainType": "llm_chain",
-  "defaultModelKey": "Pro/deepseek-ai/DeepSeek-V3.2|3rd party (openai-format)",
+  "defaultChainType": "vault_qa",
+  "defaultModelKey": "deepseek-v3-2-251201|3rd party (openai-format)",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -260,17 +260,16 @@
       ]
     },
     {
-      "name": "Pro/deepseek-ai/DeepSeek-V3.2",
+      "name": "deepseek-v3-2-251201",
       "provider": "3rd party (openai-format)",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "https://api.siliconflow.cn/v1",
-      "apiKey": "sk-yuatcfmyckpbzfpjsaqahcwjeafsihlbirbfdpwqubpuoycn",
+      "baseUrl": "https://ark.cn-beijing.volces.com/api/v3",
+      "apiKey": "0fbea595-7e51-47c8-a674-7f53df9f55bb",
       "isEmbeddingModel": false,
       "capabilities": [],
       "stream": true,
-      "openAIOrgId": "",
-      "displayName": "DeepSeek-V3.2"
+      "displayName": "deepseek-v3-2-251201"
     }
   ],
   "activeEmbeddingModels": [
@@ -356,17 +355,6 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
-    },
-    {
-      "name": "BAAI/bge-m3",
-      "provider": "3rd party (openai-format)",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "https://api.siliconflow.cn/v1",
-      "apiKey": "sk-yuatcfmyckpbzfpjsaqahcwjeafsihlbirbfdpwqubpuoycn",
-      "isEmbeddingModel": true,
-      "capabilities": [],
-      "enableCors": true
     }
   ],
   "embeddingRequestsPerMin": 60,
