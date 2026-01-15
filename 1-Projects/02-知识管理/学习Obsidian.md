@@ -40,6 +40,7 @@ limit 100
 
 - [x] 学习markdown语法 ✅ 2026-01-15
 - [ ] 学习obsidian双链功能
+- [ ] 学习obsidian标签功能
 - [ ] 学习obsidian插件
 - [ ] 学习obsidian的数据库Bases
 
