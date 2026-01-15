@@ -26,6 +26,6 @@ WHERE date >= date(now) - dur(7 days)
 
 ### 待解决问题
 ```dataview
-LIST FROM #问题解决 WHERE !contains(status, "done")
+LIST FROM #问题解决 WHERE !contains(状态, "已完成")
 ```
 
