@@ -42,9 +42,10 @@ limit 100
 - [ ] 学习JavaSE基础语法
 - [ ] 学习JavaSE面向对象
 - [ ] 学习JavaSE字符串
+- [ ] 学习JavaSE异常处理
 - [ ] 学习JavaSE集合
 - [ ] 学习JavaSE常用基础类库
-- [ ] 学习JavaSE异常处理
+- [ ] 学习JavaSE多线程
 - [ ] 学习JavaSE高级技术
 
   
