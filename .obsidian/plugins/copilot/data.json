@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -245,14 +245,14 @@
     {
       "name": "deepseek-ai/DeepSeek-V3",
       "provider": "siliconflow",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.siliconflow.com/v1"
     },
     {
       "name": "deepseek-ai/DeepSeek-R1",
       "provider": "siliconflow",
-      "enabled": false,
+      "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.siliconflow.com/v1",
       "capabilities": [
