@@ -6,12 +6,14 @@
   "minMinutesBetweenSaves": 1,
   "ignoreGlobalFolder": [
     "_Templates",
-    "1-Projects"
+    "1-Projects",
+    "0_Daily Notes"
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
     "2-Areas/Knowledge Management/markdown使用指南.md": "30271ded4ca8f7cb86e33c7297baa43a42b2746a71f39e63292f038386f21a0b",
-    "2-Areas/Knowledge Management/obsidian图床测试.md": "f29cbcc553460e70d415b253c895e996767a28cc8caab95bd5ac8b992b7dec6e"
+    "2-Areas/Knowledge Management/obsidian图床测试.md": "f29cbcc553460e70d415b253c895e996767a28cc8caab95bd5ac8b992b7dec6e",
+    "0_Daily Notes/2026-01-12.md": "d4e8e9e3d6476f9e363c1c4a2de05c6d9ecb4b1620cd152dae7e1bea10539f6f"
   }
 }

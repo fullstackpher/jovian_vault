@@ -111,6 +111,16 @@
           "timestampMillis": 1768478789164
         }
       ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-12.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768478859225
+        }
+      ]
     }
   ]
 }

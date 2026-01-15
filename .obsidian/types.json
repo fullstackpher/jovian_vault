@@ -27,6 +27,7 @@
     "title": "text",
     "开始时间": "date",
     "截止时间": "date",
-    "领域": "multitext"
+    "领域": "multitext",
+    "创建时间": "date"
   }
 }
