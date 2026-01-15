@@ -39,6 +39,7 @@ limit 100
 - [ ] 学习markdown语法
 - [ ] 学习obsidian双链功能
 - [ ] 学习obsidian插件
+- [ ] 学习obsidian的数据库Bases
 
 
   
@@ -46,7 +47,7 @@ limit 100
 
 > [!summary]-   项目资源
 
-- 
+- https://space.bilibili.com/443605967/lists/266172?type=season
 
 
 > [!danger]- 项目灵感
