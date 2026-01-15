@@ -100,18 +100,24 @@
       "fileId": "1768478971635",
       "filePath": "0_Daily Notes/2026-01-13.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 3
     },
     "0_Daily Notes/2026-01-14.md": {
       "fileId": "1768478985400",
       "filePath": "0_Daily Notes/2026-01-14.md",
       "duration": 0,
-      "openCount": 1
+      "openCount": 2
     },
     "0_Daily Notes/2026-01-15.md": {
       "fileId": "1768479013147",
       "filePath": "0_Daily Notes/2026-01-15.md",
       "duration": 0,
+      "openCount": 2
+    },
+    "Dashboard.md": {
+      "fileId": "1768479037631",
+      "filePath": "Dashboard.md",
+      "duration": 12000,
       "openCount": 1
     }
   }

@@ -131,30 +131,49 @@
     {
       "path": "0_Daily Notes/2026-01-13.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768478970171
+        },
+        {
+          "timestampMillis": 1768479014144
         }
       ]
     },
     {
       "path": "0_Daily Notes/2026-01-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768478983963
+        },
+        {
+          "timestampMillis": 1768479014805
         }
       ]
     },
     {
       "path": "0_Daily Notes/2026-01-15.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768479010074
+        },
+        {
+          "timestampMillis": 1768479015472
+        }
+      ]
+    },
+    {
+      "path": "Dashboard.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768479034142
         }
       ]
     }
