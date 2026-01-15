@@ -170,13 +170,16 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
         },
         {
           "timestampMillis": 1768479341153
+        },
+        {
+          "timestampMillis": 1768479411976
         }
       ]
     }
