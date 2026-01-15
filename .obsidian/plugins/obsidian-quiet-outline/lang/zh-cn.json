@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1768481812684,
+        "translationVersion": 1768482887007,
         "pluginVersion": "0.5.8"
     },
     "description": {
@@ -13,18 +13,17 @@
         "Notice(z(`Minimum level reached`)": "Notice(z(`Minimum level reached`)",
         "Notice(`No file in markdown view`)": "Notice(`No file in markdown view`)",
         "Notice(`Headings copied`)": "Notice(`Headings copied`)",
-        ".error(e)": ".error(e)",
-        ".error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)": ".error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)",
-        ".error(`[vdirs/${e}]: ${t}`)": ".error(`[vdirs/${e}]: ${t}`)",
-        ".error(`[vueuc/${e}]: ${t}`)": ".error(`[vueuc/${e}]: ${t}`)",
-        ".error(`[naive/${e}]: ${t}`)": ".error(`[naive/${e}]: ${t}`)",
-        ".error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)": ".error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)",
-        ".error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)": ".error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)",
-        ".error(\"[css-render/mount]: `id` is required in `boost` mode.\")": ".error(\"[css-render/mount]: `id` is required in `boost` mode.\")",
-        ".error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)": ".error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)",
-        ".error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)": ".error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)",
-        ".error(t)": ".error(t)",
-        "nerror(e)": "nerror(e)",
+        "error(e)": "error(e)",
+        "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)": "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)",
+        "error(`[vdirs/${e}]: ${t}`)": "error(`[vdirs/${e}]: ${t}`)",
+        "error(`[vueuc/${e}]: ${t}`)": "error(`[vueuc/${e}]: ${t}`)",
+        "error(`[naive/${e}]: ${t}`)": "error(`[naive/${e}]: ${t}`)",
+        "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)": "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)",
+        "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)": "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)",
+        "error(\"[css-render/mount]: `id` is required in `boost` mode.\")": "error(\"[css-render/mount]: `id` is required in `boost` mode.\")",
+        "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)": "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)",
+        "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)": "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)",
+        "error(t)": "error(t)",
         "name:`Teleport`": "name:`Teleport`",
         "name:`BaseTransition`": "name:`BaseTransition`",
         "name:`TransitionGroup`": "name:`TransitionGroup`",
@@ -193,7 +192,7 @@
         "link:`)?n==null?e.removeAttributeNS(ss,t.slice(6,t.length)):e.setAttributeNS(ss,t,n):n==null||a&&!Ae(n)?e.removeAttribute(t):e.setAttribute(t,a?`": "link:`)?n==null?e.removeAttributeNS(ss,t.slice(6,t.length)):e.setAttributeNS(ss,t,n):n==null||a&&!Ae(n)?e.removeAttribute(t):e.setAttribute(t,a?`",
         "link:``,original:`": "link:``,original:`",
         "text:`#`": "text:`#`",
-        ".setPlaceholder(`inherit`)": ".setPlaceholder(`inherit`)",
-        ".setTooltip(`release doc 0.3.32`)": ".setTooltip(`release doc 0.3.32`)"
+        "setPlaceholder(`inherit`)": "setPlaceholder(`inherit`)",
+        "setTooltip(`release doc 0.3.32`)": "setTooltip(`release doc 0.3.32`)"
     }
 }
