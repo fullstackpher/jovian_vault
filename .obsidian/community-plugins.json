@@ -6,5 +6,10 @@
   "templater-obsidian",
   "obsidian-kanban",
   "quickadd",
-  "calendar"
+  "calendar",
+  "focus-time",
+  "url-into-selection",
+  "recent-files-obsidian",
+  "obsidian-outliner",
+  "copilot"
 ]
