@@ -155,5 +155,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "2-Areas/Frontend/HTML/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 14
+      },
+      "to": {
+        "line": 10,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/HTML/HTML标签.md": {
+    "scroll": 0.8952837424884311,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 14
+      },
+      "to": {
+        "line": 19,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
   }
 }
