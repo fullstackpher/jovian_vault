@@ -58,8 +58,10 @@ span{backgroud: red;}
 ### 类（class）选择器
 ```css
 .abc{width: 200px; height: 200px; backgroud: black;}
-
+<div class="abc"></div>
 ```
+
+
 
 ## 关系选择器
 
