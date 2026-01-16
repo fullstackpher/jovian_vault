@@ -160,11 +160,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       }
     },
@@ -239,5 +239,89 @@
       "item-2-1",
       "item-1-0"
     ]
+  },
+  "_Templates/项目开发记录.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/问题解决方案.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/实用代码片段.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/面试题八股文.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/每日笔记.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/技术概念卡片.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

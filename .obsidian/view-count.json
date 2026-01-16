@@ -570,6 +570,76 @@
           "timestampMillis": 1768555881832
         }
       ]
+    },
+    {
+      "path": "2-Areas/Frontend/HTML/未命名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768555982779
+        }
+      ]
+    },
+    {
+      "path": "_Templates/项目开发记录.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768555992674
+        }
+      ]
+    },
+    {
+      "path": "_Templates/问题解决方案.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768555996455
+        }
+      ]
+    },
+    {
+      "path": "_Templates/实用代码片段.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768556002100
+        }
+      ]
+    },
+    {
+      "path": "_Templates/面试题八股文.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768556014740
+        }
+      ]
+    },
+    {
+      "path": "_Templates/每日笔记.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768556028603
+        }
+      ]
+    },
+    {
+      "path": "_Templates/技术概念卡片.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768556030530
+        }
+      ]
     }
   ]
 }
