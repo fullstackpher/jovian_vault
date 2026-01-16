@@ -63,8 +63,8 @@
     "2-Areas/Knowledge Management/markdown使用指南.md": {
       "fileId": "1768478527245",
       "filePath": "2-Areas/Knowledge Management/markdown使用指南.md",
-      "duration": 648000,
-      "openCount": 13
+      "duration": 684000,
+      "openCount": 14
     },
     "1-Projects/01-学习Java/学习JavaEE.md": {
       "fileId": "1768478527633",
@@ -141,7 +141,13 @@
     "2-Areas/Frontend/HTML/HTML标签.md": {
       "fileId": "1768540019714",
       "filePath": "2-Areas/Frontend/HTML/HTML标签.md",
-      "duration": 258000,
+      "duration": 276000,
+      "openCount": 3
+    },
+    "2-Areas/Knowledge Management/卡片笔记法.md": {
+      "fileId": "1768540841711",
+      "filePath": "2-Areas/Knowledge Management/卡片笔记法.md",
+      "duration": 30000,
       "openCount": 1
     }
   }

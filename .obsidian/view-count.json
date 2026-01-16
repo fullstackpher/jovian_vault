@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 46,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 47,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -142,6 +142,9 @@
         },
         {
           "timestampMillis": 1768483354053
+        },
+        {
+          "timestampMillis": 1768540607596
         }
       ]
     },
@@ -421,10 +424,23 @@
     {
       "path": "2-Areas/Frontend/HTML/HTML标签.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768540015111
+        },
+        {
+          "timestampMillis": 1768540822203
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/卡片笔记法.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768540838364
         }
       ]
     }
