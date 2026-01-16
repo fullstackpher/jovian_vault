@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-16T17:46
+更新时间: 2026-01-16T17:51
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -60,6 +60,16 @@ span{backgroud: red;}
 .abc{width: 200px; height: 200px; backgroud: black;}
 <div class="abc"></div>
 ```
+
+> [!tip]- 我们可以定义分类，然后通过我们定义分类的去给予样式，权重比标签选择器高
+
+### id选择器
+```css
+#abc{width: 200px; height: 200px; backgroud: black;}
+<div id="abc"></div>
+```
+
+> [!tip]- 权重最高的选择器，我们可以给元素设定一个唯一的Id值，就像身份证一样
 
 
 
