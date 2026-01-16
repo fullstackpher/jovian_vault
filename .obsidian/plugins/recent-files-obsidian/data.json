@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习HTML5",
+      "path": "1-Projects/03-学习前端/学习HTML5.md"
+    },
+    {
       "basename": "HTML标签",
       "path": "2-Areas/Frontend/HTML/HTML标签.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "项目看板",
       "path": "1-Projects/项目看板.md"
-    },
-    {
-      "basename": "学习HTML5",
-      "path": "1-Projects/03-学习前端/学习HTML5.md"
     },
     {
       "basename": "学习JavaSE",
