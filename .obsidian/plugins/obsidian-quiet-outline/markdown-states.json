@@ -171,18 +171,23 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/HTML/HTML标签.md": {
-    "scroll": 174.34788051578687,
+    "scroll": 327.81452434797933,
     "cursor": {
       "from": {
-        "line": 195,
+        "line": 340,
         "ch": 0
       },
       "to": {
-        "line": 195,
+        "line": 340,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-10",
+      "item-2-15",
+      "item-2-11",
+      "item-1-1"
+    ]
   },
   "2-Areas/Knowledge Management/卡片笔记法.md": {
     "scroll": 0,

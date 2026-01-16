@@ -3,7 +3,7 @@ tags:
   - 2026-01-16
   - "#HTML"
 创建时间: 2026-01-16T13:06
-更新时间: 2026-01-16T15:52
+更新时间: 2026-01-16T16:02
 ---
 # HTML概念
 HTML（HyperTextMarkupLanguage）超文本标记语言，是制作网页的基本语言，直接由浏览器执行
@@ -193,3 +193,148 @@ HTML中的注释使用 `<!--` 开始，以 `-->` 结束。注释中的内容不�
 
 # input标签
 `<input>` 标签是HTML中用于创建各种表单输入控件的标签，如文本框、复选框、单选按钮等
+HTML 中的 `<input>` 标签是表单中最核心的元素，用于创建各种交互控件，使用户能够输入数据。其功能主要通过 `type` 属性来定义。
+
+## 核心属性
+
+### 1. **type** - 定义输入类型
+这是最重要的属性，决定了输入框的行为和外观：
+
+**基础文本输入**
+```html
+<input type="text">       <!-- 单行文本 -->
+<input type="password">   <!-- 密码字段 -->
+<input type="email">      <!-- 电子邮件 -->
+<input type="tel">        <!-- 电话号码 -->
+<input type="url">        <!-- URL地址 -->
+<input type="search">     <!-- 搜索框 -->
+<input type="number">     <!-- 数字输入 -->
+<textarea></textarea>     <!-- 多行文本 -->
+```
+
+**选择型输入**
+```html
+<input type="checkbox">   <!-- 复选框 -->
+<input type="radio">      <!-- 单选框 -->
+<select>...</select>      <!-- 下拉列表 -->
+```
+
+**特殊输入**
+```html
+<input type="file">       <!-- 文件上传 -->
+<input type="date">       <!-- 日期选择器 -->
+<input type="time">       <!-- 时间选择器 -->
+<input type="color">      <!-- 颜色选择器 -->
+<input type="range">      <!-- 滑块 -->
+```
+
+**按钮类型**
+```html
+<input type="submit">     <!-- 提交按钮 -->
+<input type="reset">      <!-- 重置按钮 -->
+<input type="button">     <!-- 普通按钮 -->
+<button></button>         <!-- 按钮标签 -->
+```
+
+### 2. **常用通用属性**
+```html
+<input
+  name="username"         <!-- 字段名称（提交用） -->
+  value="默认值"          <!-- 初始值 -->
+  placeholder="提示文字"  <!-- 占位符提示 -->
+  required                <!-- 必填字段 -->
+  disabled                <!-- 禁用状态 -->
+  readonly                <!-- 只读 -->
+  maxlength="20"          <!-- 最大字符数 -->
+  minlength="3"           <!-- 最小字符数 -->
+  pattern="[A-Za-z]+"     <!-- 正则验证 -->
+  autocomplete="off"      <!-- 关闭自动填充 -->
+  autofocus               <!-- 自动聚焦 -->
+>
+```
+
+### 3. **特定类型的专属属性**
+```html
+<!-- 数字输入 -->
+<input type="number" min="0" max="100" step="5">
+
+<!-- 范围滑块 -->
+<input type="range" min="0" max="100" value="50">
+
+<!-- 日期时间 -->
+<input type="date" min="2024-01-01" max="2024-12-31">
+
+<!-- 文件上传 -->
+<input type="file" accept=".jpg,.png" multiple>
+```
+
+## 重要特性
+
+### 1. **表单关联**
+```html
+<form>
+  <label for="username">用户名：</label>
+  <input id="username" name="user">
+  <!-- label的for与input的id关联 -->
+</form>
+```
+
+### 2. **数据列表（datalist）**
+```html
+<input list="browsers" name="browser">
+<datalist id="browsers">
+  <option value="Chrome">
+  <option value="Firefox">
+  <option value="Safari">
+</datalist>
+```
+
+### 3. **HTML5新增验证**
+```html
+<input type="email" required>      <!-- 必须输入邮箱格式 -->
+<input type="url" required>        <!-- 必须输入URL格式 -->
+<input type="number" min="1" max="10">
+```
+
+## 最佳实践
+
+1. **始终使用 `<label>`**
+   ```html
+   <!-- 推荐 -->
+   <label for="email">邮箱：</label>
+   <input id="email" type="email">
+   
+   <!-- 或包裹式 -->
+   <label>
+     邮箱：<input type="email">
+   </label>
+   ```
+
+2. **合理选择输入类型**
+   - 用 `email` 类型获得邮箱键盘（移动端）
+   - 用 `number` 类型获得数字键盘
+   - 用 `tel` 类型获得电话键盘
+
+3. **提供适当的反馈**
+   ```html
+   <input type="text" 
+          aria-describedby="hint"
+          required>
+   <small id="hint">请输入3-20个字符</small>
+   ```
+
+4. **考虑无障碍访问**
+   ```html
+   <input type="text" 
+          aria-label="搜索关键词"
+          aria-required="true">
+   ```
+
+## 注意事项
+
+- **`<input>` 是空元素**，没有闭合标签
+- **`<button>` vs `<input type="button">**：`<button>`更灵活，可以包含HTML内容
+- **移动端适配**：不同的 `type` 会触发不同的虚拟键盘
+- **浏览器兼容性**：部分HTML5输入类型在老浏览器中会降级为 `text`
+
+`<input>` 标签的灵活性和丰富的类型使其成为构建交互式网页表单的基石，正确使用可以大大提升用户体验和开发效率。
