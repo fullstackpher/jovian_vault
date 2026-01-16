@@ -104,12 +104,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 7,
+        "ch": 9
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 7,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-16.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 16
+      },
+      "to": {
+        "line": 5,
+        "ch": 16
       }
     },
     "expandedKeys": []

@@ -362,12 +362,21 @@
       ]
     },
     {
-      "path": "0_Daily Notes/未命名.md",
+      "path": "0_Daily Notes/2026-01-16.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768538500726
+        },
+        {
+          "timestampMillis": 1768538570041
+        },
+        {
+          "timestampMillis": 1768538583484
+        },
+        {
+          "timestampMillis": 1768538612872
         }
       ]
     }
