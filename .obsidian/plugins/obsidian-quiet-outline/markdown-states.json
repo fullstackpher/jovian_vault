@@ -210,15 +210,33 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 44,
+        "line": 45,
         "ch": 0
       },
       "to": {
-        "line": 44,
+        "line": 45,
         "ch": 0
       }
     },
     "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ]
+  },
+  "2-Areas/Frontend/HTML/CSS基础概念.md": {
+    "scroll": 13.780815760294596,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 7
+      },
+      "to": {
+        "line": 29,
+        "ch": 7
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
       "item-1-0"
     ]
   }
