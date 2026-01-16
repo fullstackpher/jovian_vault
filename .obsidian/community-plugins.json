@@ -6,7 +6,6 @@
   "templater-obsidian",
   "obsidian-kanban",
   "quickadd",
-  "calendar",
   "focus-time",
   "url-into-selection",
   "recent-files-obsidian",
@@ -20,5 +19,6 @@
   "virtual-linker",
   "obsidian-style-settings",
   "obsidian-quiet-outline",
-  "i18n"
+  "i18n",
+  "calendar"
 ]

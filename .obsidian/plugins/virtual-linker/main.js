@@ -237,7 +237,7 @@ var PrefixTree = class {
     try {
       aliases = aliases.filter(PrefixTree.isNoneEmptyString);
     } catch (e) {
-      console.error("[VL LC] Error filtering aliases", aliases, e);
+      console.error("[VL LC] 过滤别名时出错", aliases, e);
     }
     let names = [file.basename];
     if (aliases && this.settings.includeAliases) {
@@ -327,7 +327,7 @@ var PrefixTree = class {
       try {
         this.addFileToTree(file);
       } catch (e) {
-        console.error("[VL LC] Error adding file to tree", file, e);
+        console.error("[VL LC] 将文件添加到树时出错", file, e);
       }
     }
     const filesToRemove = [...this.setIndexedFilePaths].filter((f) => !currentVaultFiles.has(f));
@@ -1479,7 +1479,7 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
     this.registerEvent(this.app.workspace.on("file-menu", (menu, file, source) => this.addContextMenuItem(menu, file, source)));
     this.addCommand({
       id: "activate-virtual-linker",
-      name: "Activate Virtual Linker",
+      name: "激活虚拟链接器",
       checkCallback: (checking) => {
         if (!this.settings.linkerActivated) {
           if (!checking) {
@@ -1493,7 +1493,7 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
     });
     this.addCommand({
       id: "deactivate-virtual-linker",
-      name: "Deactivate Virtual Linker",
+      name: "停用虚拟链接器",
       checkCallback: (checking) => {
         if (this.settings.linkerActivated) {
           if (!checking) {
@@ -1507,7 +1507,7 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
     });
     this.addCommand({
       id: "convert-selected-virtual-links",
-      name: "Convert All Virtual Links in Selection to Real Links",
+      name: "将选中的所有虚拟链接转换为真实链接",
       checkCallback: (checking) => {
         var _a;
         const view = this.app.workspace.getActiveViewOfType(import_obsidian5.MarkdownView);
@@ -1600,7 +1600,7 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
       let contextMenuHandler = function(event) {
         const targetElement = event.target;
         if (!targetElement || !(targetElement instanceof HTMLElement)) {
-          console.error("No target element");
+          console.error("没有目标元素");
           return;
         }
         const isVirtualLink = targetElement.classList.contains("virtual-link-a");
@@ -1608,16 +1608,16 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
         const to = parseInt(targetElement.getAttribute("to") || "-1");
         if (from === -1 || to === -1) {
           menu.addItem((item) => {
-            item.setTitle("[Virtual Linker] Converting link is not here.").setIcon("link");
+            item.setTitle("[虚拟链接器] 转换链接不存在。").setIcon("link");
           });
         } else if (isVirtualLink) {
           menu.addItem((item) => {
-            item.setTitle("[Virtual Linker] Convert to real link").setIcon("link").onClick(() => {
+            item.setTitle("[虚拟链接器] 转换为实际链接").setIcon("link").onClick(() => {
               var _a, _b;
               const from2 = parseInt(targetElement.getAttribute("from") || "-1");
               const to2 = parseInt(targetElement.getAttribute("to") || "-1");
               if (from2 === -1 || to2 === -1) {
-                console.error("No from or to position");
+                console.error("没有起始或结束位置");
                 return;
               }
               const text = targetElement.getAttribute("origin-text") || "";
@@ -1625,7 +1625,7 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
               const activeFile = app.workspace.getActiveFile();
               const activeFilePath = (_a = activeFile == null ? void 0 : activeFile.path) != null ? _a : "";
               if (!activeFile) {
-                console.error("No active file");
+                console.error("没有活动文件");
                 return;
               }
               let absolutePath = target.path;
@@ -1683,11 +1683,11 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
       const metaInfo = fetcher.getMetaInfo(file);
       if (!metaInfo.excludeFile && (metaInfo.includeAllFiles || metaInfo.includeFile || metaInfo.isInIncludedDir)) {
         menu.addItem((item) => {
-          item.setTitle("[Virtual Linker] Exclude this file").setIcon("trash").onClick(async () => {
+          item.setTitle("[虚拟链接器] 排除此文件").setIcon("trash").onClick(async () => {
             const target = file;
             const targetFile = app.vault.getFileByPath(target.path);
             if (!targetFile) {
-              console.error("No target file");
+              console.error("没有目标文件");
               return;
             }
             const fileCache = app.metadataCache.getFileCache(targetFile);
@@ -1718,11 +1718,11 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
         });
       } else if (!metaInfo.includeFile && (!metaInfo.includeAllFiles || metaInfo.excludeFile || metaInfo.isInExcludedDir)) {
         menu.addItem((item) => {
-          item.setTitle("[Virtual Linker] Include this file").setIcon("plus").onClick(async () => {
+          item.setTitle("[虚拟链接器] 包含此文件").setIcon("plus").onClick(async () => {
             const target = file;
             const targetFile = app.vault.getFileByPath(target.path);
             if (!targetFile) {
-              console.error("No target file");
+              console.error("没有目标文件");
               return;
             }
             const fileCache = app.metadataCache.getFileCache(targetFile);
@@ -1759,11 +1759,11 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
       const isInExcludedDir = fetcher.excludeDirPattern.test(path2);
       if (fetcher.includeAllFiles && !isInExcludedDir || isInIncludedDir) {
         menu.addItem((item) => {
-          item.setTitle("[Virtual Linker] Exclude this directory").setIcon("trash").onClick(async () => {
+          item.setTitle("[虚拟链接器] 排除此目录").setIcon("trash").onClick(async () => {
             const target = file;
             const targetFolder = app.vault.getAbstractFileByPath(target.path);
             if (!targetFolder) {
-              console.error("No target folder");
+              console.error("没有目标文件夹");
               return;
             }
             const newExcludedDirs = Array.from(/* @__PURE__ */ new Set([...settings.excludedDirectories, targetFolder.name]));
@@ -1774,11 +1774,11 @@ var LinkerPlugin = class extends import_obsidian5.Plugin {
         });
       } else if (!fetcher.includeAllFiles && !isInIncludedDir || isInExcludedDir) {
         menu.addItem((item) => {
-          item.setTitle("[Virtual Linker] Include this directory").setIcon("plus").onClick(async () => {
+          item.setTitle("[虚拟链接器] 包含此目录").setIcon("plus").onClick(async () => {
             const target = file;
             const targetFolder = app.vault.getAbstractFileByPath(target.path);
             if (!targetFolder) {
-              console.error("No target folder");
+              console.error("没有目标文件夹");
               return;
             }
             const newExcludedDirs = settings.excludedDirectories.filter((dir) => dir !== targetFolder.name);
@@ -1814,64 +1814,64 @@ var LinkerSettingTab = class extends import_obsidian5.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian5.Setting(containerEl).setName("Activate Virtual Linker").addToggle((toggle) => toggle.setValue(this.plugin.settings.linkerActivated).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("激活虚拟链接器").addToggle((toggle) => toggle.setValue(this.plugin.settings.linkerActivated).onChange(async (value) => {
       await this.plugin.updateSettings({ linkerActivated: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Show advanced settings").addToggle((toggle) => toggle.setValue(this.plugin.settings.advancedSettings).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("显示高级设置").addToggle((toggle) => toggle.setValue(this.plugin.settings.advancedSettings).onChange(async (value) => {
       await this.plugin.updateSettings({ advancedSettings: value });
       this.display();
     }));
-    new import_obsidian5.Setting(containerEl).setName("Matching behavior").setHeading();
-    new import_obsidian5.Setting(containerEl).setName("Include aliases").setDesc("If activated, the virtual linker will also include aliases for the files.").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeAliases).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("匹配行为").setHeading();
+    new import_obsidian5.Setting(containerEl).setName("包含别名").setDesc("如果激活，虚拟链接器也将包含文件的别名。").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeAliases).onChange(async (value) => {
       await this.plugin.updateSettings({ includeAliases: value });
     }));
     if (this.plugin.settings.advancedSettings) {
-      new import_obsidian5.Setting(containerEl).setName("Only link once").setDesc("If activated, there will not be several identical virtual links in the same note (Wikipedia style).").addToggle((toggle) => toggle.setValue(this.plugin.settings.onlyLinkOnce).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("仅链接一次").setDesc("如果激活，在同一笔记中不会出现多个相同的虚拟链接（维基百科风格）。").addToggle((toggle) => toggle.setValue(this.plugin.settings.onlyLinkOnce).onChange(async (value) => {
         await this.plugin.updateSettings({ onlyLinkOnce: value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Exclude links to real linked files").setDesc("If activated, there will be no links to files that are already linked in the note by real links.").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksToRealLinkedFiles).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("排除指向真实链接文件的链接").setDesc("如果激活，将不会链接已经通过真实链接在笔记中链接的文件。").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksToRealLinkedFiles).onChange(async (value) => {
         await this.plugin.updateSettings({ excludeLinksToRealLinkedFiles: value });
       }));
     }
-    new import_obsidian5.Setting(containerEl).setName("Include headers").setDesc("If activated, headers (so your lines beginning with at least one `#`) are included for virtual links.").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeHeaders).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("包含标题").setDesc("如果激活，包含标题（即以至少一个`#`开始的行）用于虚拟链接。").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeHeaders).onChange(async (value) => {
       await this.plugin.updateSettings({ includeHeaders: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Match any part of a word").setDesc("If deactivated, only whole words are matched. Otherwise, every part of a word is found.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchAnyPartsOfWords).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("匹配单词的任意部分").setDesc("如果未激活，则只匹配整个单词。否则，将匹配单词的任意部分。").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchAnyPartsOfWords).onChange(async (value) => {
       await this.plugin.updateSettings({ matchAnyPartsOfWords: value });
       this.display();
     }));
     if (!this.plugin.settings.matchAnyPartsOfWords) {
-      new import_obsidian5.Setting(containerEl).setName("Match the beginning of words").setDesc("If activated, the beginnings of words are also linked, even if it is not a whole match.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchBeginningOfWords).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("匹配单词的开头").setDesc("如果激活，单词的开头也会被链接，即使它不是一个完整的匹配。").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchBeginningOfWords).onChange(async (value) => {
         await this.plugin.updateSettings({ matchBeginningOfWords: value });
         this.display();
       }));
-      new import_obsidian5.Setting(containerEl).setName("Match the end of words").setDesc("If activated, the ends of words are also linked, even if it is not a whole match.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchEndOfWords).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("匹配单词的结尾").setDesc("如果激活，即使不是完全匹配，也会链接单词的结尾。").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchEndOfWords).onChange(async (value) => {
         await this.plugin.updateSettings({ matchEndOfWords: value });
         this.display();
       }));
     }
     if (this.plugin.settings.matchAnyPartsOfWords || this.plugin.settings.matchBeginningOfWords) {
-      new import_obsidian5.Setting(containerEl).setName("Suppress suffix for sub words").setDesc("If activated, the suffix is not added to links for subwords, but only for complete matches.").addToggle((toggle) => toggle.setValue(this.plugin.settings.suppressSuffixForSubWords).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("抑制子单词的后缀").setDesc("如果激活，子单词的链接不会添加后缀，而仅对完整匹配添加。").addToggle((toggle) => toggle.setValue(this.plugin.settings.suppressSuffixForSubWords).onChange(async (value) => {
         await this.plugin.updateSettings({ suppressSuffixForSubWords: value });
       }));
     }
     if (this.plugin.settings.advancedSettings) {
-      new import_obsidian5.Setting(containerEl).setName("Fix IME problem").setDesc("If activated, there will be no links in the current line start which is followed immediately by the Input Method Editor (IME). This is the recommended setting if you are using IME (input method editor) for typing, e.g. for chinese characters, because instant linking might interfere with IME.").addToggle((toggle) => toggle.setValue(this.plugin.settings.fixIMEProblem).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("修复IME问题").setDesc("如果激活，当前行开头紧接输入法编辑器 (IME) 的地方将不会出现链接。如果您使用输入法编辑器（如输入中文字符）进行输入，这是推荐的设置，因为即时链接可能会干扰输入法。").addToggle((toggle) => toggle.setValue(this.plugin.settings.fixIMEProblem).onChange(async (value) => {
         await this.plugin.updateSettings({ fixIMEProblem: value });
       }));
     }
     if (this.plugin.settings.advancedSettings) {
-      new import_obsidian5.Setting(containerEl).setName("Avoid linking in current line").setDesc("If activated, there will be no links in the current line.").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksInCurrentLine).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("避免在同一行中链接").setDesc("如果激活，当前行中不会有链接。").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksInCurrentLine).onChange(async (value) => {
         await this.plugin.updateSettings({ excludeLinksInCurrentLine: value });
       }));
     }
-    new import_obsidian5.Setting(containerEl).setName("Case sensitivity").setHeading();
-    new import_obsidian5.Setting(containerEl).setName("Case sensitive").setDesc("If activated, the matching is case sensitive.").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchCaseSensitive).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("区分大小写").setHeading();
+    new import_obsidian5.Setting(containerEl).setName("区分大小写").setDesc("如果激活，匹配是区分大小写的。").addToggle((toggle) => toggle.setValue(this.plugin.settings.matchCaseSensitive).onChange(async (value) => {
       await this.plugin.updateSettings({ matchCaseSensitive: value });
       this.display();
     }));
     if (this.plugin.settings.advancedSettings) {
-      new import_obsidian5.Setting(containerEl).setName("Capital letter percentage for automatic match case").setDesc("The percentage (0 - 100) of capital letters in a file name or alias to be automatically considered as case sensitive.").addText((text) => text.setValue((this.plugin.settings.capitalLetterProportionForAutomaticMatchCase * 100).toFixed(1)).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("自动匹配情况的大写字母百分比").setDesc("文件名或别名中大写字母的百分比（0-100），将自动被视为区分大小写。").addText((text) => text.setValue((this.plugin.settings.capitalLetterProportionForAutomaticMatchCase * 100).toFixed(1)).onChange(async (value) => {
         let newValue = parseFloat(value);
         if (isNaN(newValue)) {
           newValue = 75;
@@ -1884,35 +1884,35 @@ var LinkerSettingTab = class extends import_obsidian5.PluginSettingTab {
         await this.plugin.updateSettings({ capitalLetterProportionForAutomaticMatchCase: newValue });
       }));
       if (this.plugin.settings.matchCaseSensitive) {
-        new import_obsidian5.Setting(containerEl).setName("Tag to ignore case").setDesc("By adding this tag to a file, the linker will ignore the case for the file.").addText((text) => text.setValue(this.plugin.settings.tagToIgnoreCase).onChange(async (value) => {
+        new import_obsidian5.Setting(containerEl).setName("忽略大小写的标签").setDesc("通过向文件添加此标签，链接器将忽略文件的大小写。").addText((text) => text.setValue(this.plugin.settings.tagToIgnoreCase).onChange(async (value) => {
           await this.plugin.updateSettings({ tagToIgnoreCase: value });
         }));
       } else {
-        new import_obsidian5.Setting(containerEl).setName("Tag to match case").setDesc("By adding this tag to a file, the linker will match the case for the file.").addText((text) => text.setValue(this.plugin.settings.tagToMatchCase).onChange(async (value) => {
+        new import_obsidian5.Setting(containerEl).setName("匹配大小写的标签").setDesc("通过向文件添加此标签，链接器将匹配文件的大小写。").addText((text) => text.setValue(this.plugin.settings.tagToMatchCase).onChange(async (value) => {
           await this.plugin.updateSettings({ tagToMatchCase: value });
         }));
       }
-      new import_obsidian5.Setting(containerEl).setName("Property name to ignore case").setDesc("By adding this property to a note, containing a list of names, the linker will ignore the case for the specified names / aliases. This way you can decide, which alias should be insensitive.").addText((text) => text.setValue(this.plugin.settings.propertyNameToIgnoreCase).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("忽略大小写的属性名称").setDesc("通过向笔记中添加此属性，包含名字列表，链接器将忽略指定的名字/别名的大小写。这样你可以决定哪些别名应不区分大小写。").addText((text) => text.setValue(this.plugin.settings.propertyNameToIgnoreCase).onChange(async (value) => {
         await this.plugin.updateSettings({ propertyNameToIgnoreCase: value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Property name to match case").setDesc("By adding this property to a note, containing a list of names, the linker will match the case for the specified names / aliases. This way you can decide, which alias should be case sensitive.").addText((text) => text.setValue(this.plugin.settings.propertyNameToMatchCase).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("匹配大小写的属性名称").setDesc("通过向笔记中添加此属性，包含名字列表，链接器将匹配指定的名字/别名的大小写。这样你可以决定哪些别名应区分大小写。").addText((text) => text.setValue(this.plugin.settings.propertyNameToMatchCase).onChange(async (value) => {
         await this.plugin.updateSettings({ propertyNameToMatchCase: value });
       }));
     }
-    new import_obsidian5.Setting(containerEl).setName("Matched files").setHeading();
-    new import_obsidian5.Setting(containerEl).setName("Include all files").setDesc("Include all files for the virtual linker.").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeAllFiles).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("已匹配的文件").setHeading();
+    new import_obsidian5.Setting(containerEl).setName("包含所有文件").setDesc("包含所有文件供虚拟链接器使用。").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeAllFiles).onChange(async (value) => {
       await this.plugin.updateSettings({ includeAllFiles: value });
       this.display();
     }));
     if (!this.plugin.settings.includeAllFiles) {
-      new import_obsidian5.Setting(containerEl).setName("Glossary linker directories").setDesc("Directories to include for the virtual linker (separated by new lines).").addTextArea((text) => {
+      new import_obsidian5.Setting(containerEl).setName("词典链接目录").setDesc("包含供虚拟链接器使用的目录（由换行符分隔）。").addTextArea((text) => {
         let setValue = "";
         try {
           setValue = this.plugin.settings.linkerDirectories.join("\n");
         } catch (e) {
           console.warn(e);
         }
-        text.setPlaceholder("List of directory names (separated by new line)").setValue(setValue).onChange(async (value) => {
+        text.setPlaceholder("目录名称列表（由换行符分隔）").setValue(setValue).onChange(async (value) => {
           this.plugin.settings.linkerDirectories = value.split("\n").map((x) => x.trim()).filter((x) => x.length > 0);
           await this.plugin.updateSettings();
         });
@@ -1920,14 +1920,14 @@ var LinkerSettingTab = class extends import_obsidian5.PluginSettingTab {
       });
     } else {
       if (this.plugin.settings.advancedSettings) {
-        new import_obsidian5.Setting(containerEl).setName("Excluded directories").setDesc("Directories from which files are to be excluded for the virtual linker (separated by new lines). Files in these directories will not create any virtual links in other files.").addTextArea((text) => {
+        new import_obsidian5.Setting(containerEl).setName("排除的目录").setDesc("从这些目录排除供虚拟链接器使用的文件（由换行符分隔）。这些目录中的文件不会在其他文件中创建任何虚拟链接。").addTextArea((text) => {
           let setValue = "";
           try {
             setValue = this.plugin.settings.excludedDirectories.join("\n");
           } catch (e) {
             console.warn(e);
           }
-          text.setPlaceholder("List of directory names (separated by new line)").setValue(setValue).onChange(async (value) => {
+          text.setPlaceholder("目录名称列表（由换行符分隔）").setValue(setValue).onChange(async (value) => {
             this.plugin.settings.excludedDirectories = value.split("\n").map((x) => x.trim()).filter((x) => x.length > 0);
             await this.plugin.updateSettings();
           });
@@ -1936,51 +1936,51 @@ var LinkerSettingTab = class extends import_obsidian5.PluginSettingTab {
       }
     }
     if (this.plugin.settings.advancedSettings) {
-      new import_obsidian5.Setting(containerEl).setName("Tag to include file").setDesc("Tag to explicitly include the file for the linker.").addText((text) => text.setValue(this.plugin.settings.tagToIncludeFile).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("包含文件的标签").setDesc("标签以明确地包括文件供链接器使用。").addText((text) => text.setValue(this.plugin.settings.tagToIncludeFile).onChange(async (value) => {
         await this.plugin.updateSettings({ tagToIncludeFile: value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Tag to ignore file").setDesc("Tag to ignore the file for the linker.").addText((text) => text.setValue(this.plugin.settings.tagToExcludeFile).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("忽略文件的标签").setDesc("标签以忽略文件供链接器使用。").addText((text) => text.setValue(this.plugin.settings.tagToExcludeFile).onChange(async (value) => {
         await this.plugin.updateSettings({ tagToExcludeFile: value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Exclude self-links to the current note").setDesc("If toggled, links to the note itself are excluded from the linker. (This might not work in preview windows.)").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksToOwnNote).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("排除到当前笔记的自链接").setDesc("如果切换，链接到笔记本身的链接将从链接器中排除。（这可能在预览窗口中不起作用。）").addToggle((toggle) => toggle.setValue(this.plugin.settings.excludeLinksToOwnNote).onChange(async (value) => {
         await this.plugin.updateSettings({ excludeLinksToOwnNote: value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Excluded directories for generating virtual links").setDesc("Directories in which the plugin will not create virtual links (separated by new lines).").addTextArea((text) => {
+      new import_obsidian5.Setting(containerEl).setName("生成虚拟链接时排除的目录").setDesc("插件不会创建虚拟链接的目录（由换行符分隔）。").addTextArea((text) => {
         let setValue = "";
         try {
           setValue = this.plugin.settings.excludedDirectoriesForLinking.join("\n");
         } catch (e) {
           console.warn(e);
         }
-        text.setPlaceholder("List of directory names (separated by new line)").setValue(setValue).onChange(async (value) => {
+        text.setPlaceholder("目录名称列表（由换行符分隔）").setValue(setValue).onChange(async (value) => {
           this.plugin.settings.excludedDirectoriesForLinking = value.split("\n").map((x) => x.trim()).filter((x) => x.length > 0);
           await this.plugin.updateSettings();
         });
         text.inputEl.addClass("linker-settings-text-box");
       });
     }
-    new import_obsidian5.Setting(containerEl).setName("Link style").setHeading();
-    new import_obsidian5.Setting(containerEl).setName("Always show multiple references").setDesc("If toggled, if there are multiple matching notes, all references are shown behind the match. If not toggled, the references are only shown if hovering over the match.").addToggle((toggle) => toggle.setValue(this.plugin.settings.alwaysShowMultipleReferences).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("链接样式").setHeading();
+    new import_obsidian5.Setting(containerEl).setName("始终显示多个引用").setDesc("如果启用，如果有多个匹配的笔记，所有引用都会显示在匹配项之后。如果不启用，只有在悬停于匹配项上时才会显示引用。").addToggle((toggle) => toggle.setValue(this.plugin.settings.alwaysShowMultipleReferences).onChange(async (value) => {
       await this.plugin.updateSettings({ alwaysShowMultipleReferences: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Virtual link suffix").setDesc("The suffix to add to auto generated virtual links.").addText((text) => text.setValue(this.plugin.settings.virtualLinkSuffix).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("虚拟链接后缀").setDesc("要添加到自动生成的虚拟链接的后缀。").addText((text) => text.setValue(this.plugin.settings.virtualLinkSuffix).onChange(async (value) => {
       await this.plugin.updateSettings({ virtualLinkSuffix: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Virtual link suffix for aliases").setDesc("The suffix to add to auto generated virtual links for aliases.").addText((text) => text.setValue(this.plugin.settings.virtualLinkAliasSuffix).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("别名的虚拟链接后缀").setDesc("要添加到为别名自动生成的虚拟链接的后缀。").addText((text) => text.setValue(this.plugin.settings.virtualLinkAliasSuffix).onChange(async (value) => {
       await this.plugin.updateSettings({ virtualLinkAliasSuffix: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Apply default link styling").setDesc("If toggled, the default link styling will be applied to virtual links. Furthermore, you can style the links yourself with a CSS-snippet affecting the class `virtual-link`. (Find the CSS snippet directory at Appearance -> CSS Snippets -> Open snippets folder)").addToggle((toggle) => toggle.setValue(this.plugin.settings.applyDefaultLinkStyling).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("应用默认链接样式").setDesc("如果切换，将默认链接样式应用于虚拟链接。此外，您可以使用影响`virtual-link`类的CSS片段来自定义链接样式。（在外观 -> CSS片段 -> 打开片段文件夹中查找CSS片段目录）").addToggle((toggle) => toggle.setValue(this.plugin.settings.applyDefaultLinkStyling).onChange(async (value) => {
       await this.plugin.updateSettings({ applyDefaultLinkStyling: value });
     }));
-    new import_obsidian5.Setting(containerEl).setName("Use default link style for conversion").setDesc("If toggled, the default link style will be used for the conversion of virtual links to real links.").addToggle((toggle) => toggle.setValue(this.plugin.settings.useDefaultLinkStyleForConversion).onChange(async (value) => {
+    new import_obsidian5.Setting(containerEl).setName("转换时使用默认链接样式").setDesc("如果切换，默认链接样式将用于将虚拟链接转换为真实链接。").addToggle((toggle) => toggle.setValue(this.plugin.settings.useDefaultLinkStyleForConversion).onChange(async (value) => {
       await this.plugin.updateSettings({ useDefaultLinkStyleForConversion: value });
       this.display();
     }));
     if (!this.plugin.settings.useDefaultLinkStyleForConversion) {
-      new import_obsidian5.Setting(containerEl).setName("Use [[Wiki-links]]").setDesc("If toggled, the virtual links will be created as wiki-links instead of markdown links.").addToggle((toggle) => toggle.setValue(!this.plugin.settings.useMarkdownLinks).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("使用[[维基链接]]").setDesc("如果切换，虚拟链接将以维基链接而不是Markdown链接的形式创建。").addToggle((toggle) => toggle.setValue(!this.plugin.settings.useMarkdownLinks).onChange(async (value) => {
         await this.plugin.updateSettings({ useMarkdownLinks: !value });
       }));
-      new import_obsidian5.Setting(containerEl).setName("Link format").setDesc("The format of the generated links.").addDropdown((dropdown) => dropdown.addOption("shortest", "Shortest").addOption("relative", "Relative").addOption("absolute", "Absolute").setValue(this.plugin.settings.linkFormat).onChange(async (value) => {
+      new import_obsidian5.Setting(containerEl).setName("链接格式").setDesc("生成链接的格式。").addDropdown((dropdown) => dropdown.addOption("shortest", "Shortest").addOption("relative", "Relative").addOption("absolute", "Absolute").setValue(this.plugin.settings.linkFormat).onChange(async (value) => {
         await this.plugin.updateSettings({ linkFormat: value });
       }));
     }

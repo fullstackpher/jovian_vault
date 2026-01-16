@@ -1,5 +1,5 @@
 {
-  "countMethod": "unique-days-opened",
+  "countMethod": "total-times-opened",
   "skipNewNotes": false,
   "syncToFrontmatter": false,
   "propertyName": "view-count",

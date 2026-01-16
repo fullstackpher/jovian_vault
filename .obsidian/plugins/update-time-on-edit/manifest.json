@@ -1,10 +1,10 @@
 {
-	"id": "update-time-on-edit",
-	"name": "Update time on edit",
-	"version": "2.4.0",
-	"minAppVersion": "1.4.4",
-	"description": "Keep front matter in sync with the last edit time",
-	"author": "@beaussan",
-	"authorUrl": "https://github.com/beaussan",
-	"isDesktopOnly": false
+    "id": "update-time-on-edit",
+    "name": "Update time on edit",
+    "version": "2.4.0",
+    "minAppVersion": "1.4.4",
+    "description": "保持封面与上次编辑时间同步，将 mtime（最后修改时间）同步到属性键中（默认为 updated） 将 ctime（文件创建时间）同步到属性键中（默认为 created）",
+    "author": "@beaussan",
+    "authorUrl": "https://github.com/beaussan",
+    "isDesktopOnly": false
 }

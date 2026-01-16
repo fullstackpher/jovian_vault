@@ -3,7 +3,7 @@
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 41,
+      "totalTimesOpened": 46,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -127,33 +127,60 @@
         },
         {
           "timestampMillis": 1768482861387
+        },
+        {
+          "timestampMillis": 1768483142887
+        },
+        {
+          "timestampMillis": 1768483351591
+        },
+        {
+          "timestampMillis": 1768483352393
+        },
+        {
+          "timestampMillis": 1768483353184
+        },
+        {
+          "timestampMillis": 1768483354053
         }
       ]
     },
     {
       "path": "1-Projects/01-学习Java/学习JavaEE.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768478527335
+        },
+        {
+          "timestampMillis": 1768483298513
+        },
+        {
+          "timestampMillis": 1768483300177
         }
       ]
     },
     {
       "path": "1-Projects/01-学习Java/学习JavaSE.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768478597879
+        },
+        {
+          "timestampMillis": 1768483299570
+        },
+        {
+          "timestampMillis": 1768483301426
         }
       ]
     },
     {
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -172,6 +199,24 @@
         },
         {
           "timestampMillis": 1768481240542
+        },
+        {
+          "timestampMillis": 1768483315473
+        },
+        {
+          "timestampMillis": 1768483351959
+        },
+        {
+          "timestampMillis": 1768483352685
+        },
+        {
+          "timestampMillis": 1768483353543
+        },
+        {
+          "timestampMillis": 1768483354436
+        },
+        {
+          "timestampMillis": 1768538497542
         }
       ]
     },
@@ -213,13 +258,16 @@
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
         },
         {
           "timestampMillis": 1768481221311
+        },
+        {
+          "timestampMillis": 1768483295417
         }
       ]
     },
@@ -300,6 +348,26 @@
         },
         {
           "timestampMillis": 1768480804824
+        }
+      ]
+    },
+    {
+      "path": "1-Projects/01-学习Java/学习Spring全家桶.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768483286082
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/未命名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768538500726
         }
       ]
     }
