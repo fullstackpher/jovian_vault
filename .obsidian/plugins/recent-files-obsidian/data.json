@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "项目看板",
+      "path": "1-Projects/项目看板.md"
+    },
+    {
+      "basename": "学习HTML5",
+      "path": "1-Projects/03-学习前端/学习HTML5.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "1-Projects/01-学习Java/学习JavaSE.md"
+    },
+    {
       "basename": "2026-01-16",
       "path": "0_Daily Notes/2026-01-16.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "markdown使用指南",
       "path": "2-Areas/Knowledge Management/markdown使用指南.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1-Projects/01-学习Java/学习JavaSE.md"
     },
     {
       "basename": "学习JavaEE",
@@ -55,10 +63,6 @@
     {
       "basename": "obsidian图床测试",
       "path": "2-Areas/Knowledge Management/obsidian图床测试.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1-Projects/项目看板.md"
     },
     {
       "basename": "项目模版",

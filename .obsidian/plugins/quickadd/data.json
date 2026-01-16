@@ -42,7 +42,8 @@
         "enabled": true,
         "folders": [
           "1-Projects/01-学习Java",
-          "1-Projects/02-知识管理"
+          "1-Projects/02-知识管理",
+          "1-Projects/03-学习HTML"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
