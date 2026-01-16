@@ -210,14 +210,16 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 2
+        "line": 10,
+        "ch": 33
       },
       "to": {
-        "line": 18,
-        "ch": 2
+        "line": 10,
+        "ch": 33
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
