@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T13:24
+更新时间: 2026-01-17T13:32
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -160,5 +160,42 @@ p {
 - 复杂选择器可以通过（id的个数，class的个数，标签的个数）的形式，计算权重
 
 ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box #box2 p {
+            color: red; /* 2 0 1 */
+        }
 
+
+        #box1 div.box2 #box3 p {
+            color: green; /* 2 1 2 */
+        }
+
+
+        .box1 .box2 .box3 p {
+            color: blue; /* 0 3 1 */
+        }
+    </style>
+</head>
+<body>
+    <div id="box1" class="box1">
+        <div id="box2" class="box2">
+            <div id="box3" class="box3">
+                <p>我是段落</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
+```
+
+### !important提升权重
+- 如果我们需要将某个选择器的某条属性提升权重，可以在属性后面写`!important`
+```css
+.spec { color: blue !important;}
 ```
