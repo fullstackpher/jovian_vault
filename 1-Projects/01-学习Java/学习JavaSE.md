@@ -9,8 +9,6 @@
 tags:
   - 项目
   - "#技术栈"
-total: "100"
-current: "0"
 ---
 > [!quote] 项目描述
 
