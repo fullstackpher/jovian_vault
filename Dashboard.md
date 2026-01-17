@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T18:52
+更新时间: 2026-01-17T18:59
 ---
 ## 📊 学习进度仪表板
 
@@ -14,15 +14,21 @@ if (pages.length === 0) {
     dv.table(
         ["技术栈", "进度", "完成率"],
         pages.map(page => {
-            // 修正后的正则表达式
-            const content = page.file.content || "";
+            // 获取页面内容
+            const content = page.file.content;
+            if (!content) {
+                return [page.file.link, "无内容", "0% (0/0)"];
+            }
+            
+            // 修正正则表达式，匹配任务列表
             const taskRegex = /^- \[( |x|X|\/)\].*$/gm;
             const allTasks = content.match(taskRegex) || [];
             
-            // 统计完成的任务
-            const completedTasks = allTasks.filter(task => 
-                /^- \[(x|X|\/)\]/.test(task.trim())
-            ).length;
+            // 计算完成的任务数量
+            const completedTasks = allTasks.filter(task => {
+                // 检查任务标记是否为非空格（即已完成或进行中）
+                return !task.match(/^- \[ \]/);
+            }).length;
             
             const totalTasks = allTasks.length;
             const progressPercent = totalTasks > 0 ? 
