@@ -380,7 +380,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 23,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -450,6 +450,12 @@
         },
         {
           "timestampMillis": 1768646654715
+        },
+        {
+          "timestampMillis": 1768646877527
+        },
+        {
+          "timestampMillis": 1768646905559
         }
       ]
     },
@@ -500,7 +506,7 @@
     {
       "path": "1-Projects/03-学习前端/学习HTML.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1768538740239
@@ -552,6 +558,12 @@
         },
         {
           "timestampMillis": 1768645749048
+        },
+        {
+          "timestampMillis": 1768646877876
+        },
+        {
+          "timestampMillis": 1768646904506
         }
       ]
     },
