@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T19:14
+更新时间: 2026-01-17T19:30
 ---
 ## 📊 学习进度仪表板
 
@@ -54,7 +54,7 @@ SORT deadline
 ```dataview
 TABLE sum(time) as "总时长"
 FROM #日报
-WHERE date >= date(now) - dur(7 days)
+WHERE date >= date(now) - dur(7 days) and !contains(file.path, "_Templates") 
 ```
 
 ### 待解决问题

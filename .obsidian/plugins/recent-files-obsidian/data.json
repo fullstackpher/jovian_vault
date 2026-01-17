@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "技术概念卡片",
       "path": "_Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "学习CSS",
