@@ -1301,7 +1301,7 @@
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1347,6 +1347,9 @@
         },
         {
           "timestampMillis": 1768651978526
+        },
+        {
+          "timestampMillis": 1768652053638
         }
       ]
     },
