@@ -5,12 +5,12 @@
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "学习HTML",
       "path": "1-Projects/03-学习前端/学习HTML.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "CSS基础概念",
