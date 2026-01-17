@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS基础概念",
+      "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
+    },
+    {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "现代 CSS 新特性",
       "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
     },
     {
       "basename": "HTML标签",
