@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T13:59
+更新时间: 2026-01-17T14:03
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -319,7 +319,8 @@ ul.custom-list li::before {
     
     - 伪元素与普通元素具有相同的优先级权重
 
-- [官方资料](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)
+- [伪类参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-classes)
+- [伪元素参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-elements)
 
 ## 层叠、继承与值计算
 css全名叫做 “层叠式样式表”，层叠性是他很重要的性质
