@@ -515,15 +515,57 @@
     "expandedKeys": []
   },
   "Dashboard.md": {
-    "scroll": 46.65781558514526,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 13
+        "line": 56,
+        "ch": 37
       },
       "to": {
-        "line": 4,
-        "ch": 13
+        "line": 56,
+        "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/项目模版.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_Templates/日报模版.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 8
+      },
+      "to": {
+        "line": 18,
+        "ch": 8
       }
     },
     "expandedKeys": []

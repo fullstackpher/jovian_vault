@@ -380,7 +380,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 34,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -483,6 +483,9 @@
         },
         {
           "timestampMillis": 1768648322374
+        },
+        {
+          "timestampMillis": 1768648790710
         }
       ]
     },
@@ -955,61 +958,88 @@
     },
     {
       "path": "_Templates/项目开发记录.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768555992674
+        },
+        {
+          "timestampMillis": 1768648970988
+        },
+        {
+          "timestampMillis": 1768648974490
+        },
+        {
+          "timestampMillis": 1768648983808
         }
       ]
     },
     {
       "path": "_Templates/问题解决方案.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768555996455
+        },
+        {
+          "timestampMillis": 1768648969385
+        },
+        {
+          "timestampMillis": 1768648979497
         }
       ]
     },
     {
       "path": "_Templates/实用代码片段.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768556002100
+        },
+        {
+          "timestampMillis": 1768648968266
         }
       ]
     },
     {
       "path": "_Templates/面试题八股文.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768556014740
+        },
+        {
+          "timestampMillis": 1768648966790
         }
       ]
     },
     {
       "path": "_Templates/每日笔记.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
+        },
+        {
+          "timestampMillis": 1768648959479
         }
       ]
     },
     {
       "path": "_Templates/技术概念卡片.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768556030530
+        },
+        {
+          "timestampMillis": 1768648957260
         }
       ]
     },
@@ -1152,6 +1182,32 @@
         },
         {
           "timestampMillis": 1768644089032
+        }
+      ]
+    },
+    {
+      "path": "_Templates/项目模版.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768648972944
+        },
+        {
+          "timestampMillis": 1768648988962
+        }
+      ]
+    },
+    {
+      "path": "_Templates/日报模版.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768649138880
+        },
+        {
+          "timestampMillis": 1768649286777
         }
       ]
     }

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "_Templates/项目模版.md"
+    },
+    {
+      "basename": "项目开发记录",
+      "path": "_Templates/项目开发记录.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "_Templates/问题解决方案.md"
+    },
+    {
+      "basename": "实用代码片段",
+      "path": "_Templates/实用代码片段.md"
+    },
+    {
+      "basename": "面试题八股文",
+      "path": "_Templates/面试题八股文.md"
+    },
+    {
+      "basename": "每日笔记",
+      "path": "_Templates/每日笔记.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "_Templates/技术概念卡片.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -73,30 +105,6 @@
       "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
     },
     {
-      "basename": "技术概念卡片",
-      "path": "_Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "每日笔记",
-      "path": "_Templates/每日笔记.md"
-    },
-    {
-      "basename": "面试题八股文",
-      "path": "_Templates/面试题八股文.md"
-    },
-    {
-      "basename": "实用代码片段",
-      "path": "_Templates/实用代码片段.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "项目开发记录",
-      "path": "_Templates/项目开发记录.md"
-    },
-    {
       "basename": "卡片笔记法",
       "path": "2-Areas/Knowledge Management/卡片笔记法.md"
     },
@@ -131,10 +139,6 @@
     {
       "basename": "obsidian图床测试",
       "path": "2-Areas/Knowledge Management/obsidian图床测试.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "_Templates/项目模版.md"
     }
   ],
   "omittedPaths": [],
