@@ -487,7 +487,7 @@
     ]
   },
   "2-Areas/Frontend/CSS/CSS布局系统.md": {
-    "scroll": 0,
+    "scroll": 2.5316455696202533,
     "cursor": {
       "from": {
         "line": 19,
@@ -515,15 +515,15 @@
     "expandedKeys": []
   },
   "Dashboard.md": {
-    "scroll": 0,
+    "scroll": 28.029797247883945,
     "cursor": {
       "from": {
-        "line": 54,
-        "ch": 24
+        "line": 52,
+        "ch": 12
       },
       "to": {
-        "line": 54,
-        "ch": 24
+        "line": 52,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -566,6 +566,34 @@
       "to": {
         "line": 13,
         "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "2026-01-17 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-17 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 39,
+        "ch": 9
+      },
+      "to": {
+        "line": 39,
+        "ch": 9
       }
     },
     "expandedKeys": []

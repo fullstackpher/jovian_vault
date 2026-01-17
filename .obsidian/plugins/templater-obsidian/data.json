@@ -25,6 +25,10 @@
     {
       "folder": "2-Areas",
       "template": "_Templates/技术概念卡片.md"
+    },
+    {
+      "folder": "",
+      "template": "_Templates/日报模版.md"
     }
   ],
   "enable_file_templates": false,

@@ -5,6 +5,14 @@
       "path": "Dashboard.md"
     },
     {
+      "basename": "2026-01-17 学习日报",
+      "path": "0_Daily Notes/2026-01-17 学习日报.md"
+    },
+    {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "项目看板",
       "path": "1-Projects/项目看板.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
       "basename": "HTML标签",
