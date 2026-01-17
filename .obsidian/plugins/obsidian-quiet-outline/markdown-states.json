@@ -557,15 +557,15 @@
     "expandedKeys": []
   },
   "_Templates/日报模版.md": {
-    "scroll": 12.004861111111111,
+    "scroll": 127.57589612688336,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 8
+        "line": 144,
+        "ch": 3
       },
       "to": {
-        "line": 25,
-        "ch": 8
+        "line": 144,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -585,15 +585,15 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-17 学习日报.md": {
-    "scroll": 57.339160625751205,
+    "scroll": 66.38927706204927,
     "cursor": {
       "from": {
-        "line": 72,
-        "ch": 30
+        "line": 147,
+        "ch": 0
       },
       "to": {
-        "line": 72,
-        "ch": 30
+        "line": 147,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -664,6 +664,34 @@
       "to": {
         "line": 29,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-8 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-18 学习日报.md": {
+    "scroll": 57.514756520589195,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 6
+      },
+      "to": {
+        "line": 62,
+        "ch": 6
       }
     },
     "expandedKeys": []
