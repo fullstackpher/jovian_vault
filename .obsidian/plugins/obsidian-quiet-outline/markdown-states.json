@@ -3,12 +3,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 55,
-        "ch": 0
+        "line": 46,
+        "ch": 20
       },
       "to": {
-        "line": 55,
-        "ch": 0
+        "line": 46,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -488,6 +488,20 @@
       },
       "to": {
         "line": 19,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-17.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 3
+      },
+      "to": {
+        "line": 41,
         "ch": 3
       }
     },

@@ -44,6 +44,7 @@ limit 100
 - [x] 学习obsidian标签功能 ✅ 2026-01-15
 - [ ] 学习obsidian插件
 - [ ] 学习obsidian的数据库Bases
+- [ ] 学习excalidraw插件
 
 
   

@@ -263,8 +263,8 @@
     },
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -274,6 +274,9 @@
         },
         {
           "timestampMillis": 1768483295417
+        },
+        {
+          "timestampMillis": 1768643765052
         }
       ]
     },
@@ -426,7 +429,7 @@
     {
       "path": "1-Projects/项目看板.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -445,6 +448,9 @@
         },
         {
           "timestampMillis": 1768624047138
+        },
+        {
+          "timestampMillis": 1768643745019
         }
       ]
     },
@@ -911,6 +917,19 @@
         },
         {
           "timestampMillis": 1768638216519
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-17.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768643666886
+        },
+        {
+          "timestampMillis": 1768643831902
         }
       ]
     }
