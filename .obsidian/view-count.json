@@ -303,7 +303,7 @@
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -346,6 +346,12 @@
         },
         {
           "timestampMillis": 1768652422659
+        },
+        {
+          "timestampMillis": 1768653280473
+        },
+        {
+          "timestampMillis": 1768653321258
         }
       ]
     },
@@ -693,7 +699,7 @@
     {
       "path": "1-Projects/项目看板.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -721,6 +727,9 @@
         },
         {
           "timestampMillis": 1768652221165
+        },
+        {
+          "timestampMillis": 1768653277668
         }
       ]
     },
@@ -1228,7 +1237,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1283,6 +1292,9 @@
         },
         {
           "timestampMillis": 1768652421378
+        },
+        {
+          "timestampMillis": 1768653341535
         }
       ]
     },
@@ -1327,7 +1339,7 @@
     {
       "path": "_Templates/日报模版.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -1343,13 +1355,16 @@
         },
         {
           "timestampMillis": 1768652708315
+        },
+        {
+          "timestampMillis": 1768653302500
         }
       ]
     },
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1410,6 +1425,9 @@
         },
         {
           "timestampMillis": 1768652769732
+        },
+        {
+          "timestampMillis": 1768653284129
         }
       ]
     },
