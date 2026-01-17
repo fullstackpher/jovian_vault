@@ -611,5 +611,47 @@
       }
     },
     "expandedKeys": []
+  },
+  "IDEA/Obsidian知识图谱.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 14
+      },
+      "to": {
+        "line": 29,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 2
+      },
+      "to": {
+        "line": 10,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/obsidian excalidraw插件.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
