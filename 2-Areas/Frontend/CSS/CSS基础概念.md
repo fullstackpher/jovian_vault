@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T14:03
+更新时间: 2026-01-17T14:16
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -33,6 +33,8 @@ tags:
 ```
 
 > [!tip]-  最大的特点就是引入外面的css文件，级别最低
+
+---
 
 ## 基本选择器
 ### 全选符 *
@@ -74,6 +76,12 @@ span{backgroud: red;}
 ### 总结：
 > [!tip]- id选择器 > 类选择器 > 标签选择器 > 全选符
 
+---
+
+## 属性选择器
+
+
+---
 
 ## 关系选择器
 ### 后代选择器（以空格分隔）
@@ -116,6 +124,8 @@ li.spec {color: red;}
 ul, ol {color: blue;}
 ```
 
+---
+
 ## 伪类选择器
 css伪类是用来添加一些选择器的特殊效果
 ### 超链接的伪类
@@ -125,6 +135,8 @@ a:visited {color: #00FF00;} /* 已访问的链接 */
 a:hover {color: #FF00FF;} /* 鼠标划过链接 */
 a:active {color: #0000FF;} /* 已选中的链接 */ 
 ```
+
+---
 
 ## 伪元素
 伪元素是css的一种特殊选择器，用于选择元素的特定部分而不是整个元素。
@@ -322,6 +334,8 @@ ul.custom-list li::before {
 - [伪类参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-classes)
 - [伪元素参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-elements)
 
+---
+
 ## 层叠、继承与值计算
 css全名叫做 “层叠式样式表”，层叠性是他很重要的性质
 层叠性：多个选择器可以同时作用于同一个标签，效果叠加
@@ -391,5 +405,7 @@ p {
 ```
 
 > [!danger]- 很多公司不允许使用!important，因为会带来不经意的样式冲突
+
+---
 
 ## 盒子模型
