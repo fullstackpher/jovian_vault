@@ -560,12 +560,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 30,
-        "ch": 0
+        "line": 39,
+        "ch": 9
       },
       "to": {
-        "line": 30,
-        "ch": 0
+        "line": 39,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -585,14 +585,14 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-17 学习日报.md": {
-    "scroll": 19.223232729536964,
+    "scroll": 50.22480557069606,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 21,
         "ch": 8
       },
       "to": {
-        "line": 24,
+        "line": 21,
         "ch": 8
       }
     },
