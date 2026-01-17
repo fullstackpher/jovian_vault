@@ -27,8 +27,8 @@
       "template": "_Templates/技术概念卡片.md"
     },
     {
-      "folder": "",
-      "template": "_Templates/日报模版.md"
+      "folder": "IDEA",
+      "template": "_Templates/闪念笔记模板.md"
     }
   ],
   "enable_file_templates": false,

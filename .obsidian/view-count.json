@@ -1325,6 +1325,16 @@
           "timestampMillis": 1768650764164
         }
       ]
+    },
+    {
+      "path": "_Templates/闪念笔记模板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768651043593
+        }
+      ]
     }
   ]
 }

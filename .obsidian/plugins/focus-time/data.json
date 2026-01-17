@@ -261,8 +261,14 @@
     "0_Daily Notes/2026-01-17 学习日报.md": {
       "fileId": "1768649729044",
       "filePath": "0_Daily Notes/2026-01-17 学习日报.md",
-      "duration": 744000,
-      "openCount": 12
+      "duration": 768000,
+      "openCount": 13
+    },
+    "_Templates/闪念笔记模板.md": {
+      "fileId": "1768651055048",
+      "filePath": "_Templates/闪念笔记模板.md",
+      "duration": 72000,
+      "openCount": 1
     }
   }
 }
