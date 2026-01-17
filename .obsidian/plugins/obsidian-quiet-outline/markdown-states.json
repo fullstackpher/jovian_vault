@@ -483,12 +483,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 2
+        "line": 19,
+        "ch": 3
       },
       "to": {
-        "line": 11,
-        "ch": 2
+        "line": 19,
+        "ch": 3
       }
     },
     "expandedKeys": []
