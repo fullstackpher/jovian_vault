@@ -450,8 +450,8 @@
     },
     {
       "path": "2-Areas/Frontend/HTML/HTML标签.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 40,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 41,
       "openLogs": [
         {
           "timestampMillis": 1768540015111
@@ -572,6 +572,9 @@
         },
         {
           "timestampMillis": 1768556372513
+        },
+        {
+          "timestampMillis": 1768637131688
         }
       ]
     },
@@ -588,7 +591,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 46,
+      "totalTimesOpened": 48,
       "openLogs": [
         {
           "timestampMillis": 1768554504943
@@ -727,6 +730,12 @@
         },
         {
           "timestampMillis": 1768636688910
+        },
+        {
+          "timestampMillis": 1768636951246
+        },
+        {
+          "timestampMillis": 1768637185307
         }
       ]
     },
