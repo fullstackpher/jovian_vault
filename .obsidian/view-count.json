@@ -390,9 +390,9 @@
       ]
     },
     {
-      "path": "1-Projects/03-学习前端/学习HTML5.md",
+      "path": "1-Projects/03-学习前端/学习HTML.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768538740239
@@ -408,19 +408,37 @@
         },
         {
           "timestampMillis": 1768547021385
+        },
+        {
+          "timestampMillis": 1768559198360
+        },
+        {
+          "timestampMillis": 1768559447958
         }
       ]
     },
     {
       "path": "1-Projects/项目看板.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
         },
         {
           "timestampMillis": 1768538959433
+        },
+        {
+          "timestampMillis": 1768559188948
+        },
+        {
+          "timestampMillis": 1768559261979
+        },
+        {
+          "timestampMillis": 1768559471033
+        },
+        {
+          "timestampMillis": 1768624047138
         }
       ]
     },
@@ -562,7 +580,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS基础概念.md",
+      "path": "2-Areas/Frontend/CSS/CSS基础概念.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -590,7 +608,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS布局系统.md",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -666,7 +684,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS视觉与表现.md",
+      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -679,7 +697,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS响应式设计.md",
+      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -695,7 +713,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS高级特性.md",
+      "path": "2-Areas/Frontend/CSS/CSS高级特性.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -708,7 +726,7 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/CSS工程化.md",
+      "path": "2-Areas/Frontend/CSS/CSS工程化.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -724,12 +742,31 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/HTML/现代 CSS 新特性.md",
+      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768556313749
+        },
+        {
+          "timestampMillis": 1768559325123
+        },
+        {
+          "timestampMillis": 1768559334695
+        }
+      ]
+    },
+    {
+      "path": "1-Projects/03-学习前端/学习CSS.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768559266453
+        },
+        {
+          "timestampMillis": 1768559341711
         }
       ]
     }
