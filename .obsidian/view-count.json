@@ -413,7 +413,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 51,
+      "totalTimesOpened": 52,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -567,6 +567,9 @@
         },
         {
           "timestampMillis": 1768653733584
+        },
+        {
+          "timestampMillis": 1768653825082
         }
       ]
     },
@@ -705,7 +708,7 @@
     {
       "path": "1-Projects/项目看板.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -739,6 +742,9 @@
         },
         {
           "timestampMillis": 1768653666498
+        },
+        {
+          "timestampMillis": 1768653769900
         }
       ]
     },
@@ -1382,7 +1388,7 @@
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1455,6 +1461,9 @@
         },
         {
           "timestampMillis": 1768653516978
+        },
+        {
+          "timestampMillis": 1768653772911
         }
       ]
     },
