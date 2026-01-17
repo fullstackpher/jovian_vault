@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "CSS高级特性",
       "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
       "basename": "技术概念卡片",
