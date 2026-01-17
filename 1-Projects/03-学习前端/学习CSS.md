@@ -9,7 +9,7 @@
 tags:
   - 项目
   - "#技术栈"
-progress:
+progress: 1/7
 ---
 > [!quote] 项目描述
 

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
+      "basename": "学习Obsidian",
+      "path": "1-Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "学习Spring全家桶",
+      "path": "1-Projects/01-学习Java/学习Spring全家桶.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "1-Projects/01-学习Java/学习JavaSE.md"
+    },
+    {
+      "basename": "学习JavaEE",
+      "path": "1-Projects/01-学习Java/学习JavaEE.md"
     },
     {
       "basename": "学习HTML",
       "path": "1-Projects/03-学习前端/学习HTML.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "Dashboard",
@@ -15,10 +31,6 @@
     {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1-Projects/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "2026-01-17",
@@ -89,24 +101,12 @@
       "path": "2-Areas/Knowledge Management/markdown使用指南.md"
     },
     {
-      "basename": "学习JavaSE",
-      "path": "1-Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
       "basename": "2026-01-16",
       "path": "0_Daily Notes/2026-01-16.md"
     },
     {
       "basename": "obsidian标签功能",
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1-Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "学习Spring全家桶",
-      "path": "1-Projects/01-学习Java/学习Spring全家桶.md"
     },
     {
       "basename": "obsidian双链功能",
