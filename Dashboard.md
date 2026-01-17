@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T19:04
+更新时间: 2026-01-17T19:07
 ---
 ## 📊 学习进度仪表板
 
@@ -11,36 +11,43 @@ const pages = dv.pages('#技术栈');
 if (pages.length === 0) {
     dv.paragraph("⚠️ 未找到带有 #技术栈 标签的笔记");
 } else {
-    dv.table(
-        ["技术栈", "进度", "完成率"],
-        pages.map(page => {
-            const content = page.file.content || "";
-            
-            // 通用正则：匹配任何以 - 或 * 开头，后面有 [ ]、[x]、[X]、[/] 的行
-            // 允许前面有空格（支持嵌套），允许标记和描述间有0或多个空格
-            const taskRegex = /^\s*[-*]\s*\[( |x|X|\/)\]\s*.*$/gmi;
-            const allTasks = content.match(taskRegex) || [];
-            
-            // 统计完成的任务：包含 [x]、[X]、[/]
-            const completedTasks = allTasks.filter(task => 
-                /\[(x|X|\/)\]/.test(task)
-            ).length;
-            
-            const totalTasks = allTasks.length;
-            const progressPercent = totalTasks > 0 ? 
-                Math.round((completedTasks / totalTasks) * 100) : 0;
-            
-            // 创建进度条
-            const progressBar = `<progress max="100" value="${progressPercent}" 
-                style="width: 150px; height: 20px;"></progress>`;
-            
-            return [
-                page.file.link,
-                progressBar,
-                `${progressPercent}% (${completedTasks}/${totalTasks})`
-            ];
-        })
-    );
+    // 方法1：逐行分析
+    pages.forEach(page => {
+        dv.header(3, `分析: ${page.file.name}`);
+        
+        const content = page.file.content || "";
+        const lines = content.split('\n');
+        
+        // 查找所有包含方括号的行
+        const bracketLines = lines.filter(line => 
+            line.includes('[') && line.includes(']')
+        );
+        
+        dv.paragraph(`找到 ${bracketLines.length} 个可能包含任务的行`);
+        
+        // 显示这些行
+        bracketLines.forEach((line, i) => {
+            dv.paragraph(`${i+1}. ${line.substring(0, 100)}`);
+        });
+        
+        // 方法2：尝试不同正则表达式
+        const patterns = [
+            /\[( |x|X|\/)\]/g,  // 最简单的：包含[ ]、[x]、[X]、[/]
+            /-\s*\[( |x|X|\/)\]/g,  // 以-开头
+            /\*\s*\[( |x|X|\/)\]/g,  // 以*开头
+            /\d+\.\s*\[( |x|X|\/)\]/g,  // 以数字开头
+        ];
+        
+        patterns.forEach((pattern, index) => {
+            const matches = content.match(pattern) || [];
+            dv.paragraph(`模式${index+1}匹配到 ${matches.length} 个`);
+            if (matches.length > 0) {
+                dv.paragraph(`示例: ${matches[0]}`);
+            }
+        });
+        
+        dv.el("hr", "");
+    });
 }
 ```
 
