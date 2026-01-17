@@ -3,12 +3,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 46,
-        "ch": 20
+        "line": 64,
+        "ch": 0
       },
       "to": {
-        "line": 46,
-        "ch": 20
+        "line": 64,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -494,7 +494,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-17.md": {
-    "scroll": 0.20752269284734468,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 33,
@@ -506,5 +506,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "Dashboard.md": {
+    "scroll": 13.231497746205752,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 37
+      },
+      "to": {
+        "line": 23,
+        "ch": 37
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
   }
 }
