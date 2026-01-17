@@ -1332,32 +1332,16 @@
     {
       "path": "_Templates/闪念笔记模板.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768651043593
         },
         {
           "timestampMillis": 1768651593545
-        }
-      ]
-    },
-    {
-      "path": "IDEA/Obsidian知识图谱.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1768651218539
         },
         {
-          "timestampMillis": 1768651523069
-        },
-        {
-          "timestampMillis": 1768651572923
-        },
-        {
-          "timestampMillis": 1768651609095
+          "timestampMillis": 1768651661001
         }
       ]
     },
@@ -1377,7 +1361,7 @@
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1768651647171
+          "timestampMillis": 1768651713935
         }
       ]
     }
