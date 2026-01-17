@@ -353,7 +353,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -375,6 +375,9 @@
         },
         {
           "timestampMillis": 1768644304091
+        },
+        {
+          "timestampMillis": 1768644575707
         }
       ]
     },
@@ -615,7 +618,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 48,
+      "totalTimesOpened": 49,
       "openLogs": [
         {
           "timestampMillis": 1768554504943
@@ -760,6 +763,9 @@
         },
         {
           "timestampMillis": 1768637185307
+        },
+        {
+          "timestampMillis": 1768644495824
         }
       ]
     },
@@ -922,7 +928,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -935,6 +941,9 @@
         },
         {
           "timestampMillis": 1768638216519
+        },
+        {
+          "timestampMillis": 1768644536392
         }
       ]
     },

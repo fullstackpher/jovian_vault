@@ -438,14 +438,14 @@
     "expandedKeys": []
   },
   "1-Projects/03-学习前端/学习CSS.md": {
-    "scroll": 39.494497342574974,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 55,
+        "line": 56,
         "ch": 0
       },
       "to": {
-        "line": 55,
+        "line": 56,
         "ch": 0
       }
     },
@@ -466,7 +466,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/CSS基础概念.md": {
-    "scroll": 338.088973681132,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 1129,
@@ -477,7 +477,14 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-32",
+      "item-2-21",
+      "item-1-0",
+      "item-3-29",
+      "item-2-12",
+      "item-2-1"
+    ]
   },
   "2-Areas/Frontend/CSS/CSS布局系统.md": {
     "scroll": 0,
@@ -508,15 +515,15 @@
     "expandedKeys": []
   },
   "Dashboard.md": {
-    "scroll": 13.231497746205752,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 37
+        "line": 15,
+        "ch": 41
       },
       "to": {
-        "line": 23,
-        "ch": 37
+        "line": 15,
+        "ch": 41
       }
     },
     "expandedKeys": [
