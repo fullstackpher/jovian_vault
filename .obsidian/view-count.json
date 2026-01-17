@@ -588,7 +588,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 39,
+      "totalTimesOpened": 40,
       "openLogs": [
         {
           "timestampMillis": 1768554504943
@@ -706,6 +706,9 @@
         },
         {
           "timestampMillis": 1768636143471
+        },
+        {
+          "timestampMillis": 1768636290082
         }
       ]
     },

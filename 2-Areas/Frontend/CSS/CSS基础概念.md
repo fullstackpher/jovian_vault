@@ -786,7 +786,7 @@ margin: 15px;
 4. **行内元素**：行内元素的上下margin不会生效，左右margin正常生效
 
 5. **外边距穿透**：子元素的margin-top可能会穿透父元素（可通过父元素设置border、padding或overflow解决）
-6. 一些元素（比如body、ul、p等）都有默认的margin，在开始编码前要将它们清除掉
+6. 一些元素（比如body、ul、p等）都有默认的margin，在开始编码时要将它们清除掉
 
 ##### 7. 与padding的区别
 | 特性 | margin | padding |
