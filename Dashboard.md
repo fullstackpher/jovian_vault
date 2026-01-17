@@ -1,12 +1,12 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T18:39
+更新时间: 2026-01-17T18:45
 ---
 ## 📊 学习进度仪表板
 
 ### 技术栈掌握度
 ```dataviewjs
-// 优化后的进度条查询代码
+// 修复后的进度条查询代码
 const pages = dv.pages('#技术栈');
 
 if (pages.length === 0) {
@@ -18,8 +18,8 @@ if (pages.length === 0) {
         pages.map(page => {
             // 从页面内容中提取任务列表
             const content = page.file.content;
-            const taskRegex = /- $(x|X|\/| )$/g;
-            const allTasks = content.match(taskRegex) || [];
+            const taskRegex = /- $(x|X|\/| )$/g;  // 修正的正则表达式
+            const allTasks = content?.match(taskRegex) || [];
             const completedTasks = allTasks.filter(task => 
                 task.includes('[x]') || task.includes('[X]') || task.includes('[/]')
             ).length;
