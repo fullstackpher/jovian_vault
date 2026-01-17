@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T12:48
+更新时间: 2026-01-17T13:08
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -114,6 +114,7 @@ a:hover {color: #FF00FF;} /* 鼠标划过链接 */
 a:active {color: #0000FF;} /* 已选中的链接 */ 
 ```
 
+- [官方资料](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)
 
 ## 盒子模型
 
