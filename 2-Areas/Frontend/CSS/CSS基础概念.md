@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T13:37
+更新时间: 2026-01-17T13:46
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -126,7 +126,77 @@ a:hover {color: #FF00FF;} /* 鼠标划过链接 */
 a:active {color: #0000FF;} /* 已选中的链接 */ 
 ```
 
-### 伪元素
+## 伪元素
+伪元素是css的一种特殊选择器，用于选择元素的特定部分而不是整个元素。
+它们允许你为元素的特点部分添加样式，而无需修改HTML
+
+> [!tip]- CSS3 规范使用双冒号 `::`（推荐），但单冒号 `:` 也被支持以保持向后兼容。
+
+### ::before
+作用：在元素内容之前插入生成的内容
+```css
+.element::before {
+    content: "前缀：";
+    color: red;
+}
+```
+
+### ::after
+作用：在元素内容之后插入生成的内容
+```css
+.element::after {
+    content: "（后缀）";
+    font-style: italic;
+}
+```
+
+### ::first-letter
+作用：选择元素的第一个字母
+```css
+p::first-letter {
+    font-size: 200%;
+    color: blue;
+    float: left;
+    margin-right: 5px;
+}
+```
+
+### ::first-line
+作用：选择元素的第一行
+```css
+p::first-line {
+    font-weight: bold;
+    color: darkblue;
+}
+```
+
+### ::selection
+作用：选择用户选中的文本部分
+```css
+::selection {
+    background-color: yellow;
+    color: black;
+}
+```
+
+### ::placeholder
+作用：选择表单元素的占位文本
+```css
+input::placeholder {
+    color: #999;
+    font-style: italic;
+}
+```
+
+### ::marker
+作用：选择列表项的标记（项目符合或数字）
+```css
+li::marker {
+    color: red;
+    font-size: 1.2em;
+}
+```
+
 
 
 - [官方资料](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)
