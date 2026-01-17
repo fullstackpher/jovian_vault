@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T15:25
+更新时间: 2026-01-17T15:36
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -522,6 +522,25 @@ p {
 	- padding-bottom：下边距
 	- padding-left：左边距
 
+> padding的四数值写法
+
+- padding属性如果用四个数值则以空格隔开进行设置，分别表示==上、右、下、左==的padding
+- `padding: 10px 20px 30px 40px;`
+
+> padding的三数值写法
+
+- padding属性如果用三个数值则以空格隔开进行设置，分别表示==上、左右、下==的padding
+- `padding: 10px 20px 30px;`
+
+> padding的二数值写法
+
+- padding属性如果用两个数值则以空格隔开进行设置，分别表示==上下、左右==的padding
+- `padding: 10px 20px;`
+
+> 灵活设置padding属性
+
+- 如果不想单独设置上下或左右的padding，可以设置为0
+- `padding: 30px 0;`
 
 #### margin属性详解
 
