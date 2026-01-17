@@ -1285,7 +1285,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 22,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1352,6 +1352,9 @@
         },
         {
           "timestampMillis": 1768654854663
+        },
+        {
+          "timestampMillis": 1768655041943
         }
       ]
     },
@@ -1439,7 +1442,7 @@
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 33,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1539,6 +1542,12 @@
         },
         {
           "timestampMillis": 1768654861671
+        },
+        {
+          "timestampMillis": 1768655028843
+        },
+        {
+          "timestampMillis": 1768655082602
         }
       ]
     },
