@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T13:46
+更新时间: 2026-01-17T13:53
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -197,7 +197,127 @@ li::marker {
 }
 ```
 
+### 重要特点和用法
 
+#### 1. **content 属性**（用于 ::before 和 ::after）
+```css
+/* 插入文本 */
+.element::before {
+    content: "提示：";
+}
+
+/* 插入图标（使用 Unicode） */
+.element::after {
+    content: "❯";
+}
+
+/* 插入属性值 */
+a::after {
+    content: " (" attr(href) ")";
+}
+
+/* 空内容（用于装饰性元素） */
+.element::before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+```
+
+
+#### 2. **与伪类的组合使用**
+```css
+/* 鼠标悬停时显示 */
+button:hover::after {
+    content: "点击我！";
+    color: white;
+}
+
+/* 第一个段落的第一个字母 */
+p:first-child::first-letter {
+    font-size: 300%;
+}
+```
+
+---
+
+### 实际应用示例
+
+#### 示例 1：装饰性引号
+```css
+blockquote::before {
+    content: "“";
+    font-size: 3em;
+    color: gray;
+    vertical-align: -0.4em;
+}
+blockquote::after {
+    content: "”";
+    font-size: 3em;
+    color: gray;
+    vertical-align: -0.4em;
+}
+```
+
+#### 示例 2：自定义列表样式
+```css
+ul.custom-list li::before {
+    content: "✓";
+    color: green;
+    margin-right: 10px;
+    font-weight: bold;
+}
+```
+
+#### 示例 3：清除浮动
+```css
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+```
+
+#### 示例 4：Tooltip 提示
+```css
+.tooltip {
+    position: relative;
+}
+.tooltip:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background: black;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    top: 100%;
+    left: 0;
+    white-space: nowrap;
+}
+```
+
+### 注意事项
+1. **不是真正的 DOM 元素**：
+    
+    - 伪元素不会出现在 HTML 中
+        
+    - 不能通过 JavaScript 直接操作
+        
+    - 可以通过 `window.getComputedStyle()` 读取样式
+        
+2. **content 属性必需**：
+    
+    - `::before` 和 `::after` 必须设置 `content` 属性，即使为空字符串
+        
+3. **某些元素不支持**：
+    
+    - `<img>`、`<input>`、`<br>` 等替换元素和空元素通常不支持 `::before` 和 `::after`
+        
+4. **优先级**：
+    
+    - 伪元素与普通元素具有相同的优先级权重
 
 - [官方资料](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)
 
