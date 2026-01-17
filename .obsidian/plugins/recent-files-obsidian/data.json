@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-01-18 学习日报",
-      "path": "0_Daily Notes/2026-01-18 学习日报.md"
-    },
-    {
-      "basename": "2026-01-17 学习日报",
-      "path": "0_Daily Notes/2026-01-17 学习日报.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
+    },
+    {
+      "basename": "2026-01-17 学习日报",
+      "path": "0_Daily Notes/2026-01-17 学习日报.md"
     },
     {
       "basename": "项目模版",
@@ -19,10 +19,6 @@
     {
       "basename": "学习JavaSE",
       "path": "1-Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "学习Obsidian",
