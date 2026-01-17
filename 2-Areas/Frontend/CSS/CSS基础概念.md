@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T14:16
+更新时间: 2026-01-17T14:35
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -79,7 +79,81 @@ span{backgroud: red;}
 ---
 
 ## 属性选择器
+[`[attr]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr)
 
+表示带有以 _attr_ 命名的属性的元素。
+
+[`[attr=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue)
+
+表示带有以 _attr_ 命名的属性，且属性值为 _value_ 的元素。
+
+[`[attr~=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_2)
+
+表示带有以 _attr_ 命名的属性的元素，并且该属性是一个以空格作为分隔的值列表，其中至少有一个值为 _value_。
+
+[`[attr|=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_3)
+
+表示带有以 _attr_ 命名的属性的元素，属性值为“value”或是以“value-”为前缀（`-` 为连字符，Unicode 编码为 U+002D）开头。典型的应用场景是用来匹配语言简写代码（如 zh-CN、zh-TW 可以用 zh 作为 value）。
+
+[`[attr^=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_4)
+
+表示带有以 _attr_ 命名的属性，且属性值是以 _value_ 开头的元素。
+
+[`[attr$=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_5)
+
+表示带有以 _attr_ 命名的属性，且属性值是以 _value_ 结尾的元素。
+
+[`[attr*=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_6)
+
+表示带有以 _attr_ 命名的属性，且属性值至少包含一个 _value_ 值的元素。
+
+[`[attr operator value i]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr_operator_value_i)
+
+在属性选择器的右方括号前添加一个用空格隔开的字母 `i`（或 `I`），可以在匹配属性值时忽略大小写（支持 ASCII 字符范围之内的字母）。
+
+[`[attr operator value s]` 实验性](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr_operator_value_s)
+
+在属性选择器的右方括号前添加一个用空格隔开的字母 `s`（或 `S`），可以在匹配属性值时区分大小写（支持 ASCII 字符范围之内的字母）。
+
+示例：
+```css
+a {
+  color: blue;
+}
+
+/* 以 "#" 开头的页面内部链接 */
+a[href^="#"] {
+  background-color: gold;
+}
+
+/* 包含 "example" 的链接 */
+a[href*="example"] {
+  background-color: silver;
+}
+
+/* 包含 "insensitive" 的链接，不区分大小写 */
+a[href*="insensitive" i] {
+  color: cyan;
+}
+
+/* 包含 "cAsE" 的链接，区分大小写 */
+a[href*="cAsE" s] {
+  color: pink;
+}
+
+/* 以 ".org" 结尾的链接 */
+a[href$=".org"] {
+  color: red;
+}
+
+/* 以 "https" 开始，".org" 结尾的链接 */
+a[href^="https"][href$=".org"] {
+  color: green;
+}
+```
+
+
+[MDN参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors)
 
 ---
 
