@@ -515,19 +515,17 @@
     "expandedKeys": []
   },
   "Dashboard.md": {
-    "scroll": 8.741071337745304,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 68
+        "line": 4,
+        "ch": 13
       },
       "to": {
-        "line": 28,
-        "ch": 68
+        "line": 4,
+        "ch": 13
       }
     },
-    "expandedKeys": [
-      "item-2-0"
-    ]
+    "expandedKeys": []
   }
 }

@@ -380,7 +380,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -456,6 +456,21 @@
         },
         {
           "timestampMillis": 1768646905559
+        },
+        {
+          "timestampMillis": 1768646973286
+        },
+        {
+          "timestampMillis": 1768647017719
+        },
+        {
+          "timestampMillis": 1768647047778
+        },
+        {
+          "timestampMillis": 1768647101936
+        },
+        {
+          "timestampMillis": 1768647126295
         }
       ]
     },
@@ -1048,7 +1063,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1085,6 +1100,9 @@
         },
         {
           "timestampMillis": 1768645867263
+        },
+        {
+          "timestampMillis": 1768647050135
         }
       ]
     },

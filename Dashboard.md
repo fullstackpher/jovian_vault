@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T18:45
+更新时间: 2026-01-17T18:51
 ---
 ## 📊 学习进度仪表板
 
@@ -18,7 +18,7 @@ if (pages.length === 0) {
         pages.map(page => {
             // 从页面内容中提取任务列表
             const content = page.file.content;
-            const taskRegex = /- $(x|X|\/| )$/g;  // 修正的正则表达式
+            const taskRegex = /^- \[( |x|X|\/)\].*$/gm;
             const allTasks = content?.match(taskRegex) || [];
             const completedTasks = allTasks.filter(task => 
                 task.includes('[x]') || task.includes('[X]') || task.includes('[/]')
