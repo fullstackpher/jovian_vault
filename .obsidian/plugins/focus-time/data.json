@@ -267,20 +267,26 @@
     "_Templates/闪念笔记模板.md": {
       "fileId": "1768651055048",
       "filePath": "_Templates/闪念笔记模板.md",
-      "duration": 138000,
-      "openCount": 2
+      "duration": 156000,
+      "openCount": 3
     },
     "IDEA/Obsidian知识图谱.md": {
       "fileId": "1768651223047",
       "filePath": "IDEA/Obsidian知识图谱.md",
-      "duration": 186000,
-      "openCount": 3
+      "duration": 222000,
+      "openCount": 4
     },
     "2-Areas/Knowledge Management/obsidian excalidraw插件.md": {
       "fileId": "1768651397134",
       "filePath": "2-Areas/Knowledge Management/obsidian excalidraw插件.md",
       "duration": 114000,
       "openCount": 2
+    },
+    "IDEA/打造AI+第二大脑.md": {
+      "fileId": "1768651649061",
+      "filePath": "IDEA/打造AI+第二大脑.md",
+      "duration": 12000,
+      "openCount": 1
     }
   }
 }

@@ -1345,7 +1345,7 @@
     {
       "path": "IDEA/Obsidian知识图谱.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768651218539
@@ -1355,6 +1355,9 @@
         },
         {
           "timestampMillis": 1768651572923
+        },
+        {
+          "timestampMillis": 1768651609095
         }
       ]
     },
@@ -1365,6 +1368,16 @@
       "openLogs": [
         {
           "timestampMillis": 1768651377591
+        }
+      ]
+    },
+    {
+      "path": "IDEA/打造AI+第二大脑.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768651647171
         }
       ]
     }
