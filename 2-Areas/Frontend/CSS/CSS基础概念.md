@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T15:19
+更新时间: 2026-01-17T15:25
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -510,6 +510,17 @@ p {
 
 
 #### padding属性详解
+> padding是盒子的内边距
+
+- padding是盒子的内边距，即盒子边框内壁到文字的距离
+
+> padding是四个方向的
+
+- 四个方向的padding，可以分别用小属性进行设置
+	- padding-top：上边距
+	- padding-right：右边距
+	- padding-bottom：下边距
+	- padding-left：左边距
 
 
 #### margin属性详解
