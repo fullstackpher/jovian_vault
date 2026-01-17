@@ -151,7 +151,7 @@
     {
       "path": "1-Projects/01-学习Java/学习JavaEE.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768478527335
@@ -179,13 +179,19 @@
         },
         {
           "timestampMillis": 1768652452555
+        },
+        {
+          "timestampMillis": 1768654812991
+        },
+        {
+          "timestampMillis": 1768654832089
         }
       ]
     },
     {
       "path": "1-Projects/01-学习Java/学习JavaSE.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768478597879
@@ -222,6 +228,9 @@
         },
         {
           "timestampMillis": 1768654194379
+        },
+        {
+          "timestampMillis": 1768654834468
         }
       ]
     },
@@ -306,7 +315,7 @@
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -358,6 +367,9 @@
         },
         {
           "timestampMillis": 1768654026857
+        },
+        {
+          "timestampMillis": 1768654849509
         }
       ]
     },
@@ -588,7 +600,7 @@
     {
       "path": "1-Projects/01-学习Java/学习Spring全家桶.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768483286082
@@ -610,6 +622,9 @@
         },
         {
           "timestampMillis": 1768652423461
+        },
+        {
+          "timestampMillis": 1768654843778
         }
       ]
     },
@@ -641,7 +656,7 @@
     {
       "path": "1-Projects/03-学习前端/学习HTML.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1768538740239
@@ -714,13 +729,16 @@
         },
         {
           "timestampMillis": 1768652414349
+        },
+        {
+          "timestampMillis": 1768654853153
         }
       ]
     },
     {
       "path": "1-Projects/项目看板.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -757,6 +775,9 @@
         },
         {
           "timestampMillis": 1768653769900
+        },
+        {
+          "timestampMillis": 1768654824021
         }
       ]
     },
@@ -1264,7 +1285,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1325,6 +1346,12 @@
         },
         {
           "timestampMillis": 1768653727209
+        },
+        {
+          "timestampMillis": 1768654851685
+        },
+        {
+          "timestampMillis": 1768654854663
         }
       ]
     },
@@ -1412,7 +1439,7 @@
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 30,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1503,6 +1530,15 @@
         },
         {
           "timestampMillis": 1768654665190
+        },
+        {
+          "timestampMillis": 1768654725602
+        },
+        {
+          "timestampMillis": 1768654725945
+        },
+        {
+          "timestampMillis": 1768654861671
         }
       ]
     },
