@@ -288,7 +288,7 @@
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -319,6 +319,9 @@
         },
         {
           "timestampMillis": 1768645373149
+        },
+        {
+          "timestampMillis": 1768651853947
         }
       ]
     },
@@ -380,7 +383,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 47,
+      "totalTimesOpened": 49,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -522,6 +525,12 @@
         },
         {
           "timestampMillis": 1768650735975
+        },
+        {
+          "timestampMillis": 1768651882426
+        },
+        {
+          "timestampMillis": 1768651968530
         }
       ]
     },
@@ -651,7 +660,7 @@
     {
       "path": "1-Projects/项目看板.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -673,6 +682,9 @@
         },
         {
           "timestampMillis": 1768643745019
+        },
+        {
+          "timestampMillis": 1768652038243
         }
       ]
     },
@@ -1289,7 +1301,7 @@
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1329,6 +1341,12 @@
         },
         {
           "timestampMillis": 1768651788616
+        },
+        {
+          "timestampMillis": 1768651943429
+        },
+        {
+          "timestampMillis": 1768651978526
         }
       ]
     },

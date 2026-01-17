@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "项目看板",
+      "path": "1-Projects/项目看板.md"
+    },
+    {
       "basename": "2026-01-17 学习日报",
       "path": "0_Daily Notes/2026-01-17 学习日报.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1-Projects/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "打造AI+第二大脑",
@@ -19,10 +31,6 @@
     {
       "basename": "obsidian excalidraw插件",
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "CSS基础概念",
@@ -87,14 +95,6 @@
     {
       "basename": "学习JavaEE",
       "path": "1-Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1-Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1-Projects/项目看板.md"
     },
     {
       "basename": "HTML标签",
