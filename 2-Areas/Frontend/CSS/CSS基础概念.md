@@ -3,7 +3,7 @@ tags:
   - "#2026-01-16"
   - "#CSS"
 创建时间: 2026-01-16T17:08
-更新时间: 2026-01-17T14:35
+更新时间: 2026-01-17T14:44
 ---
 # 1、CSS基础与核心概念
 ## CSS的引入方式
@@ -93,7 +93,7 @@ span{backgroud: red;}
 
 [`[attr|=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_3)
 
-表示带有以 _attr_ 命名的属性的元素，属性值为“value”或是以“value-”为前缀（`-` 为连字符，Unicode 编码为 U+002D）开头。典型的应用场景是用来匹配语言简写代码（如 zh-CN、zh-TW 可以用 zh 作为 value）。
+表示带有以 _attr_ 命名的属性的元素，属性值为“value”或是以“**value-**”为前缀（**`-` 为连字符**，Unicode 编码为 U+002D）开头。典型的应用场景是用来匹配语言简写代码（如 zh-CN、zh-TW 可以用 zh 作为 value）。
 
 [`[attr^=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_4)
 
@@ -152,6 +152,14 @@ a[href^="https"][href$=".org"] {
 }
 ```
 
+> 总结
+- `[alt]` 有这个属性
+- `[alt='北京故宫']` 精确匹配
+- `[alt ^= 'abc']` 开头匹配
+- `[alt $= 'abc']` 结尾匹配
+- `[alt *= 'abc']` 任意位置匹配
+- `[alt |= 'abc']` abc-开头
+- `[alt ~= 'abc']` abc为空格分开的独立部分
 
 [MDN参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors)
 
