@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "学习JavaSE",
+      "path": "1-Projects/01-学习Java/学习JavaSE.md"
     },
     {
       "basename": "2026-01-17 学习日报",
       "path": "0_Daily Notes/2026-01-17 学习日报.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1-Projects/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "项目看板",
@@ -25,16 +33,8 @@
       "path": "_Templates/日报模版.md"
     },
     {
-      "basename": "学习Obsidian",
-      "path": "1-Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
       "basename": "学习JavaEE",
       "path": "1-Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1-Projects/01-学习Java/学习JavaSE.md"
     },
     {
       "basename": "学习Spring全家桶",
