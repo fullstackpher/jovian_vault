@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T19:12
+更新时间: 2026-01-17T19:14
 ---
 ## 📊 学习进度仪表板
 
@@ -11,22 +11,24 @@ const pages = dv.pages('#技术栈');
 if (pages.length === 0) {
     dv.paragraph("⚠️ 未找到带有 #技术栈 标签的笔记");
 } else {
+    // 创建表格
     dv.table(
         ["技术栈", "进度", "完成率"],
         pages.map(page => {
-            const content = page.file.content || "";
-            const lines = content.split('\n');
+            // 查询该页面中的所有任务
+            const tasks = dv.pages(`"${page.file.path}"`)
+                .where(p => p.file.tasks)
+                .file.tasks;
             
-            // 匹配任务行：以可选的“> ”开头，然后是短横线或星号，然后可能有空白，然后是任务状态括号
-            const taskLines = lines.filter(line => /^(>\s*)?[-*]\s*\[( |x|X|\/)\]/.test(line));
-            const totalTasks = taskLines.length;
-            
-            // 匹配已完成的任务：状态为x、X或/
-            const completedTasks = taskLines.filter(line => /^(>\s*)?[-*]\s*\[(x|X|\/)\]/.test(line)).length;
+            // 或者尝试使用 Tasks 插件的查询
+            const allTasks = dv.pages(`"${page.file.path}"`).file.tasks || [];
+            const completedTasks = allTasks.filter(t => t.completed).length;
+            const totalTasks = allTasks.length;
             
             const progressPercent = totalTasks > 0 ? 
                 Math.round((completedTasks / totalTasks) * 100) : 0;
             
+            // 创建进度条
             const progressBar = `<progress max="100" value="${progressPercent}" 
                 style="width: 150px; height: 20px;"></progress>`;
             
