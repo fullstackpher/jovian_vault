@@ -7,7 +7,7 @@ tags:
   - 闪念
   - 待处理
 创建时间: 2026-01-17T20:07
-更新时间: 2026-01-17T20:08
+更新时间: 2026-01-17T20:09
 ---
 # 💡 打造AI+第二大脑
 
@@ -17,14 +17,14 @@ tags:
 
 ## 🔍 细节与联想
 
-- 想法来源：[]()
-- 相关概念：
-- 可能的应用：
+- 想法来源：[B站分享](https://www.bilibili.com/video/BV19ovRBvE9R/?spm_id_from=333.1387.favlist.content.click&vd_source=dfcffe1e979222a555a7eaac7c67e330)
+- 相关概念：思维导图
+- 可能的应用：excalidraw插件
 
 ## 🏷️ 分类与关联
 
 **关联笔记：**
-- 
+- [[obsidian excalidraw插件]]
 
 **相关标签：** #闪念 
 
