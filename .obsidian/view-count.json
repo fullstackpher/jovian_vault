@@ -1603,18 +1603,12 @@
       ]
     },
     {
-      "path": "0_Daily Notes/2026-01-18.md",
+      "path": "0_Daily Notes/2026-01-18 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1768706054328
-        },
-        {
-          "timestampMillis": 1768706078556
-        },
-        {
-          "timestampMillis": 1768706359929
+          "timestampMillis": 1768706481354
         }
       ]
     }
