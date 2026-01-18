@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:32
-更新时间: 2026-01-18T12:43
+更新时间: 2026-01-18T12:44
 tags:
   - CSS
 ---
@@ -80,7 +80,7 @@ tags:
   
     .right {  
       display: flex;  
-      flex: 1;  
+      flex: 1;  /* 独占父容器剩余的宽度 */
       background-color: blue;  
     }  
   </style>  
