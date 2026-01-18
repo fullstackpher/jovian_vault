@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T13:42
+更新时间: 2026-01-18T13:48
 tags:
   - CSS
 ---
@@ -117,12 +117,106 @@ tags:
 
  #### 解决高度塌陷问题
  
- ```css
- .container2::after {
-	 content: " ";  
-	 clear: both;  
-	 display: block;  
-	 visibility: hidden;  
-	 height: 0;
- }
+ ```html
+ <!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+  
+    <style>  
+        .container {  
+            width: 400px;  
+            background: red;  
+            margin: 20px;  
+        }  
+  
+        .p1 {  
+            background: green;  
+            float: right;  
+            width: 200px;  
+            height: 50px;  
+        }  
+  
+        .container2::after {  
+            content: " ";  
+            clear: both;  
+            display: block;  
+            visibility: hidden;  
+            height: 0;  
+        }  
+    </style>  
+</head>  
+<body>  
+<div class="container">  
+  <span class="p1">  
+    float  
+  </span>  
+    <div class="p2">  
+        很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字  
+    </div>  
+</div>  
+  
+<div class="container container2">  
+    <span>写几个字</span>  
+    <span class="p1">float1</span>  
+    <span class="p1">float2</span>  
+</div>  
+  
+<div class="container" style="height: 200px; background: blue; /*overflow: auto;*/">  
+    <p>第一行</p>  
+    <p>第二行</p>  
+    <p>第三行</p>  
+</div>  
+  
+</body>  
+</html>
  ```
+
+#### 浮动布局示例
+
+示例代码：
+
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+    <style>  
+        .container {  
+            width: 800px;  
+            height: 200px;  
+            background: red;  
+            margin: 20px;  
+        }  
+  
+        .left {  
+            width: 200px;  
+            height: 100%;  
+            background: green;  
+            float: left;  
+        }  
+  
+        .right {  
+            margin-left: 200px;  
+            height: 100%;  
+            background: blue;  
+        }  
+    </style>  
+</head>  
+<body>  
+<div class="container">  
+    <div class="left">  
+        左  
+    </div>  
+    <div class="right">  
+        右  
+    </div>  
+</div>  
+</body>  
+</html>
+```
+
+演示效果：
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260118_134710.png)
