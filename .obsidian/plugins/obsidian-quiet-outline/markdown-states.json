@@ -784,12 +784,12 @@
     "scroll": 61.82105654761905,
     "cursor": {
       "from": {
-        "line": 75,
-        "ch": 21
+        "line": 82,
+        "ch": 17
       },
       "to": {
-        "line": 75,
-        "ch": 21
+        "line": 82,
+        "ch": 17
       }
     },
     "expandedKeys": []
