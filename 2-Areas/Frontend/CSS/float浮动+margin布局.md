@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T13:11
+更新时间: 2026-01-18T13:16
 tags:
   - CSS
 ---
@@ -66,4 +66,52 @@ tags:
 
 - 从布局上 ”消失“
 - 高度塌陷
+
+示例代码：
+
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+  
+    <style>  
+        .container {  
+            width: 400px;  
+            background: red;  
+            /*margin: 10px;*/  
+        }  
+  
+        .p1 {  
+            background: green;  
+            float: right;  
+            width: 200px;  
+            height: 50px;  
+        }  
+    </style>  
+</head>  
+<body>  
+<div class="container">  
+  <span class="p1">  
+    float  
+  </span>  
+    <div class="p2">  
+        很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字很长的文字  
+    </div>  
+</div>  
+  
+<div class="container">  
+    <span>写几个字</span>  
+    <span class="p1">float1</span>  
+    <span class="p1">float2</span>  
+</div>  
+  
+<div class="container" style="height: 200px; background: blue; /*overflow: auto*/"></div>  
+  
+</body>  
+</html>
+```
+
+> [!tip]- 使用 `overflow: auto;` 可以解决高度塌陷的问题
 
