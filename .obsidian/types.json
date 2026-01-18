@@ -29,6 +29,7 @@
     "截止时间": "date",
     "领域": "multitext",
     "创建时间": "text",
-    "状态": "text"
+    "状态": "text",
+    "date": "date"
   }
 }
