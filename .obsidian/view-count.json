@@ -752,8 +752,8 @@
     },
     {
       "path": "1-Projects/项目看板.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -796,6 +796,9 @@
         },
         {
           "timestampMillis": 1768726428061
+        },
+        {
+          "timestampMillis": 1768756200892
         }
       ]
     },
