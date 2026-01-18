@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T14:06
+更新时间: 2026-01-18T14:11
 tags:
   - CSS
 ---
@@ -278,7 +278,55 @@ tags:
 示例代码二：
 
 ```html
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .container{
+            width:800px;
+            height:200px;
+            overflow: hidden;
+        }
+        .left{
+            background:red;
+            /* float:left; */
+            /* height:100%; */
+            width:200px;
+            position: absolute;
+            height:200px;
+        }
+        .right{
+            background:blue;
+            float:right;
+            width:200px;
+            height:100%;
+        }
+        .middle{
+            margin-left:200px;
+            margin-right:200px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            左
+        </div>
+        <div class="right">
+            右
+        </div>
+        <div class="middle">
+            中间
+        </div>
+    </div>
+</body>
+</html>
 ```
 
 演示效果：
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260118_141125.png)
