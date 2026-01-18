@@ -5,6 +5,10 @@
       "path": "2-Areas/Frontend/CSS/inline-block布局.md"
     },
     {
+      "basename": "问题解决方案",
+      "path": "_Templates/问题解决方案.md"
+    },
+    {
       "basename": "float浮动+margin布局",
       "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "项目开发记录",
       "path": "_Templates/项目开发记录.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
     },
     {
       "basename": "面试题八股文",
