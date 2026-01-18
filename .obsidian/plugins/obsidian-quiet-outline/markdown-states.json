@@ -967,11 +967,11 @@
     "cursor": {
       "from": {
         "line": 117,
-        "ch": 0
+        "ch": 1
       },
       "to": {
         "line": 117,
-        "ch": 0
+        "ch": 1
       }
     },
     "expandedKeys": []
