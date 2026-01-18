@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T13:34
+更新时间: 2026-01-18T13:42
 tags:
   - CSS
 ---
@@ -117,3 +117,12 @@ tags:
 
  #### 解决高度塌陷问题
  
+ ```css
+ .container2::after {
+	 content: " ";  
+	 clear: both;  
+	 display: block;  
+	 visibility: hidden;  
+	 height: 0;
+ }
+ ```
