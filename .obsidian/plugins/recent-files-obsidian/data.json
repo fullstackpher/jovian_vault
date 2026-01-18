@@ -5,6 +5,14 @@
       "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
+      "basename": "float浮动+margin",
+      "path": "2-Areas/Frontend/CSS/float浮动+margin.md"
+    },
+    {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
     },
