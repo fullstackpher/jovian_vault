@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "CSS引入方式",
       "path": "2-Areas/Frontend/CSS/CSS引入方式.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
       "basename": "打造AI+第二大脑",
