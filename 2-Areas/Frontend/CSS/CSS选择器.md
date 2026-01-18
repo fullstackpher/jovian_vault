@@ -1,0 +1,385 @@
+---
+创建时间: 2026-01-18T11:46
+更新时间: 2026-01-18T11:47
+tags:
+  - CSS
+---
+## 基本选择器
+### 全选符 *
+```css
+*{
+    width: 200px;
+    height: 200px;
+    background: black;
+}
+```
+
+
+> [!tip]-  选择html文件内的所有元素，权重最低
+
+### 标签选择器
+```css
+div{width: 200px; height: 200px; backgroud: black;}
+span{backgroud: red;}
+```
+
+> [!tip]- 通过标签的分类来选择html元素，权重比全选符高
+
+### 类（class）选择器
+```css
+.abc{width: 200px; height: 200px; backgroud: black;}
+<div class="abc"></div>
+```
+
+> [!tip]- 我们可以定义分类，然后通过我们定义分类的去给予样式，权重比标签选择器高
+
+### id选择器
+```css
+#abc{width: 200px; height: 200px; backgroud: black;}
+<div id="abc"></div>
+```
+
+> [!tip]- 权重最高的选择器，我们可以给元素设定一个唯一的Id值，就像身份证一样
+
+### 总结：
+> [!tip]- id选择器 > 类选择器 > 标签选择器 > 全选符
+
+---
+
+## 属性选择器
+[`[attr]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr)
+
+表示带有以 _attr_ 命名的属性的元素。
+
+[`[attr=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue)
+
+表示带有以 _attr_ 命名的属性，且属性值为 _value_ 的元素。
+
+[`[attr~=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_2)
+
+表示带有以 _attr_ 命名的属性的元素，并且该属性是一个以空格作为分隔的值列表，其中至少有一个值为 _value_。
+
+[`[attr|=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_3)
+
+表示带有以 _attr_ 命名的属性的元素，属性值为“value”或是以“**value-**”为前缀（**`-` 为连字符**，Unicode 编码为 U+002D）开头。典型的应用场景是用来匹配语言简写代码（如 zh-CN、zh-TW 可以用 zh 作为 value）。
+
+[`[attr^=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_4)
+
+表示带有以 _attr_ 命名的属性，且属性值是以 _value_ 开头的元素。
+
+[`[attr$=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_5)
+
+表示带有以 _attr_ 命名的属性，且属性值是以 _value_ 结尾的元素。
+
+[`[attr*=value]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attrvalue_6)
+
+表示带有以 _attr_ 命名的属性，且属性值至少包含一个 _value_ 值的元素。
+
+[`[attr operator value i]`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr_operator_value_i)
+
+在属性选择器的右方括号前添加一个用空格隔开的字母 `i`（或 `I`），可以在匹配属性值时忽略大小写（支持 ASCII 字符范围之内的字母）。
+
+[`[attr operator value s]` 实验性](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors#attr_operator_value_s)
+
+在属性选择器的右方括号前添加一个用空格隔开的字母 `s`（或 `S`），可以在匹配属性值时区分大小写（支持 ASCII 字符范围之内的字母）。
+
+示例：
+```css
+a {
+  color: blue;
+}
+
+/* 以 "#" 开头的页面内部链接 */
+a[href^="#"] {
+  background-color: gold;
+}
+
+/* 包含 "example" 的链接 */
+a[href*="example"] {
+  background-color: silver;
+}
+
+/* 包含 "insensitive" 的链接，不区分大小写 */
+a[href*="insensitive" i] {
+  color: cyan;
+}
+
+/* 包含 "cAsE" 的链接，区分大小写 */
+a[href*="cAsE" s] {
+  color: pink;
+}
+
+/* 以 ".org" 结尾的链接 */
+a[href$=".org"] {
+  color: red;
+}
+
+/* 以 "https" 开始，".org" 结尾的链接 */
+a[href^="https"][href$=".org"] {
+  color: green;
+}
+```
+
+> 总结
+- `[alt]` 有这个属性
+- `[alt='北京故宫']` 精确匹配
+- `[alt ^= 'abc']` 开头匹配
+- `[alt $= 'abc']` 结尾匹配
+- `[alt *= 'abc']` 任意位置匹配
+- `[alt |= 'abc']` abc-开头
+- `[alt ~= 'abc']` abc为空格分开的独立部分
+
+[MDN参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Attribute_selectors)
+
+---
+
+## 关系选择器
+### 后代选择器（以空格分隔）
+```css
+div p {backgroud: yellow;}
+```
+
+> [!tip]- 后代选择器用于选取某元素的后代元素。
+
+### 子元素选择器（以>分隔）
+```css
+div>p{backgroud: yellow;}
+```
+
+> [!tip]- 子元素选择器（Child selectors）只能选择作为某元素直接/一级子元素的元素
+
+### 相邻元素选择器（以+分隔）
+```css
+div+p{backgroud: yellow;}
+```
+
+> [!tip]- 可选择紧接在另一元素后的元素，且二者有相同父元素
+
+### 后续兄弟选择器（以~分隔）
+```css
+div~p{backgroud: yellow;}
+```
+
+> [!tip]- 后续兄弟选择器选取所有指定元素之后的相邻兄弟元素。
+
+### 交集选择器（li.spec）
+选择既是li标签，也属于spec类的标签
+```css
+li.spec {color: red;}
+```
+
+### 并集选择器（ul, ol）
+选择所有ul和ol标签
+```css
+ul, ol {color: blue;}
+```
+
+---
+
+## 伪类选择器
+css伪类是用来添加一些选择器的特殊效果
+### 超链接的伪类
+```css
+a:link {color: #FF0000;} /* 未访问的链接 */
+a:visited {color: #00FF00;} /* 已访问的链接 */
+a:hover {color: #FF00FF;} /* 鼠标划过链接 */
+a:active {color: #0000FF;} /* 已选中的链接 */ 
+```
+
+---
+
+## 伪元素
+伪元素是css的一种特殊选择器，用于选择元素的特定部分而不是整个元素。
+它们允许你为元素的特点部分添加样式，而无需修改HTML
+
+> [!tip]- CSS3 规范使用双冒号 `::`（推荐），但单冒号 `:` 也被支持以保持向后兼容。
+
+### ::before
+作用：在元素内容之前插入生成的内容
+```css
+.element::before {
+    content: "前缀：";
+    color: red;
+}
+```
+
+### ::after
+作用：在元素内容之后插入生成的内容
+```css
+.element::after {
+    content: "（后缀）";
+    font-style: italic;
+}
+```
+
+### ::first-letter
+作用：选择元素的第一个字母
+```css
+p::first-letter {
+    font-size: 200%;
+    color: blue;
+    float: left;
+    margin-right: 5px;
+}
+```
+
+### ::first-line
+作用：选择元素的第一行
+```css
+p::first-line {
+    font-weight: bold;
+    color: darkblue;
+}
+```
+
+### ::selection
+作用：选择用户选中的文本部分（鼠标圈选的部分）
+```css
+::selection {
+    background-color: yellow;
+    color: black;
+}
+```
+
+### ::placeholder
+作用：选择表单元素的占位文本
+```css
+input::placeholder {
+    color: #999;
+    font-style: italic;
+}
+```
+
+### ::marker
+作用：选择列表项的标记（项目符合或数字）
+```css
+li::marker {
+    color: red;
+    font-size: 1.2em;
+}
+```
+
+### 重要特点和用法
+
+#### 1. **content 属性**（用于 ::before 和 ::after）
+```css
+/* 插入文本 */
+.element::before {
+    content: "提示：";
+}
+
+/* 插入图标（使用 Unicode） */
+.element::after {
+    content: "❯";
+}
+
+/* 插入属性值 */
+a::after {
+    content: " (" attr(href) ")";
+}
+
+/* 空内容（用于装饰性元素） */
+.element::before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+```
+
+
+#### 2. **与伪类的组合使用**
+```css
+/* 鼠标悬停时显示 */
+button:hover::after {
+    content: "点击我！";
+    color: white;
+}
+
+/* 第一个段落的第一个字母 */
+p:first-child::first-letter {
+    font-size: 300%;
+}
+```
+
+---
+
+### 实际应用示例
+
+#### 示例 1：装饰性引号
+```css
+blockquote::before {
+    content: "“";
+    font-size: 3em;
+    color: gray;
+    vertical-align: -0.4em;
+}
+blockquote::after {
+    content: "”";
+    font-size: 3em;
+    color: gray;
+    vertical-align: -0.4em;
+}
+```
+
+#### 示例 2：自定义列表样式
+```css
+ul.custom-list li::before {
+    content: "✓";
+    color: green;
+    margin-right: 10px;
+    font-weight: bold;
+}
+```
+
+#### 示例 3：清除浮动
+```css
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+```
+
+#### 示例 4：Tooltip 提示
+```css
+.tooltip {
+    position: relative;
+}
+.tooltip:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background: black;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    top: 100%;
+    left: 0;
+    white-space: nowrap;
+}
+```
+
+### 注意事项
+1. **不是真正的 DOM 元素**：
+    
+    - 伪元素不会出现在 HTML 中
+        
+    - 不能通过 JavaScript 直接操作
+        
+    - 可以通过 `window.getComputedStyle()` 读取样式
+        
+2. **content 属性必需**：
+    
+    - `::before` 和 `::after` 必须设置 `content` 属性，即使为空字符串
+        
+3. **某些元素不支持**：
+    
+    - `<img>`、`<input>`、`<br>` 等替换元素和空元素通常不支持 `::before` 和 `::after`
+        
+4. **优先级**：
+    
+    - 伪元素与普通元素具有相同的优先级权重
+
+- [伪类参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-classes)
+- [伪元素参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors/Pseudo-elements)

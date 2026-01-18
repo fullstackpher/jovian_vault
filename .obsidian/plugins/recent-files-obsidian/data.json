@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS基础概念",
+      "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
+    },
+    {
+      "basename": "行内元素与块元素",
+      "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
+    },
+    {
+      "basename": "盒模型",
+      "path": "2-Areas/Frontend/CSS/盒模型.md"
+    },
+    {
+      "basename": "CSS层叠、继承、值计算",
+      "path": "2-Areas/Frontend/CSS/CSS层叠、继承、值计算.md"
+    },
+    {
+      "basename": "CSS选择器",
+      "path": "2-Areas/Frontend/CSS/CSS选择器.md"
+    },
+    {
+      "basename": "CSS引入方式",
+      "path": "2-Areas/Frontend/CSS/CSS引入方式.md"
+    },
+    {
       "basename": "CSS布局系统",
       "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
+      "basename": "打造AI+第二大脑",
+      "path": "Idea/打造AI+第二大脑.md"
+    },
+    {
+      "basename": "卡片笔记法",
+      "path": "2-Areas/Knowledge Management/卡片笔记法.md"
+    },
+    {
       "basename": "flexbox布局",
       "path": "2-Areas/Frontend/CSS/flexbox布局.md"
+    },
+    {
+      "basename": "Translate to Chinese",
+      "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
     },
     {
       "basename": "inline-block布局",
@@ -19,10 +55,6 @@
     {
       "basename": "table表格布局",
       "path": "2-Areas/Frontend/CSS/table表格布局.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
     },
     {
       "basename": "学习CSS",
@@ -85,10 +117,6 @@
       "path": "0_Daily Notes/2026-01-17.md"
     },
     {
-      "basename": "打造AI+第二大脑",
-      "path": "Idea/打造AI+第二大脑.md"
-    },
-    {
       "basename": "闪念笔记模板",
       "path": "_Templates/闪念笔记模板.md"
     },
@@ -145,10 +173,6 @@
       "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
     },
     {
-      "basename": "卡片笔记法",
-      "path": "2-Areas/Knowledge Management/卡片笔记法.md"
-    },
-    {
       "basename": "markdown使用指南",
       "path": "2-Areas/Knowledge Management/markdown使用指南.md"
     },
@@ -171,14 +195,6 @@
     {
       "basename": "2026-01-13",
       "path": "0_Daily Notes/2026-01-13.md"
-    },
-    {
-      "basename": "2026-01-12",
-      "path": "0_Daily Notes/2026-01-12.md"
-    },
-    {
-      "basename": "obsidian图床测试",
-      "path": "2-Areas/Knowledge Management/obsidian图床测试.md"
     }
   ],
   "omittedPaths": [],
