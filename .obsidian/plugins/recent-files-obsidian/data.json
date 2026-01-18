@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "CSS布局系统",
       "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
-      "basename": "响应式布局",
-      "path": "2-Areas/Frontend/CSS/响应式布局.md"
-    },
-    {
       "basename": "inline-block布局",
       "path": "2-Areas/Frontend/CSS/inline-block布局.md"
+    },
+    {
+      "basename": "响应式布局",
+      "path": "2-Areas/Frontend/CSS/响应式布局.md"
     },
     {
       "basename": "flexbox布局",
@@ -59,14 +67,6 @@
     {
       "basename": "Translate to Chinese",
       "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2026-01-18",
