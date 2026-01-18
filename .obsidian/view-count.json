@@ -431,7 +431,7 @@
     {
       "path": "Dashboard.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 56,
+      "totalTimesOpened": 57,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -600,6 +600,9 @@
         },
         {
           "timestampMillis": 1768725969349
+        },
+        {
+          "timestampMillis": 1768725987962
         }
       ]
     },
@@ -1501,10 +1504,13 @@
     {
       "path": "0_Daily Notes/2026-01-18 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768706481354
+        },
+        {
+          "timestampMillis": 1768726007174
         }
       ]
     },
