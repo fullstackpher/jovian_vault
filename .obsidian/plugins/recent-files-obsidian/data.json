@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
+      "basename": "响应式布局",
+      "path": "2-Areas/Frontend/CSS/响应式布局.md"
+    },
+    {
       "basename": "inline-block布局",
       "path": "2-Areas/Frontend/CSS/inline-block布局.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
     },
     {
       "basename": "flexbox布局",
@@ -21,8 +21,12 @@
       "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
     {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+      "basename": "float浮动+margin布局",
+      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "_Templates/问题解决方案.md"
     },
     {
       "basename": "CSS基础概念",
