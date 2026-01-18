@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
       "basename": "2026-01-18",
       "path": "0_Daily Notes/2026-01-18.md"
+    },
+    {
+      "basename": "每日笔记",
+      "path": "_Templates/每日笔记.md"
     },
     {
       "basename": "2026-01-17 学习日报",
@@ -41,10 +49,6 @@
       "path": "Dashboard.md"
     },
     {
-      "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
-    },
-    {
       "basename": "项目模版",
       "path": "_Templates/项目模版.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
-    },
-    {
-      "basename": "每日笔记",
-      "path": "_Templates/每日笔记.md"
     },
     {
       "basename": "CSS布局系统",

@@ -298,7 +298,7 @@
     "expandedKeys": []
   },
   "_Templates/每日笔记.md": {
-    "scroll": 11.34593562129776,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 4,
@@ -557,15 +557,15 @@
     "expandedKeys": []
   },
   "_Templates/日报模版.md": {
-    "scroll": 64.39790184181054,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 6
+        "line": 1,
+        "ch": 14
       },
       "to": {
-        "line": 20,
-        "ch": 6
+        "line": 1,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -700,12 +700,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 2,
+        "ch": 13
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 2,
+        "ch": 13
       }
     },
     "expandedKeys": []

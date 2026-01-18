@@ -1181,8 +1181,8 @@
     },
     {
       "path": "_Templates/每日笔记.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1192,6 +1192,9 @@
         },
         {
           "timestampMillis": 1768650155711
+        },
+        {
+          "timestampMillis": 1768706340389
         }
       ]
     },
@@ -1407,8 +1410,8 @@
     },
     {
       "path": "_Templates/日报模版.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -1436,6 +1439,15 @@
         },
         {
           "timestampMillis": 1768654684630
+        },
+        {
+          "timestampMillis": 1768706322359
+        },
+        {
+          "timestampMillis": 1768706362517
+        },
+        {
+          "timestampMillis": 1768706398808
         }
       ]
     },
@@ -1593,13 +1605,16 @@
     {
       "path": "0_Daily Notes/2026-01-18.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768706054328
         },
         {
           "timestampMillis": 1768706078556
+        },
+        {
+          "timestampMillis": 1768706359929
         }
       ]
     }
