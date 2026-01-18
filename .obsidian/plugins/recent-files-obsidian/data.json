@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "flexbox布局",
+      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
+    },
+    {
       "basename": "table表格布局",
       "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "卡片笔记法",
       "path": "2-Areas/Knowledge Management/卡片笔记法.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
     },
     {
       "basename": "Translate to Chinese",
