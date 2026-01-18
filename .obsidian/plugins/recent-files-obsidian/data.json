@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "obsidian excalidraw插件",
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     },
     {
       "basename": "项目开发记录",
