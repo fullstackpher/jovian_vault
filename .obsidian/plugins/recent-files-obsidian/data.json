@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
       "basename": "float浮动+margin布局",
       "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "inline-block布局",
       "path": "2-Areas/Frontend/CSS/inline-block布局.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
     {
       "basename": "学习CSS",
