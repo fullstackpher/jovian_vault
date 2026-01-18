@@ -417,14 +417,17 @@
     },
     {
       "path": "0_Daily Notes/2026-01-15.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768479010074
         },
         {
           "timestampMillis": 1768479015472
+        },
+        {
+          "timestampMillis": 1768726410340
         }
       ]
     },
@@ -639,8 +642,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-16.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768538500726
@@ -659,6 +662,9 @@
         },
         {
           "timestampMillis": 1768647316585
+        },
+        {
+          "timestampMillis": 1768726387893
         }
       ]
     },
@@ -746,8 +752,8 @@
     },
     {
       "path": "1-Projects/项目看板.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 13,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -787,6 +793,9 @@
         },
         {
           "timestampMillis": 1768654824021
+        },
+        {
+          "timestampMillis": 1768726428061
         }
       ]
     },
@@ -1275,8 +1284,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-17.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768643666886
@@ -1298,6 +1307,9 @@
         },
         {
           "timestampMillis": 1768653435478
+        },
+        {
+          "timestampMillis": 1768726372937
         }
       ]
     },

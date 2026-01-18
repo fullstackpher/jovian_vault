@@ -118,12 +118,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 10
+        "line": 27,
+        "ch": 6
       },
       "to": {
-        "line": 11,
-        "ch": 10
+        "line": 27,
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -697,7 +697,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-18.md": {
-    "scroll": 11.445920930875765,
+    "scroll": 2.776529262128394,
     "cursor": {
       "from": {
         "line": 11,
@@ -1013,6 +1013,20 @@
       },
       "to": {
         "line": 136,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-15.md": {
+    "scroll": 24.36200433477655,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },
