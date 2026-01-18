@@ -1,9 +1,10 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T12:10
+更新时间: 2026-01-18T12:15
 tags:
   - CSS
 ---
+### 布局示例
 示例
 ```html
 <!DOCTYPE html>  
@@ -66,3 +67,15 @@ tags:
 ```
 
 ![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260118_120955.png)
+
+
+### 布局属性
+> display
+
+- 确定元素的显示类型
+	- block/inline/inline-block
+
+> position
+
+- 确定元素的位置
+	- static/relative/absolute/fixed
