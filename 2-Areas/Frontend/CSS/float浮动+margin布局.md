@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T14:05
+更新时间: 2026-01-18T14:06
 tags:
   - CSS
 ---
@@ -248,13 +248,13 @@ tags:
             float: right;  
             width: 200px;  
             height: 100%;  
-            background: blue;  
+            background: deepskyblue;  
         }  
   
         .middle {  
             margin: 0 200px;  
             height: 100%;  
-            background: yellow;  
+            background: orange;  
         }  
   
     </style>  
