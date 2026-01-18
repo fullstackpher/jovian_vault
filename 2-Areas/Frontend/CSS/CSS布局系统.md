@@ -24,8 +24,8 @@ tags:
 
 ## 🎯 应用场景
 
-1. PC端（float+margin）
-2. 移动端（响应式布局，flexbox）
+1. PC端（float+margin布局）
+2. 移动端（响应式布局，flexbox布局）
 
 
 ## ⚠️ 注意事项
