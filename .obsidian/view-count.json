@@ -1532,10 +1532,13 @@
     {
       "path": "0_Daily Notes/2026-01-18.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768706511934
+        },
+        {
+          "timestampMillis": 1768726287525
         }
       ]
     },
