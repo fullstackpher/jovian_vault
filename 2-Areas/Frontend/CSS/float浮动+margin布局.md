@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-18T11:30
-更新时间: 2026-01-18T13:50
+更新时间: 2026-01-18T14:05
 tags:
   - CSS
 ---
@@ -222,7 +222,60 @@ tags:
 ![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260118_134710.png)
 #### 浮动布局（三栏布局）示例
 
-示例代码：
+示例代码一：
+
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Title</title>  
+    <style>  
+        .container {  
+            width: 800px;  
+            height: 200px;  
+            margin: 20px;  
+            overflow: hidden; /** 清除浮动 **/        }  
+  
+        .left {  
+            width: 200px;  
+            height: 100%;  
+            background: green;  
+            float: left;  
+        }  
+  
+        .right {  
+            float: right;  
+            width: 200px;  
+            height: 100%;  
+            background: blue;  
+        }  
+  
+        .middle {  
+            margin: 0 200px;  
+            height: 100%;  
+            background: yellow;  
+        }  
+  
+    </style>  
+</head>  
+<body>  
+<div class="container">  
+    <div class="left">  
+        左  
+    </div>  
+    <div class="right">  
+        右  
+    </div>  
+    <div class="middle">  
+        中间  
+    </div>  
+</div>  
+</body>  
+</html>
+```
+
+示例代码二：
 
 ```html
 
