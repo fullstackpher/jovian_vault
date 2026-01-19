@@ -1129,7 +1129,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1768556171458
@@ -1148,6 +1148,18 @@
         },
         {
           "timestampMillis": 1768798236224
+        },
+        {
+          "timestampMillis": 1768800232973
+        },
+        {
+          "timestampMillis": 1768800762500
+        },
+        {
+          "timestampMillis": 1768800956074
+        },
+        {
+          "timestampMillis": 1768801242153
         }
       ]
     },
@@ -1907,7 +1919,7 @@
     {
       "path": "2-Areas/Frontend/CSS/文本与字体.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1768797812171
@@ -1932,6 +1944,18 @@
         },
         {
           "timestampMillis": 1768799636582
+        },
+        {
+          "timestampMillis": 1768800246891
+        },
+        {
+          "timestampMillis": 1768800773358
+        },
+        {
+          "timestampMillis": 1768800963183
+        },
+        {
+          "timestampMillis": 1768801247168
         }
       ]
     }
