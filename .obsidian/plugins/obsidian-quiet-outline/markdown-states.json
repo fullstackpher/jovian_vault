@@ -1137,23 +1137,24 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/背景.md": {
-    "scroll": 1.4715719573872543,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 17,
+        "line": 6,
         "ch": 0
       }
     },
     "expandedKeys": [
       "item-3-0",
       "item-3-5",
-      "item-3-12",
+      "item-3-13",
       "item-4-1",
-      "item-4-3"
+      "item-4-3",
+      "item-4-6"
     ]
   },
   "边框与圆角.md": {
