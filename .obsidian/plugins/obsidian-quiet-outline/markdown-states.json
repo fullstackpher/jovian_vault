@@ -1091,7 +1091,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/文本与字体.md": {
-    "scroll": 173.98481353123984,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 193,
@@ -1140,15 +1140,20 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 11,
         "ch": 18
       },
       "to": {
-        "line": 8,
+        "line": 11,
         "ch": 18
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0",
+      "item-3-4",
+      "item-3-11",
+      "item-4-1"
+    ]
   },
   "边框与圆角.md": {
     "scroll": 0,

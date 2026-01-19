@@ -1046,7 +1046,7 @@
     {
       "path": "_Templates/问题解决方案.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768555996455
@@ -1077,6 +1077,9 @@
         },
         {
           "timestampMillis": 1768807303707
+        },
+        {
+          "timestampMillis": 1768807719188
         }
       ]
     },
@@ -1955,7 +1958,7 @@
     {
       "path": "2-Areas/Frontend/CSS/文本与字体.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1768797812171
@@ -2013,13 +2016,19 @@
         },
         {
           "timestampMillis": 1768807309320
+        },
+        {
+          "timestampMillis": 1768807709936
+        },
+        {
+          "timestampMillis": 1768807720586
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/CSS/背景.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1768805303356
@@ -2044,6 +2053,12 @@
         },
         {
           "timestampMillis": 1768807313774
+        },
+        {
+          "timestampMillis": 1768807471835
+        },
+        {
+          "timestampMillis": 1768807723172
         }
       ]
     },
