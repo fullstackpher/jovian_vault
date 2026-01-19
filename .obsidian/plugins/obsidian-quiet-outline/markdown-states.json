@@ -683,7 +683,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-18 学习日报.md": {
-    "scroll": 43.191398763135574,
+    "scroll": 35.29573432887403,
     "cursor": {
       "from": {
         "line": 21,
@@ -697,7 +697,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-18.md": {
-    "scroll": 2.776529262128394,
+    "scroll": 20.722197907405107,
     "cursor": {
       "from": {
         "line": 11,
@@ -1028,6 +1028,20 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 2
+      },
+      "to": {
+        "line": 21,
+        "ch": 2
       }
     },
     "expandedKeys": []
