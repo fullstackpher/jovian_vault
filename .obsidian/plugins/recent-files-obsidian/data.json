@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "边框与圆角",
+      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+    },
+    {
       "basename": "背景",
       "path": "2-Areas/Frontend/CSS/背景.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "问题解决方案",
       "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
     },
     {
       "basename": "CSS视觉与表现",
