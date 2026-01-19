@@ -23,7 +23,7 @@
     "2-Areas/Frontend/CSS/CSS布局系统.md": "cedd46944cd175de57f614c6e9b48e77573773e46dc10091ff1baed4c6c874d0",
     "2-Areas/Frontend/CSS/CSS高级特性.md": "156f57468a1938d7112a610d94b98ffb3698792453b11658778e2bea35d40980",
     "2-Areas/Frontend/CSS/CSS工程化.md": "9d8e6d2b4c45587285c6bec359c751a3e6615f52bfe9c929f88d121002ce2046",
-    "2-Areas/Frontend/CSS/CSS视觉与表现.md": "0f28fddc5947360260c8d3d2af0f30ff5ffba858abee5ec0dc773d2926a5ae33",
+    "2-Areas/Frontend/CSS/CSS视觉与表现.md": "8a79732e5322be921e8ed4d1748580218f647b725f1a0597af9e3fe8a72b98c3",
     "copilot/copilot-conversations/灵活设置padding属性，请给我优化这段笔记@20260117_154006.md": "9d998b07b3b05bb4d658ace80c7c79569c954fe517ab26772c6a05fff137bb93",
     "copilot/copilot-conversations/请浏览整个库中所有文件，优化该内容，能正确显示出来@20260117_181627.md": "19a496f08176547407e8cbcda032802e8a01d2694d05abb841ea01575eed1646",
     "Dashboard.md": "8997aed8664221cef8bd342b050a11540ef3e9951b080610512a8c2f5a67a19d",
@@ -40,6 +40,7 @@
     "2-Areas/Frontend/CSS/行内元素与块元素.md": "35d57f5b9411c8611832c0a543dbad57fd764080e4c7ff2ff540ba74c1806e08",
     "2-Areas/Frontend/CSS/float浮动+margin布局.md": "8c6d03f5cbbe1a4c8d2ad4c87b72cf327eca50ad1c7b39ac07b3c0a418fd927b",
     "2-Areas/Frontend/CSS/响应式布局.md": "2f0c757dec2db9b703532a787963bf92305c5970bfd92f61ead7eb6fd3f876f6",
-    "2-Areas/Frontend/CSS/文本与字体.md": "8f2593d3f5c3199b19937335b7b009d2dbb22586049c5f095262f052ac380237"
+    "2-Areas/Frontend/CSS/文本与字体.md": "b1771cdd9f198c8dacc0ab5858df5ae90931971cee6afb9ea88f6a9272d454d5",
+    "2-Areas/Frontend/CSS/背景.md": "fc1eb87aeaf176efefd10b1630dd3784d6eb50c02cc22ec2ecb5ac4ffd0a415b"
   }
 }

@@ -242,7 +242,7 @@
     ]
   },
   "_Templates/项目开发记录.md": {
-    "scroll": 0,
+    "scroll": 26.34244664510091,
     "cursor": {
       "from": {
         "line": 5,
@@ -253,18 +253,20 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1"
+    ]
   },
   "_Templates/问题解决方案.md": {
-    "scroll": 8.065426356589148,
+    "scroll": 17.02328402034855,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 2
+        "line": 31,
+        "ch": 3
       },
       "to": {
-        "line": 21,
-        "ch": 0
+        "line": 31,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -1061,15 +1063,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
-    "scroll": 5.063291139240507,
+    "scroll": 7.493670886075949,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 8
+        "line": 22,
+        "ch": 6
       },
       "to": {
-        "line": 19,
-        "ch": 8
+        "line": 24,
+        "ch": 80
       }
     },
     "expandedKeys": []
@@ -1089,21 +1091,63 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/文本与字体.md": {
-    "scroll": 175.66455779849713,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 189,
-        "ch": 6
+        "line": 193,
+        "ch": 0
       },
       "to": {
-        "line": 189,
-        "ch": 6
+        "line": 193,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-3-1",
+      "item-3-14",
       "item-3-7",
-      "item-3-14"
+      "item-3-1"
     ]
+  },
+  "颜色与背景.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/颜色与背景.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 10
+      },
+      "to": {
+        "line": 18,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/背景.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 2
+      },
+      "to": {
+        "line": 18,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
   }
 }

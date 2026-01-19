@@ -1023,8 +1023,8 @@
     },
     {
       "path": "_Templates/项目开发记录.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768555992674
@@ -1037,13 +1037,16 @@
         },
         {
           "timestampMillis": 1768648983808
+        },
+        {
+          "timestampMillis": 1768805230611
         }
       ]
     },
     {
       "path": "_Templates/问题解决方案.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768555996455
@@ -1062,6 +1065,15 @@
         },
         {
           "timestampMillis": 1768717520781
+        },
+        {
+          "timestampMillis": 1768805233073
+        },
+        {
+          "timestampMillis": 1768805252005
+        },
+        {
+          "timestampMillis": 1768805281675
         }
       ]
     },
@@ -1129,7 +1141,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1768556171458
@@ -1163,6 +1175,18 @@
         },
         {
           "timestampMillis": 1768803633126
+        },
+        {
+          "timestampMillis": 1768805249113
+        },
+        {
+          "timestampMillis": 1768805253328
+        },
+        {
+          "timestampMillis": 1768805301860
+        },
+        {
+          "timestampMillis": 1768805333763
         }
       ]
     },
@@ -1922,7 +1946,7 @@
     {
       "path": "2-Areas/Frontend/CSS/文本与字体.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768797812171
@@ -1965,6 +1989,28 @@
         },
         {
           "timestampMillis": 1768804606234
+        },
+        {
+          "timestampMillis": 1768805256090
+        },
+        {
+          "timestampMillis": 1768805282506
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/CSS/背景.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1768805303356
+        },
+        {
+          "timestampMillis": 1768805313877
+        },
+        {
+          "timestampMillis": 1768805347103
         }
       ]
     }

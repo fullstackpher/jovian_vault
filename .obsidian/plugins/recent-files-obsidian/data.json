@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "文本与字体",
-      "path": "2-Areas/Frontend/CSS/文本与字体.md"
+      "basename": "背景",
+      "path": "2-Areas/Frontend/CSS/背景.md"
     },
     {
       "basename": "CSS视觉与表现",
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
+    },
+    {
+      "basename": "文本与字体",
+      "path": "2-Areas/Frontend/CSS/文本与字体.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "_Templates/问题解决方案.md"
+    },
+    {
+      "basename": "项目开发记录",
+      "path": "_Templates/项目开发记录.md"
     },
     {
       "basename": "学习CSS",
@@ -75,10 +87,6 @@
     {
       "basename": "float浮动+margin布局",
       "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
     },
     {
       "basename": "CSS基础概念",
@@ -157,10 +165,6 @@
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
     },
     {
-      "basename": "项目开发记录",
-      "path": "_Templates/项目开发记录.md"
-    },
-    {
       "basename": "面试题八股文",
       "path": "_Templates/面试题八股文.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian标签功能",
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md"
-    },
-    {
-      "basename": "obsidian双链功能",
-      "path": "2-Areas/Knowledge Management/obsidian双链功能.md"
     }
   ],
   "omittedPaths": [],
