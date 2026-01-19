@@ -1128,14 +1128,17 @@
     },
     {
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768556171458
         },
         {
           "timestampMillis": 1768556359520
+        },
+        {
+          "timestampMillis": 1768797642106
         }
       ]
     },
@@ -1202,8 +1205,8 @@
     },
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 26,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 27,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1282,6 +1285,9 @@
         },
         {
           "timestampMillis": 1768726217618
+        },
+        {
+          "timestampMillis": 1768797637626
         }
       ]
     },
@@ -1525,7 +1531,7 @@
     {
       "path": "0_Daily Notes/2026-01-18 学习日报.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768706481354
@@ -1547,6 +1553,9 @@
         },
         {
           "timestampMillis": 1768797567856
+        },
+        {
+          "timestampMillis": 1768797622492
         }
       ]
     },
@@ -1873,6 +1882,16 @@
         },
         {
           "timestampMillis": 1768756247100
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-19 学习日报.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768797604417
         }
       ]
     }

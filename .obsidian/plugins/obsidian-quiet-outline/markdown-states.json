@@ -438,7 +438,7 @@
     "expandedKeys": []
   },
   "1-Projects/03-学习前端/学习CSS.md": {
-    "scroll": 44.16535073764983,
+    "scroll": 20.235416603088378,
     "cursor": {
       "from": {
         "line": 40,
@@ -683,15 +683,15 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-18 学习日报.md": {
-    "scroll": 35.29573432887403,
+    "scroll": 54.68142318725586,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 10
+        "line": 61,
+        "ch": 16
       },
       "to": {
-        "line": 21,
-        "ch": 10
+        "line": 61,
+        "ch": 16
       }
     },
     "expandedKeys": []
@@ -1041,6 +1041,34 @@
       },
       "to": {
         "line": 21,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-19 学习日报.md": {
+    "scroll": 11.93375,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 2
+      },
+      "to": {
+        "line": 11,
         "ch": 2
       }
     },

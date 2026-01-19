@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS视觉与表现",
+      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
+    },
+    {
       "basename": "2026-01-18 学习日报",
       "path": "0_Daily Notes/2026-01-18 学习日报.md"
+    },
+    {
+      "basename": "2026-01-19 学习日报",
+      "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
     {
       "basename": "2026-01-19",
@@ -27,10 +39,6 @@
     {
       "basename": "2026-01-17",
       "path": "0_Daily Notes/2026-01-17.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "2026-01-17 学习日报",
@@ -169,10 +177,6 @@
       "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
     {
-      "basename": "CSS视觉与表现",
-      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
-    },
-    {
       "basename": "CSS工程化",
       "path": "2-Areas/Frontend/CSS/CSS工程化.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-14",
       "path": "0_Daily Notes/2026-01-14.md"
-    },
-    {
-      "basename": "2026-01-13",
-      "path": "0_Daily Notes/2026-01-13.md"
     }
   ],
   "omittedPaths": [],
