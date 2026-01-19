@@ -1061,15 +1061,43 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
+    "scroll": 25.992971672169922,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 6
+      },
+      "to": {
+        "line": 46,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "文本与字体.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 2
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 11,
-        "ch": 2
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/文本与字体.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
