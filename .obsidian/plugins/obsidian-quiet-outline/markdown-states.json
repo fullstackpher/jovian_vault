@@ -1227,11 +1227,11 @@
     "cursor": {
       "from": {
         "line": 12,
-        "ch": 8
+        "ch": 1
       },
       "to": {
         "line": 12,
-        "ch": 8
+        "ch": 1
       }
     },
     "expandedKeys": []
