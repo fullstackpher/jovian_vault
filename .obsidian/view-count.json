@@ -2226,7 +2226,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS动画.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768820429387
@@ -2239,22 +2239,18 @@
         },
         {
           "timestampMillis": 1768912266219
-        }
-      ]
-    },
-    {
-      "path": "thought/webstorm常用插件汇总.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1768905543595
         },
         {
-          "timestampMillis": 1768906493316
+          "timestampMillis": 1768912443004
         },
         {
-          "timestampMillis": 1768906545382
+          "timestampMillis": 1768912456153
+        },
+        {
+          "timestampMillis": 1768912465900
+        },
+        {
+          "timestampMillis": 1768912504210
         }
       ]
     },

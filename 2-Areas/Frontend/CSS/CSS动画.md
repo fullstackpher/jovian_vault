@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T20:28
+更新时间: 2026-01-20T20:34
 tags:
   - CSS
 ---
@@ -29,6 +29,7 @@ tags:
 3. `animation-timing-function`：规定动画的速度曲线（如 linear、ease、ease-in、ease-out、ease-in-out、cubic-bezier(n,n,n,n)）。
 4. `animation-delay`：定义动画何时开始（延迟时间）。
 5. `animation-iteration-count`：定义动画应播放的次数（数字或 infinite）。
+	1. `infinite`：无限循环
 6. `animation-direction`：定义动画是否反向播放（normal、reverse、alternate、alternate-reverse）。
 7. `animation-fill-mode`：规定当动画不播放时（完成或延迟），要应用到元素的样式（none、forwards、backwards、both）。
 8. `animation-play-state`：指定动画是运行还是暂停（running、paused）。
