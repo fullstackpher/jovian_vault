@@ -1314,7 +1314,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 34,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1417,6 +1417,9 @@
         },
         {
           "timestampMillis": 1768886219232
+        },
+        {
+          "timestampMillis": 1768917128523
         }
       ]
     },
@@ -2126,8 +2129,8 @@
     },
     {
       "path": "2-Areas/Frontend/CSS/背景.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768805303356
@@ -2164,13 +2167,16 @@
         },
         {
           "timestampMillis": 1768818575231
+        },
+        {
+          "timestampMillis": 1768917278301
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/CSS/边框与圆角.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768806682702
@@ -2195,13 +2201,16 @@
         },
         {
           "timestampMillis": 1768883968626
+        },
+        {
+          "timestampMillis": 1768917280180
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/CSS/变化与过渡.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768820409779
@@ -2220,13 +2229,16 @@
         },
         {
           "timestampMillis": 1768912198031
+        },
+        {
+          "timestampMillis": 1768917283442
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/CSS/CSS动画.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1768820429387
@@ -2254,6 +2266,9 @@
         },
         {
           "timestampMillis": 1768912840147
+        },
+        {
+          "timestampMillis": 1768917289893
         }
       ]
     },

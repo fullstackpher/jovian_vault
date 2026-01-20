@@ -9,6 +9,18 @@
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
+      "basename": "边框与圆角",
+      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+    },
+    {
+      "basename": "背景",
+      "path": "2-Areas/Frontend/CSS/背景.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
+    },
+    {
       "basename": "table表格布局",
       "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
@@ -73,10 +85,6 @@
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
     },
     {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
-    },
-    {
       "basename": "CSS响应式设计",
       "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
@@ -85,20 +93,12 @@
       "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
     },
     {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
-    },
-    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
     },
     {
       "basename": "2026-01-19 学习日报",
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
-    },
-    {
-      "basename": "背景",
-      "path": "2-Areas/Frontend/CSS/背景.md"
     },
     {
       "basename": "文本与字体",
