@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "开发工具",
+      "path": "3-Resources/开发工具.md"
+    },
+    {
+      "basename": "webstorm常用插件汇总",
+      "path": "thought/webstorm常用插件汇总.md"
+    },
+    {
       "basename": "变化与过渡",
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "面试题八股文",
       "path": "_Templates/面试题八股文.md"
-    },
-    {
-      "basename": "技术概念卡片",
-      "path": "_Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "HTML标签",
-      "path": "2-Areas/Frontend/HTML/HTML标签.md"
     }
   ],
   "omittedPaths": [],

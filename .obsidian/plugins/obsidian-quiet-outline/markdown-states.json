@@ -1249,15 +1249,75 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/变化与过渡.md": {
-    "scroll": 8.408904606637043,
+    "scroll": 17.479478494826836,
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 21
+        "line": 23,
+        "ch": 4
       },
       "to": {
-        "line": 20,
-        "ch": 21
+        "line": 23,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "thought/linear.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 19
+      },
+      "to": {
+        "line": 11,
+        "ch": 19
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "thought/webstorm常用插件汇总.md": {
+    "scroll": 17.091145833333332,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 6
+      },
+      "to": {
+        "line": 27,
+        "ch": 6
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "开发工具.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/开发工具.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 2
+      },
+      "to": {
+        "line": 8,
+        "ch": 2
       }
     },
     "expandedKeys": []

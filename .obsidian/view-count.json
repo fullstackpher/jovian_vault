@@ -2211,6 +2211,29 @@
           "timestampMillis": 1768820445471
         }
       ]
+    },
+    {
+      "path": "thought/webstorm常用插件汇总.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768905543595
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/开发工具.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768905623757
+        },
+        {
+          "timestampMillis": 1768905644143
+        }
+      ]
     }
   ]
 }
