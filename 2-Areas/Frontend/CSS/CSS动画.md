@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T21:13
+更新时间: 2026-01-20T21:44
 tags:
   - CSS
 ---
@@ -154,7 +154,131 @@ tags:
 > [!info] 流星雨效果
 
 ```html
-
+<!doctype html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <title>流星雨效果</title>  
+    <style>  
+        * {  
+            margin: 0;  
+            padding: 0;  
+        }  
+  
+        body {  
+            min-height: 100vh;  
+            background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);  
+            overflow: hidden;  
+            position: relative;  
+        }  
+  
+        .line {  
+            width: 4px;  
+            height: 150px;  
+            background: linear-gradient(to bottom,  
+                rgba(255, 255, 255, 1) 0%,  
+                rgba(255, 255, 255, 0.6) 30%,  
+                rgba(255, 255, 255, 0.2) 70%,  
+                transparent 100%);  
+            position: absolute;  
+            top: 300px;  
+            left: 800px;  
+            border-radius: 50%;  
+            filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.8));  
+            transform: rotate(45deg);  
+            animation: fall 1s linear 0s infinite;  
+            opacity: 0;  
+        }  
+  
+        .line2 {  
+            width: 4px;  
+            height: 150px;  
+            background: linear-gradient(to bottom,  
+                rgba(255, 255, 255, 1) 0%,  
+                rgba(255, 255, 255, 0.6) 30%,  
+                rgba(255, 255, 255, 0.2) 70%,  
+                transparent 100%);  
+            position: absolute;  
+            top: 340px;  
+            left: 850px;  
+            border-radius: 50%;  
+            filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.8));  
+            transform: rotate(45deg);  
+            animation: fall 1s linear .4s infinite;  
+            opacity: 0;  
+        }  
+  
+        @keyframes fall {  
+            0% {  
+                transform: rotate(45deg) translateY(-200px);  
+                opacity: 0;  
+            }  
+            50% {  
+                opacity: 1;  
+            }  
+            100% {  
+                transform: rotate(45deg) translateY(200px);  
+                opacity: 0;  
+            }  
+        }  
+  
+        .star {  
+            position: absolute;  
+            width: 2px;  
+            height: 2px;  
+            background: white;  
+            border-radius: 50%;  
+            animation: twinkle 2s ease-in-out infinite;  
+        }  
+  
+        @keyframes twinkle {  
+            0%, 100% {  
+                opacity: 0.3;  
+            }  
+            50% {  
+                opacity: 1;  
+            }  
+        }  
+    </style>  
+</head>  
+<body>  
+<div class="line"></div>  
+<div class="line2"></div>  
+    <script>  
+        // 创建背景星星  
+        for (let i = 0; i < 100; i++) {  
+            const star = document.createElement('div');  
+            star.className = 'star';  
+            star.style.left = Math.random() * 100 + '%';  
+            star.style.top = Math.random() * 100 + '%';  
+            star.style.animationDelay = Math.random() * 2 + 's';  
+            document.body.appendChild(star);  
+        }  
+  
+        // 创建更多流星  
+        function createMeteor(delay) {  
+            const meteor = document.createElement('div');  
+            meteor.style.width = '4px';  
+            meteor.style.height = '150px';  
+            meteor.style.background = 'linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.2), transparent)';  
+            meteor.style.position = 'absolute';  
+            meteor.style.borderRadius = '50%';  
+            meteor.style.filter = 'drop-shadow(0 0 6px rgba(255, 255, 255, 0.8))';  
+            meteor.style.top = '0px';  
+            meteor.style.left = Math.random() * 100 + '%';  
+            meteor.style.transform = 'rotate(45deg)';  
+            meteor.style.animation = 'fall 1s linear ' + (delay || 0) + 's infinite';  
+            document.body.appendChild(meteor);  
+        }  
+  
+        // 创建多个流星，带随机延迟  
+        for (let i = 0; i < 15; i++) {  
+            createMeteor(Math.random() * 1.5);  
+        }  
+    </script>  
+</body>  
+</html>
 ```
 
 ### 参考资料
