@@ -2201,7 +2201,7 @@
     {
       "path": "2-Areas/Frontend/CSS/变化与过渡.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768820409779
@@ -2217,13 +2217,16 @@
         },
         {
           "timestampMillis": 1768908748872
+        },
+        {
+          "timestampMillis": 1768912198031
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/CSS/CSS动画.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768820429387
@@ -2233,6 +2236,9 @@
         },
         {
           "timestampMillis": 1768911348977
+        },
+        {
+          "timestampMillis": 1768912266219
         }
       ]
     },
