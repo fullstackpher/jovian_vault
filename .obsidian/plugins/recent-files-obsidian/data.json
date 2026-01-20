@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "markdown使用指南",
+      "path": "2-Areas/Knowledge Management/markdown使用指南.md"
+    },
+    {
+      "basename": "卡片笔记法",
+      "path": "2-Areas/Knowledge Management/卡片笔记法.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1-Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
       "basename": "变化与过渡",
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
@@ -133,10 +145,6 @@
       "path": "2-Areas/Frontend/CSS/CSS引入方式.md"
     },
     {
-      "basename": "卡片笔记法",
-      "path": "2-Areas/Knowledge Management/卡片笔记法.md"
-    },
-    {
       "basename": "Translate to Chinese",
       "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
     },
@@ -151,10 +159,6 @@
     {
       "basename": "学习HTML",
       "path": "1-Projects/03-学习前端/学习HTML.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1-Projects/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "学习Spring全家桶",
@@ -195,10 +199,6 @@
     {
       "basename": "HTML标签",
       "path": "2-Areas/Frontend/HTML/HTML标签.md"
-    },
-    {
-      "basename": "CSS工程化",
-      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
     }
   ],
   "omittedPaths": [],

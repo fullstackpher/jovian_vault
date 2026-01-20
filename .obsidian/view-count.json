@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 47,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 50,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -145,6 +145,15 @@
         },
         {
           "timestampMillis": 1768540607596
+        },
+        {
+          "timestampMillis": 1768886547160
+        },
+        {
+          "timestampMillis": 1768886552083
+        },
+        {
+          "timestampMillis": 1768886555505
         }
       ]
     },
@@ -314,8 +323,8 @@
     },
     {
       "path": "1-Projects/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -370,6 +379,9 @@
         },
         {
           "timestampMillis": 1768654849509
+        },
+        {
+          "timestampMillis": 1768886536129
         }
       ]
     },
@@ -937,14 +949,17 @@
     },
     {
       "path": "2-Areas/Knowledge Management/卡片笔记法.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768540838364
         },
         {
           "timestampMillis": 1768707278860
+        },
+        {
+          "timestampMillis": 1768886546263
         }
       ]
     },
