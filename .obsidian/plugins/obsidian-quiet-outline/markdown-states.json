@@ -1561,5 +1561,21 @@
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "1-Projects/Dashboard.md": {
+    "scroll": 56.14219466350489,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
   }
 }
