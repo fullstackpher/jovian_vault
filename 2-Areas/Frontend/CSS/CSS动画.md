@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T20:49
+更新时间: 2026-01-20T21:04
 tags:
   - CSS
 ---
@@ -70,10 +70,55 @@ tags:
 
 ### 动画实战案例
 
+> [!info] 灯泡闪烁效果
+
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>动画效果实战</title>  
+    <style>  
+        * {  
+            margin: 0;  
+            padding: 0;  
+        }  
+  
+        .bulb {  
+            position: absolute;  
+            top: 300px;  
+            left: 300px;  
+        }  
+  
+        .light {  
+            position: absolute;  
+            top: 235px;  
+            left: 222px;  
+            animation: blinking 1s ease 0s infinite alternate;  
+        }  
+  
+        @keyframes blinking {  
+            from {  
+                opacity: 0;  
+            }  
+            to {  
+                opacity: 1;  
+            }  
+        }  
+    </style>  
+</head>  
+<body>  
+<img class="bulb" src="images/bulb.png" alt="">  
+<img class="light" src="images/light.png" alt="">  
+</body>  
+</html>
+```
+
+> [!info] 火箭穿梭效果
+
 ```html
 
 ```
-
 
 ### 参考资料
 - [deepseek](https://chat.deepseek.com/share/dz8ggibhsy2ihgbuvq)
