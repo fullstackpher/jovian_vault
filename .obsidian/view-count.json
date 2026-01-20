@@ -1147,7 +1147,7 @@
     {
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1768556171458
@@ -1199,6 +1199,15 @@
         },
         {
           "timestampMillis": 1768806695812
+        },
+        {
+          "timestampMillis": 1768820399433
+        },
+        {
+          "timestampMillis": 1768820427439
+        },
+        {
+          "timestampMillis": 1768820447098
         }
       ]
     },
@@ -1266,7 +1275,7 @@
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1348,6 +1357,9 @@
         },
         {
           "timestampMillis": 1768797637626
+        },
+        {
+          "timestampMillis": 1768820353007
         }
       ]
     },
@@ -1935,23 +1947,32 @@
     {
       "path": "0_Daily Notes/2026-01-19.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768756238341
         },
         {
           "timestampMillis": 1768756247100
+        },
+        {
+          "timestampMillis": 1768820576752
         }
       ]
     },
     {
       "path": "0_Daily Notes/2026-01-19 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768797604417
+        },
+        {
+          "timestampMillis": 1768820348949
+        },
+        {
+          "timestampMillis": 1768820453990
         }
       ]
     },
@@ -2071,7 +2092,7 @@
     {
       "path": "2-Areas/Frontend/CSS/边框与圆角.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768806682702
@@ -2087,6 +2108,32 @@
         },
         {
           "timestampMillis": 1768820284008
+        },
+        {
+          "timestampMillis": 1768820392530
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1768820409779
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/CSS/CSS动画.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768820429387
+        },
+        {
+          "timestampMillis": 1768820445471
         }
       ]
     }

@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-19",
+      "path": "0_Daily Notes/2026-01-19.md"
+    },
+    {
+      "basename": "2026-01-19 学习日报",
+      "path": "0_Daily Notes/2026-01-19 学习日报.md"
+    },
+    {
+      "basename": "CSS视觉与表现",
+      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
+    },
+    {
+      "basename": "CSS动画",
+      "path": "2-Areas/Frontend/CSS/CSS动画.md"
+    },
+    {
+      "basename": "变化与过渡",
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
+    },
+    {
       "basename": "边框与圆角",
       "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "背景",
@@ -17,28 +41,12 @@
       "path": "_Templates/问题解决方案.md"
     },
     {
-      "basename": "CSS视觉与表现",
-      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
-    },
-    {
       "basename": "项目开发记录",
       "path": "_Templates/项目开发记录.md"
     },
     {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
-    },
-    {
       "basename": "2026-01-18 学习日报",
       "path": "0_Daily Notes/2026-01-18 学习日报.md"
-    },
-    {
-      "basename": "2026-01-19 学习日报",
-      "path": "0_Daily Notes/2026-01-19 学习日报.md"
-    },
-    {
-      "basename": "2026-01-19",
-      "path": "0_Daily Notes/2026-01-19.md"
     },
     {
       "basename": "2026-01-18",
@@ -191,14 +199,6 @@
     {
       "basename": "CSS工程化",
       "path": "2-Areas/Frontend/CSS/CSS工程化.md"
-    },
-    {
-      "basename": "CSS高级特性",
-      "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
-    },
-    {
-      "basename": "markdown使用指南",
-      "path": "2-Areas/Knowledge Management/markdown使用指南.md"
     }
   ],
   "omittedPaths": [],

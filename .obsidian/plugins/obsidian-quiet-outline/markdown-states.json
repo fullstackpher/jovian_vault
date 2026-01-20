@@ -440,7 +440,7 @@
     "expandedKeys": []
   },
   "1-Projects/03-学习前端/学习CSS.md": {
-    "scroll": 20.235416603088378,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 40,
@@ -1035,43 +1035,48 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-19.md": {
-    "scroll": 0,
+    "scroll": 12.19388241556295,
     "cursor": {
       "from": {
-        "line": 21,
+        "line": 32,
         "ch": 2
       },
       "to": {
-        "line": 21,
+        "line": 32,
         "ch": 2
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-2",
+      "item-1-0"
+    ]
   },
   "0_Daily Notes/2026-01-19 学习日报.md": {
-    "scroll": 11.93375,
-    "cursor": {
-      "from": {
-        "line": 9,
-        "ch": 0
-      },
-      "to": {
-        "line": 9,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 49
+        "line": 58,
+        "ch": 0
       },
       "to": {
-        "line": 28,
-        "ch": 49
+        "line": 58,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
+  },
+  "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
+    "scroll": 32.7087599923087,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 7
+      },
+      "to": {
+        "line": 49,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -1165,6 +1170,48 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/边框与圆角.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "变化与过渡.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "CSS动画.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/CSS动画.md": {
     "scroll": 0,
     "cursor": {
       "from": {
