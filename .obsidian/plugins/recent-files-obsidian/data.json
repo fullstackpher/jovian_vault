@@ -5,6 +5,18 @@
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
+      "basename": "float浮动+margin布局",
+      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
+    },
+    {
+      "basename": "flexbox布局",
+      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
+    },
+    {
       "basename": "webstorm常用插件汇总",
       "path": "thought/webstorm常用插件汇总.md"
     },
@@ -77,10 +89,6 @@
       "path": "2-Areas/Frontend/CSS/边框与圆角.md"
     },
     {
-      "basename": "table表格布局",
-      "path": "2-Areas/Frontend/CSS/table表格布局.md"
-    },
-    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
     },
@@ -147,14 +155,6 @@
     {
       "basename": "响应式布局",
       "path": "2-Areas/Frontend/CSS/响应式布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
     },
     {
       "basename": "CSS基础概念",
