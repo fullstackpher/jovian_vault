@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T20:24
+更新时间: 2026-01-20T20:28
 tags:
   - CSS
 ---
@@ -24,3 +24,15 @@ tags:
 ### 动画的调用
 - 定义动画之后，就可以使用`animation`属性调用动画
 - `animation: r 1s linear 0s;`
+1. `animation-name`：指定要绑定到选择器的关键帧的名称。
+2. `animation-duration`：定义动画完成一个周期所需的时间。
+3. `animation-timing-function`：规定动画的速度曲线（如 linear、ease、ease-in、ease-out、ease-in-out、cubic-bezier(n,n,n,n)）。
+4. `animation-delay`：定义动画何时开始（延迟时间）。
+5. `animation-iteration-count`：定义动画应播放的次数（数字或 infinite）。
+6. `animation-direction`：定义动画是否反向播放（normal、reverse、alternate、alternate-reverse）。
+7. `animation-fill-mode`：规定当动画不播放时（完成或延迟），要应用到元素的样式（none、forwards、backwards、both）。
+8. `animation-play-state`：指定动画是运行还是暂停（running、paused）。
+
+
+### 参考资料
+- [deepseek](https://chat.deepseek.com/share/dz8ggibhsy2ihgbuvq)
