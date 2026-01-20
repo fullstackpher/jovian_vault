@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T20:39
+更新时间: 2026-01-20T20:41
 tags:
   - CSS
 ---
@@ -39,9 +39,10 @@ tags:
 		1. none：默认，动画前后不变
 		2. forwards：保持最后一帧
 		3. backwards：第一帧
-		4. 
-	8. `animation-play-state`：指定动画是运行还是暂停（running、paused）。
-
+		4. both：第一帧和最后一帧
+	8. `animation-play-state`：指定动画是运行还是暂停（running、paused）
+		1. running：运行
+		2. paused：暂停
 
 ### 参考资料
 - [deepseek](https://chat.deepseek.com/share/dz8ggibhsy2ihgbuvq)
