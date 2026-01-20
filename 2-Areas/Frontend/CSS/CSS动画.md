@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T20:41
+更新时间: 2026-01-20T20:49
 tags:
   - CSS
 ---
@@ -43,6 +43,37 @@ tags:
 	8. `animation-play-state`：指定动画是运行还是暂停（running、paused）
 		1. running：运行
 		2. paused：暂停
+
+### 多关键帧动画
+```css
+@keyframes changeColor {  
+    0% {  
+        background-color: red;  
+    }  
+    20% {  
+        background-color: orange;  
+    }  
+    40% {  
+        background-color: yellow;  
+    }  
+    60% {  
+        background-color: green;  
+    }  
+    80% {  
+        background-color: cyan;  
+    }  
+    100% {  
+        background-color: blue;  
+    }  
+}
+```
+
+### 动画实战案例
+
+```html
+
+```
+
 
 ### 参考资料
 - [deepseek](https://chat.deepseek.com/share/dz8ggibhsy2ihgbuvq)
