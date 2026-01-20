@@ -433,8 +433,8 @@
     },
     {
       "path": "Dashboard.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 57,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 58,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -606,6 +606,9 @@
         },
         {
           "timestampMillis": 1768725987962
+        },
+        {
+          "timestampMillis": 1768882951898
         }
       ]
     },
@@ -1146,8 +1149,8 @@
     },
     {
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 20,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1768556171458
@@ -1208,6 +1211,9 @@
         },
         {
           "timestampMillis": 1768820447098
+        },
+        {
+          "timestampMillis": 1768882970941
         }
       ]
     },
@@ -1274,8 +1280,8 @@
     },
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 28,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1360,6 +1366,9 @@
         },
         {
           "timestampMillis": 1768820353007
+        },
+        {
+          "timestampMillis": 1768882956476
         }
       ]
     },
@@ -1650,7 +1659,7 @@
     {
       "path": "2-Areas/Frontend/CSS/table表格布局.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768707006297
@@ -1669,6 +1678,9 @@
         },
         {
           "timestampMillis": 1768882292639
+        },
+        {
+          "timestampMillis": 1768882806046
         }
       ]
     },
@@ -2097,8 +2109,8 @@
     },
     {
       "path": "2-Areas/Frontend/CSS/边框与圆角.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768806682702
@@ -2117,6 +2129,9 @@
         },
         {
           "timestampMillis": 1768820392530
+        },
+        {
+          "timestampMillis": 1768882973031
         }
       ]
     },

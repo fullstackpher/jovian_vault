@@ -440,7 +440,7 @@
     "expandedKeys": []
   },
   "1-Projects/03-学习前端/学习CSS.md": {
-    "scroll": 0,
+    "scroll": 29.34709541807939,
     "cursor": {
       "from": {
         "line": 40,
@@ -517,7 +517,7 @@
     "expandedKeys": []
   },
   "Dashboard.md": {
-    "scroll": 28.6427805620331,
+    "scroll": 24.249735036194668,
     "cursor": {
       "from": {
         "line": 51,
@@ -528,7 +528,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "_Templates/项目模版.md": {
     "scroll": 0,
@@ -727,7 +729,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/table表格布局.md": {
-    "scroll": 0,
+    "scroll": 47.63095219930013,
     "cursor": {
       "from": {
         "line": 119,
@@ -1071,11 +1073,11 @@
     "scroll": 32.7087599923087,
     "cursor": {
       "from": {
-        "line": 49,
+        "line": 48,
         "ch": 7
       },
       "to": {
-        "line": 49,
+        "line": 48,
         "ch": 7
       }
     },
@@ -1173,15 +1175,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 14,
+        "ch": 12
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 14,
+        "ch": 12
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0"
+    ]
   },
   "变化与过渡.md": {
     "scroll": 0,

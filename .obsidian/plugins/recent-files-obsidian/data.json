@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "边框与圆角",
+      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+    },
+    {
+      "basename": "CSS视觉与表现",
+      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1-Projects/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "table表格布局",
       "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
@@ -13,24 +29,12 @@
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
     {
-      "basename": "CSS视觉与表现",
-      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
-    },
-    {
       "basename": "CSS动画",
       "path": "2-Areas/Frontend/CSS/CSS动画.md"
     },
     {
       "basename": "变化与过渡",
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
-    },
-    {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "背景",
@@ -75,10 +79,6 @@
     {
       "basename": "2026-01-17 学习日报",
       "path": "0_Daily Notes/2026-01-17 学习日报.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "CSS布局系统",
