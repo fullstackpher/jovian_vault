@@ -115,7 +115,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-16.md": {
-    "scroll": 0,
+    "scroll": 0.4893882837188378,
     "cursor": {
       "from": {
         "line": 27,
@@ -126,7 +126,10 @@
         "ch": 6
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ]
   },
   "1-Projects/03-学习前端/学习HTML5.md": {
     "scroll": 13.925347169240316,
@@ -514,7 +517,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "Dashboard.md": {
     "scroll": 24.249735036194668,
@@ -589,7 +594,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-17 学习日报.md": {
-    "scroll": 0,
+    "scroll": 34.40077486465126,
     "cursor": {
       "from": {
         "line": 22,
@@ -600,7 +605,9 @@
         "ch": 11
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1"
+    ]
   },
   "_Templates/闪念笔记模板.md": {
     "scroll": 0,
@@ -1025,7 +1032,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-15.md": {
-    "scroll": 24.36200433477655,
+    "scroll": 10.94140617052714,
     "cursor": {
       "from": {
         "line": 4,
@@ -1036,7 +1043,10 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-2",
+      "item-1-0"
+    ]
   },
   "0_Daily Notes/2026-01-19.md": {
     "scroll": 12.19388241556295,
@@ -1518,7 +1528,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "3-Resources/开发工具汇总.md": {
     "scroll": 0,

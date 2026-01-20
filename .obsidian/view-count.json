@@ -429,8 +429,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-15.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768479010074
@@ -440,13 +440,16 @@
         },
         {
           "timestampMillis": 1768726410340
+        },
+        {
+          "timestampMillis": 1768917916327
         }
       ]
     },
     {
-      "path": "3-Resources/Dashboard.md",
+      "path": "Dashboard.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 59,
+      "totalTimesOpened": 61,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -624,6 +627,12 @@
         },
         {
           "timestampMillis": 1768906460505
+        },
+        {
+          "timestampMillis": 1768918374641
+        },
+        {
+          "timestampMillis": 1768918432948
         }
       ]
     },
@@ -660,8 +669,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-16.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768538500726
@@ -683,6 +692,9 @@
         },
         {
           "timestampMillis": 1768726387893
+        },
+        {
+          "timestampMillis": 1768917905697
         }
       ]
     },
@@ -1425,8 +1437,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-17.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768643666886
@@ -1451,6 +1463,9 @@
         },
         {
           "timestampMillis": 1768726372937
+        },
+        {
+          "timestampMillis": 1768917902930
         }
       ]
     },
@@ -1518,8 +1533,8 @@
     },
     {
       "path": "0_Daily Notes/2026-01-17 学习日报.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 37,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 38,
       "openLogs": [
         {
           "timestampMillis": 1768649726778
@@ -1631,6 +1646,9 @@
         },
         {
           "timestampMillis": 1768726147348
+        },
+        {
+          "timestampMillis": 1768917892771
         }
       ]
     },
