@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-19T19:00
-更新时间: 2026-01-20T21:04
+更新时间: 2026-01-20T21:13
 tags:
   - CSS
 ---
@@ -115,6 +115,43 @@ tags:
 ```
 
 > [!info] 火箭穿梭效果
+
+```html
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>动画效果实战2</title>  
+    <style>  
+        * {  
+            margin: 0;  
+            padding: 0;  
+        }  
+  
+        .rocket {  
+            position: absolute;  
+            top: 300px;  
+            left: 800px;  
+            animation: shuttle 2s ease 0s infinite alternate;  
+        }  
+  
+        @keyframes shuttle {  
+            from {  
+                transform: translateX(-50px) translateY(-50px);  
+            }  
+            to {  
+                transform: translateX(50px) translateY(50px);  
+            }  
+        }  
+    </style>  
+</head>  
+<body>  
+<img class="rocket" src="images/rocket.png" alt="">  
+</body>  
+</html>
+```
+
+> [!info] 流星雨效果
 
 ```html
 
