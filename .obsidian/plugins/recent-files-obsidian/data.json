@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+      "basename": "变化与过渡",
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
       "basename": "CSS视觉与表现",
@@ -11,6 +11,18 @@
     {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "CSS响应式设计",
+      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
+    },
+    {
+      "basename": "现代 CSS 新特性",
+      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "边框与圆角",
+      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
     },
     {
       "basename": "Dashboard",
@@ -31,10 +43,6 @@
     {
       "basename": "CSS动画",
       "path": "2-Areas/Frontend/CSS/CSS动画.md"
-    },
-    {
-      "basename": "变化与过渡",
-      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
       "basename": "背景",
@@ -187,14 +195,6 @@
     {
       "basename": "HTML标签",
       "path": "2-Areas/Frontend/HTML/HTML标签.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
     {
       "basename": "CSS工程化",

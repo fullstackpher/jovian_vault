@@ -440,15 +440,15 @@
     "expandedKeys": []
   },
   "1-Projects/03-学习前端/学习CSS.md": {
-    "scroll": 29.34709541807939,
+    "scroll": 36.96687645804579,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 13
+        "line": 67,
+        "ch": 2
       },
       "to": {
-        "line": 40,
-        "ch": 13
+        "line": 67,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -1070,15 +1070,15 @@
     ]
   },
   "2-Areas/Frontend/CSS/CSS视觉与表现.md": {
-    "scroll": 16.877631106292363,
+    "scroll": 32.7087599923087,
     "cursor": {
       "from": {
-        "line": 48,
-        "ch": 7
+        "line": 49,
+        "ch": 8
       },
       "to": {
-        "line": 48,
-        "ch": 7
+        "line": 49,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -1221,6 +1221,34 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/CSS动画.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/CSS响应式设计.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 10
+      },
+      "to": {
+        "line": 31,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/变化与过渡.md": {
     "scroll": 0,
     "cursor": {
       "from": {
