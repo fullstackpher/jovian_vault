@@ -606,11 +606,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 7,
         "ch": 0
       }
     },
@@ -1252,12 +1252,12 @@
     "scroll": 17.479478494826836,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 4
+        "line": 29,
+        "ch": 28
       },
       "to": {
-        "line": 23,
-        "ch": 10
+        "line": 29,
+        "ch": 28
       }
     },
     "expandedKeys": []
@@ -1279,15 +1279,15 @@
     ]
   },
   "thought/webstorm常用插件汇总.md": {
-    "scroll": 17.091145833333332,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 6
+        "line": 15,
+        "ch": 0
       },
       "to": {
-        "line": 27,
-        "ch": 6
+        "line": 15,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1312,12 +1312,222 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
+        "line": 17,
+        "ch": 7
+      },
+      "to": {
+        "line": 17,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "VsCode.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 11,
+        "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Visual Studio Code.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sublime Text.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "WebStorm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "IntelliJ IDEA.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Pycharm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clion.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/Clion.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/WebStorm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/Visual Studio Code.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/Sublime Text.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/Pycharm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/IntelliJ IDEA.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/Dashboard.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3-Resources/开发工具汇总.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 19
+      },
+      "to": {
+        "line": 15,
+        "ch": 19
       }
     },
     "expandedKeys": []

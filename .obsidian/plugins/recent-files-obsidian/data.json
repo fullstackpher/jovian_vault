@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "开发工具",
-      "path": "3-Resources/开发工具.md"
+      "basename": "变化与过渡",
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
       "basename": "webstorm常用插件汇总",
       "path": "thought/webstorm常用插件汇总.md"
     },
     {
-      "basename": "变化与过渡",
-      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
+      "basename": "闪念笔记模板",
+      "path": "_Templates/闪念笔记模板.md"
+    },
+    {
+      "basename": "开发工具汇总",
+      "path": "3-Resources/开发工具汇总.md"
+    },
+    {
+      "basename": "IntelliJ IDEA",
+      "path": "3-Resources/IntelliJ IDEA.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "3-Resources/Dashboard.md"
+    },
+    {
+      "basename": "Clion",
+      "path": "3-Resources/Clion.md"
+    },
+    {
+      "basename": "Pycharm",
+      "path": "3-Resources/Pycharm.md"
+    },
+    {
+      "basename": "Sublime Text",
+      "path": "3-Resources/Sublime Text.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "3-Resources/Visual Studio Code.md"
+    },
+    {
+      "basename": "WebStorm",
+      "path": "3-Resources/WebStorm.md"
     },
     {
       "basename": "markdown使用指南",
@@ -43,10 +75,6 @@
     {
       "basename": "边框与圆角",
       "path": "2-Areas/Frontend/CSS/边框与圆角.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "table表格布局",
@@ -171,34 +199,6 @@
     {
       "basename": "学习Spring全家桶",
       "path": "1-Projects/01-学习Java/学习Spring全家桶.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1-Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1-Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "_Templates/项目模版.md"
-    },
-    {
-      "basename": "闪念笔记模板",
-      "path": "_Templates/闪念笔记模板.md"
-    },
-    {
-      "basename": "实用代码片段",
-      "path": "_Templates/实用代码片段.md"
-    },
-    {
-      "basename": "obsidian excalidraw插件",
-      "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
-    },
-    {
-      "basename": "面试题八股文",
-      "path": "_Templates/面试题八股文.md"
     }
   ],
   "omittedPaths": [],

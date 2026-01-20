@@ -444,9 +444,9 @@
       ]
     },
     {
-      "path": "Dashboard.md",
+      "path": "3-Resources/Dashboard.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 58,
+      "totalTimesOpened": 59,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -621,6 +621,9 @@
         },
         {
           "timestampMillis": 1768882951898
+        },
+        {
+          "timestampMillis": 1768906460505
         }
       ]
     },
@@ -1630,8 +1633,8 @@
     },
     {
       "path": "_Templates/闪念笔记模板.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768651043593
@@ -1641,6 +1644,9 @@
         },
         {
           "timestampMillis": 1768651661001
+        },
+        {
+          "timestampMillis": 1768906529517
         }
       ]
     },
@@ -2186,7 +2192,7 @@
     {
       "path": "2-Areas/Frontend/CSS/变化与过渡.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768820409779
@@ -2196,6 +2202,9 @@
         },
         {
           "timestampMillis": 1768886633002
+        },
+        {
+          "timestampMillis": 1768906566674
         }
       ]
     },
@@ -2215,23 +2224,140 @@
     {
       "path": "thought/webstorm常用插件汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768905543595
+        },
+        {
+          "timestampMillis": 1768906493316
+        },
+        {
+          "timestampMillis": 1768906545382
         }
       ]
     },
     {
-      "path": "3-Resources/开发工具.md",
+      "path": "3-Resources/开发工具汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768905623757
         },
         {
           "timestampMillis": 1768905644143
+        },
+        {
+          "timestampMillis": 1768906245900
+        },
+        {
+          "timestampMillis": 1768906283214
+        },
+        {
+          "timestampMillis": 1768906299971
+        },
+        {
+          "timestampMillis": 1768906303866
+        },
+        {
+          "timestampMillis": 1768906306278
+        },
+        {
+          "timestampMillis": 1768906454336
+        },
+        {
+          "timestampMillis": 1768906462718
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/Visual Studio Code.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906239932
+        },
+        {
+          "timestampMillis": 1768906367114
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/Sublime Text.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906277728
+        },
+        {
+          "timestampMillis": 1768906382550
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/WebStorm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906298699
+        },
+        {
+          "timestampMillis": 1768906338211
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/IntelliJ IDEA.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906302795
+        },
+        {
+          "timestampMillis": 1768906428596
+        },
+        {
+          "timestampMillis": 1768906461621
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/Pycharm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906305511
+        },
+        {
+          "timestampMillis": 1768906403198
+        }
+      ]
+    },
+    {
+      "path": "3-Resources/Clion.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1768906307994
+        },
+        {
+          "timestampMillis": 1768906315256
+        },
+        {
+          "timestampMillis": 1768906331199
+        },
+        {
+          "timestampMillis": 1768906441957
+        },
+        {
+          "timestampMillis": 1768906458954
         }
       ]
     }
