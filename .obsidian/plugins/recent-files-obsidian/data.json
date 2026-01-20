@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "flexbox布局",
       "path": "2-Areas/Frontend/CSS/flexbox布局.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "2-Areas/Frontend/CSS/table表格布局.md"
     },
     {
       "basename": "float浮动+margin布局",
