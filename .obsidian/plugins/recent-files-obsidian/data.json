@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS工程化",
+      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
+    },
+    {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Translate to Chinese",
       "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
     }
   ],
   "omittedPaths": [],
