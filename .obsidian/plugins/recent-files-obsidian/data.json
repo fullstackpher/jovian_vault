@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "响应式布局",
+      "path": "2-Areas/Frontend/CSS/响应式布局.md"
+    },
+    {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
+      "basename": "行内元素与块元素",
+      "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
+    },
+    {
+      "basename": "现代 CSS 新特性",
+      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "文本与字体",
+      "path": "2-Areas/Frontend/CSS/文本与字体.md"
+    },
+    {
+      "basename": "盒模型",
+      "path": "2-Areas/Frontend/CSS/盒模型.md"
+    },
+    {
+      "basename": "变化与过渡",
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
+    },
+    {
+      "basename": "边框与圆角",
+      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
+    },
+    {
+      "basename": "背景",
+      "path": "2-Areas/Frontend/CSS/背景.md"
+    },
+    {
       "basename": "CSS视觉与表现",
       "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
     },
@@ -43,18 +79,6 @@
     {
       "basename": "CSS动画",
       "path": "2-Areas/Frontend/CSS/CSS动画.md"
-    },
-    {
-      "basename": "变化与过渡",
-      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
-    },
-    {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
-    },
-    {
-      "basename": "背景",
-      "path": "2-Areas/Frontend/CSS/背景.md"
     },
     {
       "basename": "table表格布局",
@@ -117,16 +141,8 @@
       "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
     {
-      "basename": "现代 CSS 新特性",
-      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
-    },
-    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
-    },
-    {
-      "basename": "文本与字体",
-      "path": "2-Areas/Frontend/CSS/文本与字体.md"
     },
     {
       "basename": "问题解决方案",
@@ -145,28 +161,12 @@
       "path": "1-Projects/项目看板.md"
     },
     {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
-    },
-    {
       "basename": "inline-block布局",
       "path": "2-Areas/Frontend/CSS/inline-block布局.md"
     },
     {
-      "basename": "响应式布局",
-      "path": "2-Areas/Frontend/CSS/响应式布局.md"
-    },
-    {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
-    },
-    {
-      "basename": "行内元素与块元素",
-      "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
-    },
-    {
-      "basename": "盒模型",
-      "path": "2-Areas/Frontend/CSS/盒模型.md"
     },
     {
       "basename": "CSS层叠、继承、值计算",

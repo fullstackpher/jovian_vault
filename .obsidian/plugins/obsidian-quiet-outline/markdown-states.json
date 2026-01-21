@@ -457,7 +457,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/现代 CSS 新特性.md": {
-    "scroll": 0,
+    "scroll": 5.063291139240507,
     "cursor": {
       "from": {
         "line": 11,
@@ -492,15 +492,15 @@
     ]
   },
   "2-Areas/Frontend/CSS/CSS布局系统.md": {
-    "scroll": 0,
+    "scroll": 13.330307733517817,
     "cursor": {
       "from": {
-        "line": 39,
-        "ch": 6
+        "line": 23,
+        "ch": 7
       },
       "to": {
-        "line": 39,
-        "ch": 6
+        "line": 23,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -961,10 +961,12 @@
         "ch": 22
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0"
+    ]
   },
   "2-Areas/Frontend/CSS/盒模型.md": {
-    "scroll": 337.6974678834279,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 353,
@@ -975,7 +977,14 @@
         "ch": 25
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-4-20",
+      "item-3-1",
+      "item-2-0",
+      "item-4-27",
+      "item-4-11",
+      "item-4-4"
+    ]
   },
   "2-Areas/Frontend/CSS/float浮动+margin布局.md": {
     "scroll": 326.0555534362793,
@@ -1020,7 +1029,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/响应式布局.md": {
-    "scroll": 0,
+    "scroll": 338.0332513874469,
     "cursor": {
       "from": {
         "line": 136,
@@ -1031,7 +1040,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0"
+    ]
   },
   "0_Daily Notes/2026-01-15.md": {
     "scroll": 10.94140617052714,
@@ -1086,11 +1097,11 @@
     "cursor": {
       "from": {
         "line": 49,
-        "ch": 8
+        "ch": 6
       },
       "to": {
         "line": 49,
-        "ch": 8
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -1110,7 +1121,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/文本与字体.md": {
-    "scroll": 0,
+    "scroll": 170.8776265393596,
     "cursor": {
       "from": {
         "line": 193,
@@ -1156,7 +1167,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/背景.md": {
-    "scroll": 0,
+    "scroll": 77.80108551752,
     "cursor": {
       "from": {
         "line": 89,
@@ -1184,7 +1195,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/边框与圆角.md": {
-    "scroll": 209.83184423900786,
+    "scroll": 212.71005860964456,
     "cursor": {
       "from": {
         "line": 225,
@@ -1261,15 +1272,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/变化与过渡.md": {
-    "scroll": 113.96130325680687,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 15
+        "line": 8,
+        "ch": 93
       },
       "to": {
-        "line": 26,
-        "ch": 15
+        "line": 8,
+        "ch": 93
       }
     },
     "expandedKeys": []
