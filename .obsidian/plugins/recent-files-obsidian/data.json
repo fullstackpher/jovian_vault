@@ -5,16 +5,16 @@
       "path": "2-Areas/Frontend/CSS/响应式单位.md"
     },
     {
+      "basename": "CSS响应式设计",
+      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
+    },
+    {
       "basename": "媒体查询",
       "path": "2-Areas/Frontend/CSS/媒体查询.md"
     },
     {
       "basename": "响应式图片",
       "path": "2-Areas/Frontend/CSS/响应式图片.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
     {
       "basename": "学习CSS",
