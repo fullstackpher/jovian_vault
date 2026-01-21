@@ -3,10 +3,10 @@
   "Components@@outline-enhanced": true,
   "Components@@new-tab-btn-select": "new-tab-text-btn-restore",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
   "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light",
   "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire",
-  "phycat-theme-settings@@light-color-scheme": "theme-light-prussian"
+  "phycat-theme-settings@@light-color-scheme": "theme-light-sakura"
 }
