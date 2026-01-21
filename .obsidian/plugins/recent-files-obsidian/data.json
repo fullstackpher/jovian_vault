@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "响应式布局",
-      "path": "2-Areas/Frontend/CSS/响应式布局.md"
+      "basename": "变化与过渡",
+      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
+    },
+    {
+      "basename": "float浮动+margin布局",
+      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
     },
     {
       "basename": "CSS布局系统",
       "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
+      "basename": "inline-block布局",
+      "path": "2-Areas/Frontend/CSS/inline-block布局.md"
+    },
+    {
+      "basename": "flexbox布局",
+      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
+    },
+    {
+      "basename": "响应式布局",
+      "path": "2-Areas/Frontend/CSS/响应式布局.md"
     },
     {
       "basename": "行内元素与块元素",
@@ -23,10 +43,6 @@
     {
       "basename": "盒模型",
       "path": "2-Areas/Frontend/CSS/盒模型.md"
-    },
-    {
-      "basename": "变化与过渡",
-      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     },
     {
       "basename": "边框与圆角",
@@ -79,18 +95,6 @@
     {
       "basename": "CSS动画",
       "path": "2-Areas/Frontend/CSS/CSS动画.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "2-Areas/Frontend/CSS/table表格布局.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
     },
     {
       "basename": "闪念笔记模板",
@@ -159,10 +163,6 @@
     {
       "basename": "项目看板",
       "path": "1-Projects/项目看板.md"
-    },
-    {
-      "basename": "inline-block布局",
-      "path": "2-Areas/Frontend/CSS/inline-block布局.md"
     },
     {
       "basename": "CSS基础概念",
