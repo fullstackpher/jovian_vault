@@ -1066,7 +1066,7 @@
     ]
   },
   "0_Daily Notes/2026-01-19.md": {
-    "scroll": 12.19388241556295,
+    "scroll": 28.47786219914754,
     "cursor": {
       "from": {
         "line": 32,
@@ -1279,12 +1279,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 2
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 8,
-        "ch": 2
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1592,5 +1592,33 @@
     "expandedKeys": [
       "item-2-0"
     ]
+  },
+  "2-Areas/Frontend/CSS/[摘要] 变化与过渡.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2026-01-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

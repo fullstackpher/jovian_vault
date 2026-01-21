@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
-    },
-    {
       "basename": "变化与过渡",
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
+    },
+    {
+      "basename": "2026-01-19",
+      "path": "0_Daily Notes/2026-01-19.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "float浮动+margin布局",
@@ -145,10 +149,6 @@
       "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
     },
     {
-      "basename": "2026-01-19",
-      "path": "0_Daily Notes/2026-01-19.md"
-    },
-    {
       "basename": "问题解决方案",
       "path": "_Templates/问题解决方案.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "学习HTML",
       "path": "1-Projects/03-学习前端/学习HTML.md"
-    },
-    {
-      "basename": "学习Spring全家桶",
-      "path": "1-Projects/01-学习Java/学习Spring全家桶.md"
     }
   ],
   "omittedPaths": [],
