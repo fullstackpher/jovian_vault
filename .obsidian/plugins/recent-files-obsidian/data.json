@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "CSS工程化",
-      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "CSS响应式设计",
+      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
+    },
+    {
+      "basename": "现代 CSS 新特性",
+      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
     },
     {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
-      "basename": "响应式图片",
-      "path": "2-Areas/Frontend/CSS/响应式图片.md"
+      "basename": "CSS高级特性",
+      "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
     },
     {
-      "basename": "CSS响应式设计",
-      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
+      "basename": "CSS工程化",
+      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
+    },
+    {
+      "basename": "响应式图片",
+      "path": "2-Areas/Frontend/CSS/响应式图片.md"
     },
     {
       "basename": "响应式单位",
@@ -31,10 +43,6 @@
     {
       "basename": "2026-01-20 学习日报",
       "path": "0_Daily Notes/2026-01-20 学习日报.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "2026-01-19",
@@ -67,10 +75,6 @@
     {
       "basename": "行内元素与块元素",
       "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
     },
     {
       "basename": "文本与字体",
@@ -195,10 +199,6 @@
     {
       "basename": "CSS引入方式",
       "path": "2-Areas/Frontend/CSS/CSS引入方式.md"
-    },
-    {
-      "basename": "Translate to Chinese",
-      "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
     }
   ],
   "omittedPaths": [],
