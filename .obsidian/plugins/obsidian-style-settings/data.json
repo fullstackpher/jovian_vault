@@ -6,5 +6,7 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
-  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light"
+  "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light",
+  "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire",
+  "phycat-theme-settings@@light-color-scheme": "theme-light-prussian"
 }

@@ -2348,7 +2348,7 @@
     {
       "path": "2-Areas/Frontend/CSS/变化与过渡.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1768820409779
@@ -2397,6 +2397,9 @@
         },
         {
           "timestampMillis": 1768972774957
+        },
+        {
+          "timestampMillis": 1768972910622
         }
       ]
     },
@@ -2566,14 +2569,17 @@
     },
     {
       "path": "0_Daily Notes/2026-01-20 学习日报.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768917335818
         },
         {
           "timestampMillis": 1768918535698
+        },
+        {
+          "timestampMillis": 1768972808964
         }
       ]
     }
