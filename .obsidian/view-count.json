@@ -449,7 +449,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 72,
+      "totalTimesOpened": 74,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -666,6 +666,12 @@
         },
         {
           "timestampMillis": 1768971586973
+        },
+        {
+          "timestampMillis": 1768972776422
+        },
+        {
+          "timestampMillis": 1768972780058
         }
       ]
     },
@@ -2342,7 +2348,7 @@
     {
       "path": "2-Areas/Frontend/CSS/变化与过渡.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768820409779
@@ -2388,6 +2394,9 @@
         },
         {
           "timestampMillis": 1768972605858
+        },
+        {
+          "timestampMillis": 1768972774957
         }
       ]
     },
