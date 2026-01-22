@@ -950,7 +950,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/行内元素与块元素.md": {
-    "scroll": 4.013377926421405,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 19,
@@ -966,7 +966,7 @@
     ]
   },
   "2-Areas/Frontend/CSS/盒模型.md": {
-    "scroll": 0,
+    "scroll": 386.41513529403096,
     "cursor": {
       "from": {
         "line": 353,
@@ -1033,7 +1033,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/响应式布局.md": {
-    "scroll": 338.0332513874469,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 136,
@@ -1125,7 +1125,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/文本与字体.md": {
-    "scroll": 170.8776265393596,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 193,
@@ -1171,7 +1171,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/背景.md": {
-    "scroll": 77.80108551752,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 89,
@@ -1199,7 +1199,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/边框与圆角.md": {
-    "scroll": 212.71005860964456,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 225,
@@ -1276,7 +1276,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/变化与过渡.md": {
-    "scroll": 0,
+    "scroll": 95.63392987043378,
     "cursor": {
       "from": {
         "line": 215,
@@ -1598,11 +1598,11 @@
     "cursor": {
       "from": {
         "line": 9,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 9,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -1692,7 +1692,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/响应式单位.md": {
-    "scroll": 0,
+    "scroll": 14.624858085791569,
     "cursor": {
       "from": {
         "line": 25,
@@ -1840,7 +1840,7 @@
     "expandedKeys": []
   },
   "copilot/copilot-conversations/灵活设置padding属性，请给我优化这段笔记@20260117_154006.md": {
-    "scroll": 0,
+    "scroll": 259.38268679793805,
     "cursor": {
       "from": {
         "line": 9,
@@ -1851,6 +1851,8 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0"
+    ]
   }
 }
