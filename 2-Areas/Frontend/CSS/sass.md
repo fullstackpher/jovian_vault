@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:14
-更新时间: 2026-01-22T15:02
+更新时间: 2026-01-22T15:07
 tags:
   - CSS
 ---
@@ -122,9 +122,26 @@ body {
 
 ### loop
 ```scss
-
+@mixin gen-col($n) {  
+  @if $n > 0 {  
+    @include gen-col($n - 1);  
+    .col-#{$n} {  
+      width: 1000px /12 * $n;  
+    }  
+  }  
+}  
+  
+@include gen-col(12);
 ```
 
+简写版本：
+```scss
+@for $i from 1 through 12 {  
+  .col-#{$i} {  
+    width: 1000px / 12*$i;  
+  }  
+}
+```
 
 ### import
 
