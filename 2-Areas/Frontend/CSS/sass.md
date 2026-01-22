@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:14
-更新时间: 2026-01-22T14:42
+更新时间: 2026-01-22T14:55
 tags:
   - CSS
 ---
@@ -84,4 +84,39 @@ body {
 > [!tip] 使用sass的mixin可以实现css复用
 > 	定义复用的部分使用@mixin xxx
 > 	调用的部分使用@include xxx
+
+### extend
+```scss
+$bgColor: #f5f5f5;  
+$fontSize: 16px;  
+  
+body {  
+  padding: 0;  
+  margin: 0;  
+}  
+  
+.block {  
+  font-size: $fontSize;  
+  border: 1px solid #ccc;  
+  border-radius: 4px;  
+}  
+  
+.wrapper {  
+  background: adjust-color($bgColor, $lightness: 50%);  
+  
+  .nav {  
+    @extend .block;  
+    color: #333;  
+  }  
+  
+  .content {  
+    @extend .block;  
+    &:hover {  
+      background: $bgColor;  
+    }  
+  }  
+}
+```
+
+> [!tip] 使用@extend + 选中继承样式的选择器
 
