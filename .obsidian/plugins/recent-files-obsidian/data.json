@@ -5,6 +5,14 @@
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
+      "basename": "现代 CSS 新特性",
+      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
       "basename": "CSS工程化",
       "path": "2-Areas/Frontend/CSS/CSS工程化.md"
     },
@@ -89,10 +97,6 @@
       "path": "2-Areas/Frontend/CSS/响应式布局.md"
     },
     {
-      "basename": "现代 CSS 新特性",
-      "path": "2-Areas/Frontend/CSS/现代 CSS 新特性.md"
-    },
-    {
       "basename": "文本与字体",
       "path": "2-Areas/Frontend/CSS/文本与字体.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "背景",
       "path": "2-Areas/Frontend/CSS/背景.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "2026-01-21 学习日报",
