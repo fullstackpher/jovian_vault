@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:11
-更新时间: 2026-01-22T14:44
+更新时间: 2026-01-22T14:51
 tags:
   - CSS
 ---
@@ -90,5 +90,35 @@ body {
 
 ### extend
 ```less
-
+@fontSize: 16px;  
+@bgColor: green;  
+  
+body {  
+  padding: 0;  
+  margin: 0;  
+}  
+  
+.block {  
+  font-size: @fontSize;  
+  border: 1px solid #ccc;  
+  border-radius: 4px;  
+}  
+  
+.wrapper {  
+  background: lighten(@bgColor, 40%);  
+  
+  .nav:extend(.block) {  
+    color: #333;  
+  }  
+  
+  .content {  
+    &:extend(.block);  
+    &:hover {  
+      background: @bgColor;  
+    }  
+  }  
+}
 ```
+
+> [!tip] 在选择器后加`:extend()`的方式实现部分样式的继承
+
