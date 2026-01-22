@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "sass",
-      "path": "2-Areas/Frontend/CSS/sass.md"
-    },
-    {
       "basename": "less",
       "path": "2-Areas/Frontend/CSS/less.md"
+    },
+    {
+      "basename": "sass",
+      "path": "2-Areas/Frontend/CSS/sass.md"
     },
     {
       "basename": "CSS高级特性",

@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:11
-更新时间: 2026-01-22T15:02
+更新时间: 2026-01-22T15:10
 tags:
   - CSS
 ---
@@ -138,5 +138,6 @@ body {
 
 ### import
 ```less
-
+@import "./6-import-variable";
+@import "./6-import-module";
 ```
