@@ -1865,5 +1865,19 @@
     "expandedKeys": [
       "item-2-0"
     ]
+  },
+  "1-Projects/03-学习前端/学习JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 53,
+        "ch": 3
+      },
+      "to": {
+        "line": 53,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
   }
 }
