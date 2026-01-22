@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "less",
+      "path": "2-Areas/Frontend/CSS/less.md"
+    },
+    {
+      "basename": "sass",
+      "path": "2-Areas/Frontend/CSS/sass.md"
+    },
+    {
+      "basename": "CSS高级特性",
+      "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
+    },
+    {
+      "basename": "table表格布局",
+      "path": "2-Areas/Frontend/CSS/table表格布局.md"
+    },
+    {
+      "basename": "PostCSS",
+      "path": "2-Areas/Frontend/CSS/PostCSS.md"
+    },
+    {
+      "basename": "inline-block布局",
+      "path": "2-Areas/Frontend/CSS/inline-block布局.md"
+    },
+    {
+      "basename": "float浮动+margin布局",
+      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
+    },
+    {
+      "basename": "flexbox布局",
+      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
+    },
+    {
+      "basename": "CSS引入方式",
+      "path": "2-Areas/Frontend/CSS/CSS引入方式.md"
+    },
+    {
+      "basename": "CSS选择器",
+      "path": "2-Areas/Frontend/CSS/CSS选择器.md"
+    },
+    {
+      "basename": "CSS响应式设计",
+      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
+    },
+    {
+      "basename": "CSS视觉与表现",
+      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
+    },
+    {
+      "basename": "CSS基础概念",
+      "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
+    },
+    {
+      "basename": "CSS工程化",
+      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
+    },
+    {
+      "basename": "CSS动画",
+      "path": "2-Areas/Frontend/CSS/CSS动画.md"
+    },
+    {
+      "basename": "CSS层叠、继承、值计算",
+      "path": "2-Areas/Frontend/CSS/CSS层叠、继承、值计算.md"
+    },
+    {
+      "basename": "CSS布局系统",
+      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
+    },
+    {
       "basename": "行内元素与块元素",
       "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
     },
@@ -45,32 +113,12 @@
       "path": "2-Areas/Frontend/CSS/背景.md"
     },
     {
-      "basename": "less",
-      "path": "2-Areas/Frontend/CSS/less.md"
-    },
-    {
-      "basename": "sass",
-      "path": "2-Areas/Frontend/CSS/sass.md"
-    },
-    {
-      "basename": "CSS高级特性",
-      "path": "2-Areas/Frontend/CSS/CSS高级特性.md"
-    },
-    {
       "basename": "学习CSS",
       "path": "1-Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "Dashboard",
       "path": "1-Projects/Dashboard.md"
-    },
-    {
-      "basename": "CSS工程化",
-      "path": "2-Areas/Frontend/CSS/CSS工程化.md"
-    },
-    {
-      "basename": "PostCSS",
-      "path": "2-Areas/Frontend/CSS/PostCSS.md"
     },
     {
       "basename": "2026-01-21 学习日报",
@@ -81,36 +129,8 @@
       "path": "0_Daily Notes/2026-01-20 学习日报.md"
     },
     {
-      "basename": "CSS响应式设计",
-      "path": "2-Areas/Frontend/CSS/CSS响应式设计.md"
-    },
-    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2-Areas/Frontend/CSS/float浮动+margin布局.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "2-Areas/Frontend/CSS/table表格布局.md"
-    },
-    {
-      "basename": "inline-block布局",
-      "path": "2-Areas/Frontend/CSS/inline-block布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2-Areas/Frontend/CSS/flexbox布局.md"
-    },
-    {
-      "basename": "CSS视觉与表现",
-      "path": "2-Areas/Frontend/CSS/CSS视觉与表现.md"
     },
     {
       "basename": "2026-01-18 学习日报",
@@ -135,10 +155,6 @@
     {
       "basename": "2026-01-17",
       "path": "0_Daily Notes/2026-01-17.md"
-    },
-    {
-      "basename": "CSS动画",
-      "path": "2-Areas/Frontend/CSS/CSS动画.md"
     },
     {
       "basename": "闪念笔记模板",
@@ -183,18 +199,6 @@
     {
       "basename": "学习Obsidian",
       "path": "1-Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "项目开发记录",
-      "path": "_Templates/项目开发记录.md"
-    },
-    {
-      "basename": "2026-01-18",
-      "path": "0_Daily Notes/2026-01-18.md"
     }
   ],
   "omittedPaths": [],
