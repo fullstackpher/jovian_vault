@@ -1879,5 +1879,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-22 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 59,
+        "ch": 0
+      },
+      "to": {
+        "line": 59,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
   }
 }
