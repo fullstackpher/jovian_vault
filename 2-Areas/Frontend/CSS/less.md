@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:11
-更新时间: 2026-01-22T14:32
+更新时间: 2026-01-22T14:37
 tags:
   - CSS
 ---
@@ -55,7 +55,36 @@ body {
 
 ### mixin
 ```less
+@fontSize: 16px;
+@bgColor: green;
+@textColor: #333;
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.block (@fontSize){
+  font-size: @fontSize;
+  border: 1px solid @textColor;
+  border-radius: 4px;
+}
+
+.wrapper {
+  background: lighten(@bgColor, 40%);
+
+  .nav {
+    .block(@fontSize);
+  }
+
+  .content {
+    .block(@fontSize + 2px);
+    &:hover {
+      background: @bgColor;
+    }
+  }
+}
 ```
 
+> [!tip] 使用less的mixin可以实现css复用
 
