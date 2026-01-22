@@ -1578,7 +1578,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 43.096353928248085,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 4,
@@ -1732,5 +1732,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-21 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 10
+      },
+      "to": {
+        "line": 62,
+        "ch": 10
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
   }
 }
