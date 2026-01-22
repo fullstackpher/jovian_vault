@@ -1398,8 +1398,8 @@
     },
     {
       "path": "2-Areas/Frontend/CSS/CSS工程化.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768556281007
@@ -1412,6 +1412,9 @@
         },
         {
           "timestampMillis": 1768975702264
+        },
+        {
+          "timestampMillis": 1769055080371
         }
       ]
     },
@@ -1442,8 +1445,8 @@
     },
     {
       "path": "1-Projects/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 43,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 44,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1573,6 +1576,9 @@
         },
         {
           "timestampMillis": 1768998894035
+        },
+        {
+          "timestampMillis": 1769055047730
         }
       ]
     },
