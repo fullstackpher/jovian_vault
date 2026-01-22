@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-22T13:14
-更新时间: 2026-01-22T14:31
+更新时间: 2026-01-22T14:42
 tags:
   - CSS
 ---
@@ -48,4 +48,40 @@ body {
 
 > [!tip] sass中使用$变量的方式定义变量
 > 		调用时使用$变量的方式
+
+### mixin
+```scss
+$bgColor: #f5f5f5;
+$fontSize: 16px;
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+@mixin block($fontSize) {
+  font-size: $fontSize;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.wrapper {
+  background: adjust-color($bgColor, $lightness: 50%);
+
+  .nav {
+    @include block($fontSize);
+  }
+
+  .content {
+    @include block($fontSize + 2px);
+    &:hover {
+      background: $bgColor;
+    }
+  }
+}
+```
+
+> [!tip] 使用sass的mixin可以实现css复用
+> 	定义复用的部分使用@mixin xxx
+> 	调用的部分使用@include xxx
 
