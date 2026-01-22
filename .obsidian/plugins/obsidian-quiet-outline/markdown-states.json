@@ -1720,15 +1720,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/CSS/CSS高级特性.md": {
-    "scroll": 28.82141298372882,
+    "scroll": 22.640760107928518,
     "cursor": {
       "from": {
-        "line": 36,
-        "ch": 0
+        "line": 42,
+        "ch": 5
       },
       "to": {
-        "line": 36,
-        "ch": 0
+        "line": 42,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -1782,5 +1782,75 @@
       "item-2-23",
       "item-2-27"
     ]
+  },
+  "less.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "sass.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/sass.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/CSS/less.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "copilot/copilot-conversations/灵活设置padding属性，请给我优化这段笔记@20260117_154006.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
