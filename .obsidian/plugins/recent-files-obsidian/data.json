@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PostCSS",
+      "path": "2-Areas/Frontend/CSS/PostCSS.md"
+    },
+    {
       "basename": "CSS工程化",
       "path": "2-Areas/Frontend/CSS/CSS工程化.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CSS层叠、继承、值计算",
       "path": "2-Areas/Frontend/CSS/CSS层叠、继承、值计算.md"
-    },
-    {
-      "basename": "CSS选择器",
-      "path": "2-Areas/Frontend/CSS/CSS选择器.md"
     }
   ],
   "omittedPaths": [],
