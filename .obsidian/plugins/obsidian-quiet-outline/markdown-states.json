@@ -1914,15 +1914,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 8,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 8,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0"
+    ]
   },
   "邂逅JavaScript.md": {
     "scroll": 0,
