@@ -1981,17 +1981,19 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/邂逅JavaScript.md": {
-    "scroll": 22.33020371861301,
+    "scroll": 23.688396726212005,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 0
+        "line": 26,
+        "ch": 31
       },
       "to": {
-        "line": 23,
-        "ch": 0
+        "line": 26,
+        "ch": 31
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-1"
+    ]
   }
 }
