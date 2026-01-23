@@ -1867,15 +1867,15 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 45.03156878388562,
+    "scroll": 36.984283789851816,
     "cursor": {
       "from": {
-        "line": 42,
-        "ch": 22
+        "line": 47,
+        "ch": 21
       },
       "to": {
-        "line": 42,
-        "ch": 22
+        "line": 47,
+        "ch": 21
       }
     },
     "expandedKeys": []
@@ -1942,15 +1942,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/JavaScript基础概念.md": {
-    "scroll": 12.570751924215513,
+    "scroll": 16.0947306098283,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 7
+        "line": 35,
+        "ch": 5
       },
       "to": {
-        "line": 34,
-        "ch": 7
+        "line": 35,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -2003,15 +2003,59 @@
     ]
   },
   "2-Areas/Frontend/JS/变量和数据类型.md": {
-    "scroll": 80.88247483718176,
+    "scroll": 83.548549437537,
     "cursor": {
       "from": {
-        "line": 91,
+        "line": 97,
+        "ch": 0
+      },
+      "to": {
+        "line": 97,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-3"
+    ]
+  },
+  "2-Areas/Frontend/JS/JavaScript表达式.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
         "ch": 9
       },
       "to": {
-        "line": 91,
+        "line": 13,
         "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "运算符.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/运算符.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []

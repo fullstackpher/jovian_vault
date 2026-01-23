@@ -3033,7 +3033,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3043,6 +3043,15 @@
         },
         {
           "timestampMillis": 1769140825686
+        },
+        {
+          "timestampMillis": 1769159326352
+        },
+        {
+          "timestampMillis": 1769159516897
+        },
+        {
+          "timestampMillis": 1769159585553
         }
       ]
     },
@@ -3062,7 +3071,7 @@
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769141836568
@@ -3078,6 +3087,15 @@
         },
         {
           "timestampMillis": 1769154710472
+        },
+        {
+          "timestampMillis": 1769159448906
+        },
+        {
+          "timestampMillis": 1769159511716
+        },
+        {
+          "timestampMillis": 1769159599773
         }
       ]
     },
@@ -3146,7 +3164,7 @@
     {
       "path": "2-Areas/Frontend/JS/变量和数据类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769142148193
@@ -3159,6 +3177,22 @@
         },
         {
           "timestampMillis": 1769154775631
+        },
+        {
+          "timestampMillis": 1769159638042
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/运算符.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769159618437
+        },
+        {
+          "timestampMillis": 1769159635752
         }
       ]
     }
