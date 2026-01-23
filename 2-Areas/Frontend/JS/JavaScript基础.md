@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T15:07
+更新时间: 2026-01-23T15:19
 tags:
   - JavaScript
 ---
@@ -88,4 +88,12 @@ Chrome可以调试JavaScript，通过控制台可以显示console函数输出的
 	- 这也被称之为**自动插入分号**（an automatic semicolon）；
 
 ### JavaScript注释方式
+
+> [!tip] JavaScript注释主要分为三种
+
+- 单行注释
+- 多行注释
+- 文档注释（VSCode中需要单独的JS文件中编写才有效）
+
+> [!danger] JavaScript不支持注释的嵌套
 
