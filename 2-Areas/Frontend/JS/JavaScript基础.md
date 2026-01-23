@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:11
+更新时间: 2026-01-23T14:12
 tags:
   - JavaScript
 ---
@@ -22,6 +22,15 @@ tags:
 
 #### 位置三：外部的script文件
 - 需要通过script元素的**src属性**来**引入JavaScript文件**
+```html
+<script src="01_abc.js"></script>
+```
+
+```js
+document.querySelector('.bing').onclick = function() {
+    alert('Bing一下!');
+}
+```
 
 ### noscript元素的使用
 
