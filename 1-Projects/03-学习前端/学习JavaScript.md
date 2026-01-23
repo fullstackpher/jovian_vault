@@ -49,8 +49,9 @@ limit 100
 - [ ] 学习JavaScriptDOM
 - [ ] 学习JavaScriptBOM
 - [ ] 学习Promise
+- [ ] 学习正则表达式
 - [ ] 学习Ajax
-- [ ] 学习
+- [ ] 学习闭包
 - [ ] 学习ES6
 
 
