@@ -1,15 +1,24 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:08
+更新时间: 2026-01-23T14:10
 tags:
   - JavaScript
 ---
 ### JavaScript编写方式
 #### 位置一：HTML代码行内（不推荐）
 ```html
-
+<a href="javascript: alert('百度一下')" onclick="alert('百度一下')">百度一下</a>
 ```
 
+#### 位置二：script元素内（重点）
+```html
+<a href="#" class="google">Google一下</a>
+<script>
+	document.querySelector('.google').onclick = function () {
+		alert('Google一下');
+	}
+</script>
+```
 
 ### noscript元素的使用
 
