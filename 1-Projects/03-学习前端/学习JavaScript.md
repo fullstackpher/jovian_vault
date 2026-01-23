@@ -40,8 +40,13 @@ limit 100
 
 #### 🕒 项目进度条
 
-- [ ] 学习JavaScript基础
-- [ ] 
+- [ ] 学习JavaScript基础语法
+- [ ] 学习JavaScript表达式
+- [ ] 学习JavaScript流程控制语句
+- [ ] 学习JavaScript数组
+- [ ] 学习JavaScript函数
+- [ ] 学习JavaScriptDOM
+- [ ] 学习JavaScript面向对象
 
   
   
