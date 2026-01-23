@@ -1911,15 +1911,57 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/JavaScript基础.md": {
-    "scroll": 16.118784358920237,
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 8
+      },
+      "to": {
+        "line": 32,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "邂逅JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/JavaScript基础概念.md": {
+    "scroll": 19.90726098432266,
     "cursor": {
       "from": {
         "line": 33,
-        "ch": 4
+        "ch": 10
       },
       "to": {
         "line": 33,
-        "ch": 4
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "JavaScript基础.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
       }
     },
     "expandedKeys": []

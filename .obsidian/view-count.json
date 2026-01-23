@@ -3057,12 +3057,35 @@
       ]
     },
     {
-      "path": "2-Areas/Frontend/JS/JavaScript基础.md",
+      "path": "2-Areas/Frontend/JS/JavaScript基础概念.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769141836568
+        },
+        {
+          "timestampMillis": 1769142119082
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/邂逅JavaScript.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1769141836568
+          "timestampMillis": 1769142096253
+        }
+      ]
+    },
+    {
+      "path": "JavaScript基础.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769142137129
         }
       ]
     }
