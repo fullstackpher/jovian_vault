@@ -2006,12 +2006,12 @@
     "scroll": 83.548549437537,
     "cursor": {
       "from": {
-        "line": 101,
-        "ch": 6
+        "line": 106,
+        "ch": 36
       },
       "to": {
-        "line": 101,
-        "ch": 6
+        "line": 106,
+        "ch": 36
       }
     },
     "expandedKeys": [
