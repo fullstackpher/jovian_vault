@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:20
+更新时间: 2026-01-23T14:26
 tags:
   - JavaScript
 ---
@@ -39,9 +39,11 @@ document.querySelector('.bing').onclick = function() {
 - 下面的情况下，浏览器将显示包含在`<noscript>`中的内容：
 	- 浏览器不支持脚本
 	- 浏览器对脚本的支持被关闭
-
+	- Google浏览器 / 设置 / 隐私与安全 / 网站设置 / JavaScript
 ### JavaScript注意事项
-
+#### 注意一：script标签不能写成单标签
+- 在外联式引用JS文件时，script标签中不可以写JavaScript代码，并且script标签不能写成单标签
+- 即不能写成`<script src="index.js"/>`
 
 ### JavaScript交互方式
 

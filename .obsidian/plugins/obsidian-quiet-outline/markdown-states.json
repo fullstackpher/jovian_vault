@@ -1914,16 +1914,17 @@
     "scroll": 33.752604166666664,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 15
+        "line": 46,
+        "ch": 0
       },
       "to": {
-        "line": 40,
-        "ch": 15
+        "line": 46,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-3-0"
+      "item-3-0",
+      "item-3-5"
     ]
   },
   "邂逅JavaScript.md": {
