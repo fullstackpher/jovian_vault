@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:19
+更新时间: 2026-01-23T13:30
 tags:
   - JavaScript
 ---
@@ -89,7 +89,22 @@ JS是一种编程语言
 	- 借鉴Java语言的数据类型和内存管理
 	- 借鉴Scheme语言，将函数提升为一等公民（first class）的地位
 	- 借鉴Self语言，使用基于原型（prototype）的继承机制
+- 微软公司于1995年首次推出Internet Explorer，从而引发了于Netscape的浏览器大战
+	- 微软对Netscape Navigator解释器进行了逆向工程，创建了JScript，以与市场领导地位的网景产品同台竞争
+	- 这个时候对于开发者来说是一场噩耗，因为需要针对不同的浏览器进行不同的适配
+- 1996年11月，网景正式向ECMA（欧洲计算机制造商协会）提交语言标准
+	- 1997年6月，ECMA以JavaScript语言为基础制定了ECMAScript标准规范ECMA-262
+	- ECMA-262是一份标准，定义了ECMAScript
+	- JavaScript成为了ECMAScript最著名的实现之一
+	- 除此之外，ActionScript和JScript也都是ECMAScript规范的实现语言
+- 所以说，ECMAScript是一种规范，而JavaScript是这种规范的一种实现
 
+### JavaScript的组成
+- ECMAScript是JavaScript的标准，描述了该语言的语法和基本对象
+	- JavaScript是ECMAScript的语言层面的实现
+	- 因为除了语言规范之外，**JavaScript还需要对页面和浏览器进行各种操作**；
+	- 除了基本实现之外，还包括**DOM和BOM操作**
+	![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_132954.png)
 ### JavaScript分类
 
 
