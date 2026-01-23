@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:44
+更新时间: 2026-01-23T13:48
 tags:
   - JavaScript
 ---
@@ -132,6 +132,12 @@ JS是一种编程语言
 - JavaScriptCore：Webkit中的JavaScript引擎，Apple公司开发
 - V8：Google开发的强大JavaScript引擎，也帮助Chrome从众多浏览器中脱颖而出
 - 等等...
+
+> [!tip] 浏览器内核和JS引擎的关系
+
+- 这里以webkit为例，webkit事实上由两部分组成：
+	- WebCore：负责HTML解析，布局，渲染等等相关工作
+	- JavaScriptCore：解析，执行JavaScript代码
 
 ### JavaScript应用场景
 
