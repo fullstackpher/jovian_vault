@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:43
+更新时间: 2026-01-23T14:49
 tags:
   - JavaScript
 ---
@@ -57,6 +57,13 @@ document.querySelector('.bing').onclick = function() {
 - HTML元素和CSS属性不区分大小写，但是在JavaScript中严格区分大小写
 
 ### JavaScript交互方式
+
+| 交互方法           | 方法说明    | 效果查看       |
+| -------------- | ------- | ---------- |
+| alert          | 接受一个参数  | 弹窗查看       |
+| console.log    | 接受多个参数  | 在浏览器控制台查看  |
+| document.write | 接受多个字符串 | 在浏览器页面查看   |
+| prompt         | 接受一个参数  | 在浏览器接受用户输入 |
 
 
 ### JavaScript语句和分号
