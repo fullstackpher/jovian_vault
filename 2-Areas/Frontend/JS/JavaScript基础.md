@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:12
+更新时间: 2026-01-23T14:15
 tags:
   - JavaScript
 ---
@@ -33,7 +33,9 @@ document.querySelector('.bing').onclick = function() {
 ```
 
 ### noscript元素的使用
-
+- 如果运行的浏览器不支持JavaScript，那么我们如何给用户更好的提示呢？
+	- 针对早期浏览器不支持JavaScript的问题，需要一个页面优雅降级的处理方案；
+	- 最终，`<noscript>`元素
 
 ### JavaScript注意事项
 
