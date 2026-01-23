@@ -2006,12 +2006,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 11,
+        "ch": 31
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 11,
+        "ch": 31
       }
     },
     "expandedKeys": []
