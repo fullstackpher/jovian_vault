@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:49
+更新时间: 2026-01-23T13:55
 tags:
   - JavaScript
 ---
@@ -129,16 +129,35 @@ JS是一种编程语言
 
 - SpiderMonkey：第一款JavaScript引擎，由Brendan Eich开发（也就是JavaScript作者）
 - Chakra：微软开发，用于IT浏览器
-- JavaScriptCore：Webkit中的JavaScript引擎，Apple公司开发
-- V8：Google开发的强大JavaScript引擎，也帮助Chrome从众多浏览器中脱颖而出
+- **JavaScriptCore**：Webkit中的JavaScript引擎，Apple公司开发
+- **V8**：Google开发的强大JavaScript引擎，也帮助Chrome从众多浏览器中脱颖而出
 - 等等...
 
 > [!tip] 浏览器内核和JS引擎的关系
 
 - 这里以webkit为例，webkit事实上由两部分组成：
-	- WebCore：负责HTML解析，布局，渲染等等相关工作
-	- JavaScriptCore：解析，执行JavaScript代码
+	- **WebCore**：负责HTML解析，布局，渲染等等相关工作
+	- **JavaScriptCore**：解析，执行JavaScript代码
 
 ![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_134921.png)
+
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_135117.png)
+
 ### JavaScript应用场景
 
+- Web开发
+	- 原生JavaScript
+	- React开发
+	- Vue开发
+	- Angular开发
+- 移动端开发
+	- 微信小程序
+	- 支付宝小程序
+	- uniapp
+	- taro
+- 桌面应用开发
+	- Electron
+	- 比如VSCode
+- 后端开发
+	- Node框架
+	- 比如Express、Koa、egg.js

@@ -1914,12 +1914,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 8
+        "line": 23,
+        "ch": 0
       },
       "to": {
-        "line": 32,
-        "ch": 8
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1939,15 +1939,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/JavaScript基础概念.md": {
-    "scroll": 19.90726098432266,
+    "scroll": 19.57892557268691,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 8
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 34,
-        "ch": 8
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1981,15 +1981,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/邂逅JavaScript.md": {
-    "scroll": 141.37691076863484,
+    "scroll": 113.51281488424087,
     "cursor": {
       "from": {
-        "line": 137,
-        "ch": 30
+        "line": 133,
+        "ch": 7
       },
       "to": {
-        "line": 137,
-        "ch": 30
+        "line": 133,
+        "ch": 7
       }
     },
     "expandedKeys": [

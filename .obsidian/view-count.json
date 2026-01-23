@@ -3059,7 +3059,7 @@
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769141836568
@@ -3069,13 +3069,16 @@
         },
         {
           "timestampMillis": 1769142146287
+        },
+        {
+          "timestampMillis": 1769147724288
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/JS/邂逅JavaScript.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769142096253
@@ -3088,19 +3091,31 @@
         },
         {
           "timestampMillis": 1769146374649
+        },
+        {
+          "timestampMillis": 1769147721849
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769142137129
         },
         {
           "timestampMillis": 1769142157398
+        },
+        {
+          "timestampMillis": 1769147719934
+        },
+        {
+          "timestampMillis": 1769147723393
+        },
+        {
+          "timestampMillis": 1769147727185
         }
       ]
     },
