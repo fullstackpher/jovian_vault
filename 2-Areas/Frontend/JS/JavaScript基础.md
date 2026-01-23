@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:36
+更新时间: 2026-01-23T14:43
 tags:
   - JavaScript
 ---
@@ -37,8 +37,8 @@ document.querySelector('.bing').onclick = function() {
 	- 针对早期浏览器不支持JavaScript的问题，需要一个页面优雅降级的处理方案；
 	- 最终，`<noscript>`元素出现，被用于给不支持JavaScript的浏览器提供替代内容
 - 下面的情况下，浏览器将显示包含在`<noscript>`中的内容：
-	- 浏览器不支持脚本
-	- 浏览器对脚本的支持被关闭
+	- **浏览器不支持脚本**
+	- **浏览器对脚本的支持被关闭**
 	- Google浏览器 / 设置 / 隐私与安全 / 网站设置 / JavaScript
 ### JavaScript注意事项
 #### 注意一：script标签**不能写成单标签**
@@ -52,6 +52,10 @@ document.querySelector('.bing').onclick = function() {
 #### 注意三：加载顺序
 - 作为HTML文档内容的一部分，JavaScript遵循**HTML文档的加载顺序**，即**自上而下的加载顺序**
 - 推荐将JavaScript代码和编写位置放在**body子元素的最后一行**
+
+#### 注意四：JavaScript代码严格区分大小写
+- HTML元素和CSS属性不区分大小写，但是在JavaScript中严格区分大小写
+
 ### JavaScript交互方式
 
 
