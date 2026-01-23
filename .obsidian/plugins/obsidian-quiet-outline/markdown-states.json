@@ -1895,5 +1895,33 @@
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "2-Areas/Frontend/JS/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/JavaScript基础.md": {
+    "scroll": 6.8354430379746836,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 2
+      },
+      "to": {
+        "line": 10,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
   }
 }

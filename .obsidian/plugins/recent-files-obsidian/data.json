@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript基础",
+      "path": "2-Areas/Frontend/JS/JavaScript基础.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Visual Studio Code",
       "path": "3-Resources/Visual Studio Code.md"
-    },
-    {
-      "basename": "WebStorm",
-      "path": "3-Resources/WebStorm.md"
     }
   ],
   "omittedPaths": [],

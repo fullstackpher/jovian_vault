@@ -543,14 +543,20 @@
     "1-Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1-Projects/03-学习前端/学习JavaScript.md",
-      "duration": 498000,
-      "openCount": 3
+      "duration": 504000,
+      "openCount": 4
     },
     "0_Daily Notes/2026-01-22 学习日报.md": {
       "fileId": "1769076145107",
       "filePath": "0_Daily Notes/2026-01-22 学习日报.md",
       "duration": 426000,
       "openCount": 3
+    },
+    "2-Areas/Frontend/JS/JavaScript基础.md": {
+      "fileId": "1769141839840",
+      "filePath": "2-Areas/Frontend/JS/JavaScript基础.md",
+      "duration": 36000,
+      "openCount": 1
     }
   }
 }
