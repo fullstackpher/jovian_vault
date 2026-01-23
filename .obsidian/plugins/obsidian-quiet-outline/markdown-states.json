@@ -1911,7 +1911,7 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/JavaScript基础.md": {
-    "scroll": 5.05,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 89,
@@ -2003,15 +2003,15 @@
     ]
   },
   "2-Areas/Frontend/JS/变量和数据类型.md": {
-    "scroll": 147.56216696269982,
+    "scroll": 126.96503576211781,
     "cursor": {
       "from": {
-        "line": 172,
-        "ch": 11
+        "line": 175,
+        "ch": 2
       },
       "to": {
-        "line": 172,
-        "ch": 11
+        "line": 175,
+        "ch": 2
       }
     },
     "expandedKeys": [
