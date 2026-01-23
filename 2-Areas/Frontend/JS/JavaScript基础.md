@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:53
+更新时间: 2026-01-23T14:59
 tags:
   - JavaScript
 ---
@@ -65,6 +65,12 @@ document.querySelector('.bing').onclick = function() {
 | document.write | 接受多个字符串 | 在浏览器页面查看      |
 | prompt         | 接受一个参数  | 在浏览器接受用户输入    |
 | confirm        | 接受一个参数  | 对话框查看，用于确定和取消 |
+Chrome可以调试JavaScript，通过控制台可以显示console函数输出的内容
+- 如果在代码中**出现了错误**，那么可以在**console中显示错误**
+- console中**有个 > 标志，它表示控制台的命令行**
+	- 在命令行中可以直接编写JavaScript代码，按下enter会执行代码
+	- 如果希望编写多行代码，可以按下shift + enter来进行换行编写
+- Chrome支持**debug方式来调试，查看代码的执行流程**
 
 ### JavaScript语句和分号
 
