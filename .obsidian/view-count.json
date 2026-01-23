@@ -3062,7 +3062,7 @@
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769141836568
@@ -3075,13 +3075,16 @@
         },
         {
           "timestampMillis": 1769147724288
+        },
+        {
+          "timestampMillis": 1769154710472
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/JS/邂逅JavaScript.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769142096253
@@ -3097,13 +3100,19 @@
         },
         {
           "timestampMillis": 1769147721849
+        },
+        {
+          "timestampMillis": 1769154716338
+        },
+        {
+          "timestampMillis": 1769154761292
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769142137129
@@ -3125,16 +3134,31 @@
         },
         {
           "timestampMillis": 1769153304051
+        },
+        {
+          "timestampMillis": 1769154718029
+        },
+        {
+          "timestampMillis": 1769154771352
         }
       ]
     },
     {
       "path": "2-Areas/Frontend/JS/变量和数据类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769142148193
+        },
+        {
+          "timestampMillis": 1769154713958
+        },
+        {
+          "timestampMillis": 1769154721268
+        },
+        {
+          "timestampMillis": 1769154775631
         }
       ]
     }
