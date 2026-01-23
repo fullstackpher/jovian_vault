@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:26
+更新时间: 2026-01-23T14:36
 tags:
   - JavaScript
 ---
@@ -41,10 +41,17 @@ document.querySelector('.bing').onclick = function() {
 	- 浏览器对脚本的支持被关闭
 	- Google浏览器 / 设置 / 隐私与安全 / 网站设置 / JavaScript
 ### JavaScript注意事项
-#### 注意一：script标签不能写成单标签
+#### 注意一：script标签**不能写成单标签**
 - 在外联式引用JS文件时，script标签中不可以写JavaScript代码，并且script标签不能写成单标签
 - 即不能写成`<script src="index.js"/>`
 
+#### 注意二：省略type属性
+- 在以前的代码中，`<script>`标签中会使用type="text/javascript";
+- 现在可不写这个属性了，因为**JavaScript是现代浏览器及HTML5中的默认脚本语言**；
+
+#### 注意三：加载顺序
+- 作为HTML文档内容的一部分，JavaScript遵循**HTML文档的加载顺序**，即**自上而下的加载顺序**
+- 推荐将JavaScript代码和编写位置放在**body子元素的最后一行**
 ### JavaScript交互方式
 
 
