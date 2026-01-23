@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:13
+更新时间: 2026-01-23T13:19
 tags:
   - JavaScript
 ---
@@ -80,13 +80,15 @@ JS是一种编程语言
 > 	JavaScript是一门高级编程语言，是前端开发的重要组成部分！
 
 ### JavaScript历史
-- 1994年，网景公司（Netscape）发布了Navigator浏览器0.9版本
-	- 这是历史上第一个比较成熟的网络浏览器，轰动一时
-	- 但是这个版本的浏览器只能用来浏览，不具备与访问者互动的能力
-	- 网景公司急需一种网页脚本语言，使得浏览器可以与网页互动
-- 网景公司当时想要选择一种语言来嵌入到浏览器中：
-	- 采用现有的语言，比如Perl，Python，Tcl，Scheme等，允许它们直接嵌入网页
-	- 1995年，网景公司招募了程序员Brendan Eich，希望将Scheme语言作为网页脚本语言的可能性
+- 1995年Brendan Eich用了10天设计出了JavaScript
+	- 最初这门语言是Mocha（摩卡）
+	- 在Navigator2.0 beta版本更名为LiveScript
+	- 在Navigator2.0 beta 3版本正式更名为JavaScript，（搭上Java的热门）
+- 当时门语言更像是一个多语言的大杂烩
+	- 借鉴C语言的基本语法
+	- 借鉴Java语言的数据类型和内存管理
+	- 借鉴Scheme语言，将函数提升为一等公民（first class）的地位
+	- 借鉴Self语言，使用基于原型（prototype）的继承机制
 
 ### JavaScript分类
 

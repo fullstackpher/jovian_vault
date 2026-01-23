@@ -1984,12 +1984,12 @@
     "scroll": 79.16732812402732,
     "cursor": {
       "from": {
-        "line": 89,
-        "ch": 0
+        "line": 90,
+        "ch": 34
       },
       "to": {
-        "line": 89,
-        "ch": 0
+        "line": 90,
+        "ch": 34
       }
     },
     "expandedKeys": [
