@@ -1573,7 +1573,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 4.7608391608391605,
     "cursor": {
       "from": {
         "line": 4,
@@ -1884,12 +1884,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 59,
-        "ch": 0
+        "line": 57,
+        "ch": 32
       },
       "to": {
-        "line": 59,
-        "ch": 0
+        "line": 57,
+        "ch": 32
       }
     },
     "expandedKeys": [
