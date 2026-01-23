@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:59
+更新时间: 2026-01-23T15:07
 tags:
   - JavaScript
 ---
@@ -73,7 +73,19 @@ Chrome可以调试JavaScript，通过控制台可以显示console函数输出的
 - Chrome支持**debug方式来调试，查看代码的执行流程**
 
 ### JavaScript语句和分号
+- 语句是向浏览器发出的指令，通常表达为一个操作或行为（Action）
+	- 语句英文是**Statement**
+	- 比如我们写的每一行代码都是一个语句，用于告知浏览器一条执行的命令
+	```js
+	alert('hello world');
+	alert('hello Codewhy');
+	```
 
+- 通常每条语句的后面我们会添加一个分号，表示语句的结束
+	- 分号的英文是**semicolon**
+	- 当存在换行符（line break）时，在大多数情况下可以**省略分号**；
+	- JavaScript将**换行符理解成 “隐式”的分号**
+	- 这也被称之为**自动插入分号**（an automatic semicolon）；
 
 ### JavaScript注释方式
 

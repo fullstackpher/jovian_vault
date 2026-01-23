@@ -3100,7 +3100,7 @@
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769142137129
@@ -3116,6 +3116,9 @@
         },
         {
           "timestampMillis": 1769147727185
+        },
+        {
+          "timestampMillis": 1769151978874
         }
       ]
     },
