@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:15
+更新时间: 2026-01-23T14:20
 tags:
   - JavaScript
 ---
@@ -36,6 +36,9 @@ document.querySelector('.bing').onclick = function() {
 - 如果运行的浏览器不支持JavaScript，那么我们如何给用户更好的提示呢？
 	- 针对早期浏览器不支持JavaScript的问题，需要一个页面优雅降级的处理方案；
 	- 最终，`<noscript>`元素出现，被用于给不支持JavaScript的浏览器提供替代内容
+- 下面的情况下，浏览器将显示包含在`<noscript>`中的内容：
+	- 浏览器不支持脚本
+	- 浏览器对脚本的支持被关闭
 
 ### JavaScript注意事项
 
