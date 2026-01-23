@@ -441,7 +441,7 @@
     "3-Resources/Visual Studio Code.md": {
       "fileId": "1768906243108",
       "filePath": "3-Resources/Visual Studio Code.md",
-      "duration": 24000,
+      "duration": 102000,
       "openCount": 3
     },
     "3-Resources/WebStorm.md": {
@@ -573,8 +573,8 @@
     "2-Areas/Frontend/JS/JavaScript基础.md": {
       "fileId": "1769142139832",
       "filePath": "2-Areas/Frontend/JS/JavaScript基础.md",
-      "duration": 1860000,
-      "openCount": 5
+      "duration": 1878000,
+      "openCount": 6
     }
   }
 }

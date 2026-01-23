@@ -2688,14 +2688,17 @@
     },
     {
       "path": "3-Resources/Visual Studio Code.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768906239932
         },
         {
           "timestampMillis": 1768906367114
+        },
+        {
+          "timestampMillis": 1769153311991
         }
       ]
     },
@@ -3100,7 +3103,7 @@
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769142137129
@@ -3119,6 +3122,9 @@
         },
         {
           "timestampMillis": 1769151978874
+        },
+        {
+          "timestampMillis": 1769153304051
         }
       ]
     },

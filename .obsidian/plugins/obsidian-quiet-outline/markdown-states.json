@@ -1475,11 +1475,11 @@
     "cursor": {
       "from": {
         "line": 7,
-        "ch": 0
+        "ch": 13
       },
       "to": {
         "line": 7,
-        "ch": 0
+        "ch": 13
       }
     },
     "expandedKeys": []
@@ -1911,14 +1911,14 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/JavaScript基础.md": {
-    "scroll": 0,
+    "scroll": 86.60509177027828,
     "cursor": {
       "from": {
-        "line": 99,
+        "line": 89,
         "ch": 0
       },
       "to": {
-        "line": 99,
+        "line": 89,
         "ch": 0
       }
     },
