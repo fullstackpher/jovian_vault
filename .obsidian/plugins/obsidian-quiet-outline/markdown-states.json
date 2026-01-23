@@ -1942,12 +1942,12 @@
     "scroll": 19.90726098432266,
     "cursor": {
       "from": {
-        "line": 33,
-        "ch": 10
+        "line": 34,
+        "ch": 8
       },
       "to": {
-        "line": 33,
-        "ch": 10
+        "line": 34,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -1956,12 +1956,40 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 5,
+        "line": 6,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "变量和数据类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/邂逅JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 4
+      },
+      "to": {
+        "line": 12,
+        "ch": 4
       }
     },
     "expandedKeys": []
