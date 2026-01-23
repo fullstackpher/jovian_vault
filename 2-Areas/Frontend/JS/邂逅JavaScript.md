@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T12:33
+更新时间: 2026-01-23T12:37
 tags:
   - JavaScript
 ---
@@ -20,6 +20,7 @@ JS是一种编程语言
 
 ### 编程语言发展历史
 
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_123616.png)
 
 ### JavaScript历史
 
