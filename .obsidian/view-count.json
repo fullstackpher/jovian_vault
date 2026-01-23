@@ -3164,7 +3164,7 @@
     {
       "path": "2-Areas/Frontend/JS/变量和数据类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769142148193
@@ -3189,6 +3189,9 @@
         },
         {
           "timestampMillis": 1769161031914
+        },
+        {
+          "timestampMillis": 1769163314650
         }
       ]
     },
