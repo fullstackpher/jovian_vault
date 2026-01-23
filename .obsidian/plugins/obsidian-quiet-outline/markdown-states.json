@@ -1573,14 +1573,14 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 4.7608391608391605,
+    "scroll": 12.705214394155071,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 64,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 64,
         "ch": 0
       }
     },
@@ -1867,15 +1867,15 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 0,
+    "scroll": 10.903981264637002,
     "cursor": {
       "from": {
-        "line": 53,
-        "ch": 3
+        "line": 43,
+        "ch": 6
       },
       "to": {
-        "line": 53,
-        "ch": 3
+        "line": 43,
+        "ch": 6
       }
     },
     "expandedKeys": []
