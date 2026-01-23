@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-20T18:50
-更新时间: 2026-01-23T15:38
+更新时间: 2026-01-23T15:45
 tags:
   - 开发工具
   - 前端开发
@@ -28,8 +28,8 @@ VSCode官方出品的图标库
 ### Path Intellisense
 可自动填充文件名
 
-
-
 ### ES7+ React/Redux/React-Native snippets
 
 
+### 参考
+- [Vscode前端常用插件安装及设置详解](https://juejin.cn/post/6856695988518993927#heading-7)
