@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:22
-更新时间: 2026-01-23T14:10
+更新时间: 2026-01-23T14:11
 tags:
   - JavaScript
 ---
@@ -10,7 +10,7 @@ tags:
 <a href="javascript: alert('百度一下')" onclick="alert('百度一下')">百度一下</a>
 ```
 
-#### 位置二：script元素内（重点）
+#### 位置二：script元素内
 ```html
 <a href="#" class="google">Google一下</a>
 <script>
@@ -19,6 +19,9 @@ tags:
 	}
 </script>
 ```
+
+#### 位置三：外部的script文件
+- 需要通过script元素的**src属性**来**引入JavaScript文件**
 
 ### noscript元素的使用
 
