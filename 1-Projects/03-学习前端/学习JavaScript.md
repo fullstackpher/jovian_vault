@@ -48,7 +48,6 @@ limit 100
 - [ ] 学习JavaScript面向对象
 - [ ] 学习JavaScriptDOM
 - [ ] 学习JavaScriptBOM
-- [ ] 
 
 
   
