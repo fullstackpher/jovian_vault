@@ -2003,7 +2003,7 @@
     ]
   },
   "2-Areas/Frontend/JS/变量和数据类型.md": {
-    "scroll": 211.51576727370113,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 230,
@@ -2050,11 +2050,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 22,
         "ch": 0
       }
     },
