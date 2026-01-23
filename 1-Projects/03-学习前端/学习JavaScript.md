@@ -40,7 +40,8 @@ limit 100
 
 #### 🕒 项目进度条
 
-- [/] 学习JavaScript基础语法
+- [x] 学习JavaScript基础语法 ✅ 2026-01-23
+- [/] 学习JavaScript运算符
 - [ ] 学习JavaScript流程控制语句
 - [ ] 学习JavaScript数组
 - [ ] 学习JavaScript函数
@@ -54,12 +55,10 @@ limit 100
 - [ ] 学习ES6
 
 
-  
-  
-
 > [!summary]-   项目资源
 
-- 
+- https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- https://www.runoob.com/js/js-tutorial.html
 
 
 > [!danger]- 项目灵感

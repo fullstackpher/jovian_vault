@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习JavaScript",
+      "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "2026-01-23 学习日报",
+      "path": "0_Daily Notes/2026-01-23 学习日报.md"
+    },
+    {
       "basename": "运算符",
       "path": "2-Areas/Frontend/JS/运算符.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "JavaScript基础概念",
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "邂逅JavaScript",
@@ -195,10 +199,6 @@
     {
       "basename": "闪念笔记模板",
       "path": "_Templates/闪念笔记模板.md"
-    },
-    {
-      "basename": "开发工具汇总",
-      "path": "3-Resources/开发工具汇总.md"
     }
   ],
   "omittedPaths": [],

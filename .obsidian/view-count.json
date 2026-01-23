@@ -3033,7 +3033,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3052,6 +3052,9 @@
         },
         {
           "timestampMillis": 1769159585553
+        },
+        {
+          "timestampMillis": 1769168930089
         }
       ]
     },
@@ -3207,7 +3210,7 @@
     {
       "path": "2-Areas/Frontend/JS/运算符.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769159618437
@@ -3223,6 +3226,19 @@
         },
         {
           "timestampMillis": 1769168581673
+        },
+        {
+          "timestampMillis": 1769168804251
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-23 学习日报.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769168840381
         }
       ]
     }
