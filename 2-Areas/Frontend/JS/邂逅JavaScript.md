@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:48
+更新时间: 2026-01-23T13:49
 tags:
   - JavaScript
 ---
@@ -139,5 +139,6 @@ JS是一种编程语言
 	- WebCore：负责HTML解析，布局，渲染等等相关工作
 	- JavaScriptCore：解析，执行JavaScript代码
 
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_134921.png)
 ### JavaScript应用场景
 
