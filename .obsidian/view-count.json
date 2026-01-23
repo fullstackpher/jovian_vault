@@ -3075,13 +3075,19 @@
     {
       "path": "2-Areas/Frontend/JS/邂逅JavaScript.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769142096253
         },
         {
           "timestampMillis": 1769142167192
+        },
+        {
+          "timestampMillis": 1769146371291
+        },
+        {
+          "timestampMillis": 1769146374649
         }
       ]
     },

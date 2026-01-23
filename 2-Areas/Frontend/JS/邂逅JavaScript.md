@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-23T12:21
-更新时间: 2026-01-23T13:30
+更新时间: 2026-01-23T13:44
 tags:
   - JavaScript
 ---
@@ -105,11 +105,33 @@ JS是一种编程语言
 	- 因为除了语言规范之外，**JavaScript还需要对页面和浏览器进行各种操作**；
 	- 除了基本实现之外，还包括**DOM和BOM操作**
 	![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_132954.png)
-### JavaScript分类
-
-
+	![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/局部截取_20260123_133125.png)
 ### JavaScript运行引擎
+- 我们经常会说，不同的浏览器有不同的内核组成
+	- Gecko：早期被Netscape和Mozilla Firefox浏览器使用
+	- Trident：微软开发，被IE4~IE11浏览器使用，但是Edge浏览器已经转向Blink
+	- Webkit：苹果基于KHTML开发，开源的，用于Safari，Google Chrome之前也在用
+	- Blink：是webkit的一个分支，Google开发，目前应用于Google Chrome、Edge、Opera等
+- 事实上，我们经常说的浏览器内核是指浏览器的排版引擎：
+	- 排版引擎（layout engine）也称浏览器引擎（browser engine）、页面渲染引擎（rendering engine）或样板引擎
 
+- 那么JavaScript代码由谁来执行呢？
+	- JavaScript引擎
+
+> [!tip] 为什么需要JavaScript引擎呢？
+
+- **高级编程语言**都是需要转成**最终的机器指令来执行**的
+- 事实上我们编写的JavaScript无论你交给**浏览器或Node执行**，最后都需要被**CPU执行**的
+- 但是CPU只认识自己的指令集，实际上是机器语言，才能被CPU所执行
+- 所以我们需要**JavaScript引擎**来帮助我们将**JavaScript代码**翻译成**CPU指令**来执行
+
+> [!tip] 比较常见的JavaScript引擎有哪些呢？
+
+- SpiderMonkey：第一款JavaScript引擎，由Brendan Eich开发（也就是JavaScript作者）
+- Chakra：微软开发，用于IT浏览器
+- JavaScriptCore：Webkit中的JavaScript引擎，Apple公司开发
+- V8：Google开发的强大JavaScript引擎，也帮助Chrome从众多浏览器中脱颖而出
+- 等等...
 
 ### JavaScript应用场景
 
