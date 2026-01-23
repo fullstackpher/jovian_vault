@@ -17,6 +17,7 @@ tags:
 ```
 
 ### ### VSCode Icons
+VSCode官方出品的图标库
 
 ### ES7+ React/Redux/React-Native snippets
 

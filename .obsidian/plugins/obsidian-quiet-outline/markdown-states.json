@@ -1475,11 +1475,11 @@
     "cursor": {
       "from": {
         "line": 19,
-        "ch": 0
+        "ch": 14
       },
       "to": {
         "line": 19,
-        "ch": 0
+        "ch": 14
       }
     },
     "expandedKeys": []
