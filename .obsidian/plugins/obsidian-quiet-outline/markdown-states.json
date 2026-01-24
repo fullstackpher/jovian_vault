@@ -2050,12 +2050,12 @@
     "scroll": 4,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 0
+        "line": 27,
+        "ch": 12
       },
       "to": {
-        "line": 24,
-        "ch": 0
+        "line": 27,
+        "ch": 12
       }
     },
     "expandedKeys": []
