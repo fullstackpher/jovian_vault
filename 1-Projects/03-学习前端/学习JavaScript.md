@@ -42,8 +42,8 @@ limit 100
 
 - [x] 学习JavaScript基础语法 ✅ 2026-01-23
 - [x] 学习JavaScript运算符 ✅ 2026-01-24
-- [/] 学习JavaScript流程控制语句
-- [ ] 学习JavaScript函数
+- [x] 学习JavaScript流程控制语句 ✅ 2026-01-24
+- [/] 学习JavaScript函数
 - [ ] 学习JavaScript数组
 - [ ] 学习JavaScript面向对象
 - [ ] 学习JavaScriptDOM

@@ -449,7 +449,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 8,
-      "totalTimesOpened": 86,
+      "totalTimesOpened": 88,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -708,6 +708,12 @@
         },
         {
           "timestampMillis": 1769235018675
+        },
+        {
+          "timestampMillis": 1769248837656
+        },
+        {
+          "timestampMillis": 1769248985112
         }
       ]
     },
@@ -3042,7 +3048,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3076,6 +3082,9 @@
         },
         {
           "timestampMillis": 1769238305706
+        },
+        {
+          "timestampMillis": 1769248839789
         }
       ]
     },
@@ -3348,6 +3357,16 @@
         },
         {
           "timestampMillis": 1769247887376
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-24 学习日报.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769248906751
         }
       ]
     }

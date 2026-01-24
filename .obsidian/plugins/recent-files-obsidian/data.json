@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "2026-01-24 学习日报",
+      "path": "0_Daily Notes/2026-01-24 学习日报.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
       "basename": "流程控制语句",
       "path": "2-Areas/Frontend/JS/流程控制语句.md"
     },
@@ -9,20 +21,12 @@
       "path": "2-Areas/Frontend/JS/运算符.md"
     },
     {
-      "basename": "学习JavaScript",
-      "path": "1-Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
       "basename": "JavaScript基础",
       "path": "2-Areas/Frontend/JS/JavaScript基础.md"
     },
     {
       "basename": "项目看板",
       "path": "1-Projects/项目看板.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "变量和数据类型",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-16",
       "path": "0_Daily Notes/2026-01-16.md"
-    },
-    {
-      "basename": "2026-01-17",
-      "path": "0_Daily Notes/2026-01-17.md"
     }
   ],
   "omittedPaths": [],
