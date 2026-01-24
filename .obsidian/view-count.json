@@ -448,8 +448,8 @@
     },
     {
       "path": "1-Projects/Dashboard.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 84,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 85,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -702,6 +702,9 @@
         },
         {
           "timestampMillis": 1769140782178
+        },
+        {
+          "timestampMillis": 1769228614622
         }
       ]
     },
@@ -3032,8 +3035,8 @@
     },
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3055,6 +3058,9 @@
         },
         {
           "timestampMillis": 1769168930089
+        },
+        {
+          "timestampMillis": 1769228618448
         }
       ]
     },
@@ -3105,7 +3111,7 @@
     {
       "path": "2-Areas/Frontend/JS/邂逅JavaScript.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769142096253
@@ -3127,6 +3133,15 @@
         },
         {
           "timestampMillis": 1769154761292
+        },
+        {
+          "timestampMillis": 1769169410018
+        },
+        {
+          "timestampMillis": 1769169413142
+        },
+        {
+          "timestampMillis": 1769169416559
         }
       ]
     },
@@ -3169,8 +3184,8 @@
     },
     {
       "path": "2-Areas/Frontend/JS/变量和数据类型.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1769142148193
@@ -3204,6 +3219,15 @@
         },
         {
           "timestampMillis": 1769165795851
+        },
+        {
+          "timestampMillis": 1769169394766
+        },
+        {
+          "timestampMillis": 1769169439180
+        },
+        {
+          "timestampMillis": 1769228612971
         }
       ]
     },

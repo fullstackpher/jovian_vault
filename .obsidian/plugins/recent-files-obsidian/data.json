@@ -5,16 +5,24 @@
       "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "变量和数据类型",
+      "path": "2-Areas/Frontend/JS/变量和数据类型.md"
+    },
+    {
+      "basename": "邂逅JavaScript",
+      "path": "2-Areas/Frontend/JS/邂逅JavaScript.md"
+    },
+    {
       "basename": "2026-01-23 学习日报",
       "path": "0_Daily Notes/2026-01-23 学习日报.md"
     },
     {
       "basename": "运算符",
       "path": "2-Areas/Frontend/JS/运算符.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "2-Areas/Frontend/JS/变量和数据类型.md"
     },
     {
       "basename": "JavaScript基础",
@@ -25,16 +33,8 @@
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md"
     },
     {
-      "basename": "邂逅JavaScript",
-      "path": "2-Areas/Frontend/JS/邂逅JavaScript.md"
-    },
-    {
       "basename": "Visual Studio Code",
       "path": "3-Resources/Visual Studio Code.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "2026-01-22 学习日报",
