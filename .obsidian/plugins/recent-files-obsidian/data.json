@@ -5,8 +5,20 @@
       "path": "2-Areas/Frontend/JS/运算符.md"
     },
     {
+      "basename": "流程控制语句",
+      "path": "2-Areas/Frontend/JS/流程控制语句.md"
+    },
+    {
+      "basename": "JavaScript基础",
+      "path": "2-Areas/Frontend/JS/JavaScript基础.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1-Projects/项目看板.md"
     },
     {
       "basename": "Dashboard",
@@ -25,10 +37,6 @@
       "path": "0_Daily Notes/2026-01-23 学习日报.md"
     },
     {
-      "basename": "JavaScript基础",
-      "path": "2-Areas/Frontend/JS/JavaScript基础.md"
-    },
-    {
       "basename": "JavaScript基础概念",
       "path": "2-Areas/Frontend/JS/JavaScript基础概念.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "2026-01-22 学习日报",
       "path": "0_Daily Notes/2026-01-22 学习日报.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1-Projects/项目看板.md"
     },
     {
       "basename": "学习CSS",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-17",
       "path": "0_Daily Notes/2026-01-17.md"
-    },
-    {
-      "basename": "闪念笔记模板",
-      "path": "_Templates/闪念笔记模板.md"
     }
   ],
   "omittedPaths": [],

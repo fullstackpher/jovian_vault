@@ -1573,7 +1573,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 29.14707182646114,
+    "scroll": 45.669795097496284,
     "cursor": {
       "from": {
         "line": 64,
@@ -1867,7 +1867,7 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 36.984283789851816,
+    "scroll": 54.81409117821196,
     "cursor": {
       "from": {
         "line": 65,
@@ -1900,12 +1900,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 10,
+        "ch": 2
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 10,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -2047,15 +2047,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/运算符.md": {
-    "scroll": 96.51442494405711,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 105,
-        "ch": 17
+        "line": 134,
+        "ch": 0
       },
       "to": {
-        "line": 105,
-        "ch": 17
+        "line": 134,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2075,5 +2075,47 @@
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "流程控制语句.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/流程控制语句.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

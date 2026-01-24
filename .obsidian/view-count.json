@@ -449,7 +449,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 8,
-      "totalTimesOpened": 85,
+      "totalTimesOpened": 86,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -705,6 +705,9 @@
         },
         {
           "timestampMillis": 1769228614622
+        },
+        {
+          "timestampMillis": 1769235018675
         }
       ]
     },
@@ -854,8 +857,8 @@
     },
     {
       "path": "1-Projects/项目看板.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -910,6 +913,9 @@
         },
         {
           "timestampMillis": 1769066537907
+        },
+        {
+          "timestampMillis": 1769235020474
         }
       ]
     },
@@ -3036,7 +3042,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3061,6 +3067,12 @@
         },
         {
           "timestampMillis": 1769228618448
+        },
+        {
+          "timestampMillis": 1769235022239
+        },
+        {
+          "timestampMillis": 1769235080941
         }
       ]
     },
@@ -3147,8 +3159,8 @@
     },
     {
       "path": "2-Areas/Frontend/JS/JavaScript基础.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769142137129
@@ -3179,6 +3191,9 @@
         },
         {
           "timestampMillis": 1769165784572
+        },
+        {
+          "timestampMillis": 1769235127902
         }
       ]
     },
@@ -3234,7 +3249,7 @@
     {
       "path": "2-Areas/Frontend/JS/运算符.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769159618437
@@ -3256,6 +3271,15 @@
         },
         {
           "timestampMillis": 1769228624637
+        },
+        {
+          "timestampMillis": 1769235128415
+        },
+        {
+          "timestampMillis": 1769235130635
+        },
+        {
+          "timestampMillis": 1769235187230
         }
       ]
     },
@@ -3266,6 +3290,22 @@
       "openLogs": [
         {
           "timestampMillis": 1769168840381
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/流程控制语句.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1769235089826
+        },
+        {
+          "timestampMillis": 1769235112563
+        },
+        {
+          "timestampMillis": 1769235147917
         }
       ]
     }
