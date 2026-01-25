@@ -15,23 +15,5 @@
       ],
       "key": "C"
     }
-  ],
-  "editing-toolbar:insert-callout": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
-  "editing-toolbar:editor:insert-table": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "T"
-    }
   ]
 }
