@@ -1746,7 +1746,7 @@
     {
       "path": "_Templates/日报模版.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -1792,6 +1792,9 @@
         },
         {
           "timestampMillis": 1769336561547
+        },
+        {
+          "timestampMillis": 1769336664375
         }
       ]
     },
@@ -3536,19 +3539,6 @@
         },
         {
           "timestampMillis": 1769336189351
-        }
-      ]
-    },
-    {
-      "path": "0_Daily Notes/2026-01-25 测试.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1769336475627
-        },
-        {
-          "timestampMillis": 1769336568801
         }
       ]
     }

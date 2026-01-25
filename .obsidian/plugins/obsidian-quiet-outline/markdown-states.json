@@ -561,7 +561,7 @@
     "expandedKeys": []
   },
   "_Templates/日报模版.md": {
-    "scroll": 29.229021409236324,
+    "scroll": 7.756024096385542,
     "cursor": {
       "from": {
         "line": 134,
@@ -573,8 +573,8 @@
       }
     },
     "expandedKeys": [
-      "item-2-3",
-      "item-2-0"
+      "item-2-0",
+      "item-2-3"
     ]
   },
   "2026-01-17 学习日报.md": {
@@ -2216,15 +2216,15 @@
     ]
   },
   "0_Daily Notes/2026-01-25 测试.md": {
-    "scroll": 41.42170453613321,
+    "scroll": 118.19012532275332,
     "cursor": {
       "from": {
-        "line": 140,
-        "ch": 15
+        "line": 141,
+        "ch": 6
       },
       "to": {
-        "line": 140,
-        "ch": 15
+        "line": 141,
+        "ch": 6
       }
     },
     "expandedKeys": [
