@@ -3093,7 +3093,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3142,6 +3142,12 @@
         },
         {
           "timestampMillis": 1769328042813
+        },
+        {
+          "timestampMillis": 1769341522141
+        },
+        {
+          "timestampMillis": 1769341522467
         }
       ]
     },
@@ -3611,13 +3617,36 @@
     {
       "path": "2-Areas/Knowledge Management/Virtual Linker.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769341008328
         },
         {
           "timestampMillis": 1769341252589
+        },
+        {
+          "timestampMillis": 1769341570277
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/QuickAdd.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769341643576
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/Calendar.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769341687225
         }
       ]
     }

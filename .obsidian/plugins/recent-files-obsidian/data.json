@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "函数",
-      "path": "2-Areas/Frontend/JS/函数.md"
+      "basename": "Calendar",
+      "path": "2-Areas/Knowledge Management/Calendar.md"
+    },
+    {
+      "basename": "QuickAdd",
+      "path": "2-Areas/Knowledge Management/QuickAdd.md"
     },
     {
       "basename": "Virtual Linker",
       "path": "2-Areas/Knowledge Management/Virtual Linker.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "函数",
+      "path": "2-Areas/Frontend/JS/函数.md"
     },
     {
       "basename": "markdown使用指南",
@@ -43,10 +55,6 @@
     {
       "basename": "2026-01-25 学习日报",
       "path": "0_Daily Notes/2026-01-25 学习日报.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "项目看板",
@@ -191,14 +199,6 @@
     {
       "basename": "响应式布局",
       "path": "2-Areas/Frontend/CSS/响应式布局.md"
-    },
-    {
-      "basename": "文本与字体",
-      "path": "2-Areas/Frontend/CSS/文本与字体.md"
-    },
-    {
-      "basename": "媒体查询",
-      "path": "2-Areas/Frontend/CSS/媒体查询.md"
     }
   ],
   "omittedPaths": [],

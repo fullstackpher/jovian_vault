@@ -638,11 +638,11 @@
     "scroll": 6.818181818181818,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 6,
         "ch": 0
       }
     },
@@ -2143,7 +2143,7 @@
     ]
   },
   "2-Areas/Frontend/JS/函数.md": {
-    "scroll": 159.69212551805802,
+    "scroll": 178.21354166666666,
     "cursor": {
       "from": {
         "line": 71,
@@ -2288,15 +2288,29 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Virtual Linker.md": {
-    "scroll": 17.315673968332103,
+    "scroll": 20.38918286980064,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 19
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 8,
-        "ch": 19
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/QuickAdd.md": {
+    "scroll": 6.818181818181818,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []
