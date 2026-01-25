@@ -25,10 +25,7 @@
         "ch": 21
       }
     },
-    "expandedKeys": [
-      "item-1-3",
-      "item-1-9"
-    ]
+    "expandedKeys": []
   },
   "2-Areas/Knowledge Management/obsidian标签功能.md": {
     "scroll": 0,
@@ -636,15 +633,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/未命名.md": {
-    "scroll": 0,
+    "scroll": 6.818181818181818,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 2
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 10,
-        "ch": 2
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2231,5 +2228,33 @@
       "item-2-0",
       "item-2-3"
     ]
+  },
+  "2-Areas/Knowledge Management/Emoji Toolbar.md": {
+    "scroll": 6.818181818181818,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/Emoji toolbar.md": {
+    "scroll": 7.475911458333333,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 52
+      },
+      "to": {
+        "line": 26,
+        "ch": 52
+      }
+    },
+    "expandedKeys": []
   }
 }

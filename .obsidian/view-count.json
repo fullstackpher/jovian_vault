@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 50,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 52,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -154,6 +154,12 @@
         },
         {
           "timestampMillis": 1768886555505
+        },
+        {
+          "timestampMillis": 1769338597766
+        },
+        {
+          "timestampMillis": 1769338607220
         }
       ]
     },
@@ -3539,6 +3545,16 @@
         },
         {
           "timestampMillis": 1769336189351
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/Emoji toolbar.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769338648611
         }
       ]
     }

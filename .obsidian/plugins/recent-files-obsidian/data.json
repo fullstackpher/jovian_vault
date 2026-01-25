@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Emoji toolbar",
+      "path": "2-Areas/Knowledge Management/Emoji toolbar.md"
+    },
+    {
+      "basename": "markdown使用指南",
+      "path": "2-Areas/Knowledge Management/markdown使用指南.md"
+    },
+    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "边框与圆角",
       "path": "2-Areas/Frontend/CSS/边框与圆角.md"
-    },
-    {
-      "basename": "背景",
-      "path": "2-Areas/Frontend/CSS/背景.md"
     }
   ],
   "omittedPaths": [],

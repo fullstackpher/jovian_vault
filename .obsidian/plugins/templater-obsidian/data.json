@@ -23,10 +23,6 @@
       "template": "_Templates/每日笔记.md"
     },
     {
-      "folder": "2-Areas",
-      "template": "_Templates/技术概念卡片.md"
-    },
-    {
       "folder": "thought",
       "template": "_Templates/闪念笔记模板.md"
     }
