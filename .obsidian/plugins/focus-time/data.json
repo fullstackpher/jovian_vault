@@ -46,7 +46,7 @@
       "fileId": "1768469667686",
       "filePath": "1-Projects/项目看板.md",
       "duration": 1872000,
-      "openCount": 19
+      "openCount": 20
     },
     "1-Projects/02-知识管理/学习Obsidian.md": {
       "fileId": "1768477705638",
@@ -543,8 +543,8 @@
     "1-Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1-Projects/03-学习前端/学习JavaScript.md",
-      "duration": 978000,
-      "openCount": 14
+      "duration": 1044000,
+      "openCount": 17
     },
     "0_Daily Notes/2026-01-22 学习日报.md": {
       "fileId": "1769076145107",
@@ -615,8 +615,8 @@
     "2-Areas/Frontend/JS/函数.md": {
       "fileId": "1769316186354",
       "filePath": "2-Areas/Frontend/JS/函数.md",
-      "duration": 5754000,
-      "openCount": 6
+      "duration": 5814000,
+      "openCount": 8
     },
     "2-Areas/Frontend/JS/闭包.md": {
       "fileId": "1769324682353",
@@ -629,6 +629,12 @@
       "filePath": "2-Areas/Frontend/JS/作用域.md",
       "duration": 54000,
       "openCount": 3
+    },
+    "0_Daily Notes/2026-01-25 学习日报.md": {
+      "fileId": "1769327808355",
+      "filePath": "0_Daily Notes/2026-01-25 学习日报.md",
+      "duration": 204000,
+      "openCount": 2
     }
   }
 }

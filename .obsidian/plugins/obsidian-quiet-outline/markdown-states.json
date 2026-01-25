@@ -1867,7 +1867,7 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 14.080078125,
+    "scroll": 36.988055211467,
     "cursor": {
       "from": {
         "line": 46,
@@ -2137,14 +2137,14 @@
     ]
   },
   "2-Areas/Frontend/JS/函数.md": {
-    "scroll": 182.9717261904762,
+    "scroll": 59.856839121190646,
     "cursor": {
       "from": {
-        "line": 205,
+        "line": 71,
         "ch": 0
       },
       "to": {
-        "line": 205,
+        "line": 71,
         "ch": 0
       }
     },
@@ -2191,5 +2191,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-25 学习日报.md": {
+    "scroll": 47.39036994504143,
+    "cursor": {
+      "from": {
+        "line": 58,
+        "ch": 12
+      },
+      "to": {
+        "line": 58,
+        "ch": 12
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
   }
 }
