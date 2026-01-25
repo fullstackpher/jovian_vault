@@ -448,8 +448,8 @@
     },
     {
       "path": "1-Projects/Dashboard.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 88,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 90,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -714,6 +714,12 @@
         },
         {
           "timestampMillis": 1769248985112
+        },
+        {
+          "timestampMillis": 1769315942226
+        },
+        {
+          "timestampMillis": 1769315943781
         }
       ]
     },
@@ -3047,8 +3053,8 @@
     },
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3085,6 +3091,9 @@
         },
         {
           "timestampMillis": 1769248839789
+        },
+        {
+          "timestampMillis": 1769315946596
         }
       ]
     },
