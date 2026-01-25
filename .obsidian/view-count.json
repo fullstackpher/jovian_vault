@@ -3270,7 +3270,7 @@
     {
       "path": "2-Areas/Frontend/JS/运算符.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 21,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1769159618437
@@ -3334,6 +3334,9 @@
         },
         {
           "timestampMillis": 1769318623257
+        },
+        {
+          "timestampMillis": 1769324689254
         }
       ]
     },
@@ -3394,7 +3397,7 @@
     {
       "path": "2-Areas/Frontend/JS/函数.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769316182436
@@ -3404,6 +3407,47 @@
         },
         {
           "timestampMillis": 1769318748363
+        },
+        {
+          "timestampMillis": 1769324696175
+        },
+        {
+          "timestampMillis": 1769324724030
+        },
+        {
+          "timestampMillis": 1769324750305
+        },
+        {
+          "timestampMillis": 1769324813618
+        },
+        {
+          "timestampMillis": 1769324856104
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/闭包.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769324677512
+        },
+        {
+          "timestampMillis": 1769324687437
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/作用域.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769324738957
+        },
+        {
+          "timestampMillis": 1769324766965
         }
       ]
     }

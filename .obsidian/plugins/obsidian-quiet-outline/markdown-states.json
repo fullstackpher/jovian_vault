@@ -2047,15 +2047,15 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/运算符.md": {
-    "scroll": 208.1648904677324,
+    "scroll": 184.18103075080683,
     "cursor": {
       "from": {
-        "line": 232,
-        "ch": 4
+        "line": 167,
+        "ch": 0
       },
       "to": {
-        "line": 232,
-        "ch": 4
+        "line": 167,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2137,15 +2137,57 @@
     ]
   },
   "2-Areas/Frontend/JS/函数.md": {
-    "scroll": 97.59396783510844,
+    "scroll": 103.59589281581303,
     "cursor": {
       "from": {
-        "line": 143,
-        "ch": 52
+        "line": 115,
+        "ch": 0
       },
       "to": {
-        "line": 143,
-        "ch": 52
+        "line": 115,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "闭包.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/闭包.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "作用域.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 18
+      },
+      "to": {
+        "line": 36,
+        "ch": 18
       }
     },
     "expandedKeys": []

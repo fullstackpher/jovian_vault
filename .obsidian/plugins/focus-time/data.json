@@ -585,8 +585,8 @@
     "2-Areas/Frontend/JS/运算符.md": {
       "fileId": "1769159623828",
       "filePath": "2-Areas/Frontend/JS/运算符.md",
-      "duration": 6366000,
-      "openCount": 12
+      "duration": 6372000,
+      "openCount": 13
     },
     "0_Daily Notes/2026-01-23 学习日报.md": {
       "fileId": "1769168845845",
@@ -615,8 +615,20 @@
     "2-Areas/Frontend/JS/函数.md": {
       "fileId": "1769316186354",
       "filePath": "2-Areas/Frontend/JS/函数.md",
-      "duration": 4080000,
+      "duration": 4164000,
+      "openCount": 6
+    },
+    "2-Areas/Frontend/JS/闭包.md": {
+      "fileId": "1769324682353",
+      "filePath": "2-Areas/Frontend/JS/闭包.md",
+      "duration": 12000,
       "openCount": 2
+    },
+    "2-Areas/Frontend/JS/作用域.md": {
+      "fileId": "1769324742350",
+      "filePath": "2-Areas/Frontend/JS/作用域.md",
+      "duration": 54000,
+      "openCount": 3
     }
   }
 }
