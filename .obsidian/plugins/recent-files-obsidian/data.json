@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-19 学习日报",
+      "path": "0_Daily Notes/2026-01-19 学习日报.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
       "basename": "2026-01-25 学习日报",
       "path": "0_Daily Notes/2026-01-25 学习日报.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "闭包",
       "path": "2-Areas/Frontend/JS/闭包.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "2026-01-24 学习日报",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
-    },
-    {
-      "basename": "2026-01-18 学习日报",
-      "path": "0_Daily Notes/2026-01-18 学习日报.md"
     }
   ],
   "omittedPaths": [],
