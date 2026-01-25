@@ -3526,6 +3526,16 @@
           "timestampMillis": 1769336189351
         }
       ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-25 测试.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769336475627
+        }
+      ]
     }
   ]
 }

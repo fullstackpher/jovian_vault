@@ -2212,5 +2212,22 @@
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "0_Daily Notes/2026-01-25 测试.md": {
+    "scroll": 34.10876876384218,
+    "cursor": {
+      "from": {
+        "line": 133,
+        "ch": 2
+      },
+      "to": {
+        "line": 133,
+        "ch": 2
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-3"
+    ]
   }
 }
