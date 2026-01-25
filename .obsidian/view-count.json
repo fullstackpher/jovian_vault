@@ -3269,8 +3269,8 @@
     },
     {
       "path": "2-Areas/Frontend/JS/运算符.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769159618437
@@ -3322,6 +3322,15 @@
         },
         {
           "timestampMillis": 1769243036476
+        },
+        {
+          "timestampMillis": 1769315954318
+        },
+        {
+          "timestampMillis": 1769316172582
+        },
+        {
+          "timestampMillis": 1769316180517
         }
       ]
     },
@@ -3376,6 +3385,19 @@
       "openLogs": [
         {
           "timestampMillis": 1769248906751
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Frontend/JS/函数.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769316182436
+        },
+        {
+          "timestampMillis": 1769316203254
         }
       ]
     }

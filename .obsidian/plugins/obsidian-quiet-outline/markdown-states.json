@@ -1900,12 +1900,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 2
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 10,
-        "ch": 2
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2047,14 +2047,14 @@
     "expandedKeys": []
   },
   "2-Areas/Frontend/JS/运算符.md": {
-    "scroll": 113.19780290045706,
+    "scroll": 152.78105749486653,
     "cursor": {
       "from": {
-        "line": 233,
+        "line": 167,
         "ch": 0
       },
       "to": {
-        "line": 233,
+        "line": 167,
         "ch": 0
       }
     },
@@ -2080,11 +2080,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 6,
         "ch": 0
       }
     },
@@ -2135,5 +2135,19 @@
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "2-Areas/Frontend/JS/函数.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

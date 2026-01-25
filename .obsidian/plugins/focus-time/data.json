@@ -543,8 +543,8 @@
     "1-Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1-Projects/03-学习前端/学习JavaScript.md",
-      "duration": 972000,
-      "openCount": 13
+      "duration": 978000,
+      "openCount": 14
     },
     "0_Daily Notes/2026-01-22 学习日报.md": {
       "fileId": "1769076145107",
@@ -585,8 +585,8 @@
     "2-Areas/Frontend/JS/运算符.md": {
       "fileId": "1769159623828",
       "filePath": "2-Areas/Frontend/JS/运算符.md",
-      "duration": 6318000,
-      "openCount": 9
+      "duration": 6354000,
+      "openCount": 11
     },
     "0_Daily Notes/2026-01-23 学习日报.md": {
       "fileId": "1769168845845",
@@ -597,8 +597,8 @@
     "2-Areas/Frontend/JS/未命名.md": {
       "fileId": "1769235060670",
       "filePath": "2-Areas/Frontend/JS/未命名.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 3
     },
     "2-Areas/Frontend/JS/流程控制语句.md": {
       "fileId": "1769235090670",
@@ -611,6 +611,12 @@
       "filePath": "0_Daily Notes/2026-01-24 学习日报.md",
       "duration": 78000,
       "openCount": 2
+    },
+    "2-Areas/Frontend/JS/函数.md": {
+      "fileId": "1769316186354",
+      "filePath": "2-Areas/Frontend/JS/函数.md",
+      "duration": 90000,
+      "openCount": 1
     }
   }
 }
