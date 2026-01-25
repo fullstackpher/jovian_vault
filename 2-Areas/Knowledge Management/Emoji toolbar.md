@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-25T18:57
-更新时间: 2026-01-25T19:01
+更新时间: 2026-01-25T19:02
 tags:
   - obsidian
 ---
@@ -24,4 +24,4 @@ tags:
 
 ### 参考资料
 
-- 
+- [https://github.com/oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar)
