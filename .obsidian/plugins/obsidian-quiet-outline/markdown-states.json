@@ -261,7 +261,7 @@
     ]
   },
   "_Templates/问题解决方案.md": {
-    "scroll": 20.89279580116272,
+    "scroll": 15.165051964065528,
     "cursor": {
       "from": {
         "line": 34,
@@ -272,7 +272,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-3"
+    ]
   },
   "_Templates/实用代码片段.md": {
     "scroll": 0,
@@ -559,15 +561,15 @@
     "expandedKeys": []
   },
   "_Templates/日报模版.md": {
-    "scroll": 36.57870560249364,
+    "scroll": 29.229021409236324,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 0
+        "line": 134,
+        "ch": 2
       },
       "to": {
-        "line": 18,
-        "ch": 0
+        "line": 134,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -2214,7 +2216,7 @@
     ]
   },
   "0_Daily Notes/2026-01-25 测试.md": {
-    "scroll": 34.10876876384218,
+    "scroll": 30.985152981707817,
     "cursor": {
       "from": {
         "line": 133,
