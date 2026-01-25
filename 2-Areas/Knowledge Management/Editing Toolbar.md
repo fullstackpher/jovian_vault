@@ -7,13 +7,5 @@ tags:
 ### 常用快捷键
 
 - 插入Callout：ctrl + c
-
-> [!NOTE] Title
-> Contents
-
-
 - 插入表格：alt + shift + t
-
-| 行   |     |
-| --- | --- |
-|     |     |
+- 
