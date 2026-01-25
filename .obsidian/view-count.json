@@ -3,7 +3,7 @@
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 52,
+      "totalTimesOpened": 53,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -160,6 +160,9 @@
         },
         {
           "timestampMillis": 1769338607220
+        },
+        {
+          "timestampMillis": 1769341243069
         }
       ]
     },
@@ -3576,13 +3579,16 @@
     {
       "path": "2-Areas/Knowledge Management/Editing Toolbar.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769339411406
         },
         {
           "timestampMillis": 1769340136715
+        },
+        {
+          "timestampMillis": 1769340733891
         }
       ]
     },
@@ -3596,6 +3602,19 @@
         },
         {
           "timestampMillis": 1769340480830
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/Virtual Linker.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769341008328
+        },
+        {
+          "timestampMillis": 1769341252589
         }
       ]
     }
