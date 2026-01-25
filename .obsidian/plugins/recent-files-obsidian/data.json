@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Paste url into selection",
+      "path": "2-Areas/Knowledge Management/Paste url into selection.md"
+    },
+    {
       "basename": "Editing Toolbar",
       "path": "2-Areas/Knowledge Management/Editing Toolbar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "盒模型",
       "path": "2-Areas/Frontend/CSS/盒模型.md"
-    },
-    {
-      "basename": "变化与过渡",
-      "path": "2-Areas/Frontend/CSS/变化与过渡.md"
     }
   ],
   "omittedPaths": [],

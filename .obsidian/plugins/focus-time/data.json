@@ -651,8 +651,14 @@
     "2-Areas/Knowledge Management/Editing Toolbar.md": {
       "fileId": "1769339428267",
       "filePath": "2-Areas/Knowledge Management/Editing Toolbar.md",
-      "duration": 522000,
-      "openCount": 2
+      "duration": 666000,
+      "openCount": 3
+    },
+    "2-Areas/Knowledge Management/Paste url into selection.md": {
+      "fileId": "1769340484179",
+      "filePath": "2-Areas/Knowledge Management/Paste url into selection.md",
+      "duration": 180000,
+      "openCount": 1
     }
   }
 }

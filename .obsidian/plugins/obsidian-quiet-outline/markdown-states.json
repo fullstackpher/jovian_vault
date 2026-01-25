@@ -636,11 +636,11 @@
     "scroll": 6.818181818181818,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 0,
         "ch": 0
       }
     },
@@ -2261,12 +2261,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 21
+        "line": 10,
+        "ch": 0
       },
       "to": {
-        "line": 9,
-        "ch": 22
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/Paste url into selection.md": {
+    "scroll": 6.818181818181818,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []

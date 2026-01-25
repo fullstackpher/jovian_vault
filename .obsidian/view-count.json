@@ -3585,6 +3585,19 @@
           "timestampMillis": 1769340136715
         }
       ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/Paste url into selection.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769340480647
+        },
+        {
+          "timestampMillis": 1769340480830
+        }
+      ]
     }
   ]
 }
