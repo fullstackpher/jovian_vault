@@ -455,7 +455,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 91,
+      "totalTimesOpened": 92,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -729,6 +729,9 @@
         },
         {
           "timestampMillis": 1769336191077
+        },
+        {
+          "timestampMillis": 1769339119494
         }
       ]
     },
@@ -3551,10 +3554,19 @@
     {
       "path": "2-Areas/Knowledge Management/Emoji toolbar.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769338648611
+        },
+        {
+          "timestampMillis": 1769339049530
+        },
+        {
+          "timestampMillis": 1769339117942
+        },
+        {
+          "timestampMillis": 1769339123307
         }
       ]
     }
