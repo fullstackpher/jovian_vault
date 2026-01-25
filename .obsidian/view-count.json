@@ -1739,8 +1739,8 @@
     },
     {
       "path": "_Templates/日报模版.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -1777,6 +1777,9 @@
         },
         {
           "timestampMillis": 1768706398808
+        },
+        {
+          "timestampMillis": 1769336222953
         }
       ]
     },

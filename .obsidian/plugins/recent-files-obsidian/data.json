@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
       "basename": "2026-01-19 学习日报",
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-20 学习日报",
       "path": "0_Daily Notes/2026-01-20 学习日报.md"
-    },
-    {
-      "basename": "2026-01-19",
-      "path": "0_Daily Notes/2026-01-19.md"
     }
   ],
   "omittedPaths": [],
