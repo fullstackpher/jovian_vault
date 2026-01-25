@@ -2258,15 +2258,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Editing Toolbar.md": {
-    "scroll": 0.55,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 2
+        "line": 9,
+        "ch": 21
       },
       "to": {
-        "line": 10,
-        "ch": 2
+        "line": 9,
+        "ch": 22
       }
     },
     "expandedKeys": []

@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-25T19:10
-更新时间: 2026-01-25T19:17
+更新时间: 2026-01-25T19:22
 tags:
   - obsidian
 ---
@@ -8,4 +8,7 @@ tags:
 
 - 插入Callout：ctrl + c
 - 插入表格：alt + shift + t
-- 
+
+### 参考资料
+
+- [https://github.com/PKM-er/obsidian-editing-toolbar/tree/master](https://github.com/PKM-er/obsidian-editing-toolbar/tree/master)
