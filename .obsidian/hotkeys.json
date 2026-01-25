@@ -15,5 +15,14 @@
       ],
       "key": "C"
     }
+  ],
+  "editing-toolbar:editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

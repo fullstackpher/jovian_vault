@@ -1,14 +1,19 @@
 ---
 创建时间: 2026-01-25T19:10
-更新时间: 2026-01-25T19:15
+更新时间: 2026-01-25T19:17
 tags:
   - obsidian
 ---
 ### 常用快捷键
 
-- 插入Callet
+- 插入Callout：ctrl + c
 
 > [!NOTE] Title
 > Contents
 
 
+- 插入表格：alt + shift + t
+
+| 行   |     |
+| --- | --- |
+|     |     |
