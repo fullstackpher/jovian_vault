@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Editing Toolbar",
+      "path": "2-Areas/Knowledge Management/Editing Toolbar.md"
+    },
+    {
       "basename": "Emoji Toolbar",
       "path": "2-Areas/Knowledge Management/Emoji Toolbar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "变化与过渡",
       "path": "2-Areas/Frontend/CSS/变化与过渡.md"
-    },
-    {
-      "basename": "边框与圆角",
-      "path": "2-Areas/Frontend/CSS/边框与圆角.md"
     }
   ],
   "omittedPaths": [],

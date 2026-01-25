@@ -2256,5 +2256,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "2-Areas/Knowledge Management/Editing Toolbar.md": {
+    "scroll": 6.818181818181818,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 4
+      },
+      "to": {
+        "line": 6,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
   }
 }
