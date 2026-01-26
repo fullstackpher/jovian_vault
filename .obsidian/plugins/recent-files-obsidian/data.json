@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Calendar",
+      "path": "2-Areas/Knowledge Management/Calendar.md"
+    },
+    {
       "basename": "Claudian",
       "path": "2-Areas/Knowledge Management/Claudian.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
-    },
-    {
-      "basename": "Calendar",
-      "path": "2-Areas/Knowledge Management/Calendar.md"
     },
     {
       "basename": "面向对象",
