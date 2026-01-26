@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:39
+更新时间: 2026-01-26T18:40
 tags:
   - obsidian
 ---
@@ -36,7 +36,9 @@ claude --version
 - [官方地址](https://github.com/YishenTu/claudian)
 
 1. 下载 `main.js`, `manifest.json`, 和 `styles.css` from the [最新版本](https://github.com/YishenTu/claudian/releases/latest)
-2. 在obsidian库的
+2. 在obsidian库的插件目录下创建 `claudian` 目录
+3. 将下载的文件复制到claudian目录下
+4. 在obsidian设置中
 
 ### 配置Claudian插件
 

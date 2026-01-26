@@ -2333,12 +2333,12 @@
     "scroll": 17.92447892824809,
     "cursor": {
       "from": {
-        "line": 38,
-        "ch": 16
+        "line": 40,
+        "ch": 15
       },
       "to": {
-        "line": 38,
-        "ch": 16
+        "line": 40,
+        "ch": 15
       }
     },
     "expandedKeys": []
