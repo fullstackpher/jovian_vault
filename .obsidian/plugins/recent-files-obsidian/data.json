@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidian excalidraw插件",
+      "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
+    },
+    {
+      "basename": "markdown使用指南",
+      "path": "2-Areas/Knowledge Management/markdown使用指南.md"
+    },
+    {
+      "basename": "Emoji Toolbar",
+      "path": "2-Areas/Knowledge Management/Emoji Toolbar.md"
+    },
+    {
+      "basename": "Editing Toolbar",
+      "path": "2-Areas/Knowledge Management/Editing Toolbar.md"
+    },
+    {
       "basename": "Calendar",
       "path": "2-Areas/Knowledge Management/Calendar.md"
     },
     {
-      "basename": "Claudian",
-      "path": "2-Areas/Knowledge Management/Claudian.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "Claudian",
+      "path": "2-Areas/Knowledge Management/Claudian.md"
     },
     {
       "basename": "日报模版",
@@ -45,20 +61,8 @@
       "path": "2-Areas/Frontend/JS/函数.md"
     },
     {
-      "basename": "markdown使用指南",
-      "path": "2-Areas/Knowledge Management/markdown使用指南.md"
-    },
-    {
-      "basename": "Editing Toolbar",
-      "path": "2-Areas/Knowledge Management/Editing Toolbar.md"
-    },
-    {
       "basename": "Paste url into selection",
       "path": "2-Areas/Knowledge Management/Paste url into selection.md"
-    },
-    {
-      "basename": "Emoji Toolbar",
-      "path": "2-Areas/Knowledge Management/Emoji Toolbar.md"
     },
     {
       "basename": "问题解决方案",
@@ -195,10 +199,6 @@
     {
       "basename": "CSS布局系统",
       "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
-    },
-    {
-      "basename": "行内元素与块元素",
-      "path": "2-Areas/Frontend/CSS/行内元素与块元素.md"
     }
   ],
   "omittedPaths": [],

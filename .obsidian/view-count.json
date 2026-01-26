@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2-Areas/Knowledge Management/markdown使用指南.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 53,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 54,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -163,6 +163,9 @@
         },
         {
           "timestampMillis": 1769341243069
+        },
+        {
+          "timestampMillis": 1769424269810
         }
       ]
     },
@@ -458,7 +461,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 138,
+      "totalTimesOpened": 139,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -873,6 +876,9 @@
         },
         {
           "timestampMillis": 1769422922808
+        },
+        {
+          "timestampMillis": 1769424129463
         }
       ]
     },
@@ -2111,11 +2117,14 @@
     },
     {
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1768651377591
+        },
+        {
+          "timestampMillis": 1769424271784
         }
       ]
     },
@@ -3733,8 +3742,8 @@
     },
     {
       "path": "2-Areas/Knowledge Management/Emoji Toolbar.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769338648611
@@ -3750,13 +3759,16 @@
         },
         {
           "timestampMillis": 1769340132100
+        },
+        {
+          "timestampMillis": 1769424268808
         }
       ]
     },
     {
       "path": "2-Areas/Knowledge Management/Editing Toolbar.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769339411406
@@ -3766,6 +3778,9 @@
         },
         {
           "timestampMillis": 1769340733891
+        },
+        {
+          "timestampMillis": 1769424267688
         }
       ]
     },
@@ -3811,7 +3826,7 @@
     {
       "path": "2-Areas/Knowledge Management/Calendar.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769341687225
@@ -3821,6 +3836,9 @@
         },
         {
           "timestampMillis": 1769424111837
+        },
+        {
+          "timestampMillis": 1769424226612
         }
       ]
     },

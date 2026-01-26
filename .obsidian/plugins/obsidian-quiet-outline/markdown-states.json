@@ -1579,7 +1579,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 54.42752179734187,
+    "scroll": 53.36287001690704,
     "cursor": {
       "from": {
         "line": 44,
@@ -2344,17 +2344,22 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Calendar.md": {
-    "scroll": 0,
+    "scroll": 137.76223793296546,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 7,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-7",
+      "item-2-9"
+    ]
   }
 }
