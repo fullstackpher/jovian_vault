@@ -3,17 +3,17 @@
   "title": "Conversation Started",
   "titleGenerationStatus": "success",
   "createdAt": 1769421971826,
-  "updatedAt": 1769424221182,
-  "lastResponseAt": 1769424221182,
+  "updatedAt": 1769424395633,
+  "lastResponseAt": 1769424395633,
   "sessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
   "sdkSessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 1625,
-    "cacheCreationInputTokens": 1387,
-    "cacheReadInputTokens": 14163,
+    "inputTokens": 3936,
+    "cacheCreationInputTokens": 2407,
+    "cacheReadInputTokens": 18769,
     "contextWindow": 200000,
-    "contextTokens": 17175,
-    "percentage": 9
+    "contextTokens": 25112,
+    "percentage": 13
   }
 }
