@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:36
+更新时间: 2026-01-26T18:38
 tags:
   - obsidian
 ---
@@ -34,7 +34,9 @@ claude --version
 ### 安装Claudian插件
 
 - [官方地址](https://github.com/YishenTu/claudian)
-- 
+- 这个需要手动创建目录
+- 并将这个库的三个文件导入插件目录中
+- 随后启用插件
 
 ### 配置Claudian插件
 
