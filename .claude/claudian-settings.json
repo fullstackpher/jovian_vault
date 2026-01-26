@@ -63,7 +63,7 @@
   "locale": "zh-CN",
   "claudeCliPath": "",
   "claudeCliPathsByHost": {
-    "DESKTOP-24IGV5M": "D:\\nodejs\\node_global\\claude"
+    "DESKTOP-24IGV5M": ""
   },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
