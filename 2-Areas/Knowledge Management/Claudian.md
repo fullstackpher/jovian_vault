@@ -1,18 +1,34 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T14:35
+更新时间: 2026-01-26T14:37
 tags:
   - obsidian
 ---
 ### 安装
 
+前提条件：
 
+- 安装 [Node.js 18 或更新版本环境](https://nodejs.org/en/download/)。
+
+- Windows 用户需安装 [Git for Windows](https://git-scm.com/download/win)。
+
+在命令行界面，执行以下命令安装 Claude Code。
+
+```
+npm install -g @anthropic-ai/claude-code
+```
+
+安装结束后，执行以下命令查看
+
+```
+claude --version
+```
 
 ### 配置
 
 1. 在PowerShell中执行以下命令，设置环境变量。
 
-```shell
+```
 [System.Environment]::SetEnvironmentVariable('ANTHROPIC_AUTH_TOKEN', '0fbea595-7e51-47c8-a674-7f53df9f55bb', 'User')
 
 [System.Environment]::SetEnvironmentVariable('ANTHROPIC_BASE_URL', 'https://ark.cn-beijing.volces.com/api/coding', 'User')
@@ -22,7 +38,7 @@ tags:
 
 1. 在新的PowerShell窗口执行以下命令，检查环境变量是否生效。
 
-```shell
+```
 echo $env:ANTHROPIC_AUTH_TOKEN
 
 echo $env:ANTHROPIC_BASE_URL
