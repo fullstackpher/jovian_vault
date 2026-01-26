@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:41
+更新时间: 2026-01-26T18:54
 tags:
   - obsidian
 ---
@@ -35,10 +35,10 @@ claude --version
 
 - [官方地址](https://github.com/YishenTu/claudian)
 
-1. 下载 `main.js`, `manifest.json`, 和 `styles.css` from the [最新版本](https://github.com/YishenTu/claudian/releases/latest)
-2. 在obsidian库的插件目录下创建 `claudian` 目录
-3. 将下载的文件复制到claudian目录下
-4. 在obsidian设置中启用claudian插件
+- 从 [GitHub Releases](https://github.com/YishenTu/claudian/releases/latest) 下载最新的 `main.js`, `manifest.json`, `styles.css` 三个文件。
+- 在你 Obsidian 仓库的 `.obsidian/plugins/` 目录下，新建一个叫 `claudian` 的文件夹。
+- 把下载的三个文件复制进去。
+- 重启 Obsidian，在 `设置` -> `社区插件` 里启用 “Claudian” 就搞定了
 
 ### 配置Claudian插件
 

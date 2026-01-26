@@ -652,16 +652,25 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 534,
-        "ch": 0
+        "line": 387,
+        "ch": 23
       },
       "to": {
-        "line": 534,
-        "ch": 0
+        "line": 387,
+        "ch": 23
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-49",
+      "item-2-42",
+      "item-2-34",
+      "item-2-29",
+      "item-2-25",
+      "item-2-21",
+      "item-2-15",
+      "item-2-9",
+      "item-2-3"
     ]
   },
   "IDEA/打造AI+第二大脑.md": {
@@ -2339,15 +2348,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Claudian.md": {
-    "scroll": 0,
+    "scroll": 37.183163902506834,
     "cursor": {
       "from": {
         "line": 40,
-        "ch": 27
+        "ch": 50
       },
       "to": {
         "line": 40,
-        "ch": 27
+        "ch": 50
       }
     },
     "expandedKeys": []

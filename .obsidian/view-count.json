@@ -2108,7 +2108,7 @@
     {
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768651377591
@@ -2121,6 +2121,9 @@
         },
         {
           "timestampMillis": 1769424551181
+        },
+        {
+          "timestampMillis": 1769424721633
         }
       ]
     },
@@ -3878,7 +3881,7 @@
     {
       "path": "2-Areas/Knowledge Management/Claudian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769409161685
@@ -3936,6 +3939,9 @@
         },
         {
           "timestampMillis": 1769424538299
+        },
+        {
+          "timestampMillis": 1769424821830
         }
       ]
     }
