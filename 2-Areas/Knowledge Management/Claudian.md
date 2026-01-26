@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T14:37
+更新时间: 2026-01-26T14:39
 tags:
   - obsidian
 ---
@@ -43,5 +43,7 @@ echo $env:ANTHROPIC_AUTH_TOKEN
 
 echo $env:ANTHROPIC_BASE_URL
 
-echo $env:ANTHROPIC_MODEL
+> [!NOTE]
+> echo $env:ANTHROPIC_MODEL
+
 ```
