@@ -24,7 +24,7 @@ claude --version
 
 ### 安装cc-switch
 
-这个工具是用来一键切换
+一键切换Claude、Codex、Gemini供应商配置
 
 - [下载地址](https://github.com/farion1231/cc-switch/releases/tag/v3.10.2)
 
