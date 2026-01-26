@@ -1,9 +1,10 @@
 {
   "id": "conv-1769421971826-s5fapfz10",
-  "title": "Hello",
+  "title": "根据当前库，你可以为我做些什么",
   "titleGenerationStatus": "failed",
   "createdAt": 1769421971826,
-  "updatedAt": 1769422024514,
+  "updatedAt": 1769422266451,
+  "lastResponseAt": 1769422266451,
   "sessionId": null,
-  "currentNote": "1-Projects/Dashboard.md"
+  "currentNote": "_Templates/日报模版.md"
 }

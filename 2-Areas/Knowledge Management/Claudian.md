@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:02
+更新时间: 2026-01-26T18:19
 tags:
   - obsidian
 ---
@@ -56,4 +56,10 @@ echo $env:ANTHROPIC_MODEL
 ANTHROPIC_API_KEY=sk-api-9MtsiOZnytU8wGTDvCgjgZq8k8bdVa8ZLveoFxe8TEnQcZSzR7HFYmnRbX0P-nIH6XXxK3vUcbeq8dxzlZegN7q_HX_K7aB71o-n-1LqlOVwq90a-KTFgdo
 ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic
 ANTHROPIC_MODEL=MiniMax-M2.1
+```
+
+配置路径
+
+```
+D:\nodejs\node_global\node_modules\@anthropic-ai\claude-code\cli.js
 ```
