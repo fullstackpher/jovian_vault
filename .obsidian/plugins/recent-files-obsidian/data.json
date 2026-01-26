@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "1-Projects/Dashboard.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Calendar",
       "path": "2-Areas/Knowledge Management/Calendar.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
     },
     {
       "basename": "面向对象",
