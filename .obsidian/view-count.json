@@ -261,7 +261,7 @@
     {
       "path": "2-Areas/Knowledge Management/obsidian标签功能.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -301,6 +301,9 @@
         },
         {
           "timestampMillis": 1769424549939
+        },
+        {
+          "timestampMillis": 1769425298140
         }
       ]
     },
@@ -467,7 +470,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 139,
+      "totalTimesOpened": 140,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -885,6 +888,9 @@
         },
         {
           "timestampMillis": 1769424129463
+        },
+        {
+          "timestampMillis": 1769425738923
         }
       ]
     },
@@ -3263,7 +3269,7 @@
     {
       "path": "1-Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3321,6 +3327,12 @@
         },
         {
           "timestampMillis": 1769401772899
+        },
+        {
+          "timestampMillis": 1769425482676
+        },
+        {
+          "timestampMillis": 1769425737228
         }
       ]
     },
@@ -3942,6 +3954,35 @@
         },
         {
           "timestampMillis": 1769424821830
+        }
+      ]
+    },
+    {
+      "path": "thought/参考 - 笔记到系统的obsidian实践.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1769425094441
+        },
+        {
+          "timestampMillis": 1769425308171
+        },
+        {
+          "timestampMillis": 1769425348084
+        },
+        {
+          "timestampMillis": 1769425741405
+        }
+      ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-26 学习日报.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769425371228
         }
       ]
     }

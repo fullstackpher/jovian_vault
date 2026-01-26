@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "参考 - 笔记到系统的obsidian实践",
+      "path": "thought/参考 - 笔记到系统的obsidian实践.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "2026-01-26 学习日报",
+      "path": "0_Daily Notes/2026-01-26 学习日报.md"
+    },
+    {
+      "basename": "obsidian标签功能",
+      "path": "2-Areas/Knowledge Management/obsidian标签功能.md"
+    },
+    {
       "basename": "Claudian",
       "path": "2-Areas/Knowledge Management/Claudian.md"
     },
     {
       "basename": "obsidian excalidraw插件",
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
-    },
-    {
-      "basename": "obsidian标签功能",
-      "path": "2-Areas/Knowledge Management/obsidian标签功能.md"
     },
     {
       "basename": "markdown使用指南",
@@ -33,20 +49,12 @@
       "path": "2-Areas/Knowledge Management/QuickAdd.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
-    },
-    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
     {
       "basename": "面向对象",
       "path": "2-Areas/Frontend/JS/面向对象.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-01-19",
@@ -191,14 +199,6 @@
     {
       "basename": "CSS基础概念",
       "path": "2-Areas/Frontend/CSS/CSS基础概念.md"
-    },
-    {
-      "basename": "CSS动画",
-      "path": "2-Areas/Frontend/CSS/CSS动画.md"
-    },
-    {
-      "basename": "CSS层叠、继承、值计算",
-      "path": "2-Areas/Frontend/CSS/CSS层叠、继承、值计算.md"
     }
   ],
   "omittedPaths": [],

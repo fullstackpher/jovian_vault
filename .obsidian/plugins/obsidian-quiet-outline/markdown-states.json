@@ -33,12 +33,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 0
+        "line": 12,
+        "ch": 14
       },
       "to": {
-        "line": 23,
-        "ch": 0
+        "line": 12,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -1590,7 +1590,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 53.36287001690704,
+    "scroll": 54.25509217887699,
     "cursor": {
       "from": {
         "line": 44,
@@ -1884,7 +1884,7 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 33.56181399582374,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 46,
@@ -2378,6 +2378,39 @@
       "item-2-2",
       "item-2-7",
       "item-2-9"
+    ]
+  },
+  "thought/参考 - 笔记到系统的obsidian实践.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 17
+      },
+      "to": {
+        "line": 18,
+        "ch": 17
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "0_Daily Notes/2026-01-26 学习日报.md": {
+    "scroll": 116.86381480601082,
+    "cursor": {
+      "from": {
+        "line": 144,
+        "ch": 18
+      },
+      "to": {
+        "line": 144,
+        "ch": 18
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-3"
     ]
   }
 }
