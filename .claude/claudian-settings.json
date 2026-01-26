@@ -62,7 +62,9 @@
   },
   "locale": "zh-CN",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {},
+  "claudeCliPathsByHost": {
+    "DESKTOP-24IGV5M": "D:\\nodejs\\node_global\\node_modules\\@anthropic-ai\\claude-code\\cli.js"
+  },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
