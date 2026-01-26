@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "QuickAdd",
-      "path": "2-Areas/Knowledge Management/QuickAdd.md"
-    },
-    {
       "basename": "obsidian excalidraw插件",
       "path": "2-Areas/Knowledge Management/obsidian excalidraw插件.md"
+    },
+    {
+      "basename": "obsidian标签功能",
+      "path": "2-Areas/Knowledge Management/obsidian标签功能.md"
     },
     {
       "basename": "markdown使用指南",
@@ -21,16 +21,20 @@
       "path": "2-Areas/Knowledge Management/Editing Toolbar.md"
     },
     {
+      "basename": "Claudian",
+      "path": "2-Areas/Knowledge Management/Claudian.md"
+    },
+    {
       "basename": "Calendar",
       "path": "2-Areas/Knowledge Management/Calendar.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
+      "basename": "QuickAdd",
+      "path": "2-Areas/Knowledge Management/QuickAdd.md"
     },
     {
-      "basename": "Claudian",
-      "path": "2-Areas/Knowledge Management/Claudian.md"
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
     },
     {
       "basename": "日报模版",
@@ -195,10 +199,6 @@
     {
       "basename": "CSS层叠、继承、值计算",
       "path": "2-Areas/Frontend/CSS/CSS层叠、继承、值计算.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2-Areas/Frontend/CSS/CSS布局系统.md"
     }
   ],
   "omittedPaths": [],

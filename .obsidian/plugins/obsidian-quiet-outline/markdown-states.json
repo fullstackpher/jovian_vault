@@ -2232,7 +2232,7 @@
     ]
   },
   "2-Areas/Knowledge Management/Emoji Toolbar.md": {
-    "scroll": 0,
+    "scroll": 2.0066889632107023,
     "cursor": {
       "from": {
         "line": 10,
@@ -2263,11 +2263,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 14,
         "ch": 0
       },
       "to": {
-        "line": 10,
+        "line": 14,
         "ch": 0
       }
     },
@@ -2302,15 +2302,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/QuickAdd.md": {
-    "scroll": 30.791667302449543,
+    "scroll": 242.8975656827291,
     "cursor": {
       "from": {
-        "line": 253,
-        "ch": 22
+        "line": 159,
+        "ch": 0
       },
       "to": {
-        "line": 253,
-        "ch": 22
+        "line": 159,
+        "ch": 0
       }
     },
     "expandedKeys": [
