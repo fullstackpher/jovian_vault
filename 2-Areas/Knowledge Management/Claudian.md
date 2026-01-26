@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T14:39
+更新时间: 2026-01-26T14:43
 tags:
   - obsidian
 ---
@@ -29,7 +29,7 @@ claude --version
 1. 在PowerShell中执行以下命令，设置环境变量。
 
 ```
-[System.Environment]::SetEnvironmentVariable('ANTHROPIC_AUTH_TOKEN', '0fbea595-7e51-47c8-a674-7f53df9f55bb', 'User')
+[System.Environment]::SetEnvironmentVariable('ANTHROPIC_AUTH_TOKEN', 'ebf7f2d7-98b4-4a98-bcd4-504edc2b61dc', 'User')
 
 [System.Environment]::SetEnvironmentVariable('ANTHROPIC_BASE_URL', 'https://ark.cn-beijing.volces.com/api/coding', 'User')
 
@@ -40,10 +40,8 @@ claude --version
 
 ```
 echo $env:ANTHROPIC_AUTH_TOKEN
-
 echo $env:ANTHROPIC_BASE_URL
-
-> [!NOTE]
-> echo $env:ANTHROPIC_MODEL
+echo $env:ANTHROPIC_MODEL
 
 ```
+
