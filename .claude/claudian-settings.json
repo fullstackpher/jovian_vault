@@ -42,7 +42,7 @@
   "model": "haiku",
   "thinkingBudget": "xhigh",
   "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "glm-4.7",
+  "titleGenerationModel": "",
   "show1MModel": false,
   "excludedTags": [],
   "mediaFolder": "",

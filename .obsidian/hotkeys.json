@@ -8,14 +8,6 @@
       "key": "Q"
     }
   ],
-  "editing-toolbar:editor:insert-callout": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editing-toolbar:editor:insert-table": [
     {
       "modifiers": [
@@ -29,6 +21,15 @@
     {
       "modifiers": [
         "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editing-toolbar:editor:insert-callout": [
+    {
+      "modifiers": [
+        "Meta",
         "Shift"
       ],
       "key": "C"
