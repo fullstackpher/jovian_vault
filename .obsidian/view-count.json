@@ -458,7 +458,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 127,
+      "totalTimesOpened": 128,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -840,6 +840,9 @@
         },
         {
           "timestampMillis": 1769421051378
+        },
+        {
+          "timestampMillis": 1769421193177
         }
       ]
     },
@@ -3771,11 +3774,14 @@
     },
     {
       "path": "2-Areas/Knowledge Management/Calendar.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769341687225
+        },
+        {
+          "timestampMillis": 1769421108156
         }
       ]
     },
@@ -3795,7 +3801,7 @@
     {
       "path": "2-Areas/Knowledge Management/Claudian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769409161685
@@ -3826,6 +3832,12 @@
         },
         {
           "timestampMillis": 1769418299443
+        },
+        {
+          "timestampMillis": 1769421108670
+        },
+        {
+          "timestampMillis": 1769421191859
         }
       ]
     }

@@ -9,6 +9,10 @@
       "path": "2-Areas/Knowledge Management/Claudian.md"
     },
     {
+      "basename": "Calendar",
+      "path": "2-Areas/Knowledge Management/Calendar.md"
+    },
+    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "2026-01-25 学习日报",
       "path": "0_Daily Notes/2026-01-25 学习日报.md"
-    },
-    {
-      "basename": "Calendar",
-      "path": "2-Areas/Knowledge Management/Calendar.md"
     },
     {
       "basename": "QuickAdd",
