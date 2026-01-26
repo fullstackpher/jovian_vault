@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:34
+更新时间: 2026-01-26T18:36
 tags:
   - obsidian
 ---
@@ -24,7 +24,7 @@ claude --version
 
 ### 安装cc-switch
 
-这个工具是用来切换Claude服务商
+这个工具是用来一键切换
 
 - [下载地址](https://github.com/farion1231/cc-switch/releases/tag/v3.10.2)
 
