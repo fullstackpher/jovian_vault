@@ -470,7 +470,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 140,
+      "totalTimesOpened": 141,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -891,6 +891,9 @@
         },
         {
           "timestampMillis": 1769425738923
+        },
+        {
+          "timestampMillis": 1769425971009
         }
       ]
     },
@@ -3960,7 +3963,7 @@
     {
       "path": "thought/参考 - 笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -3973,6 +3976,9 @@
         },
         {
           "timestampMillis": 1769425741405
+        },
+        {
+          "timestampMillis": 1769425970076
         }
       ]
     },
