@@ -652,11 +652,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       }
     },
@@ -2302,14 +2302,14 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/QuickAdd.md": {
-    "scroll": 6.818181818181818,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 11,
+        "line": 6,
         "ch": 0
       }
     },
