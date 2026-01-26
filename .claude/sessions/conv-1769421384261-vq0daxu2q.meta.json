@@ -1,9 +1,10 @@
 {
   "id": "conv-1769421384261-vq0daxu2q",
-  "title": "你好，请问你能干什么",
+  "title": "请帮我梳理一下当前库",
   "titleGenerationStatus": "failed",
   "createdAt": 1769421384261,
-  "updatedAt": 1769421909454,
+  "updatedAt": 1769422013127,
+  "lastResponseAt": 1769421957879,
   "sessionId": null,
-  "currentNote": "2-Areas/Knowledge Management/Claudian.md"
+  "currentNote": "1-Projects/Dashboard.md"
 }
