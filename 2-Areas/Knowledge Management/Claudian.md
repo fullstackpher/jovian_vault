@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T14:43
+更新时间: 2026-01-26T16:11
 tags:
   - obsidian
 ---
@@ -45,3 +45,15 @@ echo $env:ANTHROPIC_MODEL
 
 ```
 
+### 安装Claudian插件
+
+
+### 配置Claudian插件
+
+配置环境变量
+
+```
+ANTHROPIC_API_KEY=7b414188395b4322bf831c1bb896fae7.IdTV2K5a67NiLzhn
+ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic
+ANTHROPIC_MODEL=glm-4.7
+```

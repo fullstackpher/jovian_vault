@@ -39,7 +39,7 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "haiku",
+  "model": "glm-4.7",
   "thinkingBudget": "off",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -52,7 +52,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "",
+  "environmentVariables": "ANTHROPIC_API_KEY=7b414188395b4322bf831c1bb896fae7.IdTV2K5a67NiLzhn\nANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_MODEL=glm-4.7",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -62,13 +62,11 @@
   },
   "locale": "zh-CN",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {
-    "DESKTOP-24IGV5M": ""
-  },
+  "claudeCliPathsByHost": {},
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
-  "lastEnvHash": "",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic|ANTHROPIC_MODEL=glm-4.7",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
