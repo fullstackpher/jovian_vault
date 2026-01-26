@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "2026-01-19",
+      "path": "0_Daily Notes/2026-01-19.md"
+    },
+    {
+      "basename": "2026-01-25 学习日报",
+      "path": "0_Daily Notes/2026-01-25 学习日报.md"
+    },
+    {
       "basename": "Calendar",
       "path": "2-Areas/Knowledge Management/Calendar.md"
     },
@@ -37,10 +49,6 @@
       "path": "2-Areas/Knowledge Management/Emoji Toolbar.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "1-Projects/Dashboard.md"
-    },
-    {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "2026-01-19 学习日报",
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
-    },
-    {
-      "basename": "2026-01-25 学习日报",
-      "path": "0_Daily Notes/2026-01-25 学习日报.md"
     },
     {
       "basename": "项目看板",
@@ -195,10 +199,6 @@
     {
       "basename": "响应式单位",
       "path": "2-Areas/Frontend/CSS/响应式单位.md"
-    },
-    {
-      "basename": "响应式布局",
-      "path": "2-Areas/Frontend/CSS/响应式布局.md"
     }
   ],
   "omittedPaths": [],
