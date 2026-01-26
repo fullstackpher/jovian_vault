@@ -24,5 +24,14 @@
       ],
       "key": "T"
     }
+  ],
+  "claudian:open-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
