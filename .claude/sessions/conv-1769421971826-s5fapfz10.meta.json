@@ -1,10 +1,20 @@
 {
   "id": "conv-1769421971826-s5fapfz10",
-  "title": "根据当前库，你可以为我做些什么",
-  "titleGenerationStatus": "failed",
+  "title": "Conversation Started",
+  "titleGenerationStatus": "success",
   "createdAt": 1769421971826,
-  "updatedAt": 1769422920058,
-  "lastResponseAt": 1769422266451,
-  "sessionId": null,
-  "currentNote": "2-Areas/Knowledge Management/Claudian.md"
+  "updatedAt": 1769423196917,
+  "lastResponseAt": 1769423196917,
+  "sessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
+  "sdkSessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
+  "currentNote": "1-Projects/Dashboard.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 94,
+    "cacheReadInputTokens": 13775,
+    "contextWindow": 200000,
+    "contextTokens": 13953,
+    "percentage": 7
+  }
 }
