@@ -458,7 +458,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 104,
+      "totalTimesOpened": 106,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -771,6 +771,12 @@
         },
         {
           "timestampMillis": 1769413315394
+        },
+        {
+          "timestampMillis": 1769414562083
+        },
+        {
+          "timestampMillis": 1769414663697
         }
       ]
     },
@@ -1794,7 +1800,7 @@
     {
       "path": "_Templates/日报模版.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -1846,6 +1852,12 @@
         },
         {
           "timestampMillis": 1769412329578
+        },
+        {
+          "timestampMillis": 1769414591471
+        },
+        {
+          "timestampMillis": 1769414662244
         }
       ]
     },
