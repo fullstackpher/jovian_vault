@@ -2330,15 +2330,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Claudian.md": {
-    "scroll": 6.818181818181818,
+    "scroll": 6,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 71
+        "line": 8,
+        "ch": 0
       },
       "to": {
-        "line": 17,
-        "ch": 71
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []
