@@ -458,7 +458,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 97,
+      "totalTimesOpened": 98,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -750,6 +750,9 @@
         },
         {
           "timestampMillis": 1769407521794
+        },
+        {
+          "timestampMillis": 1769407553218
         }
       ]
     },
@@ -3687,6 +3690,16 @@
         },
         {
           "timestampMillis": 1769402570504
+        }
+      ]
+    },
+    {
+      "path": "2-Areas/Knowledge Management/Claudian.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769409161685
         }
       ]
     }
