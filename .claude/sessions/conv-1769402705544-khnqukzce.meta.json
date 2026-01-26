@@ -1,10 +1,10 @@
 {
   "id": "conv-1769402705544-khnqukzce",
-  "title": "检查一下这个文件是干什么的",
+  "title": "你好",
   "titleGenerationStatus": "failed",
   "createdAt": 1769402705544,
-  "updatedAt": 1769412669086,
-  "lastResponseAt": 1769412386524,
+  "updatedAt": 1769412835026,
+  "lastResponseAt": 1769412691627,
   "sessionId": null,
-  "currentNote": "_Templates/日报模版.md"
+  "currentNote": "1-Projects/Dashboard.md"
 }
