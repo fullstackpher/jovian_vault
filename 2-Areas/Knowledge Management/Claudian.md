@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T17:01
+更新时间: 2026-01-26T17:02
 tags:
   - obsidian
 ---
@@ -54,10 +54,6 @@ echo $env:ANTHROPIC_MODEL
 
 ```
 ANTHROPIC_API_KEY=7b414188395b4322bf831c1bb896fae7.IdTV2K5a67NiLzhn
-
-
-> [!NOTE]
-> ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic
-
+ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic
 ANTHROPIC_MODEL=glm-4.7
 ```
