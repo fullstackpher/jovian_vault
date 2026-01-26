@@ -652,15 +652,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 534,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 534,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "IDEA/打造AI+第二大脑.md": {
     "scroll": 0,
