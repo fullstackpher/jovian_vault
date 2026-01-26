@@ -1873,7 +1873,7 @@
     ]
   },
   "1-Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 36.988055211467,
+    "scroll": 33.56181399582374,
     "cursor": {
       "from": {
         "line": 46,
@@ -1906,11 +1906,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 3,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 3,
         "ch": 0
       }
     },
@@ -2310,6 +2310,20 @@
       },
       "to": {
         "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2-Areas/Frontend/JS/面向对象.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
         "ch": 0
       }
     },

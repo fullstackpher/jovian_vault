@@ -45,7 +45,7 @@ limit 100
 - [x] 学习JavaScript流程控制语句 ✅ 2026-01-24
 - [x] 学习JavaScript函数 ✅ 2026-01-25
 - [ ] 学习JavaScript数组
-- [ ] 学习JavaScript面向对象
+- [/] 学习JavaScript面向对象
 - [ ] 学习JavaScriptDOM
 - [ ] 学习JavaScriptBOM
 - [ ] 学习Promise

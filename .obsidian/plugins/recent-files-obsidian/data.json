@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "2-Areas/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1-Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "1-Projects/Dashboard.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Virtual Linker",
       "path": "2-Areas/Knowledge Management/Virtual Linker.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1-Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "函数",
@@ -195,10 +199,6 @@
     {
       "basename": "响应式图片",
       "path": "2-Areas/Frontend/CSS/响应式图片.md"
-    },
-    {
-      "basename": "响应式单位",
-      "path": "2-Areas/Frontend/CSS/响应式单位.md"
     }
   ],
   "omittedPaths": [],
