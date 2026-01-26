@@ -39,10 +39,10 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "glm-4.7",
+  "model": "haiku",
   "thinkingBudget": "xhigh",
   "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "",
+  "titleGenerationModel": "glm-4.7",
   "show1MModel": false,
   "excludedTags": [],
   "mediaFolder": "",
@@ -52,7 +52,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ANTHROPIC_API_KEY=7b414188395b4322bf831c1bb896fae7.IdTV2K5a67NiLzhn\nANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_MODEL=glm-4.7",
+  "environmentVariables": "ANTHROPIC_AUTH_TOKEN=\"test\"\nANTHROPIC_BASE_URL=\"http://127.0.0.1:3456\"\nNO_PROXY=\"127.0.0.1\"\nDISABLE_TELEMETRY=\"true\"\nDISABLE_COST_WARNINGS=\"true\"\nAPI_TIMEOUT_MS=\"600000\"\n",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -66,7 +66,7 @@
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic|ANTHROPIC_MODEL=glm-4.7",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:3456",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
