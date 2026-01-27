@@ -3,7 +3,7 @@ module.exports = async (params) => {
 
     // 1. 选择类型
     const typeChoice = await quickadd.suggester(
-        ["💡 重点", "❓ 疑问", "📌 摘要", "⚠️ 警告", "🔬 示例"],
+        ["👿","💡 重点", "❓ 疑问", "📌 摘要", "⚠️ 警告", "🔬 示例"],
         ["tip", "question", "success", "danger", "example"]
     );
     if (!typeChoice) return;
