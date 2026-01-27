@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
+      "basename": "学习JavaScript",
+      "path": "01-项目/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "02-领域/Frontend/JS/运算符.md"
     },
     {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "流程控制语句",
+      "path": "02-领域/Frontend/JS/流程控制语句.md"
     },
     {
       "basename": "函数",
@@ -73,10 +81,6 @@
       "path": "02-领域/Knowledge Management/Claudian.md"
     },
     {
-      "basename": "学习JavaScript",
-      "path": "01-项目/03-学习前端/学习JavaScript.md"
-    },
-    {
       "basename": "2026-01-26 学习日报",
       "path": "日记/2026-01-26 学习日报.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "项目看板",
       "path": "01-项目/项目看板.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "02-领域/Frontend/JS/运算符.md"
     },
     {
       "basename": "闭包",

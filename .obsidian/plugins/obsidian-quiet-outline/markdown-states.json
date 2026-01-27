@@ -2554,7 +2554,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/流程控制语句.md": {
-    "scroll": 177.88194354375204,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 6,
@@ -2689,6 +2689,34 @@
       "to": {
         "line": 6,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/运算符.md": {
+    "scroll": 215.45963292121888,
+    "cursor": {
+      "from": {
+        "line": 236,
+        "ch": 0
+      },
+      "to": {
+        "line": 236,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/03-学习前端/学习JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 57,
+        "ch": 20
+      },
+      "to": {
+        "line": 57,
+        "ch": 20
       }
     },
     "expandedKeys": []
