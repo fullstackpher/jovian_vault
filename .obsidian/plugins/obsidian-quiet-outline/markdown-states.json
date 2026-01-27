@@ -2412,5 +2412,33 @@
       "item-2-0",
       "item-2-3"
     ]
+  },
+  "00-收件箱/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "00-收件箱/TODO.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 6
+      },
+      "to": {
+        "line": 6,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
   }
 }

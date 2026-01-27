@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "00-收件箱/TODO.md"
+    },
+    {
       "basename": "参考 - 笔记到系统的obsidian实践",
       "path": "00-收件箱/参考 - 笔记到系统的obsidian实践.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CSS视觉与表现",
       "path": "02-领域/Frontend/CSS/CSS视觉与表现.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "02-领域/Frontend/CSS/CSS基础概念.md"
     }
   ],
   "omittedPaths": [],
