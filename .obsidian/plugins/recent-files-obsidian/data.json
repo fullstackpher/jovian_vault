@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "流程控制语句",
+      "path": "02-领域/Frontend/JS/流程控制语句.md"
+    },
+    {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "2026-01-24 学习日报",
       "path": "日记/2026-01-24 学习日报.md"
-    },
-    {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
     },
     {
       "basename": "JavaScript基础",
