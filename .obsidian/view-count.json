@@ -4063,9 +4063,9 @@
       ]
     },
     {
-      "path": "00-收件箱/参考 - 笔记到系统的obsidian实践.md",
+      "path": "00-收件箱/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -4087,6 +4087,15 @@
         },
         {
           "timestampMillis": 1769495871932
+        },
+        {
+          "timestampMillis": 1769495986794
+        },
+        {
+          "timestampMillis": 1769496046755
+        },
+        {
+          "timestampMillis": 1769496062711
         }
       ]
     },
@@ -4103,10 +4112,19 @@
     {
       "path": "00-收件箱/README.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
+        },
+        {
+          "timestampMillis": 1769496005781
+        },
+        {
+          "timestampMillis": 1769496060400
+        },
+        {
+          "timestampMillis": 1769496079575
         }
       ]
     },

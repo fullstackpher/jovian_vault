@@ -2445,12 +2445,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 74,
-        "ch": 27
+        "line": 36,
+        "ch": 20
       },
       "to": {
-        "line": 74,
-        "ch": 27
+        "line": 36,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -2512,7 +2512,21 @@
     "expandedKeys": []
   },
   "00-收件箱/参考 - 笔记到系统的obsidian实践.md": {
-    "scroll": 24.067708253860474,
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 12
+      },
+      "to": {
+        "line": 33,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "00-收件箱/2026-01-27 笔记到系统的obsidian实践.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 9,
