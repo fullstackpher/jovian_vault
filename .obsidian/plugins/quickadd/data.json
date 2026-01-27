@@ -159,7 +159,15 @@
       "macro": {
         "name": "插入Callout",
         "id": "31d6997a-9ff0-4d7f-8abb-0ef5b234c7e0",
-        "commands": []
+        "commands": [
+          {
+            "name": "calloutMaker",
+            "type": "UserScript",
+            "id": "bf283d17-bcd0-4c36-b11f-82f7d0cfd20c",
+            "path": "QuickAddMacros/calloutMaker.js",
+            "settings": {}
+          }
+        ]
       }
     }
   ],
