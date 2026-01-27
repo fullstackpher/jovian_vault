@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QuickAdd",
+      "path": "2-Areas/Knowledge Management/QuickAdd.md"
+    },
+    {
       "basename": "面向对象",
       "path": "2-Areas/Frontend/JS/面向对象.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Calendar",
       "path": "2-Areas/Knowledge Management/Calendar.md"
-    },
-    {
-      "basename": "QuickAdd",
-      "path": "2-Areas/Knowledge Management/QuickAdd.md"
     },
     {
       "basename": "日报模版",

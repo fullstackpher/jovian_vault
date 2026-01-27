@@ -2313,7 +2313,7 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/QuickAdd.md": {
-    "scroll": 242.8975656827291,
+    "scroll": 150.70634487697058,
     "cursor": {
       "from": {
         "line": 159,
@@ -2334,14 +2334,14 @@
     ]
   },
   "2-Areas/Frontend/JS/面向对象.md": {
-    "scroll": 120.29370497056654,
+    "scroll": 114.32340994335357,
     "cursor": {
       "from": {
-        "line": 126,
+        "line": 128,
         "ch": 0
       },
       "to": {
-        "line": 126,
+        "line": 128,
         "ch": 0
       }
     },

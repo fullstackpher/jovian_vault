@@ -3853,8 +3853,8 @@
     },
     {
       "path": "2-Areas/Knowledge Management/QuickAdd.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769341643576
@@ -3864,6 +3864,9 @@
         },
         {
           "timestampMillis": 1769424422650
+        },
+        {
+          "timestampMillis": 1769490761109
         }
       ]
     },
