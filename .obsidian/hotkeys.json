@@ -17,15 +17,6 @@
       "key": "T"
     }
   ],
-  "claudian:open-view": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "editing-toolbar:editor:insert-callout": [
     {
       "modifiers": [
