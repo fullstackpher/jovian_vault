@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
-    },
-    {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "函数",
+      "path": "02-领域/Frontend/JS/函数.md"
+    },
+    {
+      "basename": "流程控制语句",
+      "path": "02-领域/Frontend/JS/流程控制语句.md"
     },
     {
       "basename": "README",
@@ -91,10 +95,6 @@
     {
       "basename": "Virtual Linker",
       "path": "02-领域/Knowledge Management/Virtual Linker.md"
-    },
-    {
-      "basename": "函数",
-      "path": "02-领域/Frontend/JS/函数.md"
     },
     {
       "basename": "Paste url into selection",
