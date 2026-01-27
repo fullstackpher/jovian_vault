@@ -149,6 +149,18 @@
       },
       "fileExistsMode": "增加文件名",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "1d9498bd-1f47-4f29-81dc-9fbe719c09ce",
+      "name": "插入Callout",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "插入Callout",
+        "id": "31d6997a-9ff0-4d7f-8abb-0ef5b234c7e0",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",
