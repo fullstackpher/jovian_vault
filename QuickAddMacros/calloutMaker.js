@@ -15,7 +15,7 @@ module.exports = async (params) => {
     // 3. 格式化并插入到当前光标
     const editor = params.app.workspace.activeEditor.editor;
     if (editor) {
-        const callout = `> [!${typeChoice}]+> ${content.replace(/\n/g, "\n> ")}`;
+        const callout = `> [!${typeChoice}]+ ${content.replace(/\n/g, "\n> ")}`;
         editor.replaceSelection(callout);
         new Notice(`Callout 已插入`);
     }
