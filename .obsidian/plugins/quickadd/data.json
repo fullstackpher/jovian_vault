@@ -159,7 +159,15 @@
       "macro": {
         "name": "智能Callout",
         "id": "ef8faded-dba4-456e-a6f6-f8bcb9f027a4",
-        "commands": []
+        "commands": [
+          {
+            "name": "calloutMaker",
+            "type": "UserScript",
+            "id": "be4ede3e-fee0-4e95-b206-0d4fef1f0472",
+            "path": "QuickAddMacros/calloutMaker.js",
+            "settings": {}
+          }
+        ]
       }
     },
     {
@@ -177,13 +185,6 @@
             "type": "Choice",
             "id": "e66a903d-47d7-45b3-85c6-a89d0d8c0986",
             "choiceId": "4e968278-c977-4238-919b-764b0335ce0e"
-          },
-          {
-            "name": "calloutMaker",
-            "type": "UserScript",
-            "id": "9e8d92cc-6823-495f-8ba3-bba816612900",
-            "path": "QuickAddMacros/calloutMaker.js",
-            "settings": {}
           }
         ]
       }
