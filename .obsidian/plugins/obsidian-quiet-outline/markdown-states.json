@@ -2431,11 +2431,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 17
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 17,
+        "line": 16,
         "ch": 17
       }
     },
