@@ -152,18 +152,71 @@
     },
     {
       "id": "1d9498bd-1f47-4f29-81dc-9fbe719c09ce",
-      "name": "插入Callout",
+      "name": "智能Callout",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
-        "name": "插入Callout",
+        "name": "智能Callout",
         "id": "31d6997a-9ff0-4d7f-8abb-0ef5b234c7e0",
         "commands": [
           {
+            "name": "插入Callout",
+            "type": "NestedChoice",
+            "id": "a55e32f9-cbea-4c2b-bd75-428a334b0343",
+            "choice": {
+              "id": "a2eb23a4-b228-47e7-9d3f-779f2600e5b0",
+              "name": "插入Callout",
+              "type": "捕获",
+              "command": false,
+              "appendLink": {
+                "enabled": true,
+                "placement": "afterSelection",
+                "requireActiveFile": true,
+                "linkType": "link"
+              },
+              "captureTo": "",
+              "captureToActiveFile": true,
+              "activeFileWritePosition": "cursor",
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": false,
+                "format": ""
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "templater": {
+                "afterCapture": "none"
+              }
+            }
+          },
+          {
             "name": "calloutMaker",
             "type": "UserScript",
-            "id": "bf283d17-bcd0-4c36-b11f-82f7d0cfd20c",
+            "id": "c0a6ae73-2da3-43d6-9394-3ad5f24fa1d6",
             "path": "QuickAddMacros/calloutMaker.js",
             "settings": {}
           }
