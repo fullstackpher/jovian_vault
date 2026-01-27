@@ -470,7 +470,7 @@
     {
       "path": "1-Projects/Dashboard.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 150,
+      "totalTimesOpened": 152,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -921,6 +921,12 @@
         },
         {
           "timestampMillis": 1769493767535
+        },
+        {
+          "timestampMillis": 1769493807283
+        },
+        {
+          "timestampMillis": 1769494038294
         }
       ]
     },
@@ -3919,7 +3925,7 @@
     {
       "path": "2-Areas/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -3956,6 +3962,18 @@
         },
         {
           "timestampMillis": 1769493772723
+        },
+        {
+          "timestampMillis": 1769493806287
+        },
+        {
+          "timestampMillis": 1769493808973
+        },
+        {
+          "timestampMillis": 1769494037187
+        },
+        {
+          "timestampMillis": 1769494043218
         }
       ]
     },
