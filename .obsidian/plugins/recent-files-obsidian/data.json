@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
       "basename": "README",
       "path": "00-收件箱/README.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "README",
       "path": "01-项目/README.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
     },
     {
       "basename": "Dashboard",
