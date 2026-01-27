@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "window",
-      "path": "02-领域/Frontend/JS/window.md"
-    },
-    {
       "basename": "this",
       "path": "02-领域/Frontend/JS/this.md"
     },
     {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "window",
+      "path": "02-领域/Frontend/JS/window.md"
     },
     {
       "basename": "函数",
