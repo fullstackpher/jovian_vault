@@ -5,6 +5,10 @@
       "path": "02-领域/Frontend/JS/面向对象.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "01-项目/Dashboard.md"
+    },
+    {
       "basename": "函数",
       "path": "02-领域/Frontend/JS/函数.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "README",
       "path": "01-项目/README.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "01-项目/Dashboard.md"
     },
     {
       "basename": "QuickAdd",
