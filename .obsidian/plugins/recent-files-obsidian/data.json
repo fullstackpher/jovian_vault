@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "2-Areas/Frontend/JS/面向对象.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "1-Projects/Dashboard.md"
+    },
+    {
+      "basename": "2026-01-25 学习日报",
+      "path": "0_Daily Notes/2026-01-25 学习日报.md"
     },
     {
       "basename": "Claudian",
@@ -53,16 +61,8 @@
       "path": "_Templates/日报模版.md"
     },
     {
-      "basename": "面向对象",
-      "path": "2-Areas/Frontend/JS/面向对象.md"
-    },
-    {
       "basename": "2026-01-19",
       "path": "0_Daily Notes/2026-01-19.md"
-    },
-    {
-      "basename": "2026-01-25 学习日报",
-      "path": "0_Daily Notes/2026-01-25 学习日报.md"
     },
     {
       "basename": "Virtual Linker",

@@ -1590,15 +1590,15 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 49.17078496128664,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 44,
-        "ch": 10
+        "line": 60,
+        "ch": 9
       },
       "to": {
-        "line": 44,
-        "ch": 10
+        "line": 60,
+        "ch": 9
       }
     },
     "expandedKeys": [
@@ -2210,7 +2210,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-25 学习日报.md": {
-    "scroll": 53.68699042892591,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 61,
@@ -2334,14 +2334,14 @@
     ]
   },
   "2-Areas/Frontend/JS/面向对象.md": {
-    "scroll": 0,
+    "scroll": 4.013377926421405,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 21,
         "ch": 0
       },
       "to": {
-        "line": 8,
+        "line": 21,
         "ch": 0
       }
     },

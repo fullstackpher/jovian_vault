@@ -47,7 +47,7 @@ if (pages.length === 0) {
 TABLE 状态 as "状态", dateformat(截止时间, "yyyy-MM-dd") as "截止时间"
 FROM #项目
 WHERE !contains(file.path, "_Templates") 
-SORT deadline
+SORT 截止时间
 ```
 
 ### 本周学习时间统计
@@ -55,6 +55,7 @@ SORT deadline
 TABLE sum(time) as "总时长"
 FROM #日报
 WHERE date >= date(now) - dur(7 days) and !contains(file.path, "_Templates") 
+SORT date
 ```
 
 ### 待解决问题
