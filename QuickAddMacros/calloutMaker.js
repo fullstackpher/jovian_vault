@@ -4,7 +4,7 @@ module.exports = async (params) => {
     // 1. 选择类型（已补充Emoji，选择时更直观）
     const typeChoice = await quickadd.suggester(
         ["📝 概念", "💡 重点", "❓ 疑问", "✅ 摘要", "⚠️ 警告", "🔬 示例", "🔗 链接"], // 修改处：补充了Emoji
-        ["note", "tip", "question", "success", "danger", "example", "quote"]
+        ["note", "tip", "question", "success", "danger", "example", "summary"]
     );
     if (!typeChoice) return;
 

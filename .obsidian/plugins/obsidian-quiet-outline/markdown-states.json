@@ -2568,15 +2568,15 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/函数.md": {
-    "scroll": 196.28211029370627,
+    "scroll": 186.08035614376976,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 207,
+        "ch": 3
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 207,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -2596,15 +2596,15 @@
     "expandedKeys": []
   },
   "02-领域/Knowledge Management/Callout.md": {
-    "scroll": 36.2769739926664,
+    "scroll": 3.1278195488721803,
     "cursor": {
       "from": {
-        "line": 49,
-        "ch": 0
+        "line": 14,
+        "ch": 22
       },
       "to": {
-        "line": 49,
-        "ch": 0
+        "line": 14,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -2694,7 +2694,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/运算符.md": {
-    "scroll": 215.45963292121888,
+    "scroll": 75.4857889854765,
     "cursor": {
       "from": {
         "line": 236,
@@ -2708,15 +2708,29 @@
     "expandedKeys": []
   },
   "01-项目/03-学习前端/学习JavaScript.md": {
+    "scroll": 61.8059888680776,
+    "cursor": {
+      "from": {
+        "line": 59,
+        "ch": 83
+      },
+      "to": {
+        "line": 59,
+        "ch": 83
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Knowledge Management/Claudian.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 57,
-        "ch": 20
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 57,
-        "ch": 20
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
