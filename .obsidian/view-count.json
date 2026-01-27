@@ -4313,23 +4313,29 @@
     {
       "path": "02-领域/Frontend/JS/this.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769503965990
+        },
+        {
+          "timestampMillis": 1769505076262
         }
       ]
     },
     {
       "path": "02-领域/Frontend/JS/window.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769504010671
         },
         {
           "timestampMillis": 1769504036514
+        },
+        {
+          "timestampMillis": 1769505145430
         }
       ]
     }
