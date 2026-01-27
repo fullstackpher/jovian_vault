@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "00-收件箱/README.md"
+    },
+    {
       "basename": "TODO",
       "path": "00-收件箱/TODO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CSS响应式设计",
       "path": "02-领域/Frontend/CSS/CSS响应式设计.md"
-    },
-    {
-      "basename": "CSS视觉与表现",
-      "path": "02-领域/Frontend/CSS/CSS视觉与表现.md"
     }
   ],
   "omittedPaths": [],

@@ -2440,5 +2440,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "00-收件箱/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 74,
+        "ch": 27
+      },
+      "to": {
+        "line": 74,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
   }
 }

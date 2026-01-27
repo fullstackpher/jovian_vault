@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769495351236-17yspqpdh",
+  "title": "创建文件夹README说明文档",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769495351237,
+  "updatedAt": 1769495508979,
+  "lastResponseAt": 1769495508979,
+  "sessionId": "f8a740bc-bda2-4604-8948-9216bad49ca4",
+  "sdkSessionId": "f8a740bc-bda2-4604-8948-9216bad49ca4",
+  "currentNote": "00-收件箱/TODO.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 355,
+    "cacheCreationInputTokens": 1278,
+    "cacheReadInputTokens": 24343,
+    "contextWindow": 200000,
+    "contextTokens": 25976,
+    "percentage": 13
+  }
+}
