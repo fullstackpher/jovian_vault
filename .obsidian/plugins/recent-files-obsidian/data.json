@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "01-项目/03-学习前端/学习JavaScript.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "this",
       "path": "02-领域/Frontend/JS/this.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
     },
     {
       "basename": "函数",
