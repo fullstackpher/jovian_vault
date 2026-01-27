@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习JavaScript",
+      "path": "01-项目/03-学习前端/学习JavaScript.md"
+    },
+    {
       "basename": "2026-01-28 学习日报",
       "path": "0_Daily Notes/2026-01-28 学习日报.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "作用域",
       "path": "02-领域/Frontend/JS/作用域.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "01-项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "流程控制语句",
