@@ -2762,5 +2762,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "0_Daily Notes/2026-01-28 学习日报.md": {
+    "scroll": 42.601784692082866,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 10
+      },
+      "to": {
+        "line": 49,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/Dashboard.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 52,
+        "ch": 12
+      },
+      "to": {
+        "line": 52,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
   }
 }

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-28 学习日报",
+      "path": "0_Daily Notes/2026-01-28 学习日报.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "01-项目/Dashboard.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "01-项目/项目看板.md"
     },
     {
       "basename": "JavaScript基础",
@@ -141,10 +149,6 @@
       "path": "日记/2026-01-19 学习日报.md"
     },
     {
-      "basename": "项目看板",
-      "path": "01-项目/项目看板.md"
-    },
-    {
       "basename": "闭包",
       "path": "02-领域/Frontend/JS/闭包.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "table表格布局",
       "path": "02-领域/Frontend/CSS/table表格布局.md"
-    },
-    {
-      "basename": "PostCSS",
-      "path": "02-领域/Frontend/CSS/PostCSS.md"
     }
   ],
   "omittedPaths": [],
