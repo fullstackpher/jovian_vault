@@ -3513,8 +3513,8 @@
     },
     {
       "path": "02-领域/Frontend/JS/变量和数据类型.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769142148193
@@ -3557,6 +3557,9 @@
         },
         {
           "timestampMillis": 1769228612971
+        },
+        {
+          "timestampMillis": 1769504088992
         }
       ]
     },
@@ -3646,7 +3649,7 @@
     {
       "path": "02-领域/Frontend/JS/流程控制语句.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769235089826
@@ -3677,6 +3680,9 @@
         },
         {
           "timestampMillis": 1769501416002
+        },
+        {
+          "timestampMillis": 1769504091413
         }
       ]
     },
@@ -3693,7 +3699,7 @@
     {
       "path": "02-领域/Frontend/JS/函数.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769316182436
@@ -3751,6 +3757,9 @@
         },
         {
           "timestampMillis": 1769501449430
+        },
+        {
+          "timestampMillis": 1769504090782
         }
       ]
     },
@@ -3769,14 +3778,20 @@
     },
     {
       "path": "02-领域/Frontend/JS/作用域.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769324738957
         },
         {
           "timestampMillis": 1769324766965
+        },
+        {
+          "timestampMillis": 1769503994117
+        },
+        {
+          "timestampMillis": 1769504041866
         }
       ]
     },
@@ -3949,7 +3964,7 @@
     {
       "path": "02-领域/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 34,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -4052,6 +4067,9 @@
         },
         {
           "timestampMillis": 1769503731595
+        },
+        {
+          "timestampMillis": 1769504093553
         }
       ]
     },
@@ -4247,6 +4265,29 @@
         },
         {
           "timestampMillis": 1769503728012
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/this.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769503965990
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/window.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769504010671
+        },
+        {
+          "timestampMillis": 1769504036514
         }
       ]
     }

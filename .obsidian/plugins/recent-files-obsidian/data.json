@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "流程控制语句",
+      "path": "02-领域/Frontend/JS/流程控制语句.md"
+    },
+    {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "函数",
+      "path": "02-领域/Frontend/JS/函数.md"
+    },
+    {
+      "basename": "变量和数据类型",
+      "path": "02-领域/Frontend/JS/变量和数据类型.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "02-领域/Frontend/JS/作用域.md"
+    },
+    {
+      "basename": "window",
+      "path": "02-领域/Frontend/JS/window.md"
+    },
+    {
+      "basename": "this",
+      "path": "02-领域/Frontend/JS/this.md"
     },
     {
       "basename": "Dashboard",
@@ -11,14 +35,6 @@
     {
       "basename": "Callout",
       "path": "02-领域/Knowledge Management/Callout.md"
-    },
-    {
-      "basename": "函数",
-      "path": "02-领域/Frontend/JS/函数.md"
-    },
-    {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
     },
     {
       "basename": "README",
@@ -117,10 +133,6 @@
       "path": "01-项目/项目看板.md"
     },
     {
-      "basename": "作用域",
-      "path": "02-领域/Frontend/JS/作用域.md"
-    },
-    {
       "basename": "运算符",
       "path": "02-领域/Frontend/JS/运算符.md"
     },
@@ -135,10 +147,6 @@
     {
       "basename": "JavaScript基础",
       "path": "02-领域/Frontend/JS/JavaScript基础.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "02-领域/Frontend/JS/变量和数据类型.md"
     },
     {
       "basename": "邂逅JavaScript",
@@ -191,14 +199,6 @@
     {
       "basename": "PostCSS",
       "path": "02-领域/Frontend/CSS/PostCSS.md"
-    },
-    {
-      "basename": "inline-block布局",
-      "path": "02-领域/Frontend/CSS/inline-block布局.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "02-领域/Frontend/CSS/float浮动+margin布局.md"
     }
   ],
   "omittedPaths": [],

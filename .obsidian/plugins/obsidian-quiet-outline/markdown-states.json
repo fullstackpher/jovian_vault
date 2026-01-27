@@ -2540,21 +2540,21 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/面向对象.md": {
-    "scroll": 223.52180152739004,
+    "scroll": 150.01090994335357,
     "cursor": {
       "from": {
-        "line": 238,
+        "line": 233,
         "ch": 0
       },
       "to": {
-        "line": 238,
+        "line": 233,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/流程控制语句.md": {
-    "scroll": 183.1091652146264,
+    "scroll": 177.88194354375204,
     "cursor": {
       "from": {
         "line": 6,
@@ -2568,7 +2568,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/函数.md": {
-    "scroll": 195.56054884195328,
+    "scroll": 196.28211029370627,
     "cursor": {
       "from": {
         "line": 6,
@@ -2604,6 +2604,90 @@
       },
       "to": {
         "line": 49,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/this.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/作用域.md": {
+    "scroll": 38.40967238883213,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 31
+      },
+      "to": {
+        "line": 20,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "window.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/window.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/变量和数据类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

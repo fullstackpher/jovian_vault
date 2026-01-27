@@ -27,12 +27,12 @@
     "02-领域/Frontend/JS/JavaScript基础概念.md": "b17eb987435fadf7fba2c69b9e29b1bf5b2233db2613a7c94b0ffa6836fba4da",
     "02-领域/Frontend/JS/变量和数据类型.md": "3231acff5c04fc20d0b92bb09d24f5ec1c26041211aeb699a0d6e0e8c9ac011d",
     "02-领域/Frontend/JS/JavaScript基础.md": "f30bb4ed584336f7450a6c82afca8c04af7dfbfcbae220eac64b1dc463ad358d",
-    "02-领域/Frontend/JS/作用域.md": "6303798077383ba16e8aa4a819f81af8dd673bbcf83a74c2ffe42b012b371881",
+    "02-领域/Frontend/JS/作用域.md": "7937a55c46b23f420de5c33bf01831635010debc3d01709d5a83da30fedee868",
     "02-领域/Frontend/JS/函数.md": "ad572215c14b1e85175e424d5d40d1f2d0d3567544e0375032f44e6a54668546",
     "02-领域/Frontend/JS/流程控制语句.md": "a939cf1fad9ab10ed3d73160c44f20ca097de0e486fea47b1c29113561d8e7b0",
     "02-领域/Frontend/JS/闭包.md": "f6b17bdca62919cb825e3043b50c9f00e34c733b9612f6706d1412427fe166a0",
     "02-领域/Frontend/JS/邂逅JavaScript.md": "09bc108e1de81396822507d979d19fc5804730664c0ebe8685c2f6024e2cdd56",
-    "02-领域/Frontend/JS/面向对象.md": "19bf513191258f6189bcd24252d9e1fcd4e21f79a124a29aa9dd0a0a4c628dad",
+    "02-领域/Frontend/JS/面向对象.md": "8c4987fac55633d08e96ae48a13944719d92bfe01915915901eb867a0d35fa72",
     "02-领域/Frontend/JS/运算符.md": "adce465499a84de7fd225d7c575453b0adf99fac554e0e075d8499d5bcf70032",
     "02-领域/Frontend/HTML/HTML标签.md": "88324bd11f138116ed12d626d92171f24e8d52afa79ec0a1df0e3720e41950b9",
     "02-领域/Frontend/CSS/CSS响应式设计.md": "7e2eca0f9b6ab880ce0c98b927ebb295a9a1003bd24770b52f4d255318fc9ae1",
@@ -76,6 +76,8 @@
     "03-资源/README.md": "b9263caf7038c9a226a1966f8426bf4f3abe870106ce343100b8463f9e6d633a",
     "04-归档/README.md": "0f838ffe18597e01e488a14dc8d7757a5a287e8bf3c332037bee7fa26669f7fb",
     "00-收件箱/2026-01-27-笔记到系统的obsidian实践.md": "ba48ee03b61663bbb96f3af2409cceaf64201982355bcc913f44eed9415bb4b8",
-    "02-领域/Knowledge Management/Callout.md": "6bbe7dbb292f124cc09c40d90d1bd7162bb4f68cd7d49ac68fde14f22aa6e65c"
+    "02-领域/Knowledge Management/Callout.md": "6bbe7dbb292f124cc09c40d90d1bd7162bb4f68cd7d49ac68fde14f22aa6e65c",
+    "02-领域/Frontend/JS/this.md": "4fb4c592d5f42502ff956409d7dd6fd2d86ee116c54bc23d48db9c621c28a0ff",
+    "02-领域/Frontend/JS/window.md": "59ab8870730d95fcff60963c9289f658928b34198d7d7e846bb77e9d35671a38"
   }
 }
