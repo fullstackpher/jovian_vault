@@ -3892,7 +3892,7 @@
     {
       "path": "2-Areas/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -3905,6 +3905,12 @@
         },
         {
           "timestampMillis": 1769487273420
+        },
+        {
+          "timestampMillis": 1769489723834
+        },
+        {
+          "timestampMillis": 1769489762823
         }
       ]
     },
