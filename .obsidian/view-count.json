@@ -2035,7 +2035,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-17 学习日报.md",
+      "path": "0_Daily Notes/2026-01-17 学习日报.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 39,
       "openLogs": [
@@ -2200,7 +2200,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-18 学习日报.md",
+      "path": "0_Daily Notes/2026-01-18 学习日报.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -2658,9 +2658,9 @@
       ]
     },
     {
-      "path": "日记/2026-01-19 学习日报.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "path": "0_Daily Notes/2026-01-19 学习日报.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768797604417
@@ -2676,6 +2676,12 @@
         },
         {
           "timestampMillis": 1769336197079
+        },
+        {
+          "timestampMillis": 1769533259102
+        },
+        {
+          "timestampMillis": 1769533270663
         }
       ]
     },
@@ -3082,7 +3088,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-20 学习日报.md",
+      "path": "0_Daily Notes/2026-01-20 学习日报.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3218,7 +3224,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-21 学习日报.md",
+      "path": "0_Daily Notes/2026-01-21 学习日报.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3412,7 +3418,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-22 学习日报.md",
+      "path": "0_Daily Notes/2026-01-22 学习日报.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -3676,7 +3682,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-23 学习日报.md",
+      "path": "0_Daily Notes/2026-01-23 学习日报.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -3729,7 +3735,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-24 学习日报.md",
+      "path": "0_Daily Notes/2026-01-24 学习日报.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -3847,7 +3853,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-25 学习日报.md",
+      "path": "0_Daily Notes/2026-01-25 学习日报.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -4247,7 +4253,7 @@
       ]
     },
     {
-      "path": "日记/2026-01-26 学习日报.md",
+      "path": "0_Daily Notes/2026-01-26 学习日报.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -4375,13 +4381,16 @@
     {
       "path": "0_Daily Notes/2026-01-28 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769533155318
         },
         {
           "timestampMillis": 1769533210707
+        },
+        {
+          "timestampMillis": 1769533286708
         }
       ]
     }

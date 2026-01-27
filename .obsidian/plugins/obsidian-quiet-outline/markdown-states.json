@@ -1093,15 +1093,15 @@
     ]
   },
   "0_Daily Notes/2026-01-19 学习日报.md": {
-    "scroll": 48.25141497826265,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 60,
-        "ch": 10
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 60,
-        "ch": 10
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -2764,15 +2764,15 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-28 学习日报.md": {
-    "scroll": 42.601784692082866,
+    "scroll": 50.521700859069824,
     "cursor": {
       "from": {
-        "line": 49,
-        "ch": 10
+        "line": 132,
+        "ch": 18
       },
       "to": {
-        "line": 49,
-        "ch": 10
+        "line": 132,
+        "ch": 18
       }
     },
     "expandedKeys": []
@@ -2787,6 +2787,20 @@
       "to": {
         "line": 52,
         "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "日记/2026-01-19 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []

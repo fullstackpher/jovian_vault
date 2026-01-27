@@ -5,6 +5,10 @@
       "path": "0_Daily Notes/2026-01-28 学习日报.md"
     },
     {
+      "basename": "2026-01-19 学习日报",
+      "path": "0_Daily Notes/2026-01-19 学习日报.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "01-项目/Dashboard.md"
     },
@@ -94,11 +98,11 @@
     },
     {
       "basename": "2026-01-25 学习日报",
-      "path": "日记/2026-01-25 学习日报.md"
+      "path": "0_Daily Notes/2026-01-25 学习日报.md"
     },
     {
       "basename": "2026-01-26 学习日报",
-      "path": "日记/2026-01-26 学习日报.md"
+      "path": "0_Daily Notes/2026-01-26 学习日报.md"
     },
     {
       "basename": "obsidian标签功能",
@@ -145,16 +149,12 @@
       "path": "_Templates/问题解决方案.md"
     },
     {
-      "basename": "2026-01-19 学习日报",
-      "path": "日记/2026-01-19 学习日报.md"
-    },
-    {
       "basename": "闭包",
       "path": "02-领域/Frontend/JS/闭包.md"
     },
     {
       "basename": "2026-01-24 学习日报",
-      "path": "日记/2026-01-24 学习日报.md"
+      "path": "0_Daily Notes/2026-01-24 学习日报.md"
     },
     {
       "basename": "邂逅JavaScript",
@@ -162,7 +162,7 @@
     },
     {
       "basename": "2026-01-23 学习日报",
-      "path": "日记/2026-01-23 学习日报.md"
+      "path": "0_Daily Notes/2026-01-23 学习日报.md"
     },
     {
       "basename": "Visual Studio Code",
@@ -170,7 +170,7 @@
     },
     {
       "basename": "2026-01-22 学习日报",
-      "path": "日记/2026-01-22 学习日报.md"
+      "path": "0_Daily Notes/2026-01-22 学习日报.md"
     },
     {
       "basename": "学习CSS",
