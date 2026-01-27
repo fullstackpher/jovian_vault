@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-01-26T18:54
+更新时间: 2026-01-26T19:16
 tags:
   - obsidian
 ---
@@ -55,3 +55,14 @@ ANTHROPIC_MODEL=MiniMax-M2.1
 ```
 D:\nodejs\node_global\node_modules\@anthropic-ai\claude-code\cli.js
 ```
+
+### 安装skills
+
+在终端依次输入以下命令：
+
+```
+/plugin marketplace add kepano/obsidian-skills
+/plugin install obsidian@obsidian-skills
+```
+
+然后在Claudian插件刷新出所有的skills

@@ -1590,7 +1590,7 @@
     ]
   },
   "1-Projects/Dashboard.md": {
-    "scroll": 56.328417451923286,
+    "scroll": 49.17078496128664,
     "cursor": {
       "from": {
         "line": 44,
@@ -2348,15 +2348,15 @@
     "expandedKeys": []
   },
   "2-Areas/Knowledge Management/Claudian.md": {
-    "scroll": 37.183163902506834,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 50
+        "line": 67,
+        "ch": 25
       },
       "to": {
-        "line": 40,
-        "ch": 50
+        "line": 67,
+        "ch": 25
       }
     },
     "expandedKeys": []

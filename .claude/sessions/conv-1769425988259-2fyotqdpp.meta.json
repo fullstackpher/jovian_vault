@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769425988259-2fyotqdpp",
+  "title": "Count Available Skills",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769425988259,
+  "updatedAt": 1769485610996,
+  "lastResponseAt": 1769425997247,
+  "sessionId": "9969940a-96d2-4774-89ea-e2179ca253e8",
+  "sdkSessionId": "9969940a-96d2-4774-89ea-e2179ca253e8",
+  "currentNote": "1-Projects/Dashboard.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 13997,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 14081,
+    "percentage": 7
+  }
+}
