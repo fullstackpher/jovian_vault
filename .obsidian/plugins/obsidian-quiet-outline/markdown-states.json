@@ -2627,12 +2627,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 0
+        "line": 15,
+        "ch": 28
       },
       "to": {
-        "line": 16,
-        "ch": 0
+        "line": 15,
+        "ch": 28
       }
     },
     "expandedKeys": []
