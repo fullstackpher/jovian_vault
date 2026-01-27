@@ -8,5 +8,6 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
   "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light",
   "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire",
-  "phycat-theme-settings@@light-color-scheme": "theme-light-sky"
+  "phycat-theme-settings@@light-color-scheme": "theme-light-sky",
+  "Editor@@codeblock-style-select": "codeblock-style-solarized-dark"
 }
