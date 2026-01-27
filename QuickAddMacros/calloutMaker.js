@@ -1,24 +1,45 @@
 module.exports = {
-  entry: async (QuickAdd) => {
-    // 1. 让用户选择Callout类型
-    const calloutType = await QuickAdd.suggester(
-      ["疑问", "重点", "示例", "总结"], // 显示给用户的选项
-      ["question", "tip", "example", "abstract"] // 对应的实际callout类型
-    );
+    entry: async (QuickAdd, settings, params) => {
+        const { app, quickAddApi } = QuickAdd;
+        const markdownView = app.workspace.getActiveViewOfType(markdown);
+        if (!markdownView) {
+            new Notice('请在Markdown编辑器中使用此宏。');
+            return;
+        }
+        const editor = markdownView.editor;
 
-    // 2. 让用户输入Callout内容
-    const content = await QuickAdd.inputPrompt("输入" + calloutType + "内容：");
-    if (!content) return;
+        // 1. 定义Callout类型选项（显示名称 : 实际类型）
+        const calloutTypes = {
+            "💡 重点": "tip",
+            "❓ 疑问": "question",
+            "📌 摘要": "abstract",
+            "⚠️ 警告": "warning",
+            "🔬 示例": "example",
+            "✅ 成功": "success"
+        };
 
-    // 3. 构造完整的Callout语法
-    const calloutText = `> [!${calloutType}]+ ${calloutType}\n> ${content.replace(/\n/g, "\n> ")}`;
+        // 2. 让用户选择类型
+        const chosenDisplayName = await quickAddApi.suggester(
+            Object.keys(calloutTypes), // 显示给用户的列表
+            Object.keys(calloutTypes)  // 实际返回的值
+        );
+        if (!chosenDisplayName) return;
+        const calloutType = calloutTypes[chosenDisplayName];
 
-    // 4. 获取当前活动笔记编辑器并插入
-    const activeView = app.workspace.getActiveViewOfType(markdown);
-    if (activeView) {
-      const editor = activeView.editor;
-      const cursor = editor.getCursor();
-      editor.replaceRange(calloutText, cursor);
-    }
-  },
+        // 3. 让用户输入内容
+        const content = await quickAddApi.inputPrompt(`请输入「${chosenDisplayName}」的内容：`, "", "可以输入多行。");
+        if (!content) return;
+
+        // 4. 构建Callout文本
+        // 将用户输入的多行内容，每行前面都加上一个 `> `，以符合Callout语法
+        const formattedContent = content.split('\n').map(line => `> ${line}`).join('\n');
+        const finalCallout = `> [!${calloutType}]+ ${chosenDisplayName}\n${formattedContent}\n\n`;
+
+        // 5. 插入到当前光标位置
+        editor.replaceSelection(finalCallout);
+
+        // 6. （可选）轻微的视觉反馈
+        new Notice(`已插入 ${chosenDisplayName} Callout`);
+    },
+    settings: {}
 };
