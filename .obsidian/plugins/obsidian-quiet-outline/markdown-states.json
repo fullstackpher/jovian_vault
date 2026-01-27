@@ -2734,5 +2734,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/JavaScript基础.md": {
+    "scroll": 73.57247726122539,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/JavaScript基础概念.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
