@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "00-收件箱/README.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "00-收件箱/TODO.md"
-    },
-    {
       "basename": "参考 - 笔记到系统的obsidian实践",
       "path": "00-收件箱/参考 - 笔记到系统的obsidian实践.md"
+    },
+    {
+      "basename": "README",
+      "path": "04-归档/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "03-资源/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "02-领域/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01-项目/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "00-收件箱/README.md"
     },
     {
       "basename": "面向对象",
@@ -183,22 +195,6 @@
     {
       "basename": "float浮动+margin布局",
       "path": "02-领域/Frontend/CSS/float浮动+margin布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "02-领域/Frontend/CSS/flexbox布局.md"
-    },
-    {
-      "basename": "CSS引入方式",
-      "path": "02-领域/Frontend/CSS/CSS引入方式.md"
-    },
-    {
-      "basename": "CSS选择器",
-      "path": "02-领域/Frontend/CSS/CSS选择器.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "02-领域/Frontend/CSS/CSS响应式设计.md"
     }
   ],
   "omittedPaths": [],

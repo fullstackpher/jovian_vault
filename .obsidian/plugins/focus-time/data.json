@@ -699,20 +699,44 @@
     "00-收件箱/参考 - 笔记到系统的obsidian实践.md": {
       "fileId": "1769425095704",
       "filePath": "00-收件箱/参考 - 笔记到系统的obsidian实践.md",
-      "duration": 408000,
+      "duration": 414000,
       "openCount": 6
     },
     "00-收件箱/TODO.md": {
       "fileId": "1769495049579",
       "filePath": "00-收件箱/TODO.md",
-      "duration": 390000,
-      "openCount": 2
+      "duration": 396000,
+      "openCount": 3
     },
     "00-收件箱/README.md": {
       "fileId": "1769495523576",
       "filePath": "00-收件箱/README.md",
-      "duration": 36000,
-      "openCount": 1
+      "duration": 42000,
+      "openCount": 2
+    },
+    "01-项目/README.md": {
+      "fileId": "1769495637567",
+      "filePath": "01-项目/README.md",
+      "duration": 72000,
+      "openCount": 2
+    },
+    "02-领域/README.md": {
+      "fileId": "1769495709578",
+      "filePath": "02-领域/README.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "03-资源/README.md": {
+      "fileId": "1769495757569",
+      "filePath": "03-资源/README.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "04-归档/README.md": {
+      "fileId": "1769495799568",
+      "filePath": "04-归档/README.md",
+      "duration": 72000,
+      "openCount": 3
     }
   }
 }

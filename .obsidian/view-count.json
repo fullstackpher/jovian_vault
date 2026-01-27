@@ -4065,7 +4065,7 @@
     {
       "path": "00-收件箱/参考 - 笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -4084,6 +4084,9 @@
         },
         {
           "timestampMillis": 1769494498411
+        },
+        {
+          "timestampMillis": 1769495871932
         }
       ]
     },
@@ -4098,22 +4101,55 @@
       ]
     },
     {
-      "path": "00-收件箱/TODO.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1769495045405
-        }
-      ]
-    },
-    {
       "path": "00-收件箱/README.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
+        }
+      ]
+    },
+    {
+      "path": "01-项目/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769495636581
+        }
+      ]
+    },
+    {
+      "path": "02-领域/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769495704649
+        }
+      ]
+    },
+    {
+      "path": "03-资源/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769495754369
+        }
+      ]
+    },
+    {
+      "path": "04-归档/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769495799026
+        },
+        {
+          "timestampMillis": 1769495869483
         }
       ]
     }
