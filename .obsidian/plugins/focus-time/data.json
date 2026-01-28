@@ -807,8 +807,8 @@
     "02-领域/Frontend/JS/原型.md": {
       "fileId": "1769593072187",
       "filePath": "02-领域/Frontend/JS/原型.md",
-      "duration": 2616000,
-      "openCount": 12
+      "duration": 2640000,
+      "openCount": 15
     },
     "Excalidraw/原型构造函数对象之间的关系图.png": {
       "fileId": "1769596036177",
@@ -819,14 +819,20 @@
     "Excalidraw/原型构造函数对象之间的关系图.md": {
       "fileId": "1769595472177",
       "filePath": "Excalidraw/原型构造函数对象之间的关系图.md",
-      "duration": 588000,
-      "openCount": 10
+      "duration": 594000,
+      "openCount": 11
     },
     "Excalidraw/属性查找示例.md": {
       "fileId": "1769600752178",
       "filePath": "Excalidraw/属性查找示例.md",
       "duration": 372000,
       "openCount": 2
+    },
+    "Excalidraw/属性查找示例.png": {
+      "fileId": "1769601224357",
+      "filePath": "Excalidraw/属性查找示例.png",
+      "duration": 0,
+      "openCount": 1
     }
   }
 }
