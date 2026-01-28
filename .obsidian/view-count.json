@@ -4027,7 +4027,7 @@
     {
       "path": "02-领域/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 41,
+      "totalTimesOpened": 42,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -4151,6 +4151,9 @@
         },
         {
           "timestampMillis": 1769592383101
+        },
+        {
+          "timestampMillis": 1769593086100
         }
       ]
     },
@@ -4415,6 +4418,22 @@
         },
         {
           "timestampMillis": 1769533286708
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/原型.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1769593071438
+        },
+        {
+          "timestampMillis": 1769593071642
+        },
+        {
+          "timestampMillis": 1769593093791
         }
       ]
     }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "原型",
+      "path": "02-领域/Frontend/JS/原型.md"
+    },
+    {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CSS高级特性",
       "path": "02-领域/Frontend/CSS/CSS高级特性.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "02-领域/Frontend/CSS/table表格布局.md"
     }
   ],
   "omittedPaths": [],

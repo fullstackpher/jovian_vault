@@ -2540,15 +2540,15 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/面向对象.md": {
-    "scroll": 224.0920413103514,
+    "scroll": 223.76719093490212,
     "cursor": {
       "from": {
-        "line": 240,
-        "ch": 13
+        "line": 245,
+        "ch": 0
       },
       "to": {
-        "line": 240,
-        "ch": 13
+        "line": 233,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -2801,6 +2801,20 @@
       "to": {
         "line": 9,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/原型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 19
+      },
+      "to": {
+        "line": 11,
+        "ch": 19
       }
     },
     "expandedKeys": []
