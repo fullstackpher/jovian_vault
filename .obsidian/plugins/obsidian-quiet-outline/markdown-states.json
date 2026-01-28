@@ -2809,12 +2809,12 @@
     "scroll": 9.176215251286825,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 95
+        "line": 33,
+        "ch": 0
       },
       "to": {
-        "line": 31,
-        "ch": 95
+        "line": 33,
+        "ch": 0
       }
     },
     "expandedKeys": []
