@@ -4027,7 +4027,7 @@
     {
       "path": "02-领域/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 45,
+      "totalTimesOpened": 46,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -4163,6 +4163,9 @@
         },
         {
           "timestampMillis": 1769598702607
+        },
+        {
+          "timestampMillis": 1769603394584
         }
       ]
     },
@@ -4433,7 +4436,7 @@
     {
       "path": "02-领域/Frontend/JS/原型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 27,
       "openLogs": [
         {
           "timestampMillis": 1769593071438
@@ -4506,13 +4509,22 @@
         },
         {
           "timestampMillis": 1769602458641
+        },
+        {
+          "timestampMillis": 1769603437575
+        },
+        {
+          "timestampMillis": 1769603438931
+        },
+        {
+          "timestampMillis": 1769603644627
         }
       ]
     },
     {
       "path": "Excalidraw/原型构造函数对象之间的关系图.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769595465128
@@ -4543,13 +4555,19 @@
         },
         {
           "timestampMillis": 1769601195057
+        },
+        {
+          "timestampMillis": 1769603382835
+        },
+        {
+          "timestampMillis": 1769603430131
         }
       ]
     },
     {
       "path": "Excalidraw/原型链关系示意图.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769600749830
@@ -4559,6 +4577,22 @@
         },
         {
           "timestampMillis": 1769601570536
+        },
+        {
+          "timestampMillis": 1769603432606
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/值类型和引用类型.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769603621302
+        },
+        {
+          "timestampMillis": 1769603621480
         }
       ]
     }
