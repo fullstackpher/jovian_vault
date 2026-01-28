@@ -822,17 +822,17 @@
       "duration": 594000,
       "openCount": 11
     },
-    "Excalidraw/属性查找示例.md": {
-      "fileId": "1769600752178",
-      "filePath": "Excalidraw/属性查找示例.md",
-      "duration": 474000,
-      "openCount": 2
-    },
     "Excalidraw/属性查找示例.png": {
       "fileId": "1769601224357",
       "filePath": "Excalidraw/属性查找示例.png",
       "duration": 0,
       "openCount": 1
+    },
+    "Excalidraw/原型链关系示意图.md": {
+      "fileId": "1769600752178",
+      "filePath": "Excalidraw/原型链关系示意图.md",
+      "duration": 504000,
+      "openCount": 2
     }
   }
 }
