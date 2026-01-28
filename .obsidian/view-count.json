@@ -4424,7 +4424,7 @@
     {
       "path": "02-领域/Frontend/JS/原型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769593071438
@@ -4434,16 +4434,25 @@
         },
         {
           "timestampMillis": 1769593093791
+        },
+        {
+          "timestampMillis": 1769595770504
+        },
+        {
+          "timestampMillis": 1769595807122
         }
       ]
     },
     {
       "path": "Excalidraw/Drawing 2026-01-28 18.17.44.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769595465128
+        },
+        {
+          "timestampMillis": 1769595775647
         }
       ]
     }
