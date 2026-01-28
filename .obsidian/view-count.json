@@ -4646,6 +4646,16 @@
           "timestampMillis": 1769603621480
         }
       ]
+    },
+    {
+      "path": "0_Daily Notes/2026-01-28 学习日报.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769606748141
+        }
+      ]
     }
   ]
 }
