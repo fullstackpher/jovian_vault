@@ -4439,7 +4439,7 @@
     {
       "path": "02-领域/Frontend/JS/原型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 30,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1769593071438
@@ -4530,6 +4530,9 @@
         },
         {
           "timestampMillis": 1769606310886
+        },
+        {
+          "timestampMillis": 1769606465380
         }
       ]
     },
