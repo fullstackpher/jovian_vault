@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2026-01-28 18.17.44.excalidraw",
+      "path": "Excalidraw/Drawing 2026-01-28 18.17.44.excalidraw.md"
+    },
+    {
       "basename": "原型",
       "path": "02-领域/Frontend/JS/原型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "less",
       "path": "02-领域/Frontend/CSS/less.md"
-    },
-    {
-      "basename": "CSS高级特性",
-      "path": "02-领域/Frontend/CSS/CSS高级特性.md"
     }
   ],
   "omittedPaths": [],
