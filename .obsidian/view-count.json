@@ -4433,7 +4433,7 @@
     {
       "path": "02-领域/Frontend/JS/原型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1769593071438
@@ -4488,13 +4488,16 @@
         },
         {
           "timestampMillis": 1769601125994
+        },
+        {
+          "timestampMillis": 1769601178555
         }
       ]
     },
     {
       "path": "Excalidraw/原型构造函数对象之间的关系图.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769595465128
@@ -4519,11 +4522,14 @@
         },
         {
           "timestampMillis": 1769596952280
+        },
+        {
+          "timestampMillis": 1769601155990
         }
       ]
     },
     {
-      "path": "Excalidraw/Drawing 2026-01-28 19.45.49.excalidraw.md",
+      "path": "Excalidraw/属性查找示例.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
