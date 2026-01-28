@@ -4473,7 +4473,7 @@
     {
       "path": "Excalidraw/原型构造函数对象之间的关系图.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769595465128
@@ -4495,16 +4495,9 @@
         },
         {
           "timestampMillis": 1769596790759
-        }
-      ]
-    },
-    {
-      "path": "Excalidraw/原型构造函数对象之间的关系图.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
+        },
         {
-          "timestampMillis": 1769596036126
+          "timestampMillis": 1769596952280
         }
       ]
     }
