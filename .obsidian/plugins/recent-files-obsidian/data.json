@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "原型",
-      "path": "02-领域/Frontend/JS/原型.md"
-    },
-    {
-      "basename": "Drawing 2026-01-28 18.17.44.excalidraw",
-      "path": "Excalidraw/Drawing 2026-01-28 18.17.44.excalidraw.md"
-    },
-    {
       "basename": "原型构造函数对象之间的关系图",
-      "path": "Excalidraw/原型构造函数对象之间的关系图.png"
+      "path": "Excalidraw/原型构造函数对象之间的关系图.md"
     },
     {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "原型",
+      "path": "02-领域/Frontend/JS/原型.md"
+    },
+    {
+      "basename": "原型构造函数对象之间的关系图",
+      "path": "Excalidraw/原型构造函数对象之间的关系图.png"
     },
     {
       "basename": "Dashboard",
