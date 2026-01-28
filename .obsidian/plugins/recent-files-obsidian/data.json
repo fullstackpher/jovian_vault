@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "01-项目/Dashboard.md"
+    },
+    {
       "basename": "this",
       "path": "02-领域/Frontend/JS/this.md"
     },
     {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
+      "basename": "window",
+      "path": "02-领域/Frontend/JS/window.md"
     },
     {
       "basename": "学习JavaScript",
@@ -21,10 +29,6 @@
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "01-项目/Dashboard.md"
-    },
-    {
       "basename": "项目看板",
       "path": "01-项目/项目看板.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "JavaScript基础概念",
       "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
-    },
-    {
-      "basename": "window",
-      "path": "02-领域/Frontend/JS/window.md"
     },
     {
       "basename": "函数",
