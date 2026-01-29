@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:13
+更新时间: 2026-01-29T19:17
 tags:
   - JavaScript
 ---
@@ -261,3 +261,16 @@ var students = [
 var student = students.find(stu => stu.id === 1003)
 console.log(student);
 ```
+
+### forEach方法
+
+```js
+// forEach方法用于遍历数组中的元素，对每个元素执行指定的操作
+var colors = ['orange', 'green', 'yellow']
+colors.forEach(function(color) {
+    console.log(color);
+})
+// 箭头函数的写法
+colors.forEach(color => console.log(color))
+```
+
