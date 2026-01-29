@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T16:51
+更新时间: 2026-01-29T16:52
 tags:
   - JavaScript
 ---
@@ -36,7 +36,7 @@ const arr = new Array('a', 'b', 'c')
 > [!example]+ 访问数组的元素
 
 ```js
-var colors = ['avocado', 'banana', 'orange']
+var colors = ['red', 'blue', 'orange']
 // 访问数组中的元素
 console.log(colors[0]); // avocado
 console.log(colors.at(0)); // avocado
@@ -51,3 +51,8 @@ console.log(colors.at(-1)); // orange
 ### 修改数组
 
 - 通过给 `arr[index]`赋值的方式修改数组中index位置的值
+
+```js
+const colors = ['orange', 'green', 'yellow']
+colors[2] = 'blue'
+```
