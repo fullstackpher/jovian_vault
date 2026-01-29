@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:19
+更新时间: 2026-01-29T18:20
 tags:
   - JavaScript
 ---
@@ -150,8 +150,8 @@ console.log(colors); // ['orange', 'black', 'yellow']
 - length属性用于获取数组的长度
 - 当修改数组的时候，length属性会自动更新
 
-> [!tip]+ length属性可写
+> [!tip]+ length属性是可写的
 
-- 可以扩容，手动给length设置一个大于默认length的值，它的数组长度会扩容到指定值
+- 可以扩容，手动给length设置一个大于默认length的值，它的数组长度会扩容到指定length值
 - 减少它，数组会被截断
 - 清空数组，给length设为0即可
