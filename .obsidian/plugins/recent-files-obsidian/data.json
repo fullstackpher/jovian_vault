@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-29 学习日报",
+      "path": "0_Daily Notes/2026-01-29 学习日报.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
+      "basename": "2026-01-28 学习日报",
+      "path": "0_Daily Notes/2026-01-28 学习日报.md"
+    },
+    {
+      "basename": "2026-01-17 学习日报",
+      "path": "0_Daily Notes/2026-01-17 学习日报.md"
+    },
+    {
+      "basename": "2026-01-18 学习日报",
+      "path": "0_Daily Notes/2026-01-18 学习日报.md"
+    },
+    {
+      "basename": "2026-01-19 学习日报",
+      "path": "0_Daily Notes/2026-01-19 学习日报.md"
+    },
+    {
+      "basename": "2026-01-20 学习日报",
+      "path": "0_Daily Notes/2026-01-20 学习日报.md"
+    },
+    {
+      "basename": "2026-01-21 学习日报",
+      "path": "0_Daily Notes/2026-01-21 学习日报.md"
+    },
+    {
+      "basename": "2026-01-22 学习日报",
+      "path": "0_Daily Notes/2026-01-22 学习日报.md"
+    },
+    {
+      "basename": "2026-01-23 学习日报",
+      "path": "0_Daily Notes/2026-01-23 学习日报.md"
+    },
+    {
+      "basename": "2026-01-24 学习日报",
+      "path": "0_Daily Notes/2026-01-24 学习日报.md"
+    },
+    {
+      "basename": "2026-01-25 学习日报",
+      "path": "0_Daily Notes/2026-01-25 学习日报.md"
+    },
+    {
+      "basename": "2026-01-26 学习日报",
+      "path": "0_Daily Notes/2026-01-26 学习日报.md"
+    },
+    {
+      "basename": "2026-01-27 学习日报",
+      "path": "0_Daily Notes/2026-01-27 学习日报.md"
+    },
+    {
+      "basename": "2026-01-19",
+      "path": "日记/2026-01-19.md"
+    },
+    {
       "basename": "Frontend知识体系总览",
       "path": "02-领域/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "Array",
+      "path": "02-领域/Frontend/JS/Array.md"
+    },
+    {
+      "basename": "this",
+      "path": "02-领域/Frontend/JS/this.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "02-领域/Frontend/JS/闭包.md"
     },
     {
       "basename": "包装类型",
@@ -41,10 +113,6 @@
       "path": "01-项目/03-学习前端/学习HTML.md"
     },
     {
-      "basename": "Array",
-      "path": "02-领域/Frontend/JS/Array.md"
-    },
-    {
       "basename": "运算符",
       "path": "02-领域/Frontend/JS/运算符.md"
     },
@@ -55,10 +123,6 @@
     {
       "basename": "window",
       "path": "02-领域/Frontend/JS/window.md"
-    },
-    {
-      "basename": "this",
-      "path": "02-领域/Frontend/JS/this.md"
     },
     {
       "basename": "JavaScript基础概念",
@@ -97,10 +161,6 @@
       "path": "02-领域/Frontend/JS/变量和数据类型.md"
     },
     {
-      "basename": "闭包",
-      "path": "02-领域/Frontend/JS/闭包.md"
-    },
-    {
       "basename": "Drawing 2026-01-29 13.05.09.excalidraw",
       "path": "Excalidraw/Drawing 2026-01-29 13.05.09.excalidraw.md"
     },
@@ -117,32 +177,12 @@
       "path": "00-收件箱/README.md"
     },
     {
-      "basename": "2026-01-28 学习日报",
-      "path": "0_Daily Notes/2026-01-28 学习日报.md"
-    },
-    {
-      "basename": "2026-01-27 学习日报",
-      "path": "0_Daily Notes/2026-01-27 学习日报.md"
-    },
-    {
-      "basename": "2026-01-26 学习日报",
-      "path": "0_Daily Notes/2026-01-26 学习日报.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
-    },
-    {
       "basename": "原型构造函数对象之间的关系图",
       "path": "Excalidraw/原型构造函数对象之间的关系图.md"
     },
     {
       "basename": "原型链关系示意图",
       "path": "Excalidraw/原型链关系示意图.md"
-    },
-    {
-      "basename": "2026-01-19 学习日报",
-      "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
     {
       "basename": "项目看板",
@@ -159,46 +199,6 @@
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
       "path": "00-收件箱/2026-01-27-笔记到系统的obsidian实践.md"
-    },
-    {
-      "basename": "README",
-      "path": "04-归档/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "03-资源/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "02-领域/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "01-项目/README.md"
-    },
-    {
-      "basename": "QuickAdd",
-      "path": "02-领域/Knowledge Management/QuickAdd.md"
-    },
-    {
-      "basename": "2026-01-25 学习日报",
-      "path": "0_Daily Notes/2026-01-25 学习日报.md"
-    },
-    {
-      "basename": "obsidian标签功能",
-      "path": "02-领域/Knowledge Management/obsidian标签功能.md"
-    },
-    {
-      "basename": "obsidian excalidraw插件",
-      "path": "02-领域/Knowledge Management/obsidian excalidraw插件.md"
-    },
-    {
-      "basename": "markdown使用指南",
-      "path": "02-领域/Knowledge Management/markdown使用指南.md"
-    },
-    {
-      "basename": "Emoji Toolbar",
-      "path": "02-领域/Knowledge Management/Emoji Toolbar.md"
     }
   ],
   "omittedPaths": [],
