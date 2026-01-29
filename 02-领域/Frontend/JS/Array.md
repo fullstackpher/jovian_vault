@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:27
+更新时间: 2026-01-29T19:28
 tags:
   - JavaScript
 ---
@@ -284,5 +284,12 @@ colors.forEach(color => console.log(color))
 - `map()` 方法按照原数组顺序依次处理元素
 
 ```js
-
+// map方法用于遍历数组中的元素，对每个元素执行指定的操作，返回一个新数组
+var colors = ['orange', 'green', 'yellow']
+var newColors = colors.map(function(color) {
+    return color.toUpperCase()
+})
+console.log(newColors); // ['ORANGE', 'GREEN', 'YELLOW']
+console.log(colors); // ['orange', 'green', 'yellow']
 ```
+
