@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T17:31
+更新时间: 2026-01-29T17:37
 tags:
   - JavaScript
 ---
@@ -118,3 +118,19 @@ alert(colors.length); // 2
 
 - `splice` 方法可以说是处理数组的利器，它可以做任何事：添加，删除和替换元素
 - 语法：`array.splice(start[, deleteCount[, item1[, item2[, ...]]]])`
+
+> [!example]+ splice示例
+
+```js
+var colors = ['orange', 'green', 'yellow']
+// 在索引1位置添加purple
+colors.splice(1, 0, 'purple')
+console.log(colors); // ['orange', 'purple', 'green', 'yellow']
+// 在索引2位置删除1个元素，替换为black
+colors.splice(2, 1, 'black')
+console.log(colors); // ['orange', 'purple', 'black', 'yellow']
+// 在索引1位置删除1个元素   
+colors.splice(1, 1)
+console.log(colors); // ['orange', 'black', 'yellow']
+```
+
