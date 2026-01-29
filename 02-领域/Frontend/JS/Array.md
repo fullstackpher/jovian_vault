@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:46
+更新时间: 2026-01-29T18:49
 tags:
   - JavaScript
 ---
@@ -215,4 +215,16 @@ console.log(colors); // ['orange', 'green', 'yellow']
 
 ### concat方法
 
-- `arr.concat` 方法：将多个数组拼接在一起
+- `arr.concat` 方法：将多个数组拼接在一起，返回一个新数组
+
+```js
+// concat方法用于合并两个或多个数组
+var colors = ['orange', 'green', 'yellow']
+var newColors = colors.concat(['red', 'blue'])
+console.log(newColors); // ['orange', 'green', 'yellow', 'red', 'blue']
+console.log(colors); // ['orange', 'green', 'yellow']
+```
+
+### join方法
+
+- arr.join 方法
