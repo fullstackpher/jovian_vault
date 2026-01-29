@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:50
+更新时间: 2026-01-29T18:55
 tags:
   - JavaScript
 ---
@@ -228,6 +228,17 @@ console.log(colors); // ['orange', 'green', 'yellow']
 ### join方法
 
 - `arr.join` 方法：将数组的元素连接成一个字符串并返回这个字符串（用指定分隔符）
+
+```js
+// join方法用于将数组中的元素合并为一个字符串
+var time = ['2026', '01', '29']
+var timeStr = time.join('-')
+console.log(timeStr); // '2026-01-29'
+```
+
+### indexOf方法
+
+- `arr.indexOf(index)`：数组中查找元素，返回元素第一次出现的位置索引，没有返回-1
 
 ```js
 
