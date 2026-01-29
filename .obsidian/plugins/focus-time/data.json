@@ -873,8 +873,8 @@
     "02-领域/Frontend/JS/String.md": {
       "fileId": "1769666142127",
       "filePath": "02-领域/Frontend/JS/String.md",
-      "duration": 24000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 3
     },
     "02-领域/Frontend/JS/Array.md": {
       "fileId": "1769666166125",
@@ -885,13 +885,13 @@
     "02-领域/Frontend/JS/Math对象.md": {
       "fileId": "1769666118127",
       "filePath": "02-领域/Frontend/JS/Math对象.md",
-      "duration": 234000,
-      "openCount": 4
+      "duration": 324000,
+      "openCount": 6
     },
     "02-领域/Frontend/JS/包装类型.md": {
       "fileId": "1769666208124",
       "filePath": "02-领域/Frontend/JS/包装类型.md",
-      "duration": 852000,
+      "duration": 1008000,
       "openCount": 3
     }
   }

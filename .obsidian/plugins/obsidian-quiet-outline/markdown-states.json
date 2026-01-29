@@ -2960,31 +2960,32 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/包装类型.md": {
-    "scroll": 21.137153069178265,
+    "scroll": 8.509548505147299,
     "cursor": {
       "from": {
-        "line": 31,
+        "line": 44,
         "ch": 0
       },
       "to": {
-        "line": 31,
+        "line": 44,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-2-0"
+      "item-2-0",
+      "item-2-5"
     ]
   },
   "02-领域/Frontend/JS/Math对象.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 23
+        "line": 22,
+        "ch": 87
       },
       "to": {
-        "line": 18,
-        "ch": 23
+        "line": 22,
+        "ch": 87
       }
     },
     "expandedKeys": []
