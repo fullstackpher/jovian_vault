@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:48
+更新时间: 2026-01-29T19:49
 tags:
   - JavaScript
 ---
@@ -321,7 +321,10 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 > [!success]+ 应用场景
 
 - 求和
-- 
+- 求最大值
+- 数组去重
+- 计算数组中每个元素出现的次数
+- 按属性对对象数组进行分组
 
 ### sort方法
 
