@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:20
+更新时间: 2026-01-29T18:27
 tags:
   - JavaScript
 ---
@@ -152,6 +152,28 @@ console.log(colors); // ['orange', 'black', 'yellow']
 
 > [!tip]+ length属性是可写的
 
-- 可以扩容，手动给length设置一个大于默认length的值，它的数组长度会扩容到指定length值
-- 减少它，数组会被截断
-- 清空数组，给length设为0即可
+- 减小长度（截断数组）
+
+```js
+const arr = [1,2,3,4,5]
+arr.length = 3
+console.log(arr) // [1,2,3]
+```
+
+- 增大长度（创建空位）
+
+```js
+const arr = [1, 2, 3];
+arr.length = 5;
+console.log(arr); // [1, 2, 3, empty × 2]
+console.log(arr[3]); // undefined
+```
+
+- 清空数组（高效）
+
+```js
+const arr = [1, 2, 3, 4, 5];
+arr.length = 0;
+console.log(arr); // []
+console.log(arr.length); // 0
+```
