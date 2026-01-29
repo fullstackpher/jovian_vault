@@ -4467,7 +4467,7 @@
     {
       "path": "02-领域/Frontend/JS/window.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769504010671
@@ -4486,6 +4486,9 @@
         },
         {
           "timestampMillis": 1769665386844
+        },
+        {
+          "timestampMillis": 1769665976136
         }
       ]
     },
@@ -4765,6 +4768,52 @@
       "openLogs": [
         {
           "timestampMillis": 1769665075914
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/Math.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769666112701
+        },
+        {
+          "timestampMillis": 1769666183476
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/String.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769666137093
+        },
+        {
+          "timestampMillis": 1769666137300
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/Array.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769666162475
+        }
+      ]
+    },
+    {
+      "path": "02-领域/Frontend/JS/Number.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769666208059
         }
       ]
     }

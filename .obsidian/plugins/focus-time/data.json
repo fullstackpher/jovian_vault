@@ -735,8 +735,8 @@
     "02-领域/Frontend/JS/window.md": {
       "fileId": "1769504014548",
       "filePath": "02-领域/Frontend/JS/window.md",
-      "duration": 186000,
-      "openCount": 5
+      "duration": 336000,
+      "openCount": 6
     },
     "0_Daily Notes/2026-01-17 学习日报.md": {
       "fileId": "1768649729044",
@@ -869,6 +869,30 @@
       "filePath": "02-领域/Frontend/Frontend知识体系总览.md",
       "duration": 102000,
       "openCount": 2
+    },
+    "02-领域/Frontend/JS/Math.md": {
+      "fileId": "1769666118127",
+      "filePath": "02-领域/Frontend/JS/Math.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "02-领域/Frontend/JS/String.md": {
+      "fileId": "1769666142127",
+      "filePath": "02-领域/Frontend/JS/String.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "02-领域/Frontend/JS/Array.md": {
+      "fileId": "1769666166125",
+      "filePath": "02-领域/Frontend/JS/Array.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "02-领域/Frontend/JS/Number.md": {
+      "fileId": "1769666208124",
+      "filePath": "02-领域/Frontend/JS/Number.md",
+      "duration": 474000,
+      "openCount": 1
     }
   }
 }

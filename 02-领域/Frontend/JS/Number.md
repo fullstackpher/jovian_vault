@@ -1,0 +1,27 @@
+---
+创建时间: 2026-01-29T13:56
+更新时间: 2026-01-29T14:04
+tags:
+  - JavaScript
+---
+### Number属性
+
+- Number.MAX_SAFE_INTEGER：JavaScript中最大安全整数(2^53 - 1)
+- Number.MIN_SAFE_INTEGER：JavaScript中最小安全整数 -(2^53 - 1)
+
+### Number实例方法
+
+- toString(base)，将数字转成字符串，并且按照base进制进行转化
+	- base的范围是2到36，默认情况下是10
+	- 注意：如果是直接对一个数字进行操作，需要使用`..`运算符
+- toFixed(digits)，格式化一个数字，保留digits位的小数
+	- digits的范围是0-20（包含）之间
+
+### Number方法补充
+
+- `Number.parseInt(String [,radix])`，将字符串解析成整数
+- `Number.parseFloat(String)`，将字符串解析成浮点数
+
+### 更多Number的知识，可以查看MDN文档：
+
+- https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number

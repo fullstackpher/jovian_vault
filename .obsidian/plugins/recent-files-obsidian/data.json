@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Number",
+      "path": "02-领域/Frontend/JS/Number.md"
+    },
+    {
+      "basename": "Math",
+      "path": "02-领域/Frontend/JS/Math.md"
+    },
+    {
+      "basename": "Array",
+      "path": "02-领域/Frontend/JS/Array.md"
+    },
+    {
+      "basename": "String",
+      "path": "02-领域/Frontend/JS/String.md"
+    },
+    {
       "basename": "window",
       "path": "02-领域/Frontend/JS/window.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Paste url into selection",
       "path": "02-领域/Knowledge Management/Paste url into selection.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "2026-01-24 学习日报",
-      "path": "0_Daily Notes/2026-01-24 学习日报.md"
-    },
-    {
-      "basename": "2026-01-23 学习日报",
-      "path": "0_Daily Notes/2026-01-23 学习日报.md"
-    },
-    {
-      "basename": "Visual Studio Code",
-      "path": "03-资源/Visual Studio Code.md"
     }
   ],
   "omittedPaths": [],

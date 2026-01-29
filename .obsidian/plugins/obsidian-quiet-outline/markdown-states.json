@@ -2613,11 +2613,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 0,
         "ch": 0
       }
     },
@@ -2669,12 +2669,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 44
+        "line": 16,
+        "ch": 33
       },
       "to": {
-        "line": 10,
-        "ch": 44
+        "line": 16,
+        "ch": 33
       }
     },
     "expandedKeys": []
@@ -2899,6 +2899,48 @@
       "to": {
         "line": 6,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/String.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/Math.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/Number.md": {
+    "scroll": 4.013377926421405,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 40
+      },
+      "to": {
+        "line": 22,
+        "ch": 40
       }
     },
     "expandedKeys": []
