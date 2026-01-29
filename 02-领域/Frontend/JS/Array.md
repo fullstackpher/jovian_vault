@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:57
+更新时间: 2026-01-29T19:59
 tags:
   - JavaScript
 ---
@@ -334,3 +334,4 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 ### sort方法
 
 - `arr.sort()`：用于对数组的元素进行排序，并返回排序后的数组
+- `sort()` 总是修改原数组，如果需要保留原数组，先创建副本再排序
