@@ -879,7 +879,7 @@
     "02-领域/Frontend/JS/Array.md": {
       "fileId": "1769666166125",
       "filePath": "02-领域/Frontend/JS/Array.md",
-      "duration": 18000,
+      "duration": 24000,
       "openCount": 2
     },
     "02-领域/Frontend/JS/Math对象.md": {
@@ -891,8 +891,8 @@
     "02-领域/Frontend/JS/包装类型.md": {
       "fileId": "1769666208124",
       "filePath": "02-领域/Frontend/JS/包装类型.md",
-      "duration": 2874000,
-      "openCount": 3
+      "duration": 3006000,
+      "openCount": 4
     }
   }
 }
