@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:25
+更新时间: 2026-01-29T19:26
 tags:
   - JavaScript
 ---
@@ -280,4 +280,5 @@ colors.forEach(color => console.log(color))
 
 ### map方法
 
-- `arr.map(callback)`：返回一个
+- `arr.map(callback)`：返回一个新数组，
+- map()方法
