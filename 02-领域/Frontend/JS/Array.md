@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T16:49
+更新时间: 2026-01-29T16:51
 tags:
   - JavaScript
 ---
@@ -47,3 +47,7 @@ console.log(colors.at(-1)); // orange
 
 - `Array.prototype.at(index)`：index允许正数和负数，负数索引表示从数组末尾元素开始倒数
 - `array[index]`：index为-1，直接返回undefined，不支持
+
+### 修改数组
+
+- 通过给 `arr[index]`赋值的方式修改数组中index位置的值
