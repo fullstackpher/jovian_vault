@@ -2848,7 +2848,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/值类型和引用类型.md": {
-    "scroll": 11.750139148573819,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 9,
@@ -3005,5 +3005,89 @@
     "expandedKeys": [
       "item-3-1"
     ]
+  },
+  "01-项目/03-学习前端/学习HTML.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/03-学习前端/学习CSS.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/02-知识管理/学习Obsidian.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/01-学习Java/学习JavaEE.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/01-学习Java/学习JavaSE.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "01-项目/01-学习Java/学习Spring全家桶.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

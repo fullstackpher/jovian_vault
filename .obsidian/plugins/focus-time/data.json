@@ -393,32 +393,32 @@
     "01-项目/03-学习前端/学习HTML.md": {
       "fileId": "1768538741701",
       "filePath": "01-项目/03-学习前端/学习HTML.md",
-      "duration": 654000,
-      "openCount": 23
+      "duration": 660000,
+      "openCount": 24
     },
     "01-项目/03-学习前端/学习CSS.md": {
       "fileId": "1768559267711",
       "filePath": "01-项目/03-学习前端/学习CSS.md",
-      "duration": 1122000,
-      "openCount": 45
+      "duration": 1128000,
+      "openCount": 46
     },
     "01-项目/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "01-项目/03-学习前端/学习JavaScript.md",
-      "duration": 1578000,
-      "openCount": 26
+      "duration": 1650000,
+      "openCount": 28
     },
     "01-项目/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
       "filePath": "01-项目/01-学习Java/学习JavaSE.md",
-      "duration": 60000,
-      "openCount": 13
+      "duration": 66000,
+      "openCount": 14
     },
     "01-项目/01-学习Java/学习Spring全家桶.md": {
       "fileId": "1768483286064",
       "filePath": "01-项目/01-学习Java/学习Spring全家桶.md",
       "duration": 54000,
-      "openCount": 9
+      "openCount": 10
     },
     "01-项目/Dashboard.md": {
       "fileId": "1768479037631",
@@ -832,7 +832,7 @@
       "fileId": "1769603626183",
       "filePath": "02-领域/Frontend/JS/值类型和引用类型.md",
       "duration": 846000,
-      "openCount": 7
+      "openCount": 8
     },
     "0_Daily Notes/2026-01-27 学习日报.md": {
       "fileId": "1769533159008",
@@ -893,6 +893,18 @@
       "filePath": "02-领域/Frontend/JS/包装类型.md",
       "duration": 3006000,
       "openCount": 4
+    },
+    "01-项目/02-知识管理/学习Obsidian.md": {
+      "fileId": "1769688618118",
+      "filePath": "01-项目/02-知识管理/学习Obsidian.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "01-项目/01-学习Java/学习JavaEE.md": {
+      "fileId": "1769688623128",
+      "filePath": "01-项目/01-学习Java/学习JavaEE.md",
+      "duration": 0,
+      "openCount": 1
     }
   }
 }

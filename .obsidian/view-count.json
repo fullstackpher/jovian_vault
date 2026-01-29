@@ -174,8 +174,8 @@
     },
     {
       "path": "01-项目/01-学习Java/学习JavaEE.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1768478527335
@@ -209,13 +209,16 @@
         },
         {
           "timestampMillis": 1768654832089
+        },
+        {
+          "timestampMillis": 1769688620948
         }
       ]
     },
     {
       "path": "01-项目/01-学习Java/学习JavaSE.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 13,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1768478597879
@@ -255,6 +258,9 @@
         },
         {
           "timestampMillis": 1768654834468
+        },
+        {
+          "timestampMillis": 1769688623111
         }
       ]
     },
@@ -344,8 +350,8 @@
     },
     {
       "path": "01-项目/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 19,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -403,6 +409,9 @@
         },
         {
           "timestampMillis": 1768886536129
+        },
+        {
+          "timestampMillis": 1769688615614
         }
       ]
     },
@@ -968,8 +977,8 @@
     },
     {
       "path": "01-项目/01-学习Java/学习Spring全家桶.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768483286082
@@ -994,6 +1003,9 @@
         },
         {
           "timestampMillis": 1768654843778
+        },
+        {
+          "timestampMillis": 1769688624196
         }
       ]
     },
@@ -1030,8 +1042,8 @@
     },
     {
       "path": "01-项目/03-学习前端/学习HTML.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 25,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1768538740239
@@ -1107,6 +1119,9 @@
         },
         {
           "timestampMillis": 1768654853153
+        },
+        {
+          "timestampMillis": 1769688605185
         }
       ]
     },
@@ -1768,8 +1783,8 @@
     },
     {
       "path": "01-项目/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 48,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 49,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -1914,6 +1929,9 @@
         },
         {
           "timestampMillis": 1769066333239
+        },
+        {
+          "timestampMillis": 1769688607016
         }
       ]
     },
@@ -3353,7 +3371,7 @@
     {
       "path": "01-项目/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 8,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3435,6 +3453,9 @@
         },
         {
           "timestampMillis": 1769688273605
+        },
+        {
+          "timestampMillis": 1769688626915
         }
       ]
     },
@@ -4709,7 +4730,7 @@
     {
       "path": "02-领域/Frontend/JS/值类型和引用类型.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769603621302
@@ -4734,6 +4755,9 @@
         },
         {
           "timestampMillis": 1769665329831
+        },
+        {
+          "timestampMillis": 1769688680109
         }
       ]
     },

@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "值类型和引用类型",
+      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "01-项目/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习Spring全家桶",
+      "path": "01-项目/01-学习Java/学习Spring全家桶.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "01-项目/01-学习Java/学习JavaSE.md"
+    },
+    {
+      "basename": "学习JavaEE",
+      "path": "01-项目/01-学习Java/学习JavaEE.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "01-项目/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "01-项目/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "学习HTML",
+      "path": "01-项目/03-学习前端/学习HTML.md"
     },
     {
       "basename": "Array",
@@ -39,10 +67,6 @@
     {
       "basename": "作用域",
       "path": "02-领域/Frontend/JS/作用域.md"
-    },
-    {
-      "basename": "值类型和引用类型",
-      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
     },
     {
       "basename": "原型",
@@ -175,26 +199,6 @@
     {
       "basename": "Emoji Toolbar",
       "path": "02-领域/Knowledge Management/Emoji Toolbar.md"
-    },
-    {
-      "basename": "Editing Toolbar",
-      "path": "02-领域/Knowledge Management/Editing Toolbar.md"
-    },
-    {
-      "basename": "Calendar",
-      "path": "02-领域/Knowledge Management/Calendar.md"
-    },
-    {
-      "basename": "2026-01-19",
-      "path": "日记/2026-01-19.md"
-    },
-    {
-      "basename": "Virtual Linker",
-      "path": "02-领域/Knowledge Management/Virtual Linker.md"
-    },
-    {
-      "basename": "Paste url into selection",
-      "path": "02-领域/Knowledge Management/Paste url into selection.md"
     }
   ],
   "omittedPaths": [],
