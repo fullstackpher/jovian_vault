@@ -227,4 +227,8 @@ console.log(colors); // ['orange', 'green', 'yellow']
 
 ### join方法
 
-- `arr.join` 方法：将数组的元素连接成一个字符串并返回这个字符串
+- `arr.join` 方法：将数组的元素连接成一个字符串并返回这个字符串（用指定分隔符）
+
+```js
+
+```
