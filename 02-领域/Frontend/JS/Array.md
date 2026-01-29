@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:55
+更新时间: 2026-01-29T19:06
 tags:
   - JavaScript
 ---
@@ -241,5 +241,12 @@ console.log(timeStr); // '2026-01-29'
 - `arr.indexOf(index)`：数组中查找元素，返回元素第一次出现的位置索引，没有返回-1
 
 ```js
-
+// indexOf方法用于查找数组中指定元素的第一个索引
+var colors = ['orange', 'green', 'yellow']
+console.log(colors.indexOf('green')); // 1
+console.log(colors.indexOf('red')); // -1
 ```
+
+### find方法
+
+- arr.find()
