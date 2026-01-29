@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:47
+更新时间: 2026-01-29T19:48
 tags:
   - JavaScript
 ---
@@ -316,7 +316,12 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 
 ### reduce方法
 
-- `arr.reduce(callback)`：用于将
+- `arr.reduce(callback)`：用于将数组元素累计计算为单个值（归并）
+
+> [!success]+ 应用场景
+
+- 求和
+- 
 
 ### sort方法
 
