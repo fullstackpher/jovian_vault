@@ -4806,7 +4806,7 @@
     {
       "path": "02-领域/Frontend/JS/包装类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769666208059
@@ -4819,6 +4819,9 @@
         },
         {
           "timestampMillis": 1769670689728
+        },
+        {
+          "timestampMillis": 1769671007341
         }
       ]
     }
