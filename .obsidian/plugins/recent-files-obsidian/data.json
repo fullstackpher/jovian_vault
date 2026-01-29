@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-29",
+      "path": "日记/2026-01-29.md"
+    },
+    {
       "basename": "2026-01-29 学习日报",
       "path": "0_Daily Notes/2026-01-29 学习日报.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Claudian",
       "path": "02-领域/Knowledge Management/Claudian.md"
-    },
-    {
-      "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "00-收件箱/2026-01-27-笔记到系统的obsidian实践.md"
     }
   ],
   "omittedPaths": [],

@@ -4948,13 +4948,26 @@
     {
       "path": "0_Daily Notes/2026-01-29 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769689407086
         },
         {
           "timestampMillis": 1769689451730
+        },
+        {
+          "timestampMillis": 1769689675892
+        }
+      ]
+    },
+    {
+      "path": "日记/2026-01-29.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769689703881
         }
       ]
     }

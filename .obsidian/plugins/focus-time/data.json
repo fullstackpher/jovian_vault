@@ -909,8 +909,20 @@
     "0_Daily Notes/2026-01-29 学习日报.md": {
       "fileId": "1769689410115",
       "filePath": "0_Daily Notes/2026-01-29 学习日报.md",
-      "duration": 144000,
+      "duration": 198000,
+      "openCount": 4
+    },
+    "日记/未命名.md": {
+      "fileId": "1769689674118",
+      "filePath": "日记/未命名.md",
+      "duration": 6000,
       "openCount": 2
+    },
+    "日记/2026-01-29.md": {
+      "fileId": "1769689704112",
+      "filePath": "日记/2026-01-29.md",
+      "duration": 246000,
+      "openCount": 1
     }
   }
 }
