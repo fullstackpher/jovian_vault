@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Frontend知识体系总览",
+      "path": "02-领域/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "包装类型",
+      "path": "02-领域/Frontend/JS/包装类型.md"
+    },
+    {
       "basename": "值类型和引用类型",
       "path": "02-领域/Frontend/JS/值类型和引用类型.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "运算符",
       "path": "02-领域/Frontend/JS/运算符.md"
-    },
-    {
-      "basename": "包装类型",
-      "path": "02-领域/Frontend/JS/包装类型.md"
     },
     {
       "basename": "Math对象",
@@ -95,10 +99,6 @@
     {
       "basename": "闭包",
       "path": "02-领域/Frontend/JS/闭包.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "02-领域/Frontend/Frontend知识体系总览.md"
     },
     {
       "basename": "Drawing 2026-01-29 13.05.09.excalidraw",

@@ -4797,10 +4797,16 @@
     {
       "path": "02-领域/Frontend/Frontend知识体系总览.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769665075914
+        },
+        {
+          "timestampMillis": 1769688825860
+        },
+        {
+          "timestampMillis": 1769688905387
         }
       ]
     },
@@ -4854,7 +4860,7 @@
     {
       "path": "02-领域/Frontend/JS/包装类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769666208059
@@ -4870,6 +4876,9 @@
         },
         {
           "timestampMillis": 1769671007341
+        },
+        {
+          "timestampMillis": 1769688871798
         }
       ]
     }

@@ -2862,18 +2862,24 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/Frontend知识体系总览.md": {
-    "scroll": 236.73133158683777,
+    "scroll": 137.6789661368558,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 0
+        "line": 206,
+        "ch": 29
       },
       "to": {
-        "line": 8,
-        "ch": 0
+        "line": 206,
+        "ch": 29
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-25",
+      "item-1-0",
+      "item-2-16",
+      "item-3-19",
+      "item-2-5"
+    ]
   },
   "02-领域/Frontend/JS/闭包.md": {
     "scroll": 0,
@@ -2960,18 +2966,19 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/包装类型.md": {
-    "scroll": 0,
+    "scroll": 143.17013184229532,
     "cursor": {
       "from": {
-        "line": 149,
-        "ch": 89
+        "line": 10,
+        "ch": 11
       },
       "to": {
-        "line": 149,
-        "ch": 89
+        "line": 10,
+        "ch": 11
       }
     },
     "expandedKeys": [
+      "item-1-0",
       "item-2-0",
       "item-2-5"
     ]
