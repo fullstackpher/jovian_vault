@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T17:40
+更新时间: 2026-01-29T17:49
 tags:
   - JavaScript
 ---
@@ -118,6 +118,9 @@ alert(colors.length); // 2
 
 - `splice` 方法可以说是处理数组的利器，它可以做任何事：添加，删除和替换元素
 - 语法：`array.splice(start[, deleteCount[, item1[, item2[, ...]]]])`
+	- 从 `start` 位置开始，处理数组中的元素
+	- `deleteCount`：要删除元素的个数，如果为0或者负数表示不删除
+	- `item1`，`item2`，`...`：在添加元素时，需要添加的元素
 
 > [!example]+ splice示例
 
@@ -136,5 +139,8 @@ console.log(colors); // ['orange', 'black', 'yellow']
 
 > [!danger]+ 注意事项
 
-- 
+- **修改原数组**：`splice()` 会改变原数组。
+- **返回被删除元素**：即使只添加元素，也会返回空数组。
+- **负索引**：`start` 可以为负数，表示从末尾开始计数。
+- **deleteCount省略**：如果省略，则删除从 `start` 到末尾的所有元素。
 
