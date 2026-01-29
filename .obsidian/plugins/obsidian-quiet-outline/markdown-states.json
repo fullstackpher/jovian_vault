@@ -2979,12 +2979,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 18,
+        "ch": 23
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 18,
+        "ch": 23
       }
     },
     "expandedKeys": []
