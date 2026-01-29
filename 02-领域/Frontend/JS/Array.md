@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:17
+更新时间: 2026-01-29T19:22
 tags:
   - JavaScript
 ---
@@ -264,6 +264,8 @@ console.log(student);
 
 ### forEach方法
 
+- `arr.forEach(callback)`：对数组的每个元素执行一次提供的函数
+
 ```js
 // forEach方法用于遍历数组中的元素，对每个元素执行指定的操作
 var colors = ['orange', 'green', 'yellow']
@@ -274,4 +276,8 @@ colors.forEach(function(color) {
 colors.forEach(color => console.log(color))
 ```
 
-> [!tip]+ forEach方法无返回值，仅对数组进行遍历
+> [!tip]+ forEach方法无返回值
+
+### map方法
+
+- `arr.map(callback)`：
