@@ -4772,15 +4772,21 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/Math.md",
+      "path": "02-领域/Frontend/JS/Math对象.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769666112701
         },
         {
           "timestampMillis": 1769666183476
+        },
+        {
+          "timestampMillis": 1769669800745
+        },
+        {
+          "timestampMillis": 1769669949037
         }
       ]
     },
@@ -4808,12 +4814,18 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/Number.md",
+      "path": "02-领域/Frontend/JS/包装类型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769666208059
+        },
+        {
+          "timestampMillis": 1769669822101
+        },
+        {
+          "timestampMillis": 1769669894833
         }
       ]
     }

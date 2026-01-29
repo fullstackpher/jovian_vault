@@ -84,9 +84,9 @@
     "01-项目/03-学习前端/学习JavaScript.md": "ac0e8e717dd80aac39f6e771d042fe9fbb940a4ac5181ded2c666948d4a80b4c",
     "00-收件箱/2026-01-29-待办事项清单.md.md": "7d3c0c536ff88d26a3a34e44033453bd81643c072f1521d64e8373b408817f4c",
     "02-领域/Frontend/Frontend知识体系总览.md": "b80fd7df52be1f67185f119248f22afd9cfe4407c51c6340a1a1e484acbffd84",
-    "02-领域/Frontend/JS/Math.md": "bd55b3c99a750b2b5a10109361fdd114b99e34537054296e2bbc36e2b57424a1",
     "02-领域/Frontend/JS/String.md": "bd55b3c99a750b2b5a10109361fdd114b99e34537054296e2bbc36e2b57424a1",
     "02-领域/Frontend/JS/Array.md": "b2d60c0c1d809b4ec3d0ffb9ef4852ddb13b3b780ae6d7d8e64e58b5a2394d75",
-    "02-领域/Frontend/JS/Number.md": "e3b64babef1c4e368422870d76604d86cf27cf5da4544924902f1ea8e989bf1a"
+    "02-领域/Frontend/JS/Math对象.md": "bd55b3c99a750b2b5a10109361fdd114b99e34537054296e2bbc36e2b57424a1",
+    "02-领域/Frontend/JS/包装类型.md": "f5f736b52339333ac00c61646c0ccc88cdb2d8eb265cb875aaf09328ecff22a3"
   }
 }

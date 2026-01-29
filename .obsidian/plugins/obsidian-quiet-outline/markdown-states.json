@@ -2932,15 +2932,59 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/Number.md": {
-    "scroll": 4.013377926421405,
+    "scroll": 12.501735846201578,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 40
+        "line": 17,
+        "ch": 20
       },
       "to": {
-        "line": 22,
-        "ch": 40
+        "line": 17,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/Number类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 12
+      },
+      "to": {
+        "line": 6,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/包装类型.md": {
+    "scroll": 21.137153069178265,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 0
+      },
+      "to": {
+        "line": 31,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "02-领域/Frontend/JS/Math对象.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
