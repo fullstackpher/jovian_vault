@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T17:26
+更新时间: 2026-01-29T17:31
 tags:
   - JavaScript
 ---
@@ -114,3 +114,7 @@ alert(items); // orange
 alert(colors.length); // 2
 ```
 
+### splice方法
+
+- `splice` 方法可以说是处理数组的利器，它可以做任何事：添加，删除和替换元素
+- 语法：`array.splice(start[, deleteCount[, item1[, item2[, ...]]]])`
