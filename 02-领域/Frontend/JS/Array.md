@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:35
+更新时间: 2026-01-29T18:37
 tags:
   - JavaScript
 ---
@@ -197,4 +197,8 @@ for (var index in colors) {
     console.log(index, colors[index]);
 }
 ```
+
+### slice方法
+
+- `arr.slice` 方法：用于对数组进行截取（类似于字符串的slice方法）
 
