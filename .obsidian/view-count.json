@@ -4651,14 +4651,17 @@
     },
     {
       "path": "02-领域/Frontend/JS/值类型和引用类型.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769603621302
         },
         {
           "timestampMillis": 1769603621480
+        },
+        {
+          "timestampMillis": 1769662866414
         }
       ]
     },

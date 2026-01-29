@@ -2846,5 +2846,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/值类型和引用类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 18
+      },
+      "to": {
+        "line": 9,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
   }
 }

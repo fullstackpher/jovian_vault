@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "值类型和引用类型",
+      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "01-项目/Dashboard.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "原型构造函数对象之间的关系图",
       "path": "Excalidraw/原型构造函数对象之间的关系图.md"
-    },
-    {
-      "basename": "值类型和引用类型",
-      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
     },
     {
       "basename": "原型链关系示意图",
