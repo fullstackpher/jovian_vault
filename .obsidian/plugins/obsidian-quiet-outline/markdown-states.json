@@ -2097,11 +2097,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 4,
         "ch": 0
       }
     },
@@ -2848,15 +2848,15 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/值类型和引用类型.md": {
-    "scroll": 0,
+    "scroll": 11.343984489076512,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 0
+        "line": 19,
+        "ch": 18
       },
       "to": {
-        "line": 13,
-        "ch": 0
+        "line": 19,
+        "ch": 18
       }
     },
     "expandedKeys": []

@@ -5,6 +5,10 @@
       "path": "02-领域/Frontend/JS/值类型和引用类型.md"
     },
     {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
       "basename": "Drawing 2026-01-29 13.05.09.excalidraw",
       "path": "Excalidraw/Drawing 2026-01-29 13.05.09.excalidraw.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "学习JavaScript",
       "path": "01-项目/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
     },
     {
       "basename": "原型",
@@ -195,10 +195,6 @@
     {
       "basename": "Visual Studio Code",
       "path": "03-资源/Visual Studio Code.md"
-    },
-    {
-      "basename": "2026-01-22 学习日报",
-      "path": "0_Daily Notes/2026-01-22 学习日报.md"
     }
   ],
   "omittedPaths": [],
