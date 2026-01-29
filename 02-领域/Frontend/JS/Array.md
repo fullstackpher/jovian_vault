@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:33
+更新时间: 2026-01-29T18:35
 tags:
   - JavaScript
 ---
@@ -181,4 +181,20 @@ console.log(arr.length); // 0
 - 预分配数组：创建N个空位：`arr.length = n` （某些场景下可优化性能）
 
 ### 遍历数组
+
+```js
+var colors = ['orange', 'green', 'yellow']
+// 遍历数组中的元素，传统的for循环
+for (var i = 0; i < colors.length; i++) {
+    console.log(colors[i]);
+}
+// 遍历数组中的元素
+for (var color of colors) {
+    console.log(color);
+}
+// 遍历数组中的元素，同时获取索引
+for (var index in colors) {
+    console.log(index, colors[index]);
+}
+```
 
