@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T16:52
+更新时间: 2026-01-29T16:59
 tags:
   - JavaScript
 ---
@@ -31,7 +31,9 @@ const arr = new Array('a', 'b', 'c')
 - 一些编程语言允许我们使用负数索引来实现这一点，例如 `fruits[-1]`
 - JavaScript并不支持这一点
 
-### 访问数组
+### 数组操作（CRUD）
+
+#### 访问数组元素
 
 > [!example]+ 访问数组的元素
 
@@ -48,7 +50,7 @@ console.log(colors.at(-1)); // orange
 - `Array.prototype.at(index)`：index允许正数和负数，负数索引表示从数组末尾元素开始倒数
 - `array[index]`：index为-1，直接返回undefined，不支持
 
-### 修改数组
+#### 修改数组元素
 
 - 通过给 `arr[index]`赋值的方式修改数组中index位置的值
 
@@ -56,3 +58,19 @@ console.log(colors.at(-1)); // orange
 const colors = ['orange', 'green', 'yellow']
 colors[2] = 'blue'
 ```
+
+
+#### 新增数组元素
+
+- 通过给 `arr[index]`赋值的方式添加数组的元素（开发中不推荐）
+
+```js
+const colors = ['orange', 'green', 'yellow']
+colors[5] = 'pink'
+```
+
+#### 删除数组元素
+
+- 通过 `delete arr[index]` 方式删除数组index位置的元素（开发中不推荐）
+- 不改变数组结构，还是原数组的长度，只是该位置的元素变成了undefined
+
