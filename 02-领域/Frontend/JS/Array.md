@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:06
+更新时间: 2026-01-29T19:13
 tags:
   - JavaScript
 ---
@@ -249,4 +249,15 @@ console.log(colors.indexOf('red')); // -1
 
 ### find方法
 
-- arr.find()
+- `arr.find(callback)`：返回数组中满足提供的测试函数的第一个元素的值，否则返回undefined
+
+```js
+var students = [
+    {id: 1001, name: '张三', age: 18},
+    {id: 1002, name: '李四', age: 19},
+    {id: 1003, name: '王五', age: 20}
+]
+// 查找id是1003的学生信息
+var student = students.find(stu => stu.id === 1003)
+console.log(student);
+```
