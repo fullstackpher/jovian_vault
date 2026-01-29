@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:41
+更新时间: 2026-01-29T19:47
 tags:
   - JavaScript
 ---
@@ -303,9 +303,21 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 ```
 
 
+> [!success]+ 应用场景
 
+- 条件筛选
+- 链式调用
 
+> [!danger]+ 注意事项
+
+- filter() 不会改变原数组
+- filter() 会跳过空元素
+- 稀松数组处理
 
 ### reduce方法
 
-- `arr.reduce(callback)`：
+- `arr.reduce(callback)`：用于将
+
+### sort方法
+
+- `arr.sort()`：
