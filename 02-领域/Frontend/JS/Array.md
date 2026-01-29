@@ -201,4 +201,6 @@ for (var index in colors) {
 ### slice方法
 
 - `arr.slice` 方法：用于对数组进行截取（类似于字符串的slice方法）
-	- start：
+	- start：截取的开始位置
+	- end：截取的结束位置（不包含end位置的元素）
+- 
