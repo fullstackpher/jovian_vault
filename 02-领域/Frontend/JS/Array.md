@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:49
+更新时间: 2026-01-29T19:54
 tags:
   - JavaScript
 ---
@@ -325,6 +325,11 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 - 数组去重
 - 计算数组中每个元素出现的次数
 - 按属性对对象数组进行分组
+
+> [!danger]+ 注意事项
+
+- 空数组需要初始值
+- 初始值影响迭代次数
 
 ### sort方法
 

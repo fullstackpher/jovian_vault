@@ -4802,7 +4802,7 @@
     {
       "path": "02-领域/Frontend/JS/Array.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769666162475
@@ -4815,6 +4815,12 @@
         },
         {
           "timestampMillis": 1769686804810
+        },
+        {
+          "timestampMillis": 1769687695596
+        },
+        {
+          "timestampMillis": 1769687697451
         }
       ]
     },
