@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "每日笔记",
+      "path": "_Templates/每日笔记.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "_Templates/项目模版.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "_Templates/日报模版.md"
+    },
+    {
       "basename": "2026-01-29",
       "path": "日记/2026-01-29.md"
     },
     {
       "basename": "2026-01-29 学习日报",
       "path": "0_Daily Notes/2026-01-29 学习日报.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
     },
     {
       "basename": "2026-01-28 学习日报",
@@ -191,14 +199,6 @@
     {
       "basename": "项目看板",
       "path": "01-项目/项目看板.md"
-    },
-    {
-      "basename": "Callout",
-      "path": "02-领域/Knowledge Management/Callout.md"
-    },
-    {
-      "basename": "Claudian",
-      "path": "02-领域/Knowledge Management/Claudian.md"
     }
   ],
   "omittedPaths": [],

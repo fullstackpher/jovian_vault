@@ -1521,8 +1521,8 @@
     },
     {
       "path": "_Templates/每日笔记.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1535,6 +1535,9 @@
         },
         {
           "timestampMillis": 1768706340389
+        },
+        {
+          "timestampMillis": 1769690090644
         }
       ]
     },
@@ -1971,8 +1974,8 @@
     },
     {
       "path": "_Templates/项目模版.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768648972944
@@ -1985,13 +1988,16 @@
         },
         {
           "timestampMillis": 1768654541585
+        },
+        {
+          "timestampMillis": 1769690069264
         }
       ]
     },
     {
       "path": "_Templates/日报模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -2064,6 +2070,9 @@
         },
         {
           "timestampMillis": 1769689435584
+        },
+        {
+          "timestampMillis": 1769690053607
         }
       ]
     },

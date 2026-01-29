@@ -73,7 +73,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "0_Daily Notes"
+          "日记"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

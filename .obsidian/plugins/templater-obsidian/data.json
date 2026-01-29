@@ -19,11 +19,11 @@
       "template": "_Templates/项目模版.md"
     },
     {
-      "folder": "0_Daily Notes",
+      "folder": "日记",
       "template": "_Templates/每日笔记.md"
     },
     {
-      "folder": "",
+      "folder": "00-收件箱",
       "template": "_Templates/闪念笔记模板.md"
     }
   ],
