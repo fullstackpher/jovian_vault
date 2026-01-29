@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:59
+更新时间: 2026-01-29T20:03
 tags:
   - JavaScript
 ---
@@ -333,5 +333,58 @@ const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
 
 ### sort方法
 
-- `arr.sort()`：用于对数组的元素进行排序，并返回排序后的数组
+- `arr.sort([compareFunction])`：用于对数组的元素进行排序，并返回排序后的数组
 - `sort()` 总是修改原数组，如果需要保留原数组，先创建副本再排序
+
+> [!example]+ 数字排序
+
+```js
+// 升序排序
+const arr = [40, 100, 1, 5, 25, 10];
+arr.sort((a, b) => a - b);
+console.log(arr); // [1, 5, 10, 25, 40, 100]
+
+// 降序排序
+arr.sort((a, b) => b - a);
+console.log(arr); // [100, 40, 25, 10, 5, 1]
+```
+
+> [!example]+ 字符串排序
+
+```js
+const names = ['王伟', '张三', '李四', '赵五'];
+
+// 按中文字符排序（拼音顺序）
+names.sort((a, b) => a.localeCompare(b, 'zh-CN'));
+console.log(names); // ['李四', '王伟', '张三', '赵五']
+
+// 按字符串长度排序
+const words = ['apple', 'kiwi', 'banana', 'pear'];
+words.sort((a, b) => a.length - b.length);
+console.log(words); // ['pear', 'kiwi', 'apple', 'banana']
+```
+
+> [!example]+ 对象数组排序
+
+```js
+const students = [
+  { name: '张三', score: 85, age: 20 },
+  { name: '李四', score: 92, age: 19 },
+  { name: '王五', score: 85, age: 21 }
+];
+
+// 按分数降序，分数相同时按年龄升序
+students.sort((a, b) => {
+  if (b.score !== a.score) {
+    return b.score - a.score; // 分数高的在前
+  }
+  return a.age - b.age; // 年龄小的在前
+});
+
+console.log(students);
+// [
+//   {name: '李四', score: 92, age: 19},
+//   {name: '王五', score: 85, age: 21},
+//   {name: '张三', score: 85, age: 20}
+// ]
+```
