@@ -274,3 +274,4 @@ colors.forEach(function(color) {
 colors.forEach(color => console.log(color))
 ```
 
+> [!tip]+ forEach方法无返回值，仅对数组进行遍历
