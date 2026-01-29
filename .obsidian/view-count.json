@@ -4655,7 +4655,7 @@
     {
       "path": "02-领域/Frontend/JS/值类型和引用类型.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769603621302
@@ -4674,6 +4674,9 @@
         },
         {
           "timestampMillis": 1769664458691
+        },
+        {
+          "timestampMillis": 1769664576828
         }
       ]
     },
