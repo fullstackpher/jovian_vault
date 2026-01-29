@@ -2852,11 +2852,11 @@
     "cursor": {
       "from": {
         "line": 9,
-        "ch": 18
+        "ch": 26
       },
       "to": {
         "line": 9,
-        "ch": 18
+        "ch": 26
       }
     },
     "expandedKeys": []
