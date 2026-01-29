@@ -3352,8 +3352,8 @@
     },
     {
       "path": "01-项目/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 26,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 27,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3432,6 +3432,9 @@
         },
         {
           "timestampMillis": 1769607358406
+        },
+        {
+          "timestampMillis": 1769688273605
         }
       ]
     },
