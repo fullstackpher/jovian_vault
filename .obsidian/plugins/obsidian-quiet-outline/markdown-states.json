@@ -2459,7 +2459,7 @@
     "expandedKeys": []
   },
   "01-项目/README.md": {
-    "scroll": 4.737127371273713,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 102,
@@ -2470,7 +2470,10 @@
         "ch": 32
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ]
   },
   "02-领域/README.md": {
     "scroll": 109.77878878933566,
@@ -2847,11 +2850,11 @@
     "cursor": {
       "from": {
         "line": 9,
-        "ch": 16
+        "ch": 31
       },
       "to": {
         "line": 9,
-        "ch": 16
+        "ch": 31
       }
     },
     "expandedKeys": []
@@ -3142,26 +3145,28 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 7,
+        "ch": 10
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 7,
+        "ch": 10
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "日记/2026-01-29.md": {
-    "scroll": 21.502761864840274,
+    "scroll": 19.9591202353857,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 10
+        "line": 38,
+        "ch": 2
       },
       "to": {
-        "line": 10,
-        "ch": 10
+        "line": 38,
+        "ch": 2
       }
     },
     "expandedKeys": [

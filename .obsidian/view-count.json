@@ -4493,11 +4493,14 @@
     },
     {
       "path": "01-项目/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769495636581
+        },
+        {
+          "timestampMillis": 1769690830604
         }
       ]
     },
@@ -4870,13 +4873,19 @@
     {
       "path": "00-收件箱/2026-01-29-待办事项清单.md.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769607411780
         },
         {
           "timestampMillis": 1769662851681
+        },
+        {
+          "timestampMillis": 1769690808435
+        },
+        {
+          "timestampMillis": 1769690856625
         }
       ]
     },
@@ -5012,6 +5021,16 @@
         },
         {
           "timestampMillis": 1769690342463
+        }
+      ]
+    },
+    {
+      "path": "日记/2026-01-29.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769690669744
         }
       ]
     }
