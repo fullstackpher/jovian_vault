@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T17:37
+更新时间: 2026-01-29T17:38
 tags:
   - JavaScript
 ---
@@ -134,3 +134,5 @@ colors.splice(1, 1)
 console.log(colors); // ['orange', 'black', 'yellow']
 ```
 
+> [!danger]+ 注意事项
+> start：从0开始的索引，
