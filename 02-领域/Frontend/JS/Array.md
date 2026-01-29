@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T19:34
+更新时间: 2026-01-29T19:41
 tags:
   - JavaScript
 ---
@@ -296,4 +296,16 @@ console.log(colors); // ['orange', 'green', 'yellow']
 
 ### filter方法
 
-- `arr.filter(callback)`：
+- `arr.filter(callback)`：用于创建一个新数组，其中包含通过测试（函数判断） 的所有元素
+
+```js
+const newArray = array.filter(callback(element[, index[, array]])[, thisArg])
+```
+
+
+
+
+
+### reduce方法
+
+- `arr.reduce(callback)`：

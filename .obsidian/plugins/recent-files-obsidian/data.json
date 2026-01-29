@@ -5,6 +5,10 @@
       "path": "02-领域/Frontend/JS/Array.md"
     },
     {
+      "basename": "运算符",
+      "path": "02-领域/Frontend/JS/运算符.md"
+    },
+    {
       "basename": "包装类型",
       "path": "02-领域/Frontend/JS/包装类型.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "值类型和引用类型",
       "path": "02-领域/Frontend/JS/值类型和引用类型.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "02-领域/Frontend/JS/运算符.md"
     },
     {
       "basename": "原型",
