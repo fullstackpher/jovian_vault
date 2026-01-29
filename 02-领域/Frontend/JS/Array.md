@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T17:17
+更新时间: 2026-01-29T17:26
 tags:
   - JavaScript
 ---
@@ -76,16 +76,41 @@ colors[5] = 'pink'
 
 ### 新增数组元素
 
-- push()：不改变原数组，数组末尾添加元素，返回数组的新长度
-- unshift()：不改变原数组，数组头部添加元素，返回数组的新长度
+- `push()`：不改变原数组，数组末尾添加元素，返回数组的新长度
+- `unshift()`：不改变原数组，数组头部添加元素，返回数组的新长度
 
 ### 删除数组元素
 
-- pop()：不改变原数组，数组末尾删除元素，返回被删除的元素
-- shift()：不改变原数组，数组头部删除元素，返回被删除的元素
+- `pop()`：不改变原数组，数组末尾删除元素，返回被删除的元素
+- `shift()`：不改变原数组，数组头部删除元素，返回被删除的元素
 
-> [!example]+ 栈方法
+> [!example]+ 栈方法（后进先出）
 
 ```js
+var colors = ['orange', 'green']
+// 新增元素
+var newColors = colors.push('yellow')
+alert(newColors); // 3
+newColors = colors.push('blue')
+alert(newColors); // 4
 
+var item = colors.pop()
+alert(item); // blue
+alert(colors.length); // 3
 ```
+
+> [!example]+ 队列方法（先进先出）
+
+```js
+// 实现队列方法
+var colors = new Array()
+var count = colors.push('orange', 'green')
+alert(count); // 2
+count = colors.push('yellow')
+alert(count); // 3
+
+var items = colors.shift()
+alert(items); // orange
+alert(colors.length); // 2
+```
+
