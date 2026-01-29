@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:27
+更新时间: 2026-01-29T18:28
 tags:
   - JavaScript
 ---
@@ -177,3 +177,5 @@ arr.length = 0;
 console.log(arr); // []
 console.log(arr.length); // 0
 ```
+
+- 应用
