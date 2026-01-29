@@ -2442,14 +2442,14 @@
     "expandedKeys": []
   },
   "00-收件箱/README.md": {
-    "scroll": 0,
+    "scroll": 3.007518796992481,
     "cursor": {
       "from": {
-        "line": 36,
-        "ch": 20
+        "line": 35,
+        "ch": 0
       },
       "to": {
-        "line": 36,
+        "line": 35,
         "ch": 20
       }
     },
@@ -2540,7 +2540,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/面向对象.md": {
-    "scroll": 187.21484271685281,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 210,
@@ -2711,11 +2711,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 59,
+        "line": 61,
         "ch": 83
       },
       "to": {
-        "line": 59,
+        "line": 61,
         "ch": 83
       }
     },
@@ -2806,15 +2806,15 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/原型.md": {
-    "scroll": 156.2778123218127,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 172,
-        "ch": 0
+        "line": 171,
+        "ch": 34
       },
       "to": {
-        "line": 172,
-        "ch": 0
+        "line": 171,
+        "ch": 34
       }
     },
     "expandedKeys": []
@@ -2829,6 +2829,20 @@
       "to": {
         "line": 143,
         "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "00-收件箱/2026-01-29-待办事项清单.md.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 16
+      },
+      "to": {
+        "line": 9,
+        "ch": 16
       }
     },
     "expandedKeys": []

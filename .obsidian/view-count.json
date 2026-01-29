@@ -469,8 +469,8 @@
     },
     {
       "path": "01-项目/Dashboard.md",
-      "uniqueDaysOpened": 12,
-      "totalTimesOpened": 163,
+      "uniqueDaysOpened": 13,
+      "totalTimesOpened": 164,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -960,6 +960,9 @@
         },
         {
           "timestampMillis": 1769606307662
+        },
+        {
+          "timestampMillis": 1769662853128
         }
       ]
     },
@@ -3350,7 +3353,7 @@
     {
       "path": "01-项目/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3426,6 +3429,9 @@
         },
         {
           "timestampMillis": 1769533412031
+        },
+        {
+          "timestampMillis": 1769607358406
         }
       ]
     },
@@ -4033,7 +4039,7 @@
     {
       "path": "02-领域/Frontend/JS/面向对象.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 46,
+      "totalTimesOpened": 47,
       "openLogs": [
         {
           "timestampMillis": 1769401800965
@@ -4172,6 +4178,9 @@
         },
         {
           "timestampMillis": 1769603394584
+        },
+        {
+          "timestampMillis": 1769607319241
         }
       ]
     },
@@ -4312,8 +4321,8 @@
     },
     {
       "path": "00-收件箱/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -4326,6 +4335,9 @@
         },
         {
           "timestampMillis": 1769496079575
+        },
+        {
+          "timestampMillis": 1769607381444
         }
       ]
     },
@@ -4472,7 +4484,7 @@
     {
       "path": "02-领域/Frontend/JS/原型.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1769593071438
@@ -4566,6 +4578,9 @@
         },
         {
           "timestampMillis": 1769606465380
+        },
+        {
+          "timestampMillis": 1769607290661
         }
       ]
     },
@@ -4654,6 +4669,19 @@
       "openLogs": [
         {
           "timestampMillis": 1769606748141
+        }
+      ]
+    },
+    {
+      "path": "00-收件箱/2026-01-29-待办事项清单.md.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769607411780
+        },
+        {
+          "timestampMillis": 1769662851681
         }
       ]
     }

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "01-项目/Dashboard.md"
+    },
+    {
+      "basename": "2026-01-29-待办事项清单.md",
+      "path": "00-收件箱/2026-01-29-待办事项清单.md.md"
+    },
+    {
+      "basename": "README",
+      "path": "00-收件箱/README.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "01-项目/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "原型",
+      "path": "02-领域/Frontend/JS/原型.md"
+    },
+    {
       "basename": "2026-01-28 学习日报",
       "path": "0_Daily Notes/2026-01-28 学习日报.md"
     },
@@ -17,14 +41,6 @@
       "path": "_Templates/日报模版.md"
     },
     {
-      "basename": "原型",
-      "path": "02-领域/Frontend/JS/原型.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "01-项目/Dashboard.md"
-    },
-    {
       "basename": "原型构造函数对象之间的关系图",
       "path": "Excalidraw/原型构造函数对象之间的关系图.md"
     },
@@ -37,20 +53,12 @@
       "path": "Excalidraw/原型链关系示意图.md"
     },
     {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
-    },
-    {
       "basename": "this",
       "path": "02-领域/Frontend/JS/this.md"
     },
     {
       "basename": "window",
       "path": "02-领域/Frontend/JS/window.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "01-项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-01-19 学习日报",
@@ -95,10 +103,6 @@
     {
       "basename": "变量和数据类型",
       "path": "02-领域/Frontend/JS/变量和数据类型.md"
-    },
-    {
-      "basename": "README",
-      "path": "00-收件箱/README.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -195,10 +199,6 @@
     {
       "basename": "学习CSS",
       "path": "01-项目/03-学习前端/学习CSS.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "02-领域/Frontend/CSS/现代 CSS 新特性.md"
     }
   ],
   "omittedPaths": [],
