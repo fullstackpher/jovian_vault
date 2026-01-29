@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:49
+更新时间: 2026-01-29T18:50
 tags:
   - JavaScript
 ---
@@ -227,4 +227,4 @@ console.log(colors); // ['orange', 'green', 'yellow']
 
 ### join方法
 
-- arr.join 方法
+- `arr.join` 方法：将数组的元素连接成一个字符串并返回这个字符串
