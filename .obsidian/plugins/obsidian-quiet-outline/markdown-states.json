@@ -2540,7 +2540,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/面向对象.md": {
-    "scroll": 0,
+    "scroll": 224.9078103886873,
     "cursor": {
       "from": {
         "line": 210,
@@ -2554,7 +2554,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/流程控制语句.md": {
-    "scroll": 0,
+    "scroll": 191.44833914438883,
     "cursor": {
       "from": {
         "line": 6,
@@ -2568,7 +2568,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/函数.md": {
-    "scroll": 156.02209867621397,
+    "scroll": 204.31789609480487,
     "cursor": {
       "from": {
         "line": 210,
@@ -2680,7 +2680,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/变量和数据类型.md": {
-    "scroll": 0,
+    "scroll": 219.22953181125285,
     "cursor": {
       "from": {
         "line": 6,
@@ -2753,12 +2753,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 43,
+        "ch": 25
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 43,
+        "ch": 25
       }
     },
     "expandedKeys": []
@@ -2862,7 +2862,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/Frontend知识体系总览.md": {
-    "scroll": 120.38805112877583,
+    "scroll": 236.73133158683777,
     "cursor": {
       "from": {
         "line": 8,
@@ -2870,6 +2870,20 @@
       },
       "to": {
         "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/闭包.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

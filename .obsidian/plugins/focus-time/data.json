@@ -435,14 +435,14 @@
     "02-领域/Frontend/JS/JavaScript基础概念.md": {
       "fileId": "1769141839840",
       "filePath": "02-领域/Frontend/JS/JavaScript基础概念.md",
-      "duration": 384000,
-      "openCount": 11
+      "duration": 426000,
+      "openCount": 12
     },
     "02-领域/Frontend/JS/变量和数据类型.md": {
       "fileId": "1769142151831",
       "filePath": "02-领域/Frontend/JS/变量和数据类型.md",
-      "duration": 5388000,
-      "openCount": 11
+      "duration": 5406000,
+      "openCount": 12
     },
     "02-领域/Frontend/JS/JavaScript基础.md": {
       "fileId": "1769142139832",
@@ -459,20 +459,20 @@
     "02-领域/Frontend/JS/流程控制语句.md": {
       "fileId": "1769235090670",
       "filePath": "02-领域/Frontend/JS/流程控制语句.md",
-      "duration": 3882000,
-      "openCount": 9
+      "duration": 3888000,
+      "openCount": 10
     },
     "02-领域/Frontend/JS/函数.md": {
       "fileId": "1769316186354",
       "filePath": "02-领域/Frontend/JS/函数.md",
       "duration": 6084000,
-      "openCount": 14
+      "openCount": 15
     },
     "02-领域/Frontend/JS/闭包.md": {
       "fileId": "1769324682353",
       "filePath": "02-领域/Frontend/JS/闭包.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 18000,
+      "openCount": 3
     },
     "02-领域/Frontend/JS/作用域.md": {
       "fileId": "1769324742350",
@@ -483,7 +483,7 @@
     "02-领域/Frontend/JS/面向对象.md": {
       "fileId": "1769235060670",
       "filePath": "02-领域/Frontend/JS/面向对象.md",
-      "duration": 8046000,
+      "duration": 8058000,
       "openCount": 40
     },
     "02-领域/Frontend/CSS/CSS基础概念.md": {
@@ -867,8 +867,8 @@
     "02-领域/Frontend/Frontend知识体系总览.md": {
       "fileId": "1769665080118",
       "filePath": "02-领域/Frontend/Frontend知识体系总览.md",
-      "duration": 24000,
-      "openCount": 1
+      "duration": 102000,
+      "openCount": 2
     }
   }
 }

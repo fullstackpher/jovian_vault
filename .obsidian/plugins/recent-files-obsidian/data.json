@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "面向对象",
+      "path": "02-领域/Frontend/JS/面向对象.md"
+    },
+    {
+      "basename": "流程控制语句",
+      "path": "02-领域/Frontend/JS/流程控制语句.md"
+    },
+    {
+      "basename": "函数",
+      "path": "02-领域/Frontend/JS/函数.md"
+    },
+    {
+      "basename": "变量和数据类型",
+      "path": "02-领域/Frontend/JS/变量和数据类型.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "02-领域/Frontend/JS/闭包.md"
+    },
+    {
+      "basename": "JavaScript基础概念",
+      "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
+    },
+    {
       "basename": "Frontend知识体系总览",
       "path": "02-领域/Frontend/Frontend知识体系总览.md"
     },
     {
       "basename": "值类型和引用类型",
       "path": "02-领域/Frontend/JS/值类型和引用类型.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
     },
     {
       "basename": "Drawing 2026-01-29 13.05.09.excalidraw",
@@ -81,14 +101,6 @@
       "path": "02-领域/Frontend/JS/JavaScript基础.md"
     },
     {
-      "basename": "JavaScript基础概念",
-      "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
-    },
-    {
-      "basename": "函数",
-      "path": "02-领域/Frontend/JS/函数.md"
-    },
-    {
       "basename": "Callout",
       "path": "02-领域/Knowledge Management/Callout.md"
     },
@@ -103,14 +115,6 @@
     {
       "basename": "作用域",
       "path": "02-领域/Frontend/JS/作用域.md"
-    },
-    {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "02-领域/Frontend/JS/变量和数据类型.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -179,10 +183,6 @@
     {
       "basename": "问题解决方案",
       "path": "_Templates/问题解决方案.md"
-    },
-    {
-      "basename": "闭包",
-      "path": "02-领域/Frontend/JS/闭包.md"
     },
     {
       "basename": "2026-01-24 学习日报",
