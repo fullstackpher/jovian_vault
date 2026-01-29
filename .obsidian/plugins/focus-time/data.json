@@ -831,8 +831,8 @@
     "02-领域/Frontend/JS/值类型和引用类型.md": {
       "fileId": "1769603626183",
       "filePath": "02-领域/Frontend/JS/值类型和引用类型.md",
-      "duration": 732000,
-      "openCount": 5
+      "duration": 840000,
+      "openCount": 6
     },
     "0_Daily Notes/2026-01-27 学习日报.md": {
       "fileId": "1769533159008",
@@ -863,6 +863,12 @@
       "filePath": "未命名.md",
       "duration": 6000,
       "openCount": 2
+    },
+    "02-领域/Frontend/Frontend知识体系总览.md": {
+      "fileId": "1769665080118",
+      "filePath": "02-领域/Frontend/Frontend知识体系总览.md",
+      "duration": 24000,
+      "openCount": 1
     }
   }
 }

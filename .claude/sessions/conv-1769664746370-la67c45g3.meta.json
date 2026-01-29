@@ -3,6 +3,17 @@
   "title": "梳理Frontend笔记建立双链知识体系",
   "titleGenerationStatus": "success",
   "createdAt": 1769664746370,
-  "updatedAt": 1769664753769,
-  "sessionId": null
+  "updatedAt": 1769665062962,
+  "lastResponseAt": 1769665062962,
+  "sessionId": "30272ce1-daac-4e97-bb47-0f4c4a0a18e0",
+  "sdkSessionId": "30272ce1-daac-4e97-bb47-0f4c4a0a18e0",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 123,
+    "cacheCreationInputTokens": 1351,
+    "cacheReadInputTokens": 95589,
+    "contextWindow": 200000,
+    "contextTokens": 97063,
+    "percentage": 49
+  }
 }
