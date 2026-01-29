@@ -244,7 +244,7 @@
     ]
   },
   "_Templates/项目开发记录.md": {
-    "scroll": 26.34244664510091,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 5,
@@ -260,7 +260,7 @@
     ]
   },
   "_Templates/问题解决方案.md": {
-    "scroll": 15.165051964065528,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 34,
@@ -307,11 +307,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 3,
+        "line": 4,
         "ch": 0
       }
     },
@@ -2714,11 +2714,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 61,
+        "line": 59,
         "ch": 83
       },
       "to": {
-        "line": 61,
+        "line": 59,
         "ch": 83
       }
     },
@@ -3153,15 +3153,15 @@
     "expandedKeys": []
   },
   "日记/2026-01-29.md": {
-    "scroll": 0,
+    "scroll": 21.502761864840274,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 10,
+        "ch": 10
       },
       "to": {
-        "line": 5,
-        "ch": 0
+        "line": 10,
+        "ch": 10
       }
     },
     "expandedKeys": [

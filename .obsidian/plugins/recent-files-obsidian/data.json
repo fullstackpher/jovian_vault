@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-01-29",
-      "path": "日记/2026-01-29.md"
+      "basename": "学习JavaScript",
+      "path": "01-项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-01-29 学习日报",
       "path": "0_Daily Notes/2026-01-29 学习日报.md"
+    },
+    {
+      "basename": "2026-01-19",
+      "path": "日记/2026-01-19.md"
     },
     {
       "basename": "每日笔记",
@@ -19,6 +23,22 @@
     {
       "basename": "日报模版",
       "path": "_Templates/日报模版.md"
+    },
+    {
+      "basename": "闪念笔记模板",
+      "path": "_Templates/闪念笔记模板.md"
+    },
+    {
+      "basename": "实用代码片段",
+      "path": "_Templates/实用代码片段.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "_Templates/问题解决方案.md"
+    },
+    {
+      "basename": "项目开发记录",
+      "path": "_Templates/项目开发记录.md"
     },
     {
       "basename": "2026-01-28 学习日报",
@@ -69,10 +89,6 @@
       "path": "0_Daily Notes/2026-01-27 学习日报.md"
     },
     {
-      "basename": "2026-01-19",
-      "path": "日记/2026-01-19.md"
-    },
-    {
       "basename": "Frontend知识体系总览",
       "path": "02-领域/Frontend/Frontend知识体系总览.md"
     },
@@ -95,10 +111,6 @@
     {
       "basename": "值类型和引用类型",
       "path": "02-领域/Frontend/JS/值类型和引用类型.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "01-项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "学习Spring全家桶",
@@ -183,22 +195,6 @@
     {
       "basename": "2026-01-29-待办事项清单.md",
       "path": "00-收件箱/2026-01-29-待办事项清单.md.md"
-    },
-    {
-      "basename": "README",
-      "path": "00-收件箱/README.md"
-    },
-    {
-      "basename": "原型构造函数对象之间的关系图",
-      "path": "Excalidraw/原型构造函数对象之间的关系图.md"
-    },
-    {
-      "basename": "原型链关系示意图",
-      "path": "Excalidraw/原型链关系示意图.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "01-项目/项目看板.md"
     }
   ],
   "omittedPaths": [],
