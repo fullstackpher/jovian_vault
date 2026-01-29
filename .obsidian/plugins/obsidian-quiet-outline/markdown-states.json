@@ -2540,7 +2540,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/面向对象.md": {
-    "scroll": 224.9078103886873,
+    "scroll": 216.56645656767347,
     "cursor": {
       "from": {
         "line": 210,
@@ -2624,7 +2624,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/this.md": {
-    "scroll": 0.013377926820097958,
+    "scroll": 2.0200668385993676,
     "cursor": {
       "from": {
         "line": 15,
@@ -2638,15 +2638,15 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/作用域.md": {
-    "scroll": 38.40967238883213,
+    "scroll": 33.81215287008422,
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 31
+        "line": 46,
+        "ch": 41
       },
       "to": {
-        "line": 20,
-        "ch": 31
+        "line": 46,
+        "ch": 41
       }
     },
     "expandedKeys": []
@@ -2736,7 +2736,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/JavaScript基础.md": {
-    "scroll": 73.57247726122539,
+    "scroll": 88.98567795753479,
     "cursor": {
       "from": {
         "line": 6,
@@ -2750,7 +2750,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/JavaScript基础概念.md": {
-    "scroll": 0,
+    "scroll": 28.14088274609638,
     "cursor": {
       "from": {
         "line": 43,
@@ -2806,7 +2806,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/原型.md": {
-    "scroll": 0,
+    "scroll": 161.63219257087513,
     "cursor": {
       "from": {
         "line": 171,
@@ -2848,7 +2848,7 @@
     "expandedKeys": []
   },
   "02-领域/Frontend/JS/值类型和引用类型.md": {
-    "scroll": 0,
+    "scroll": 11.750139148573819,
     "cursor": {
       "from": {
         "line": 9,
@@ -2877,6 +2877,20 @@
   },
   "02-领域/Frontend/JS/闭包.md": {
     "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "02-领域/Frontend/JS/邂逅JavaScript.md": {
+    "scroll": 24.640144931631344,
     "cursor": {
       "from": {
         "line": 6,

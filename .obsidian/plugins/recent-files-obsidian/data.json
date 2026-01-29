@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "window",
+      "path": "02-领域/Frontend/JS/window.md"
+    },
+    {
+      "basename": "this",
+      "path": "02-领域/Frontend/JS/this.md"
+    },
+    {
+      "basename": "JavaScript基础概念",
+      "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
+    },
+    {
+      "basename": "JavaScript基础",
+      "path": "02-领域/Frontend/JS/JavaScript基础.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "02-领域/Frontend/JS/作用域.md"
+    },
+    {
+      "basename": "值类型和引用类型",
+      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "02-领域/Frontend/JS/运算符.md"
+    },
+    {
+      "basename": "原型",
+      "path": "02-领域/Frontend/JS/原型.md"
+    },
+    {
+      "basename": "邂逅JavaScript",
+      "path": "02-领域/Frontend/JS/邂逅JavaScript.md"
+    },
+    {
       "basename": "面向对象",
       "path": "02-领域/Frontend/JS/面向对象.md"
     },
@@ -21,16 +57,8 @@
       "path": "02-领域/Frontend/JS/闭包.md"
     },
     {
-      "basename": "JavaScript基础概念",
-      "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
-    },
-    {
       "basename": "Frontend知识体系总览",
       "path": "02-领域/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "值类型和引用类型",
-      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
     },
     {
       "basename": "Drawing 2026-01-29 13.05.09.excalidraw",
@@ -51,10 +79,6 @@
     {
       "basename": "学习JavaScript",
       "path": "01-项目/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "原型",
-      "path": "02-领域/Frontend/JS/原型.md"
     },
     {
       "basename": "2026-01-28 学习日报",
@@ -81,14 +105,6 @@
       "path": "Excalidraw/原型链关系示意图.md"
     },
     {
-      "basename": "this",
-      "path": "02-领域/Frontend/JS/this.md"
-    },
-    {
-      "basename": "window",
-      "path": "02-领域/Frontend/JS/window.md"
-    },
-    {
       "basename": "2026-01-19 学习日报",
       "path": "0_Daily Notes/2026-01-19 学习日报.md"
     },
@@ -97,24 +113,12 @@
       "path": "01-项目/项目看板.md"
     },
     {
-      "basename": "JavaScript基础",
-      "path": "02-领域/Frontend/JS/JavaScript基础.md"
-    },
-    {
       "basename": "Callout",
       "path": "02-领域/Knowledge Management/Callout.md"
     },
     {
       "basename": "Claudian",
       "path": "02-领域/Knowledge Management/Claudian.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "02-领域/Frontend/JS/运算符.md"
-    },
-    {
-      "basename": "作用域",
-      "path": "02-领域/Frontend/JS/作用域.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -187,10 +191,6 @@
     {
       "basename": "2026-01-24 学习日报",
       "path": "0_Daily Notes/2026-01-24 学习日报.md"
-    },
-    {
-      "basename": "邂逅JavaScript",
-      "path": "02-领域/Frontend/JS/邂逅JavaScript.md"
     },
     {
       "basename": "2026-01-23 学习日报",
