@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-29T13:55
-更新时间: 2026-01-29T18:38
+更新时间: 2026-01-29T18:46
 tags:
   - JavaScript
 ---
@@ -201,6 +201,18 @@ for (var index in colors) {
 ### slice方法
 
 - `arr.slice` 方法：用于对数组进行截取（类似于字符串的slice方法）
-	- start：截取的开始位置
-	- end：截取的结束位置（不包含end位置的元素）
-- 
+	- `start`：截取的开始位置，从0开始
+	- `end`：截取的结束位置（不包含end元素）
+- **slice** 方法返回一个新数组，原始数组不会被改变
+- **slice** 方法是一个复制方法，它不改变this，而是返回一个浅拷贝，复制原数组部分相同的元素
+
+```js
+var colors = ['orange', 'green', 'yellow']
+var newColors = colors.slice(0, 2)
+console.log(newColors); // ['orange', 'green']
+console.log(colors); // ['orange', 'green', 'yellow']
+```
+
+### concat方法
+
+- `arr.concat` 方法：将多个数组拼接在一起
