@@ -307,15 +307,18 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 3,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 3,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2"
+    ]
   },
   "_Templates/技术概念卡片.md": {
     "scroll": 0,
@@ -3119,7 +3122,7 @@
     ]
   },
   "0_Daily Notes/2026-01-29 学习日报.md": {
-    "scroll": 100.37534142928561,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 144,
@@ -3131,7 +3134,8 @@
       }
     },
     "expandedKeys": [
-      "item-2-3"
+      "item-2-3",
+      "item-2-0"
     ]
   },
   "日记/未命名.md": {
@@ -3152,12 +3156,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 37,
-        "ch": 16
+        "line": 5,
+        "ch": 0
       },
       "to": {
-        "line": 37,
-        "ch": 16
+        "line": 5,
+        "ch": 0
       }
     },
     "expandedKeys": [

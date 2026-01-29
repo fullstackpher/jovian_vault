@@ -1522,7 +1522,7 @@
     {
       "path": "_Templates/每日笔记.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1538,6 +1538,9 @@
         },
         {
           "timestampMillis": 1769690090644
+        },
+        {
+          "timestampMillis": 1769690106829
         }
       ]
     },
@@ -4957,7 +4960,7 @@
     {
       "path": "0_Daily Notes/2026-01-29 学习日报.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769689407086
@@ -4967,16 +4970,25 @@
         },
         {
           "timestampMillis": 1769689675892
+        },
+        {
+          "timestampMillis": 1769690122654
         }
       ]
     },
     {
       "path": "日记/2026-01-29.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769689703881
+        },
+        {
+          "timestampMillis": 1769690099094
+        },
+        {
+          "timestampMillis": 1769690130008
         }
       ]
     }
