@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "项目看板",
+      "path": "1.Projects 项目/项目看板.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "运算符",
       "path": "2.Areas 领域/Frontend/运算符.md"
-    },
-    {
-      "basename": "Math对象",
-      "path": "2.Areas 领域/Frontend/Math对象.md"
     }
   ],
   "omittedPaths": [],

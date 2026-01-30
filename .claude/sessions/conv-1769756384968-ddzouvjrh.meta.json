@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769756384968-ddzouvjrh",
+  "title": "设计主页实现任务管理进度追踪",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769756384969,
+  "updatedAt": 1769756651112,
+  "lastResponseAt": 1769756651112,
+  "sessionId": "d7b5940f-87de-4b43-9e60-894499ac17b1",
+  "sdkSessionId": "d7b5940f-87de-4b43-9e60-894499ac17b1",
+  "currentNote": "Dashboard.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 339,
+    "cacheCreationInputTokens": 1478,
+    "cacheReadInputTokens": 37925,
+    "contextWindow": 200000,
+    "contextTokens": 39742,
+    "percentage": 20
+  }
+}

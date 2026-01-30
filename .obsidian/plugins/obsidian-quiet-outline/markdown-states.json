@@ -522,12 +522,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 51,
-        "ch": 0
+        "line": 4,
+        "ch": 13
       },
       "to": {
-        "line": 51,
-        "ch": 0
+        "line": 4,
+        "ch": 13
       }
     },
     "expandedKeys": [
@@ -2100,11 +2100,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       }
     },
@@ -3492,6 +3492,20 @@
       "to": {
         "line": 12,
         "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Home.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
