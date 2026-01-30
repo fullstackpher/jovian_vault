@@ -91,7 +91,7 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板 - 美化版
+// 项目状态看板 - 圆环进度版
 const columns = ["待处理", "进行中", "已完成"];
 const pages = dv.pages('#项目').where(p => !p.file.path.includes("Templates"));
 
@@ -104,12 +104,18 @@ for (let col of columns) {
     } else {
         dv.list(filesInColumn.map(p => {
             const progress = p.进度 || 0;
-            const colorClass = progress >= 80 ? "progress-green" :
-                              progress >= 60 ? "progress-yellow" :
-                              progress >= 40 ? "progress-orange" : "progress-red";
-            return `${p.file.link} <span class="progress-container ${colorClass}">
-                <div class="progress-bar"><div class="progress-fill" style="width: ${progress}%"></div></div>
-                <span class="progress-text">${progress}%</span>
+            const radius = 10;
+            const circumference = 2 * Math.PI * radius;
+            const offset = circumference - (progress / 100) * circumference;
+            const level = progress >= 80 ? "done" : progress >= 60 ? "high" : progress >= 40 ? "medium" : "low";
+
+            return `${p.file.link} <span class="progress-ring">
+                <svg>
+                    <circle class="bg" cx="12" cy="12" r="${radius}"></circle>
+                    <circle class="fill ${level}" cx="12" cy="12" r="${radius}"
+                        stroke-dasharray="${circumference}" stroke-dashoffset="${offset}"></circle>
+                </svg>
+                <span class="label">${progress}%</span>
             </span>`;
         }));
     }
@@ -153,20 +159,25 @@ if (pages.length === 0) {
         const tasks = dv.pages(`"${page.file.path}"`).file.tasks || [];
         const completedTasks = tasks.filter(t => t.completed).length;
         const totalTasks = tasks.length;
-        const progressPercent = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
+        const progress = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
 
-        const colorClass = progressPercent >= 80 ? "progress-green" :
-                          progressPercent >= 60 ? "progress-yellow" :
-                          progressPercent >= 40 ? "progress-orange" : "progress-red";
+        const radius = 10;
+        const circumference = 2 * Math.PI * radius;
+        const offset = circumference - (progress / 100) * circumference;
+        const level = progress >= 80 ? "done" : progress >= 60 ? "high" : progress >= 40 ? "medium" : "low";
 
-        const progressBar = `<span class="progress-container ${colorClass}">
-            <div class="progress-bar"><div class="progress-fill" style="width: ${progressPercent}%"></div></div>
-            <span class="progress-text">${progressPercent}%</span>
+        const progressRing = `<span class="progress-ring">
+            <svg>
+                <circle class="bg" cx="12" cy="12" r="${radius}"></circle>
+                <circle class="fill ${level}" cx="12" cy="12" r="${radius}"
+                    stroke-dasharray="${circumference}" stroke-dashoffset="${offset}"></circle>
+            </svg>
+            <span class="label">${progress}%</span>
         </span>`;
 
         return [
             page.file.link,
-            progressBar,
+            progressRing,
             `${completedTasks}/${totalTasks}`
         ];
     });
@@ -218,7 +229,6 @@ LIMIT 10
 | [[Templates/今日日报模板]] | [[Frontend知识体系总览]] |  [[项目看板]]  |  [[开发工具汇总]]  |
 |       [[周报模板]]       |  [[JavaScript基础]]  |  [[学习前端]]  | [[WebStorm]] |
 |                      |     [[HTML标签]]     | [[学习Java]] | [[VS Code]]  |
-|                      |                    |            |              |
 
 ---
 
