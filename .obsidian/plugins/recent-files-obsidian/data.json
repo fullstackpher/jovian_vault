@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "📊 项目看板",
-      "path": "📊 项目看板.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects 项目/项目看板.md"
+    },
+    {
+      "basename": "每日笔记",
+      "path": "Templates/每日笔记.md"
     },
     {
       "basename": "Frontend知识体系总览",
@@ -15,14 +19,6 @@
     {
       "basename": "学习JavaScript",
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "每日笔记",
-      "path": "Templates/每日笔记.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects 项目/项目看板.md"
     },
     {
       "basename": "2026-01-24 学习日报",
