@@ -29,7 +29,6 @@ actions:
     command: theme:toggle-light-dark
 
 ```
-
 ```meta-bind-button
 label: todo
 icon: list-todo
@@ -47,22 +46,6 @@ actions:
 ```
 
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`
-
-## 📅 今日概览
-
-| 今日任务 | 进行中项目 | 本周学习 | 待解决问题 |
-| :--: | :---: | :--: | :---: |
-| `-`  |  `-`  | `-h  |  `-`  |
-
-### 🗓️ 日历
-
-```calendar
-type: week
-showCurrent: true
-showArrow: true
-weekStart: 1
-```
-
 ### ⏰ 今日时间追踪
 
 > 今日已学习: `-` 小时 | 专注次数: `-` 次
@@ -91,36 +74,31 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板 - 自动计算进度
-function ringProgress(p) {
-    const r = 8, c = 2 * Math.PI * r, o = c - (p / 100) * c;
-    const lvl = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
-    return `<span class="progress-ring">
-        <svg><circle class="bg" cx="10" cy="10" r="${r}"/>
-            <circle class="fill ${lvl}" cx="10" cy="10" r="${r}" stroke-dasharray="${c}" stroke-dashoffset="${o}"/></svg>
-        <span class="label">${p}%</span></span>`;
-}
+// 1. 定义数据来源：可以按文件夹或标签筛选
+// 示例A：获取指定文件夹下的所有笔记
+const pages = dv.pages('"1.Projects 项目"');
+// 示例B：或获取包含特定标签（如#项目）的所有笔记
+// const pages = dv.pages('#项目');
 
-function calcProgress(page) {
-    if (page.进度) return page.进度;
-    const allTasks = dv.pages().file.tasks;
-    const pageTasks = allTasks.filter(t => t.path === page.file.path);
-    if (pageTasks.length === 0) return 0;
-    return Math.round(pageTasks.filter(t => t.completed).length / pageTasks.length * 100);
-}
+// 2. 定义看板的列，与你“状态”字段的值保持一致
+const columns = ["待处理", "进行中", "已完成"];
 
-const cols = ["待处理", "进行中", "已完成"];
-const pages = dv.pages('#项目').where(p => !p.file.path.includes("Templates"));
-
-for (let col of cols) {
-    const files = pages.where(p => p.状态 === col);
-    dv.header(4, `### ${col} (${files.length})`);
-
-    if (files.length === 0) {
-        dv.paragraph("*暂无*");
-    } else {
-        dv.list(files.map(p => `${p.file.link} ${ringProgress(calcProgress(p))}`));
-    }
+// 3. 为每一列渲染卡片
+for (let col of columns) {
+    // 筛选出“状态”字段等于当前列名的笔记
+    const filesInColumn = pages.where(p => p.状态 === col);
+    
+    // 渲染列标题（包含该列下的笔记数量）
+    dv.header(3, col + ` (${filesInColumn.length})`);
+    
+    // 以列表形式渲染卡片，显示笔记链接和优先级（如果存在）
+    dv.list(filesInColumn.map(p => {
+        let display = p.file.link;
+        if (p.优先级) {
+            display += ` ➜ 优先级：${p.优先级}`;
+        }
+        return display;
+    }));
 }
 ```
 
