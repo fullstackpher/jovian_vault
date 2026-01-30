@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769754439981-unrxtgvmi",
+  "title": "制作个人主页仪表板：灯控、待办、笔记和进度追踪",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769754439981,
+  "updatedAt": 1769754544628,
+  "lastResponseAt": 1769754544628,
+  "sessionId": "bd302de7-d1c1-4f04-844e-b715a8c109ae",
+  "sdkSessionId": "bd302de7-d1c1-4f04-844e-b715a8c109ae",
+  "currentNote": "0.Inbox 缓存箱/README.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 210,
+    "cacheCreationInputTokens": 4482,
+    "cacheReadInputTokens": 17865,
+    "contextWindow": 200000,
+    "contextTokens": 22557,
+    "percentage": 11
+  }
+}

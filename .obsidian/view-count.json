@@ -4464,7 +4464,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -4501,6 +4501,9 @@
         },
         {
           "timestampMillis": 1769753948800
+        },
+        {
+          "timestampMillis": 1769753981093
         }
       ]
     },
@@ -4532,7 +4535,7 @@
     {
       "path": "0.Inbox 缓存箱/README.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -4578,6 +4581,9 @@
         },
         {
           "timestampMillis": 1769753957435
+        },
+        {
+          "timestampMillis": 1769753995764
         }
       ]
     },
@@ -4996,7 +5002,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769607411780
@@ -5015,6 +5021,9 @@
         },
         {
           "timestampMillis": 1769753897751
+        },
+        {
+          "timestampMillis": 1769753993929
         }
       ]
     },
@@ -5198,6 +5207,16 @@
       "openLogs": [
         {
           "timestampMillis": 1769753533065
+        }
+      ]
+    },
+    {
+      "path": "HOME.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769754569486
         }
       ]
     }

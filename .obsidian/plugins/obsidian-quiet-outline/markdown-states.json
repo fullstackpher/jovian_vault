@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 1.5037593984962405,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 21
+        "line": 16,
+        "ch": 26
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 16,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -3455,7 +3455,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md": {
-    "scroll": 13.5078125,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 15,
@@ -3464,6 +3464,34 @@
       "to": {
         "line": 15,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/2026-01-29-待办事项清单.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "HOME.md": {
+    "scroll": 304.49652767181396,
+    "cursor": {
+      "from": {
+        "line": 218,
+        "ch": 8
+      },
+      "to": {
+        "line": 218,
+        "ch": 8
       }
     },
     "expandedKeys": []

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "HOME",
+      "path": "HOME.md"
+    },
+    {
       "basename": "README",
       "path": "0.Inbox 缓存箱/README.md"
     },
     {
-      "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md"
-    },
-    {
       "basename": "2026-01-29-待办事项清单",
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md"
+    },
+    {
+      "basename": "2026-01-27-笔记到系统的obsidian实践",
+      "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md"
     },
     {
       "basename": "README",
@@ -195,10 +199,6 @@
     {
       "basename": "Math对象",
       "path": "2.Areas 领域/Frontend/Math对象.md"
-    },
-    {
-      "basename": "window",
-      "path": "2.Areas 领域/Frontend/window.md"
     }
   ],
   "omittedPaths": [],
