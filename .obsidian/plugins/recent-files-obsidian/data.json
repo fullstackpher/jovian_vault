@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "每日笔记",
+      "path": "Templates/每日笔记.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "项目看板",
@@ -13,16 +25,8 @@
       "path": "7.Daily 日周记/2026-01-24 学习日报.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "Meta Bind 插件使用指南",
       "path": "3.Resources 资源/Meta Bind 插件使用指南.md"
-    },
-    {
-      "basename": "每日笔记",
-      "path": "Templates/每日笔记.md"
     },
     {
       "basename": "2026-01-29",
@@ -183,10 +187,6 @@
     {
       "basename": "2026-01-27 学习日报",
       "path": "7.Daily 日周记/2026-01-27 学习日报.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md"
     },
     {
       "basename": "Array",

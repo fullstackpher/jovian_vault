@@ -61,7 +61,7 @@ limit 100
 
 - [Javascript|MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) #资源/教程 
 - [菜鸟教程](https://www.runoob.com/js/js-tutorial.html) #资源/教程
-- 
+- [MOC](obsidian://open?vault=jovian_vault&file=2.Areas%20%E9%A2%86%E5%9F%9F%2FFrontend%2FFrontend%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88) #领域/Frontend
 
 
 > [!danger]- 项目灵感

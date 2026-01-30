@@ -488,7 +488,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 192,
+      "totalTimesOpened": 193,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1065,6 +1065,9 @@
         },
         {
           "timestampMillis": 1769761232202
+        },
+        {
+          "timestampMillis": 1769761930274
         }
       ]
     },
@@ -1636,7 +1639,7 @@
     {
       "path": "Templates/每日笔记.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1664,6 +1667,12 @@
         },
         {
           "timestampMillis": 1769760323549
+        },
+        {
+          "timestampMillis": 1769761933401
+        },
+        {
+          "timestampMillis": 1769761935149
         }
       ]
     },
@@ -3538,7 +3547,7 @@
     {
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3632,6 +3641,9 @@
         },
         {
           "timestampMillis": 1769761869606
+        },
+        {
+          "timestampMillis": 1769761937215
         }
       ]
     },
@@ -5125,8 +5137,8 @@
     },
     {
       "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769665075914
@@ -5145,6 +5157,18 @@
         },
         {
           "timestampMillis": 1769689163742
+        },
+        {
+          "timestampMillis": 1769761925225
+        },
+        {
+          "timestampMillis": 1769761933819
+        },
+        {
+          "timestampMillis": 1769761936103
+        },
+        {
+          "timestampMillis": 1769761947161
         }
       ]
     },

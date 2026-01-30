@@ -621,8 +621,8 @@
     "1.Projects 项目/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects 项目/03-学习前端/学习JavaScript.md",
-      "duration": 2052000,
-      "openCount": 30
+      "duration": 2106000,
+      "openCount": 32
     },
     "1.Projects 项目/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
@@ -958,7 +958,7 @@
       "fileId": "1768469600770",
       "filePath": "Templates/每日笔记.md",
       "duration": 276000,
-      "openCount": 10
+      "openCount": 12
     },
     "Templates/面试题八股文.md": {
       "fileId": "1768469601669",
@@ -1209,8 +1209,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 7824000,
-      "openCount": 117
+      "duration": 7830000,
+      "openCount": 118
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1229,6 +1229,12 @@
       "filePath": "3.Resources 资源/Meta Bind 插件使用指南.md",
       "duration": 120000,
       "openCount": 2
+    },
+    "2.Areas 领域/Frontend/Frontend知识体系总览.md": {
+      "fileId": "1769761930279",
+      "filePath": "2.Areas 领域/Frontend/Frontend知识体系总览.md",
+      "duration": 12000,
+      "openCount": 3
     }
   }
 }
