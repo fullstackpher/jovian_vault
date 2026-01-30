@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "HOME",
+      "value": "Dashboards/Dashboard",
       "kind": "文件",
       "openOnStartup": true,
       "openMode": "替换所有打开的笔记",
