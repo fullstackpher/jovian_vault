@@ -3207,11 +3207,53 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 4
+        "ch": 26
       },
       "to": {
         "line": 4,
-        "ch": 4
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Area 领域/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 8
+      },
+      "to": {
+        "line": 8,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 兴趣/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 12
+      },
+      "to": {
+        "line": 4,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 15
+      },
+      "to": {
+        "line": 4,
+        "ch": 15
       }
     },
     "expandedKeys": []

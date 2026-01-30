@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "README",
+      "path": "3.Resources 资源/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Area 领域/README.md"
+    },
+    {
+      "basename": "README",
       "path": "1.Projects 项目/README.md"
     },
     {
@@ -11,10 +19,6 @@
     {
       "basename": "README",
       "path": "0.Inbox 缓存箱/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Area 领域/README.md"
     },
     {
       "basename": "背景",
@@ -195,10 +199,6 @@
     {
       "basename": "邂逅JavaScript",
       "path": "2.Area 领域/Frontend/邂逅JavaScript.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "2.Area 领域/Frontend/面向对象.md"
     }
   ],
   "omittedPaths": [],

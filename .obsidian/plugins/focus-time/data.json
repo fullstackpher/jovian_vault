@@ -657,8 +657,8 @@
     "1.Projects 项目/README.md": {
       "fileId": "1769495637567",
       "filePath": "1.Projects 项目/README.md",
-      "duration": 108000,
-      "openCount": 3
+      "duration": 120000,
+      "openCount": 4
     },
     "2.Area 领域/Knowledge Management/Emoji Toolbar.md": {
       "fileId": "1769338591726",
@@ -858,54 +858,6 @@
       "duration": 486000,
       "openCount": 10
     },
-    "3.Resources 兴趣/Clion.md": {
-      "fileId": "1768906309104",
-      "filePath": "3.Resources 兴趣/Clion.md",
-      "duration": 48000,
-      "openCount": 5
-    },
-    "3.Resources 兴趣/IntelliJ IDEA.md": {
-      "fileId": "1768906303097",
-      "filePath": "3.Resources 兴趣/IntelliJ IDEA.md",
-      "duration": 24000,
-      "openCount": 4
-    },
-    "3.Resources 兴趣/Pycharm.md": {
-      "fileId": "1768906306204",
-      "filePath": "3.Resources 兴趣/Pycharm.md",
-      "duration": 24000,
-      "openCount": 2
-    },
-    "3.Resources 兴趣/Sublime Text.md": {
-      "fileId": "1768906279101",
-      "filePath": "3.Resources 兴趣/Sublime Text.md",
-      "duration": 24000,
-      "openCount": 3
-    },
-    "3.Resources 兴趣/Visual Studio Code.md": {
-      "fileId": "1768906243108",
-      "filePath": "3.Resources 兴趣/Visual Studio Code.md",
-      "duration": 582000,
-      "openCount": 4
-    },
-    "3.Resources 兴趣/WebStorm.md": {
-      "fileId": "1768906299902",
-      "filePath": "3.Resources 兴趣/WebStorm.md",
-      "duration": 30000,
-      "openCount": 2
-    },
-    "3.Resources 兴趣/开发工具汇总.md": {
-      "fileId": "1768905625101",
-      "filePath": "3.Resources 兴趣/开发工具汇总.md",
-      "duration": 534000,
-      "openCount": 14
-    },
-    "3.Resources 兴趣/README.md": {
-      "fileId": "1769495757569",
-      "filePath": "3.Resources 兴趣/README.md",
-      "duration": 30000,
-      "openCount": 2
-    },
     "4.Archives 归档/README.md": {
       "fileId": "1769495799568",
       "filePath": "4.Archives 归档/README.md",
@@ -1019,6 +971,60 @@
       "filePath": "7.Templates 模版/闪念笔记模板.md",
       "duration": 198000,
       "openCount": 6
+    },
+    "2.Area 领域/README.md": {
+      "fileId": "1769750740254",
+      "filePath": "2.Area 领域/README.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources 资源/Clion.md": {
+      "fileId": "1768906309104",
+      "filePath": "3.Resources 资源/Clion.md",
+      "duration": 48000,
+      "openCount": 5
+    },
+    "3.Resources 资源/IntelliJ IDEA.md": {
+      "fileId": "1768906303097",
+      "filePath": "3.Resources 资源/IntelliJ IDEA.md",
+      "duration": 24000,
+      "openCount": 4
+    },
+    "3.Resources 资源/Pycharm.md": {
+      "fileId": "1768906306204",
+      "filePath": "3.Resources 资源/Pycharm.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "3.Resources 资源/Sublime Text.md": {
+      "fileId": "1768906279101",
+      "filePath": "3.Resources 资源/Sublime Text.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "3.Resources 资源/Visual Studio Code.md": {
+      "fileId": "1768906243108",
+      "filePath": "3.Resources 资源/Visual Studio Code.md",
+      "duration": 582000,
+      "openCount": 4
+    },
+    "3.Resources 资源/WebStorm.md": {
+      "fileId": "1768906299902",
+      "filePath": "3.Resources 资源/WebStorm.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "3.Resources 资源/开发工具汇总.md": {
+      "fileId": "1768905625101",
+      "filePath": "3.Resources 资源/开发工具汇总.md",
+      "duration": 534000,
+      "openCount": 14
+    },
+    "3.Resources 资源/README.md": {
+      "fileId": "1769495757569",
+      "filePath": "3.Resources 资源/README.md",
+      "duration": 72000,
+      "openCount": 2
     }
   }
 }

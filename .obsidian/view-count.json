@@ -3054,7 +3054,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/开发工具汇总.md",
+      "path": "3.Resources 资源/开发工具汇总.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -3088,7 +3088,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/Visual Studio Code.md",
+      "path": "3.Resources 资源/Visual Studio Code.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -3104,7 +3104,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/Sublime Text.md",
+      "path": "3.Resources 资源/Sublime Text.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -3117,7 +3117,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/WebStorm.md",
+      "path": "3.Resources 资源/WebStorm.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -3130,7 +3130,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/IntelliJ IDEA.md",
+      "path": "3.Resources 资源/IntelliJ IDEA.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -3146,7 +3146,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/Pycharm.md",
+      "path": "3.Resources 资源/Pycharm.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -3159,7 +3159,7 @@
       ]
     },
     {
-      "path": "3.Resources 兴趣/Clion.md",
+      "path": "3.Resources 资源/Clion.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -4525,7 +4525,7 @@
     {
       "path": "2.Area 领域/README.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769495704649
@@ -4535,16 +4535,25 @@
         },
         {
           "timestampMillis": 1769750044712
+        },
+        {
+          "timestampMillis": 1769750734893
         }
       ]
     },
     {
-      "path": "3.Resources 兴趣/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "3.Resources 资源/README.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
+        },
+        {
+          "timestampMillis": 1769750749821
+        },
+        {
+          "timestampMillis": 1769750785580
         }
       ]
     },
