@@ -519,7 +519,7 @@
     ]
   },
   "Dashboard.md": {
-    "scroll": 11.991426002011696,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 51,
@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 0,
+    "scroll": 1.5037593984962405,
     "cursor": {
       "from": {
-        "line": 21,
+        "line": 10,
         "ch": 21
       },
       "to": {
-        "line": 21,
-        "ch": 21
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3393,6 +3393,76 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas 领域/README.md": {
+    "scroll": 106.97788744038155,
+    "cursor": {
+      "from": {
+        "line": 120,
+        "ch": 22
+      },
+      "to": {
+        "line": 120,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "5.Zattchments 附件/README.md": {
+    "scroll": 123.28455313195549,
+    "cursor": {
+      "from": {
+        "line": 132,
+        "ch": 17
+      },
+      "to": {
+        "line": 132,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/README.md": {
+    "scroll": 223.6827064114877,
+    "cursor": {
+      "from": {
+        "line": 193,
+        "ch": 23
+      },
+      "to": {
+        "line": 193,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/2026-01-29-待办事项清单.md.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 31
+      },
+      "to": {
+        "line": 9,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md": {
+    "scroll": 13.5078125,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
         "ch": 0
       }
     },
