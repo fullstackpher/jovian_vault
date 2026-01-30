@@ -3623,14 +3623,14 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 155.44563802083334,
+    "scroll": 234.31981519507187,
     "cursor": {
       "from": {
-        "line": 118,
+        "line": 126,
         "ch": 14
       },
       "to": {
-        "line": 118,
+        "line": 126,
         "ch": 14
       }
     },
@@ -3707,7 +3707,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-29.md": {
-    "scroll": 32.46744712193807,
+    "scroll": 30.45834067289061,
     "cursor": {
       "from": {
         "line": 4,
@@ -3799,6 +3799,34 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-01-29 学习日报.md": {
+    "scroll": 131.47661338069864,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 10
+      },
+      "to": {
+        "line": 48,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-01-28 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
         "ch": 0
       }
     },

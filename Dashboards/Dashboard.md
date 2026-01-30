@@ -91,7 +91,7 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板 - 圆环进度版
+// 项目状态看板 - 自动计算进度
 function ringProgress(p) {
     const r = 8, c = 2 * Math.PI * r, o = c - (p / 100) * c;
     const lvl = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
@@ -99,6 +99,14 @@ function ringProgress(p) {
         <svg><circle class="bg" cx="10" cy="10" r="${r}"/>
             <circle class="fill ${lvl}" cx="10" cy="10" r="${r}" stroke-dasharray="${c}" stroke-dashoffset="${o}"/></svg>
         <span class="label">${p}%</span></span>`;
+}
+
+function calcProgress(page) {
+    if (page.进度) return page.进度;
+    const tasks = dv.pages(`"${page.file.folder}"`).file.tasks || [];
+    const inTasks = tasks.filter(t => t.path === page.file.path);
+    if (inTasks.length === 0) return 0;
+    return Math.round(inTasks.filter(t => t.completed).length / inTasks.length * 100);
 }
 
 const cols = ["待处理", "进行中", "已完成"];
@@ -111,7 +119,7 @@ for (let col of cols) {
     if (files.length === 0) {
         dv.paragraph("*暂无*");
     } else {
-        dv.list(files.map(p => `${p.file.link} ${ringProgress(p.进度 || 0)}`));
+        dv.list(files.map(p => `${p.file.link} ${ringProgress(calcProgress(p))}`));
     }
 }
 ```
@@ -128,13 +136,21 @@ function ringProgress(p) {
         <span class="label">${p}%</span></span>`;
 }
 
+function calcProgress(page) {
+    if (page.进度) return page.进度;
+    const tasks = dv.pages(`"${page.file.folder}"`).file.tasks || [];
+    const inTasks = tasks.filter(t => t.path === page.file.path);
+    if (inTasks.length === 0) return 0;
+    return Math.round(inTasks.filter(t => t.completed).length / inTasks.length * 100);
+}
+
 const pages = dv.pages('#项目')
     .where(p => p.状态 === "进行中" && !p.file.path.includes("Templates"))
     .sort(p => p.截止时间, 'asc')
     .limit(5);
 
 dv.table(["项目", "进度", "截止时间"],
-    pages.map(p => [p.file.link, ringProgress(p.进度 || 0),
+    pages.map(p => [p.file.link, ringProgress(calcProgress(p)),
         p.截止时间 ? dv.date(p.截止时间).toFormat("MM-dd") : "-"]));
 ```
 

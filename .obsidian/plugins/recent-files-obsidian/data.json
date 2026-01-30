@@ -5,6 +5,18 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "2026-01-29",
+      "path": "7.Daily 日周记/2026-01-29.md"
+    },
+    {
+      "basename": "2026-01-28 学习日报",
+      "path": "7.Daily 日周记/2026-01-28 学习日报.md"
+    },
+    {
+      "basename": "2026-01-29 学习日报",
+      "path": "7.Daily 日周记/2026-01-29 学习日报.md"
+    },
+    {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Meta Bind 插件使用指南",
       "path": "3.Resources 资源/Meta Bind 插件使用指南.md"
-    },
-    {
-      "basename": "2026-01-29",
-      "path": "7.Daily 日周记/2026-01-29.md"
     },
     {
       "basename": "README",
@@ -121,10 +129,6 @@
       "path": "7.Daily 日周记/2026-01-17 学习日报.md"
     },
     {
-      "basename": "2026-01-29 学习日报",
-      "path": "7.Daily 日周记/2026-01-29 学习日报.md"
-    },
-    {
       "basename": "README",
       "path": "3.Resources 资源/README.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "项目开发记录",
       "path": "Templates/项目开发记录.md"
-    },
-    {
-      "basename": "2026-01-28 学习日报",
-      "path": "7.Daily 日周记/2026-01-28 学习日报.md"
     },
     {
       "basename": "2026-01-18 学习日报",
