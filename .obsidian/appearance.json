@@ -1,7 +1,8 @@
 {
   "cssTheme": "Border",
   "enabledCssSnippets": [
-    "rainbow-tree"
+    "rainbow-tree",
+    "progress-bars"
   ],
   "theme": "moonstone"
 }

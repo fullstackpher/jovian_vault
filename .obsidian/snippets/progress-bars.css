@@ -1,0 +1,151 @@
+/* ========== 进度条样式 ========== */
+
+/* 基础进度条容器 */
+.progress-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: 120px;
+}
+
+/* 进度条轨道 */
+.progress-bar {
+    flex: 1;
+    height: 8px;
+    background: var(--background-modifier-border);
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* 进度条填充 */
+.progress-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.5s ease;
+}
+
+/* 进度条文字 */
+.progress-text {
+    font-size: 12px;
+    font-weight: 600;
+    min-width: 36px;
+    text-align: right;
+}
+
+/* 颜色变体 */
+.progress-green .progress-fill {
+    background: linear-gradient(90deg, #4ade80, #22c55e);
+}
+
+.progress-yellow .progress-fill {
+    background: linear-gradient(90deg, #facc15, #eab308);
+}
+
+.progress-orange .progress-fill {
+    background: linear-gradient(90deg, #fb923c, #f97316);
+}
+
+.progress-red .progress-fill {
+    background: linear-gradient(90deg, #f87171, #ef4444);
+}
+
+.progress-blue .progress-fill {
+    background: linear-gradient(90deg, #60a5fa, #3b82f6);
+}
+
+.progress-purple .progress-fill {
+    background: linear-gradient(90deg, #c084fc, #a855f7);
+}
+
+/* 圆环进度条 */
+.progress-ring {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.progress-ring svg {
+    transform: rotate(-90deg);
+}
+
+.progress-ring circle {
+    fill: none;
+    stroke-width: 4;
+}
+
+.progress-ring .bg {
+    stroke: var(--background-modifier-border);
+}
+
+.progress-ring .fill {
+    stroke: var(--interactive-accent);
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease;
+}
+
+.progress-ring .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 10px;
+    font-weight: 600;
+}
+
+/* 迷你进度条（适合表格内使用） */
+.progress-mini {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.progress-mini .bar {
+    width: 60px;
+    height: 6px;
+    background: var(--background-modifier-border);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.progress-mini .fill {
+    height: 100%;
+    border-radius: 3px;
+}
+
+.progress-mini .label {
+    font-size: 11px;
+    color: var(--text-muted);
+}
+
+/* 动画效果 */
+@keyframes progressPulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.progress-animate .progress-fill {
+    animation: progressPulse 2s ease-in-out infinite;
+}
+
+/* 科技感进度条 */
+.progress-tech {
+    --bar-color: var(--interactive-accent);
+}
+
+.progress-tech .progress-fill {
+    background: var(--bar-color);
+    box-shadow: 0 0 10px var(--bar-color);
+}
+
+/* 糖果色进度条 */
+.progress-candy .progress-fill {
+    background: linear-gradient(90deg, #f472b6, #818cf8, #34d399);
+    background-size: 200% 100%;
+    animation: candyMove 2s linear infinite;
+}
+
+@keyframes candyMove {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 200% 50%; }
+}

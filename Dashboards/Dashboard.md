@@ -91,7 +91,7 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板
+// 项目状态看板 - 美化版
 const columns = ["待处理", "进行中", "已完成"];
 const pages = dv.pages('#项目').where(p => !p.file.path.includes("Templates"));
 
@@ -104,7 +104,13 @@ for (let col of columns) {
     } else {
         dv.list(filesInColumn.map(p => {
             const progress = p.进度 || 0;
-            return `${p.file.link} ${progress}%`;
+            const colorClass = progress >= 80 ? "progress-green" :
+                              progress >= 60 ? "progress-yellow" :
+                              progress >= 40 ? "progress-orange" : "progress-red";
+            return `${p.file.link} <span class="progress-container ${colorClass}">
+                <div class="progress-bar"><div class="progress-fill" style="width: ${progress}%"></div></div>
+                <span class="progress-text">${progress}%</span>
+            </span>`;
         }));
     }
 }
@@ -149,10 +155,14 @@ if (pages.length === 0) {
         const totalTasks = tasks.length;
         const progressPercent = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
 
-        const progressBar = progressPercent >= 100 ? "🟢 100%" :
-                           progressPercent >= 75 ? "🟡 " + progressPercent + "%" :
-                           progressPercent >= 50 ? "🟠 " + progressPercent + "%" :
-                           "🔴 " + progressPercent + "%";
+        const colorClass = progressPercent >= 80 ? "progress-green" :
+                          progressPercent >= 60 ? "progress-yellow" :
+                          progressPercent >= 40 ? "progress-orange" : "progress-red";
+
+        const progressBar = `<span class="progress-container ${colorClass}">
+            <div class="progress-bar"><div class="progress-fill" style="width: ${progressPercent}%"></div></div>
+            <span class="progress-text">${progressPercent}%</span>
+        </span>`;
 
         return [
             page.file.link,
