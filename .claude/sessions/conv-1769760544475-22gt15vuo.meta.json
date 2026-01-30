@@ -3,18 +3,18 @@
   "title": "学习Meta Bind插件使用方法",
   "titleGenerationStatus": "success",
   "createdAt": 1769760544475,
-  "updatedAt": 1769766536468,
-  "lastResponseAt": 1769766536468,
+  "updatedAt": 1769766689385,
+  "lastResponseAt": 1769766689385,
   "sessionId": "ead28ed3-628d-4598-8926-43e06098459f",
   "sdkSessionId": "ead28ed3-628d-4598-8926-43e06098459f",
   "currentNote": "Dashboards/Dashboard.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 692,
-    "cacheCreationInputTokens": 1939,
-    "cacheReadInputTokens": 34898,
+    "inputTokens": 552,
+    "cacheCreationInputTokens": 1424,
+    "cacheReadInputTokens": 44475,
     "contextWindow": 200000,
-    "contextTokens": 37529,
-    "percentage": 19
+    "contextTokens": 46451,
+    "percentage": 23
   }
 }

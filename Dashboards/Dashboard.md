@@ -91,7 +91,15 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板 - 圆环进度版
+// 项目状态看板 - 简洁进度段版
+function progressBar(p, len = 6) {
+    const filled = Math.round(p / 100 * len);
+    const empty = len - filled;
+    const colors = { done: "#22c55e", high: "#22c55e", medium: "#f59e0b", low: "#ef4444" };
+    const level = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
+    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+}
+
 const columns = ["待处理", "进行中", "已完成"];
 const pages = dv.pages('#项目').where(p => !p.file.path.includes("Templates"));
 
@@ -102,34 +110,33 @@ for (let col of columns) {
     if (filesInColumn.length === 0) {
         dv.paragraph("*暂无*");
     } else {
-        dv.list(filesInColumn.map(p => {
-            const progress = p.进度 || 0;
-            const radius = 10;
-            const circumference = 2 * Math.PI * radius;
-            const offset = circumference - (progress / 100) * circumference;
-            const level = progress >= 80 ? "done" : progress >= 60 ? "high" : progress >= 40 ? "medium" : "low";
-
-            return `${p.file.link} <span class="progress-ring">
-                <svg>
-                    <circle class="bg" cx="12" cy="12" r="${radius}"></circle>
-                    <circle class="fill ${level}" cx="12" cy="12" r="${radius}"
-                        stroke-dasharray="${circumference}" stroke-dashoffset="${offset}"></circle>
-                </svg>
-                <span class="label">${progress}%</span>
-            </span>`;
-        }));
+        dv.list(filesInColumn.map(p => `${p.file.link}  ${progressBar(p.进度 || 0)}`));
     }
 }
 ```
 
 ### 🔥 进行中项目详情
 
-```dataview
-TABLE 状态 AS "状态", 进度 AS "进度", dateformat(截止时间, "MM-dd") AS "截止"
-FROM #项目
-WHERE 状态 = "进行中" AND !contains(file.path, "Templates")
-SORT 截止时间 ASC
-LIMIT 5
+```dataviewjs
+function progressBar(p, len = 5) {
+    const filled = Math.round(p / 100 * len);
+    const empty = len - filled;
+    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+}
+
+const pages = dv.pages('#项目')
+    .where(p => p.状态 === "进行中" && !p.file.path.includes("Templates"))
+    .sort(p => p.截止时间, 'asc')
+    .limit(5);
+
+dv.table(
+    ["项目", "进度", "截止时间"],
+    pages.map(p => [
+        p.file.link,
+        progressBar(p.进度 || 0),
+        p.截止时间 ? dv.date(p.截止时间).toFormat("MM-dd") : "-"
+    ])
+);
 ```
 
 ### 📈 项目总览
@@ -150,6 +157,12 @@ SORT 截止时间
 
 ### 技术栈掌握度
 ```dataviewjs
+function progressBar(p, len = 5) {
+    const filled = Math.round(p / 100 * len);
+    const empty = len - filled;
+    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+}
+
 const pages = dv.pages('#技术栈');
 
 if (pages.length === 0) {
@@ -161,23 +174,9 @@ if (pages.length === 0) {
         const totalTasks = tasks.length;
         const progress = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
 
-        const radius = 10;
-        const circumference = 2 * Math.PI * radius;
-        const offset = circumference - (progress / 100) * circumference;
-        const level = progress >= 80 ? "done" : progress >= 60 ? "high" : progress >= 40 ? "medium" : "low";
-
-        const progressRing = `<span class="progress-ring">
-            <svg>
-                <circle class="bg" cx="12" cy="12" r="${radius}"></circle>
-                <circle class="fill ${level}" cx="12" cy="12" r="${radius}"
-                    stroke-dasharray="${circumference}" stroke-dashoffset="${offset}"></circle>
-            </svg>
-            <span class="label">${progress}%</span>
-        </span>`;
-
         return [
             page.file.link,
-            progressRing,
+            progressBar(progress),
             `${completedTasks}/${totalTasks}`
         ];
     });
