@@ -1199,7 +1199,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/HTML/HTML标签.md",
+      "path": "02-领域/Frontend/HTML标签.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 41,
       "openLogs": [
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS布局系统.md",
+      "path": "02-领域/Frontend/CSS布局系统.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 30,
       "openLogs": [
@@ -1573,7 +1573,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS视觉与表现.md",
+      "path": "02-领域/Frontend/CSS视觉与表现.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 26,
       "openLogs": [
@@ -1658,7 +1658,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS响应式设计.md",
+      "path": "02-领域/Frontend/CSS响应式设计.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 16,
       "openLogs": [
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS高级特性.md",
+      "path": "02-领域/Frontend/CSS高级特性.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -1741,7 +1741,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS工程化.md",
+      "path": "02-领域/Frontend/CSS工程化.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -1772,7 +1772,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/现代 CSS 新特性.md",
+      "path": "02-领域/Frontend/现代 CSS 新特性.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -2331,7 +2331,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/table表格布局.md",
+      "path": "02-领域/Frontend/table表格布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -2368,7 +2368,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/float浮动+margin布局.md",
+      "path": "02-领域/Frontend/float浮动+margin布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -2414,7 +2414,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/inline-block布局.md",
+      "path": "02-领域/Frontend/inline-block布局.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -2466,7 +2466,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/flexbox布局.md",
+      "path": "02-领域/Frontend/flexbox布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -2503,7 +2503,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS基础概念.md",
+      "path": "02-领域/Frontend/CSS基础概念.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -2555,7 +2555,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/行内元素与块元素.md",
+      "path": "02-领域/Frontend/行内元素与块元素.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -2586,7 +2586,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS引入方式.md",
+      "path": "02-领域/Frontend/CSS引入方式.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2602,7 +2602,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS选择器.md",
+      "path": "02-领域/Frontend/CSS选择器.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2618,7 +2618,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS层叠、继承、值计算.md",
+      "path": "02-领域/Frontend/CSS层叠、继承、值计算.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2634,7 +2634,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/盒模型.md",
+      "path": "02-领域/Frontend/盒模型.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -2668,7 +2668,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/响应式布局.md",
+      "path": "02-领域/Frontend/响应式布局.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -2776,7 +2776,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/文本与字体.md",
+      "path": "02-领域/Frontend/文本与字体.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 23,
       "openLogs": [
@@ -2852,9 +2852,9 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/背景.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 15,
+      "path": "02-领域/Frontend/背景.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768805303356
@@ -2900,11 +2900,14 @@
         },
         {
           "timestampMillis": 1769058981022
+        },
+        {
+          "timestampMillis": 1769749937236
         }
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/边框与圆角.md",
+      "path": "02-领域/Frontend/边框与圆角.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -2944,7 +2947,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/变化与过渡.md",
+      "path": "02-领域/Frontend/变化与过渡.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 19,
       "openLogs": [
@@ -3008,7 +3011,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/CSS动画.md",
+      "path": "02-领域/Frontend/CSS动画.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 12,
       "openLogs": [
@@ -3200,7 +3203,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/媒体查询.md",
+      "path": "02-领域/Frontend/媒体查询.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -3246,7 +3249,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/响应式单位.md",
+      "path": "02-领域/Frontend/响应式单位.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -3280,7 +3283,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/响应式图片.md",
+      "path": "02-领域/Frontend/响应式图片.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -3339,7 +3342,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/PostCSS.md",
+      "path": "02-领域/Frontend/PostCSS.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3358,7 +3361,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/less.md",
+      "path": "02-领域/Frontend/less.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -3395,7 +3398,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/CSS/sass.md",
+      "path": "02-领域/Frontend/sass.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3545,7 +3548,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/JavaScript基础概念.md",
+      "path": "02-领域/Frontend/JavaScript基础概念.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3585,7 +3588,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/邂逅JavaScript.md",
+      "path": "02-领域/Frontend/邂逅JavaScript.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3625,7 +3628,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/JavaScript基础.md",
+      "path": "02-领域/Frontend/JavaScript基础.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -3677,7 +3680,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/变量和数据类型.md",
+      "path": "02-领域/Frontend/变量和数据类型.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 16,
       "openLogs": [
@@ -3732,7 +3735,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/运算符.md",
+      "path": "02-领域/Frontend/运算符.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 27,
       "openLogs": [
@@ -3833,7 +3836,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/流程控制语句.md",
+      "path": "02-领域/Frontend/流程控制语句.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -3892,7 +3895,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/函数.md",
+      "path": "02-领域/Frontend/函数.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 23,
       "openLogs": [
@@ -3968,7 +3971,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/闭包.md",
+      "path": "02-领域/Frontend/闭包.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3987,7 +3990,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/作用域.md",
+      "path": "02-领域/Frontend/作用域.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -4181,7 +4184,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/面向对象.md",
+      "path": "02-领域/Frontend/面向对象.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 49,
       "openLogs": [
@@ -4474,8 +4477,8 @@
     },
     {
       "path": "00-收件箱/README.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -4491,6 +4494,9 @@
         },
         {
           "timestampMillis": 1769607381444
+        },
+        {
+          "timestampMillis": 1769749840032
         }
       ]
     },
@@ -4509,11 +4515,17 @@
     },
     {
       "path": "02-领域/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769495704649
+        },
+        {
+          "timestampMillis": 1769750010140
+        },
+        {
+          "timestampMillis": 1769750044712
         }
       ]
     },
@@ -4557,7 +4569,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/this.md",
+      "path": "02-领域/Frontend/this.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -4588,7 +4600,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/window.md",
+      "path": "02-领域/Frontend/window.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -4653,7 +4665,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/原型.md",
+      "path": "02-领域/Frontend/原型.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 33,
       "openLogs": [
@@ -4824,7 +4836,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/值类型和引用类型.md",
+      "path": "02-领域/Frontend/值类型和引用类型.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -4928,7 +4940,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/Math对象.md",
+      "path": "02-领域/Frontend/Math对象.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -4950,7 +4962,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/Array.md",
+      "path": "02-领域/Frontend/Array.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -4978,7 +4990,7 @@
       ]
     },
     {
-      "path": "02-领域/Frontend/JS/包装类型.md",
+      "path": "02-领域/Frontend/包装类型.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -5030,7 +5042,7 @@
     {
       "path": "日记/2026-01-29.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769690669744
@@ -5040,6 +5052,9 @@
         },
         {
           "timestampMillis": 1769748666323
+        },
+        {
+          "timestampMillis": 1769749754714
         }
       ]
     }

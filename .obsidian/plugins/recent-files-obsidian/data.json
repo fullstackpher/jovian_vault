@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "01-项目/Dashboard.md"
+      "basename": "README",
+      "path": "02-领域/README.md"
+    },
+    {
+      "basename": "背景",
+      "path": "02-领域/Frontend/背景.md"
+    },
+    {
+      "basename": "README",
+      "path": "00-收件箱/README.md"
     },
     {
       "basename": "2026-01-29",
       "path": "日记/2026-01-29.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "01-项目/Dashboard.md"
     },
     {
       "basename": "2026-01-29-待办事项清单.md",
@@ -110,23 +122,23 @@
     },
     {
       "basename": "Array",
-      "path": "02-领域/Frontend/JS/Array.md"
+      "path": "02-领域/Frontend/Array.md"
     },
     {
       "basename": "this",
-      "path": "02-领域/Frontend/JS/this.md"
+      "path": "02-领域/Frontend/this.md"
     },
     {
       "basename": "闭包",
-      "path": "02-领域/Frontend/JS/闭包.md"
+      "path": "02-领域/Frontend/闭包.md"
     },
     {
       "basename": "包装类型",
-      "path": "02-领域/Frontend/JS/包装类型.md"
+      "path": "02-领域/Frontend/包装类型.md"
     },
     {
       "basename": "值类型和引用类型",
-      "path": "02-领域/Frontend/JS/值类型和引用类型.md"
+      "path": "02-领域/Frontend/值类型和引用类型.md"
     },
     {
       "basename": "学习Spring全家桶",
@@ -154,51 +166,39 @@
     },
     {
       "basename": "运算符",
-      "path": "02-领域/Frontend/JS/运算符.md"
+      "path": "02-领域/Frontend/运算符.md"
     },
     {
       "basename": "Math对象",
-      "path": "02-领域/Frontend/JS/Math对象.md"
+      "path": "02-领域/Frontend/Math对象.md"
     },
     {
       "basename": "window",
-      "path": "02-领域/Frontend/JS/window.md"
+      "path": "02-领域/Frontend/window.md"
     },
     {
       "basename": "JavaScript基础概念",
-      "path": "02-领域/Frontend/JS/JavaScript基础概念.md"
+      "path": "02-领域/Frontend/JavaScript基础概念.md"
     },
     {
       "basename": "JavaScript基础",
-      "path": "02-领域/Frontend/JS/JavaScript基础.md"
+      "path": "02-领域/Frontend/JavaScript基础.md"
     },
     {
       "basename": "作用域",
-      "path": "02-领域/Frontend/JS/作用域.md"
+      "path": "02-领域/Frontend/作用域.md"
     },
     {
       "basename": "原型",
-      "path": "02-领域/Frontend/JS/原型.md"
+      "path": "02-领域/Frontend/原型.md"
     },
     {
       "basename": "邂逅JavaScript",
-      "path": "02-领域/Frontend/JS/邂逅JavaScript.md"
+      "path": "02-领域/Frontend/邂逅JavaScript.md"
     },
     {
       "basename": "面向对象",
-      "path": "02-领域/Frontend/JS/面向对象.md"
-    },
-    {
-      "basename": "流程控制语句",
-      "path": "02-领域/Frontend/JS/流程控制语句.md"
-    },
-    {
-      "basename": "函数",
-      "path": "02-领域/Frontend/JS/函数.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "02-领域/Frontend/JS/变量和数据类型.md"
+      "path": "02-领域/Frontend/面向对象.md"
     }
   ],
   "omittedPaths": [],
