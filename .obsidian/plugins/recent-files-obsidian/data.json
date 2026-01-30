@@ -2,35 +2,35 @@
   "recentFiles": [
     {
       "basename": "README",
-      "path": "02-领域/README.md"
+      "path": "0.Inbox 缓存箱/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Area 领域/README.md"
     },
     {
       "basename": "背景",
-      "path": "02-领域/Frontend/背景.md"
-    },
-    {
-      "basename": "README",
-      "path": "00-收件箱/README.md"
+      "path": "2.Area 领域/Frontend/背景.md"
     },
     {
       "basename": "2026-01-29",
-      "path": "日记/2026-01-29.md"
+      "path": "6.Daily 日周记/2026-01-29.md"
     },
     {
       "basename": "Dashboard",
-      "path": "01-项目/Dashboard.md"
+      "path": "1.Projects 项目/Dashboard.md"
     },
     {
       "basename": "2026-01-29-待办事项清单.md",
-      "path": "00-收件箱/2026-01-29-待办事项清单.md.md"
+      "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md.md"
     },
     {
       "basename": "README",
-      "path": "01-项目/README.md"
+      "path": "1.Projects 项目/README.md"
     },
     {
       "basename": "学习JavaScript",
-      "path": "01-项目/03-学习前端/学习JavaScript.md"
+      "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-01-29 学习日报",
@@ -38,7 +38,7 @@
     },
     {
       "basename": "2026-01-19",
-      "path": "日记/2026-01-19.md"
+      "path": "6.Daily 日周记/2026-01-19.md"
     },
     {
       "basename": "每日笔记",
@@ -118,87 +118,87 @@
     },
     {
       "basename": "Frontend知识体系总览",
-      "path": "02-领域/Frontend/Frontend知识体系总览.md"
+      "path": "2.Area 领域/Frontend/Frontend知识体系总览.md"
     },
     {
       "basename": "Array",
-      "path": "02-领域/Frontend/Array.md"
+      "path": "2.Area 领域/Frontend/Array.md"
     },
     {
       "basename": "this",
-      "path": "02-领域/Frontend/this.md"
+      "path": "2.Area 领域/Frontend/this.md"
     },
     {
       "basename": "闭包",
-      "path": "02-领域/Frontend/闭包.md"
+      "path": "2.Area 领域/Frontend/闭包.md"
     },
     {
       "basename": "包装类型",
-      "path": "02-领域/Frontend/包装类型.md"
+      "path": "2.Area 领域/Frontend/包装类型.md"
     },
     {
       "basename": "值类型和引用类型",
-      "path": "02-领域/Frontend/值类型和引用类型.md"
+      "path": "2.Area 领域/Frontend/值类型和引用类型.md"
     },
     {
       "basename": "学习Spring全家桶",
-      "path": "01-项目/01-学习Java/学习Spring全家桶.md"
+      "path": "1.Projects 项目/01-学习Java/学习Spring全家桶.md"
     },
     {
       "basename": "学习JavaSE",
-      "path": "01-项目/01-学习Java/学习JavaSE.md"
+      "path": "1.Projects 项目/01-学习Java/学习JavaSE.md"
     },
     {
       "basename": "学习JavaEE",
-      "path": "01-项目/01-学习Java/学习JavaEE.md"
+      "path": "1.Projects 项目/01-学习Java/学习JavaEE.md"
     },
     {
       "basename": "学习Obsidian",
-      "path": "01-项目/02-知识管理/学习Obsidian.md"
+      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "学习CSS",
-      "path": "01-项目/03-学习前端/学习CSS.md"
+      "path": "1.Projects 项目/03-学习前端/学习CSS.md"
     },
     {
       "basename": "学习HTML",
-      "path": "01-项目/03-学习前端/学习HTML.md"
+      "path": "1.Projects 项目/03-学习前端/学习HTML.md"
     },
     {
       "basename": "运算符",
-      "path": "02-领域/Frontend/运算符.md"
+      "path": "2.Area 领域/Frontend/运算符.md"
     },
     {
       "basename": "Math对象",
-      "path": "02-领域/Frontend/Math对象.md"
+      "path": "2.Area 领域/Frontend/Math对象.md"
     },
     {
       "basename": "window",
-      "path": "02-领域/Frontend/window.md"
+      "path": "2.Area 领域/Frontend/window.md"
     },
     {
       "basename": "JavaScript基础概念",
-      "path": "02-领域/Frontend/JavaScript基础概念.md"
+      "path": "2.Area 领域/Frontend/JavaScript基础概念.md"
     },
     {
       "basename": "JavaScript基础",
-      "path": "02-领域/Frontend/JavaScript基础.md"
+      "path": "2.Area 领域/Frontend/JavaScript基础.md"
     },
     {
       "basename": "作用域",
-      "path": "02-领域/Frontend/作用域.md"
+      "path": "2.Area 领域/Frontend/作用域.md"
     },
     {
       "basename": "原型",
-      "path": "02-领域/Frontend/原型.md"
+      "path": "2.Area 领域/Frontend/原型.md"
     },
     {
       "basename": "邂逅JavaScript",
-      "path": "02-领域/Frontend/邂逅JavaScript.md"
+      "path": "2.Area 领域/Frontend/邂逅JavaScript.md"
     },
     {
       "basename": "面向对象",
-      "path": "02-领域/Frontend/面向对象.md"
+      "path": "2.Area 领域/Frontend/面向对象.md"
     }
   ],
   "omittedPaths": [],

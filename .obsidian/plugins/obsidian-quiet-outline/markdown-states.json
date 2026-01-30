@@ -2445,7 +2445,7 @@
     "expandedKeys": []
   },
   "00-收件箱/README.md": {
-    "scroll": 63.816782875327796,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 35,
@@ -3184,6 +3184,20 @@
       "to": {
         "line": 10,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/README.md": {
+    "scroll": 2.9774436090225564,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 12
+      },
+      "to": {
+        "line": 4,
+        "ch": 12
       }
     },
     "expandedKeys": []
