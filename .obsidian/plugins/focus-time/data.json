@@ -1209,8 +1209,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 7626000,
-      "openCount": 115
+      "duration": 7674000,
+      "openCount": 116
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1222,6 +1222,12 @@
       "fileId": "1769759793492",
       "filePath": "周报模板.md",
       "duration": 0,
+      "openCount": 1
+    },
+    "3.Resources 资源/Meta Bind 插件使用指南.md": {
+      "fileId": "1769760610411",
+      "filePath": "3.Resources 资源/Meta Bind 插件使用指南.md",
+      "duration": 102000,
       "openCount": 1
     }
   }
