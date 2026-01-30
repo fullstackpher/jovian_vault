@@ -3125,7 +3125,7 @@
     ]
   },
   "0_Daily Notes/2026-01-29 学习日报.md": {
-    "scroll": 0,
+    "scroll": 13.489305555555555,
     "cursor": {
       "from": {
         "line": 144,
@@ -3281,6 +3281,20 @@
       },
       "to": {
         "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/Dashboard.md": {
+    "scroll": 11.991426002011696,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },

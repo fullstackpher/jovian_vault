@@ -24,5 +24,7 @@
   "homepage",
   "mantou-ai",
   "obsidian-emoji-toolbar",
-  "claudian"
+  "claudian",
+  "obsidian-better-command-palette",
+  "cmdr"
 ]

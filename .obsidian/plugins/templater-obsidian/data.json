@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_Templates",
+  "templates_folder": "6.Templates 模版",
   "templates_pairs": [
     [
       "",
@@ -15,16 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1-Projects",
-      "template": "_Templates/项目模版.md"
+      "folder": "1.Projects 项目",
+      "template": "6.Templates 模版/项目模版.md"
     },
     {
-      "folder": "日记",
-      "template": "_Templates/每日笔记.md"
+      "folder": "7.Daily 日周记",
+      "template": "6.Templates 模版/每日笔记.md"
     },
     {
-      "folder": "00-收件箱",
-      "template": "_Templates/闪念笔记模板.md"
+      "folder": "0.Inbox 缓存箱",
+      "template": "6.Templates 模版/闪念笔记模板.md"
     }
   ],
   "enable_file_templates": false,
