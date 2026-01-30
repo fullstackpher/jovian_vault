@@ -3920,12 +3920,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 5,
+        "line": 15,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas 领域/Knowledge Management/Callout.md": {
+    "scroll": 4.952410478995505,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 18
+      },
+      "to": {
+        "line": 16,
+        "ch": 18
       }
     },
     "expandedKeys": []

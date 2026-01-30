@@ -4901,8 +4901,8 @@
     },
     {
       "path": "2.Areas 领域/Knowledge Management/Callout.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769503388454
@@ -4912,6 +4912,9 @@
         },
         {
           "timestampMillis": 1769504411365
+        },
+        {
+          "timestampMillis": 1769774817743
         }
       ]
     },
@@ -5636,7 +5639,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769771211786
@@ -5673,6 +5676,9 @@
         },
         {
           "timestampMillis": 1769774371921
+        },
+        {
+          "timestampMillis": 1769774847476
         }
       ]
     }
