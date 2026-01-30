@@ -9,6 +9,8 @@
 tags:
   - 项目
   - "#技术栈"
+创建时间: 2026-01-22T15:21
+更新时间: 2026-01-30T14:02
 ---
 > [!quote] 项目描述
 
@@ -46,7 +48,7 @@ limit 100
 - [x] 学习JavaScript函数 ✅ 2026-01-25
 - [x] 学习JavaScript数组 ✅ 2026-01-29
 - [x] 学习JavaScript面向对象 ✅ 2026-01-28
-- [ ] 学习JavaScriptDOM
+- [/] 学习JavaScriptDOM
 - [ ] 学习JavaScriptBOM
 - [ ] 学习Promise
 - [ ] 学习正则表达式

@@ -350,8 +350,8 @@
     },
     {
       "path": "1.Projects 项目/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 20,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -412,6 +412,9 @@
         },
         {
           "timestampMillis": 1769688615614
+        },
+        {
+          "timestampMillis": 1769752983031
         }
       ]
     },
@@ -3466,8 +3469,8 @@
     },
     {
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 29,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -3555,6 +3558,9 @@
         },
         {
           "timestampMillis": 1769690348849
+        },
+        {
+          "timestampMillis": 1769752867871
         }
       ]
     },
@@ -4557,7 +4563,7 @@
     {
       "path": "1.Projects 项目/README.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769495636581
@@ -4570,6 +4576,9 @@
         },
         {
           "timestampMillis": 1769750899797
+        },
+        {
+          "timestampMillis": 1769752941269
         }
       ]
     },

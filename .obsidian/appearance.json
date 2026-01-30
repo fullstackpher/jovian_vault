@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "rainbow-tree"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

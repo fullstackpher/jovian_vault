@@ -3189,7 +3189,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 8.381255092573781,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 21,
@@ -3203,15 +3203,15 @@
     "expandedKeys": []
   },
   "1.Projects 项目/README.md": {
-    "scroll": 91.96783161296712,
+    "scroll": 82.47878925883687,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 26
+        "line": 101,
+        "ch": 29
       },
       "to": {
-        "line": 4,
-        "ch": 26
+        "line": 101,
+        "ch": 29
       }
     },
     "expandedKeys": []
@@ -3351,6 +3351,34 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/03-学习前端/学习JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/02-知识管理/学习Obsidian.md": {
+    "scroll": 10.304449648711945,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
         "ch": 0
       }
     },
