@@ -3301,7 +3301,7 @@
     "expandedKeys": []
   },
   "Templates/每日笔记.md": {
-    "scroll": 26.454817685397217,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 4,
@@ -3920,12 +3920,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 0
+        "line": 13,
+        "ch": 6
       },
       "to": {
-        "line": 14,
-        "ch": 0
+        "line": 13,
+        "ch": 6
       }
     },
     "expandedKeys": []
