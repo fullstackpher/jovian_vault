@@ -190,31 +190,12 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "2f5aceae-0f05-491e-a315-ef8759ac9ebb",
-      "name": "创建待办",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "创建待办",
-        "id": "142f5a98-4c23-4b4c-8425-2d91d09a203e",
-        "commands": [
-          {
-            "name": "Tasks: 创建或编辑任务",
-            "type": "Obsidian",
-            "id": "a6db5686-2b93-4051-9939-31b2a88a84d0",
-            "commandId": "obsidian-tasks-plugin:edit-task"
-          }
-        ]
-      }
-    },
-    {
       "id": "31152f46-a3b4-46a2-a58c-c8617f8c8243",
       "name": "📥Todo",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "",
+      "captureTo": "8.Info 其他/0-Inbox.md",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -223,12 +204,12 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "```js quickadd\nreturn await this.app.plugins.plugins['obsidian-tasks-plugin'].apiV1.createTaskLineModal();\n```"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "inbox",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,

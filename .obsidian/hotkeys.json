@@ -25,5 +25,13 @@
       ],
       "key": "C"
     }
+  ],
+  "quickadd:choice:31152f46-a3b4-46a2-a58c-c8617f8c8243": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Backspace"
+    }
   ]
 }

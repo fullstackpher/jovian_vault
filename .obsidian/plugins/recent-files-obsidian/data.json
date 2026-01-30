@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2026-01-30-待办事项清单",
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-29",
