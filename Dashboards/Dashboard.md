@@ -91,26 +91,27 @@ short mode
 ## 📁 项目进度看板
 
 ```dataviewjs
-// 项目状态看板 - 简洁进度段版
-function progressBar(p, len = 6) {
-    const filled = Math.round(p / 100 * len);
-    const empty = len - filled;
-    const colors = { done: "#22c55e", high: "#22c55e", medium: "#f59e0b", low: "#ef4444" };
-    const level = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
-    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+// 项目状态看板 - 圆环进度版
+function ringProgress(p) {
+    const r = 8, c = 2 * Math.PI * r, o = c - (p / 100) * c;
+    const lvl = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
+    return `<span class="progress-ring">
+        <svg><circle class="bg" cx="10" cy="10" r="${r}"/>
+            <circle class="fill ${lvl}" cx="10" cy="10" r="${r}" stroke-dasharray="${c}" stroke-dashoffset="${o}"/></svg>
+        <span class="label">${p}%</span></span>`;
 }
 
-const columns = ["待处理", "进行中", "已完成"];
+const cols = ["待处理", "进行中", "已完成"];
 const pages = dv.pages('#项目').where(p => !p.file.path.includes("Templates"));
 
-for (let col of columns) {
-    const filesInColumn = pages.where(p => p.状态 === col);
-    dv.header(4, `### ${col} (${filesInColumn.length})`);
+for (let col of cols) {
+    const files = pages.where(p => p.状态 === col);
+    dv.header(4, `### ${col} (${files.length})`);
 
-    if (filesInColumn.length === 0) {
+    if (files.length === 0) {
         dv.paragraph("*暂无*");
     } else {
-        dv.list(filesInColumn.map(p => `${p.file.link}  ${progressBar(p.进度 || 0)}`));
+        dv.list(files.map(p => `${p.file.link} ${ringProgress(p.进度 || 0)}`));
     }
 }
 ```
@@ -118,10 +119,13 @@ for (let col of columns) {
 ### 🔥 进行中项目详情
 
 ```dataviewjs
-function progressBar(p, len = 5) {
-    const filled = Math.round(p / 100 * len);
-    const empty = len - filled;
-    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+function ringProgress(p) {
+    const r = 8, c = 2 * Math.PI * r, o = c - (p / 100) * c;
+    const lvl = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
+    return `<span class="progress-ring">
+        <svg><circle class="bg" cx="10" cy="10" r="${r}"/>
+            <circle class="fill ${lvl}" cx="10" cy="10" r="${r}" stroke-dasharray="${c}" stroke-dashoffset="${o}"/></svg>
+        <span class="label">${p}%</span></span>`;
 }
 
 const pages = dv.pages('#项目')
@@ -129,14 +133,9 @@ const pages = dv.pages('#项目')
     .sort(p => p.截止时间, 'asc')
     .limit(5);
 
-dv.table(
-    ["项目", "进度", "截止时间"],
-    pages.map(p => [
-        p.file.link,
-        progressBar(p.进度 || 0),
-        p.截止时间 ? dv.date(p.截止时间).toFormat("MM-dd") : "-"
-    ])
-);
+dv.table(["项目", "进度", "截止时间"],
+    pages.map(p => [p.file.link, ringProgress(p.进度 || 0),
+        p.截止时间 ? dv.date(p.截止时间).toFormat("MM-dd") : "-"]));
 ```
 
 ### 📈 项目总览
@@ -157,10 +156,13 @@ SORT 截止时间
 
 ### 技术栈掌握度
 ```dataviewjs
-function progressBar(p, len = 5) {
-    const filled = Math.round(p / 100 * len);
-    const empty = len - filled;
-    return `\`${"█".repeat(filled)}${"░".repeat(empty)}\` **${p}%**`;
+function ringProgress(p) {
+    const r = 8, c = 2 * Math.PI * r, o = c - (p / 100) * c;
+    const lvl = p >= 80 ? "done" : p >= 60 ? "high" : p >= 40 ? "medium" : "low";
+    return `<span class="progress-ring">
+        <svg><circle class="bg" cx="10" cy="10" r="${r}"/>
+            <circle class="fill ${lvl}" cx="10" cy="10" r="${r}" stroke-dasharray="${c}" stroke-dashoffset="${o}"/></svg>
+        <span class="label">${p}%</span></span>`;
 }
 
 const pages = dv.pages('#技术栈');
@@ -168,23 +170,14 @@ const pages = dv.pages('#技术栈');
 if (pages.length === 0) {
     dv.paragraph("⚠️ 未找到带有 #技术栈 标签的笔记");
 } else {
-    const tableData = pages.map(page => {
-        const tasks = dv.pages(`"${page.file.path}"`).file.tasks || [];
-        const completedTasks = tasks.filter(t => t.completed).length;
-        const totalTasks = tasks.length;
-        const progress = totalTasks > 0 ? Math.round((completedTasks / totalTasks) * 100) : 0;
-
-        return [
-            page.file.link,
-            progressBar(progress),
-            `${completedTasks}/${totalTasks}`
-        ];
-    });
-
-    dv.table(
-        ["技术栈", "掌握度", "完成任务"],
-        tableData
-    );
+    dv.table(["技术栈", "掌握度", "完成任务"],
+        pages.map(p => {
+            const t = dv.pages(`"${p.file.path}"`).file.tasks || [];
+            const done = t.filter(x => x.completed).length;
+            const total = t.length;
+            const prog = total > 0 ? Math.round(done / total * 100) : 0;
+            return [p.file.link, ringProgress(prog), `${done}/${total}`];
+        }));
 }
 ```
 
