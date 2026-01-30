@@ -29,8 +29,9 @@ actions:
     command: theme:toggle-light-dark
 
 ```
+
 ```meta-bind-button
-label: todo-list
+label: todo
 icon: list-todo
 style: default
 class: ""
@@ -41,11 +42,9 @@ id: todo-list
 hidden: true
 actions:
   - type: command
-    command: QuickAdd: 创建待办
+    command: quickadd:choice:2f5aceae-0f05-491e-a315-ef8759ac9ebb
 
 ```
-
-
 
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`
 
