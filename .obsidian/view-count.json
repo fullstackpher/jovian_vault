@@ -4511,7 +4511,7 @@
     {
       "path": "0.Inbox 缓存箱/README.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -4545,6 +4545,12 @@
         },
         {
           "timestampMillis": 1769752372945
+        },
+        {
+          "timestampMillis": 1769752691839
+        },
+        {
+          "timestampMillis": 1769752743420
         }
       ]
     },

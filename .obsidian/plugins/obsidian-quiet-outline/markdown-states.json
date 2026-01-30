@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 0,
+    "scroll": 8.381255092573781,
     "cursor": {
       "from": {
-        "line": 72,
-        "ch": 20
+        "line": 21,
+        "ch": 21
       },
       "to": {
-        "line": 72,
-        "ch": 20
+        "line": 21,
+        "ch": 21
       }
     },
     "expandedKeys": []
@@ -3338,6 +3338,20 @@
       "to": {
         "line": 6,
         "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "03-资源.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

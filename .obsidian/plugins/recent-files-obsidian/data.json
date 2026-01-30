@@ -195,10 +195,6 @@
     {
       "basename": "作用域",
       "path": "2.Areas 领域/Frontend/作用域.md"
-    },
-    {
-      "basename": "原型",
-      "path": "2.Areas 领域/Frontend/原型.md"
     }
   ],
   "omittedPaths": [],
