@@ -3483,15 +3483,15 @@
     "expandedKeys": []
   },
   "HOME.md": {
-    "scroll": 304.49652767181396,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 218,
-        "ch": 8
+        "line": 59,
+        "ch": 32
       },
       "to": {
-        "line": 218,
-        "ch": 8
+        "line": 59,
+        "ch": 32
       }
     },
     "expandedKeys": []

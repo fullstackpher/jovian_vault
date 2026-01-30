@@ -4,12 +4,29 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "commandId": "cmdr:run:toggle-dark-mode",
+      "icon": "moon",
+      "tooltip": "切换主题"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [],
+  "macros": [
+    {
+      "id": "toggle-dark-mode",
+      "name": "切换主题",
+      "commands": [
+        {
+          "id": "app:toggle-theme",
+          "type": "ObsidianCommand"
+        }
+      ]
+    }
+  ],
   "explorer": [],
   "hide": {
     "statusbar": [],
@@ -25,5 +42,21 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "commands": [
+    {
+      "id": "toggle-dark-mode",
+      "name": "切换明暗主题",
+      "type": "macro",
+      "macroId": "toggle-dark-mode",
+      "icon": "moon"
+    },
+    {
+      "id": "open-homepage",
+      "name": "打开主页",
+      "type": "callback",
+      "callback": "() => app.workspace.openLeaf(app.vault.getAbstractFileByPath('HOME.md'))",
+      "icon": "home"
+    }
+  ]
 }
