@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",

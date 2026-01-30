@@ -5,10 +5,9 @@
   "headerCreated": "创建时间",
   "minMinutesBetweenSaves": 1,
   "ignoreGlobalFolder": [
-    "_Templates",
-    "0_Daily Notes",
-    "01-项目",
-    "日记"
+    "1.Projects 项目",
+    "7.Daily 日周记",
+    "Templates"
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
@@ -87,7 +86,6 @@
     "2.Areas 领域/Frontend/sass.md": "2268eb4792ac74ab8920d107282d023d1f1572d8bec26a25842770b09afc5ce7",
     "7.Daily 日周记/2026-01-12.md": "d4e8e9e3d6476f9e363c1c4a2de05c6d9ecb4b1620cd152dae7e1bea10539f6f",
     "Templates/日报模版.md": "ec94eb217d18f6748bdf3ba8936c0074ea42be1640f397c8bf1942971afc9727",
-    "Dashboard.md": "36f8221ba442e165e6d9bcb1d9392dc6208f1a79838071308912eeab056e92d5",
     "5.Zattchments 附件/README.md": "d8fc5d1bfc1e93c66861b0aff792fc206d917985f6b91d3e1b8916aba0b2a7dc",
     "7.Daily 日周记/README.md": "02030b381c30e9c9362559c5152549f2b6eb30b717f149df9623dc1cba1f9e6c",
     "8.Info 其他/README.md": "353b5730cfef28e4e1a34f9ad854508c2349c3982c8477aba8cd3cf5449bf0d3",
@@ -98,6 +96,7 @@
     "8.Info 其他/QuickAdd配置指南.md": "75adec960799c52161144644f22c9bd6c13b8e1916459d04bdb1a7f72eb25dc0",
     "8.Info 其他/Dashboard使用指南.md": "dfd605838bd9d67ea938026dba89b1f22c9a3f69e71d64daa558e57be4692649",
     "0.Inbox 缓存箱/2026-01-30-待办事项清单.md": "5b425cfddb48bf6008209972ad32fd4be5362a8f1f8fc8f133a3aac90bd9ebd0",
-    "8.Info 其他/制作obsidian主页.md": "b97cd49418d5424f59c45ff04da7276e525800e06a56cd0fa9491a2fab3e1aee"
+    "8.Info 其他/制作obsidian主页.md": "b97cd49418d5424f59c45ff04da7276e525800e06a56cd0fa9491a2fab3e1aee",
+    "Dashboards/Dashboard.md": "36f8221ba442e165e6d9bcb1d9392dc6208f1a79838071308912eeab056e92d5"
   }
 }
