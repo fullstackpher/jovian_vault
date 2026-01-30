@@ -3371,7 +3371,7 @@
     "expandedKeys": []
   },
   "1.Projects 项目/02-知识管理/学习Obsidian.md": {
-    "scroll": 41.747485971048015,
+    "scroll": 41.725927734375,
     "cursor": {
       "from": {
         "line": 48,
@@ -3623,15 +3623,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 31.388888041178387,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 50,
-        "ch": 0
+        "ch": 17
       },
       "to": {
         "line": 50,
-        "ch": 48
+        "ch": 17
       }
     },
     "expandedKeys": []

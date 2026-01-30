@@ -5,6 +5,10 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "学习Obsidian",
+      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
+    },
+    {
       "basename": "2026-01-30-待办事项清单",
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "README",
       "path": "5.Zattchments 附件/README.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "obsidian双链功能",

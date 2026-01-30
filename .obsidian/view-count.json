@@ -354,7 +354,7 @@
     {
       "path": "1.Projects 项目/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 22,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -421,6 +421,9 @@
         },
         {
           "timestampMillis": 1769753034879
+        },
+        {
+          "timestampMillis": 1769765292355
         }
       ]
     },
@@ -488,7 +491,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 204,
+      "totalTimesOpened": 205,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1101,6 +1104,9 @@
         },
         {
           "timestampMillis": 1769765152152
+        },
+        {
+          "timestampMillis": 1769765311236
         }
       ]
     },
