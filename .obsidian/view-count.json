@@ -479,7 +479,7 @@
     {
       "path": "1.Projects 项目/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 166,
+      "totalTimesOpened": 168,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -978,6 +978,12 @@
         },
         {
           "timestampMillis": 1769751508745
+        },
+        {
+          "timestampMillis": 1769751523222
+        },
+        {
+          "timestampMillis": 1769751575206
         }
       ]
     },
@@ -1429,7 +1435,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/项目开发记录.md",
+      "path": "Templates/项目开发记录.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -1454,7 +1460,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/问题解决方案.md",
+      "path": "Templates/问题解决方案.md",
       "uniqueDaysOpened": 6,
       "totalTimesOpened": 14,
       "openLogs": [
@@ -1503,7 +1509,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/实用代码片段.md",
+      "path": "Templates/实用代码片段.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -1522,7 +1528,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/面试题八股文.md",
+      "path": "Templates/面试题八股文.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -1535,7 +1541,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/每日笔记.md",
+      "path": "Templates/每日笔记.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -1563,7 +1569,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/技术概念卡片.md",
+      "path": "Templates/技术概念卡片.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -1994,7 +2000,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/项目模版.md",
+      "path": "Templates/项目模版.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -2022,7 +2028,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/日报模版.md",
+      "path": "Templates/日报模版.md",
       "uniqueDaysOpened": 7,
       "totalTimesOpened": 27,
       "openLogs": [
@@ -2237,7 +2243,7 @@
       ]
     },
     {
-      "path": "6.Templates 模版/闪念笔记模板.md",
+      "path": "Templates/闪念笔记模板.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 5,
       "openLogs": [

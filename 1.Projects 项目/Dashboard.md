@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-12T15:29
-更新时间: 2026-01-17T19:30
+更新时间: 2026-01-30T13:39
 ---
 ## 📊 学习进度仪表板
 
@@ -46,7 +46,7 @@ if (pages.length === 0) {
 ```dataview
 TABLE 状态 as "状态", dateformat(截止时间, "yyyy-MM-dd") as "截止时间"
 FROM #项目
-WHERE !contains(file.path, "_Templates") 
+WHERE !contains(file.path, "Templates") 
 SORT 截止时间
 ```
 
@@ -54,7 +54,7 @@ SORT 截止时间
 ```dataview
 TABLE sum(time) as "总时长"
 FROM #日报
-WHERE date >= date(now) - dur(7 days) and !contains(file.path, "_Templates") 
+WHERE date >= date(now) - dur(7 days) and !contains(file.path, "Templates") 
 SORT date
 ```
 
