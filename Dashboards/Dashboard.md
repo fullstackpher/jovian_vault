@@ -1,5 +1,19 @@
 # 📊 个人工作台
+```meta-bind-button
+label: 开灯
+icon: sun
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: mode
+hidden: true
+actions:
+  - type: command
+    command: theme:toggle-light-dark
 
+```
 ```meta-bind-button
 label: 开灯
 icon: sun
@@ -14,6 +28,21 @@ actions:
   - type: command
     command: ""
 
+```
+
+```meta-bind-button
+label: 开灯
+icon: sun
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: mode
+hidden: false
+actions:
+  - type: command
+    command: theme:toggle-light-dark
 ```
 
 ---

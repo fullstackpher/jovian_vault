@@ -198,7 +198,33 @@
       "macro": {
         "name": "开灯",
         "id": "414c2501-093b-41fb-b513-e6890795fe48",
-        "commands": []
+        "commands": [
+          {
+            "name": "Toggle light/dark mode",
+            "type": "Obsidian",
+            "id": "f1590918-c801-4c88-981d-d874622ead1b",
+            "commandId": "theme:toggle-light-dark"
+          }
+        ]
+      }
+    },
+    {
+      "id": "477142ab-1f07-41f4-870d-db13fed67882",
+      "name": "关灯",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "关灯",
+        "id": "a98caebf-c08a-4001-9244-71836e37ec90",
+        "commands": [
+          {
+            "name": "Toggle light/dark mode",
+            "type": "Obsidian",
+            "id": "6843ee17-fb8d-40a0-ac3e-fbb8b1403560",
+            "commandId": "theme:toggle-light-dark"
+          }
+        ]
       }
     }
   ],
