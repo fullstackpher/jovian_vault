@@ -1119,8 +1119,8 @@
     "0.Inbox 缓存箱/2026-01-29-待办事项清单.md": {
       "fileId": "1769607412979",
       "filePath": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md",
-      "duration": 282000,
-      "openCount": 11
+      "duration": 318000,
+      "openCount": 12
     },
     "HOME.md": {
       "fileId": "1769754571248",
@@ -1149,7 +1149,7 @@
     "Home.md": {
       "fileId": "1769664456114",
       "filePath": "Home.md",
-      "duration": 30000,
+      "duration": 48000,
       "openCount": 3
     },
     "1.Projects 项目/项目看板.md": {
@@ -1161,8 +1161,44 @@
     "0.Inbox 缓存箱/2026-01-30-待办事项清单.md": {
       "fileId": "1769756872327",
       "filePath": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
-      "duration": 186000,
-      "openCount": 4
+      "duration": 246000,
+      "openCount": 6
+    },
+    "8.Info 其他/查看日历.md": {
+      "fileId": "1769757190335",
+      "filePath": "8.Info 其他/查看日历.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "8.Info 其他/添加快速任务.md": {
+      "fileId": "1769757214331",
+      "filePath": "8.Info 其他/添加快速任务.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "8.Info 其他/Dashboard使用指南.md": {
+      "fileId": "1769757226341",
+      "filePath": "8.Info 其他/Dashboard使用指南.md",
+      "duration": 54000,
+      "openCount": 2
+    },
+    "8.Info 其他/QuickAdd配置指南.md": {
+      "fileId": "1769757280345",
+      "filePath": "8.Info 其他/QuickAdd配置指南.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "8.Info 其他/README.md": {
+      "fileId": "1769757292337",
+      "filePath": "8.Info 其他/README.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "8.Info 其他/制作obsidian主页.md": {
+      "fileId": "1769757298335",
+      "filePath": "8.Info 其他/制作obsidian主页.md",
+      "duration": 150000,
+      "openCount": 2
     }
   }
 }

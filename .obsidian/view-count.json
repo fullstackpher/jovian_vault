@@ -5010,7 +5010,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769607411780
@@ -5041,6 +5041,9 @@
         },
         {
           "timestampMillis": 1769756971437
+        },
+        {
+          "timestampMillis": 1769757097018
         }
       ]
     },
@@ -5230,20 +5233,26 @@
     {
       "path": "Home.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769756581071
         },
         {
           "timestampMillis": 1769756595932
+        },
+        {
+          "timestampMillis": 1769757467148
+        },
+        {
+          "timestampMillis": 1769757493811
         }
       ]
     },
     {
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769756910147
@@ -5253,6 +5262,69 @@
         },
         {
           "timestampMillis": 1769756973255
+        },
+        {
+          "timestampMillis": 1769757132377
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/查看日历.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757186566
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/添加快速任务.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757210739
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/Dashboard使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757223400
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/QuickAdd配置指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757277344
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757287419
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/制作obsidian主页.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769757297908
         }
       ]
     }

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "制作obsidian主页",
+      "path": "8.Info 其他/制作obsidian主页.md"
+    },
+    {
+      "basename": "README",
+      "path": "8.Info 其他/README.md"
+    },
+    {
+      "basename": "QuickAdd配置指南",
+      "path": "8.Info 其他/QuickAdd配置指南.md"
+    },
+    {
+      "basename": "Dashboard使用指南",
+      "path": "8.Info 其他/Dashboard使用指南.md"
+    },
+    {
+      "basename": "添加快速任务",
+      "path": "8.Info 其他/添加快速任务.md"
+    },
+    {
+      "basename": "查看日历",
+      "path": "8.Info 其他/查看日历.md"
+    },
+    {
       "basename": "2026-01-30-待办事项清单",
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Dashboard",
@@ -175,26 +199,6 @@
     {
       "basename": "值类型和引用类型",
       "path": "2.Areas 领域/Frontend/值类型和引用类型.md"
-    },
-    {
-      "basename": "学习Spring全家桶",
-      "path": "1.Projects 项目/01-学习Java/学习Spring全家桶.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1.Projects 项目/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1.Projects 项目/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1.Projects 项目/03-学习前端/学习CSS.md"
-    },
-    {
-      "basename": "学习HTML",
-      "path": "1.Projects 项目/03-学习前端/学习HTML.md"
     }
   ],
   "omittedPaths": [],
