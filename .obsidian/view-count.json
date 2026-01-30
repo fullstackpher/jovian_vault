@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 234,
+      "totalTimesOpened": 237,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1200,6 +1200,15 @@
         },
         {
           "timestampMillis": 1769778031278
+        },
+        {
+          "timestampMillis": 1769778373033
+        },
+        {
+          "timestampMillis": 1769778409703
+        },
+        {
+          "timestampMillis": 1769778466443
         }
       ]
     },
@@ -1780,7 +1789,7 @@
     {
       "path": "Templates/每日笔记.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1823,6 +1832,9 @@
         },
         {
           "timestampMillis": 1769778170411
+        },
+        {
+          "timestampMillis": 1769778472432
         }
       ]
     },
@@ -5645,64 +5657,6 @@
       "openLogs": [
         {
           "timestampMillis": 1769765688441
-        }
-      ]
-    },
-    {
-      "path": "7.Daily 日周记/2026-01-30.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 17,
-      "openLogs": [
-        {
-          "timestampMillis": 1769771211786
-        },
-        {
-          "timestampMillis": 1769772084822
-        },
-        {
-          "timestampMillis": 1769772262490
-        },
-        {
-          "timestampMillis": 1769772291830
-        },
-        {
-          "timestampMillis": 1769772314825
-        },
-        {
-          "timestampMillis": 1769772424902
-        },
-        {
-          "timestampMillis": 1769772438224
-        },
-        {
-          "timestampMillis": 1769772444833
-        },
-        {
-          "timestampMillis": 1769772808698
-        },
-        {
-          "timestampMillis": 1769773070594
-        },
-        {
-          "timestampMillis": 1769773153456
-        },
-        {
-          "timestampMillis": 1769774371921
-        },
-        {
-          "timestampMillis": 1769774847476
-        },
-        {
-          "timestampMillis": 1769774977793
-        },
-        {
-          "timestampMillis": 1769776445234
-        },
-        {
-          "timestampMillis": 1769778058862
-        },
-        {
-          "timestampMillis": 1769778133135
         }
       ]
     },
