@@ -15,7 +15,21 @@ actions:
 
 ```
 
+```meta-bind-button
+label: 关灯
+icon: moon
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: mode
+hidden: false
+actions:
+  - type: command
+    command: theme:toggle-light-dark
 
+```
 
 
 ---
