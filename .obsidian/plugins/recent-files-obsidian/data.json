@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📊 项目看板",
+      "path": "📊 项目看板.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "Frontend知识体系总览",
       "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "每日笔记",
       "path": "Templates/每日笔记.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "项目看板",
@@ -195,10 +199,6 @@
     {
       "basename": "this",
       "path": "2.Areas 领域/Frontend/this.md"
-    },
-    {
-      "basename": "闭包",
-      "path": "2.Areas 领域/Frontend/闭包.md"
     }
   ],
   "omittedPaths": [],

@@ -488,7 +488,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 193,
+      "totalTimesOpened": 195,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1068,6 +1068,12 @@
         },
         {
           "timestampMillis": 1769761930274
+        },
+        {
+          "timestampMillis": 1769761978115
+        },
+        {
+          "timestampMillis": 1769762005585
         }
       ]
     },
@@ -5437,6 +5443,16 @@
         },
         {
           "timestampMillis": 1769760654656
+        }
+      ]
+    },
+    {
+      "path": "📊 项目看板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769762005799
         }
       ]
     }
