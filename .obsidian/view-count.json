@@ -429,8 +429,8 @@
     },
     {
       "path": "7.Daily 日周记/2026-01-12.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768478859225
@@ -440,19 +440,25 @@
         },
         {
           "timestampMillis": 1768479013232
+        },
+        {
+          "timestampMillis": 1769771191734
         }
       ]
     },
     {
       "path": "7.Daily 日周记/2026-01-13.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768478970171
         },
         {
           "timestampMillis": 1768479014144
+        },
+        {
+          "timestampMillis": 1769771204400
         }
       ]
     },
@@ -5591,7 +5597,7 @@
     {
       "path": "0.Inbox 缓存箱/inbox.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769768799390
@@ -5619,13 +5625,16 @@
         },
         {
           "timestampMillis": 1769769365992
+        },
+        {
+          "timestampMillis": 1769769458244
         }
       ]
     },
     {
       "path": "0.Inbox 缓存箱/本月安排.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769768913672
@@ -5644,6 +5653,22 @@
         },
         {
           "timestampMillis": 1769769355030
+        },
+        {
+          "timestampMillis": 1769769400184
+        },
+        {
+          "timestampMillis": 1769769434129
+        }
+      ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-01-30.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769771211786
         }
       ]
     }

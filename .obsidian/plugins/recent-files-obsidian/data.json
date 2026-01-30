@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "2026-01-30",
+      "path": "7.Daily 日周记/2026-01-30.md"
+    },
+    {
+      "basename": "2026-01-13",
+      "path": "7.Daily 日周记/2026-01-13.md"
+    },
+    {
+      "basename": "2026-01-12",
+      "path": "7.Daily 日周记/2026-01-12.md"
     },
     {
       "basename": "inbox",
@@ -11,6 +19,10 @@
     {
       "basename": "本月安排",
       "path": "0.Inbox 缓存箱/本月安排.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-29 学习日报",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-01-23 学习日报",
       "path": "7.Daily 日周记/2026-01-23 学习日报.md"
-    },
-    {
-      "basename": "2026-01-25 学习日报",
-      "path": "7.Daily 日周记/2026-01-25 学习日报.md"
-    },
-    {
-      "basename": "2026-01-26 学习日报",
-      "path": "7.Daily 日周记/2026-01-26 学习日报.md"
-    },
-    {
-      "basename": "2026-01-27 学习日报",
-      "path": "7.Daily 日周记/2026-01-27 学习日报.md"
     }
   ],
   "omittedPaths": [],
