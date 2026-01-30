@@ -70,7 +70,7 @@ actions:
 ### 日常任务
 ```tasks
 not done
-#today
+due on today
 short mode
 sort by urgency
 limit 10
