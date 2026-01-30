@@ -5588,7 +5588,7 @@
     {
       "path": "0.Inbox 缓存箱/inbox.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769768799390
@@ -5607,13 +5607,19 @@
         },
         {
           "timestampMillis": 1769769009654
+        },
+        {
+          "timestampMillis": 1769769209165
+        },
+        {
+          "timestampMillis": 1769769228152
         }
       ]
     },
     {
-      "path": "0.Inbox 缓存箱/计划.md",
+      "path": "0.Inbox 缓存箱/本月安排.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769768913672
@@ -5623,6 +5629,12 @@
         },
         {
           "timestampMillis": 1769769023500
+        },
+        {
+          "timestampMillis": 1769769211276
+        },
+        {
+          "timestampMillis": 1769769230753
         }
       ]
     }

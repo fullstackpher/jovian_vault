@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769769256347-ykaw9xs6v",
+  "title": "如何居中显示Obsidian标题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769769256347,
+  "updatedAt": 1769769266790,
+  "lastResponseAt": 1769769266790,
+  "sessionId": "d676e4e1-5031-4718-918e-a2da21b591c0",
+  "sdkSessionId": "d676e4e1-5031-4718-918e-a2da21b591c0",
+  "currentNote": "0.Inbox 缓存箱/本月安排.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 14006,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 14090,
+    "percentage": 7
+  }
+}
