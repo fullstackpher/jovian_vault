@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "README",
+      "path": "1.Projects 项目/README.md"
+    },
+    {
+      "basename": "2026-01-29 学习日报",
+      "path": "0_Daily Notes/2026-01-29 学习日报.md"
+    },
+    {
+      "basename": "README",
       "path": "0.Inbox 缓存箱/README.md"
     },
     {
@@ -25,16 +33,8 @@
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md.md"
     },
     {
-      "basename": "README",
-      "path": "1.Projects 项目/README.md"
-    },
-    {
       "basename": "学习JavaScript",
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "2026-01-29 学习日报",
-      "path": "0_Daily Notes/2026-01-29 学习日报.md"
     },
     {
       "basename": "2026-01-19",
@@ -42,31 +42,31 @@
     },
     {
       "basename": "每日笔记",
-      "path": "_Templates/每日笔记.md"
+      "path": "7.Templates 模版/每日笔记.md"
     },
     {
       "basename": "项目模版",
-      "path": "_Templates/项目模版.md"
+      "path": "7.Templates 模版/项目模版.md"
     },
     {
       "basename": "日报模版",
-      "path": "_Templates/日报模版.md"
+      "path": "7.Templates 模版/日报模版.md"
     },
     {
       "basename": "闪念笔记模板",
-      "path": "_Templates/闪念笔记模板.md"
+      "path": "7.Templates 模版/闪念笔记模板.md"
     },
     {
       "basename": "实用代码片段",
-      "path": "_Templates/实用代码片段.md"
+      "path": "7.Templates 模版/实用代码片段.md"
     },
     {
       "basename": "问题解决方案",
-      "path": "_Templates/问题解决方案.md"
+      "path": "7.Templates 模版/问题解决方案.md"
     },
     {
       "basename": "项目开发记录",
-      "path": "_Templates/项目开发记录.md"
+      "path": "7.Templates 模版/项目开发记录.md"
     },
     {
       "basename": "2026-01-28 学习日报",

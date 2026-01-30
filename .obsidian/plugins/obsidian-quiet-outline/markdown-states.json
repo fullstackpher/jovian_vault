@@ -3201,5 +3201,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "1.Projects 项目/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 4
+      },
+      "to": {
+        "line": 4,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
   }
 }
