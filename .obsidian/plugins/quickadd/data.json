@@ -33,7 +33,7 @@
       "name": "创建日记",
       "type": "Template",
       "command": true,
-      "templatePath": "_Templates/每日笔记.md",
+      "templatePath": "Templates/每日笔记.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -41,7 +41,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "日记"
+          "7.Daily 日周记"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -93,7 +93,7 @@
       "name": "创建闪念",
       "type": "Template",
       "command": true,
-      "templatePath": "_Templates/闪念笔记模板.md",
+      "templatePath": "Templates/闪念笔记模板.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -101,7 +101,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "thought"
+          "0.Inbox 缓存箱"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -162,14 +162,18 @@
       "name": "创建项目",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "Templates/项目模版.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "1.Projects 项目/01-学习Java",
+          "1.Projects 项目/02-知识管理",
+          "1.Projects 项目/03-学习前端"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -188,7 +192,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "_Templates",
+  "templateFolderPath": "Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},

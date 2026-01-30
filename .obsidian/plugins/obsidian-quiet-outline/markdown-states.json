@@ -519,7 +519,7 @@
     ]
   },
   "Dashboard.md": {
-    "scroll": 24.249735036194668,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 51,
@@ -594,7 +594,7 @@
     "expandedKeys": []
   },
   "0_Daily Notes/2026-01-17 学习日报.md": {
-    "scroll": 60.97276945714143,
+    "scroll": 57.70256433020105,
     "cursor": {
       "from": {
         "line": 23,
@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 2.9774436090225564,
+    "scroll": 57.36614148719762,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 12
+        "line": 8,
+        "ch": 8
       },
       "to": {
-        "line": 4,
-        "ch": 12
+        "line": 8,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -3296,6 +3296,34 @@
       "to": {
         "line": 60,
         "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/每日笔记.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-01-17 学习日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []
