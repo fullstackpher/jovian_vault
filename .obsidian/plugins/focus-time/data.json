@@ -1209,8 +1209,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 9744000,
-      "openCount": 124
+      "duration": 9756000,
+      "openCount": 125
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1240,6 +1240,12 @@
       "fileId": "1769765138073",
       "filePath": "2026-01-30.md",
       "duration": 18000,
+      "openCount": 2
+    },
+    "90.resources/Inbox 面板搭建指南.md": {
+      "fileId": "1769765480075",
+      "filePath": "90.resources/Inbox 面板搭建指南.md",
+      "duration": 120000,
       "openCount": 2
     }
   }
