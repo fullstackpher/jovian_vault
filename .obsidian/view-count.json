@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "path": "2.Area 领域/Knowledge Management/markdown使用指南.md",
+      "path": "2.Areas 领域/Knowledge Management/markdown使用指南.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 55,
       "openLogs": [
@@ -265,7 +265,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/obsidian标签功能.md",
+      "path": "2.Areas 领域/Knowledge Management/obsidian标签功能.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 14,
       "openLogs": [
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/obsidian双链功能.md",
+      "path": "2.Areas 领域/Knowledge Management/obsidian双链功能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/obsidian图床测试.md",
+      "path": "2.Areas 领域/Knowledge Management/obsidian图床测试.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -1199,7 +1199,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/HTML标签.md",
+      "path": "2.Areas 领域/Frontend/HTML标签.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 41,
       "openLogs": [
@@ -1329,7 +1329,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS布局系统.md",
+      "path": "2.Areas 领域/Frontend/CSS布局系统.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 30,
       "openLogs": [
@@ -1573,7 +1573,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS视觉与表现.md",
+      "path": "2.Areas 领域/Frontend/CSS视觉与表现.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 26,
       "openLogs": [
@@ -1658,7 +1658,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS响应式设计.md",
+      "path": "2.Areas 领域/Frontend/CSS响应式设计.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 16,
       "openLogs": [
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS高级特性.md",
+      "path": "2.Areas 领域/Frontend/CSS高级特性.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -1741,7 +1741,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS工程化.md",
+      "path": "2.Areas 领域/Frontend/CSS工程化.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -1772,7 +1772,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/现代 CSS 新特性.md",
+      "path": "2.Areas 领域/Frontend/现代 CSS 新特性.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -2253,7 +2253,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/obsidian excalidraw插件.md",
+      "path": "2.Areas 领域/Knowledge Management/obsidian excalidraw插件.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -2331,7 +2331,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/table表格布局.md",
+      "path": "2.Areas 领域/Frontend/table表格布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -2368,7 +2368,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/float浮动+margin布局.md",
+      "path": "2.Areas 领域/Frontend/float浮动+margin布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -2414,7 +2414,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/inline-block布局.md",
+      "path": "2.Areas 领域/Frontend/inline-block布局.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -2466,7 +2466,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/flexbox布局.md",
+      "path": "2.Areas 领域/Frontend/flexbox布局.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -2503,7 +2503,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS基础概念.md",
+      "path": "2.Areas 领域/Frontend/CSS基础概念.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -2555,7 +2555,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/行内元素与块元素.md",
+      "path": "2.Areas 领域/Frontend/行内元素与块元素.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -2586,7 +2586,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS引入方式.md",
+      "path": "2.Areas 领域/Frontend/CSS引入方式.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2602,7 +2602,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS选择器.md",
+      "path": "2.Areas 领域/Frontend/CSS选择器.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2618,7 +2618,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS层叠、继承、值计算.md",
+      "path": "2.Areas 领域/Frontend/CSS层叠、继承、值计算.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -2634,7 +2634,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/盒模型.md",
+      "path": "2.Areas 领域/Frontend/盒模型.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -2668,7 +2668,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/响应式布局.md",
+      "path": "2.Areas 领域/Frontend/响应式布局.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -2776,7 +2776,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/文本与字体.md",
+      "path": "2.Areas 领域/Frontend/文本与字体.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 23,
       "openLogs": [
@@ -2852,7 +2852,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/背景.md",
+      "path": "2.Areas 领域/Frontend/背景.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 16,
       "openLogs": [
@@ -2907,7 +2907,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/边框与圆角.md",
+      "path": "2.Areas 领域/Frontend/边框与圆角.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/变化与过渡.md",
+      "path": "2.Areas 领域/Frontend/变化与过渡.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 19,
       "openLogs": [
@@ -3011,7 +3011,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/CSS动画.md",
+      "path": "2.Areas 领域/Frontend/CSS动画.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 12,
       "openLogs": [
@@ -3203,7 +3203,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/媒体查询.md",
+      "path": "2.Areas 领域/Frontend/媒体查询.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -3249,7 +3249,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/响应式单位.md",
+      "path": "2.Areas 领域/Frontend/响应式单位.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -3283,7 +3283,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/响应式图片.md",
+      "path": "2.Areas 领域/Frontend/响应式图片.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/PostCSS.md",
+      "path": "2.Areas 领域/Frontend/PostCSS.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3361,7 +3361,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/less.md",
+      "path": "2.Areas 领域/Frontend/less.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 10,
       "openLogs": [
@@ -3398,7 +3398,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/sass.md",
+      "path": "2.Areas 领域/Frontend/sass.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3548,7 +3548,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/JavaScript基础概念.md",
+      "path": "2.Areas 领域/Frontend/JavaScript基础概念.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3588,7 +3588,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/邂逅JavaScript.md",
+      "path": "2.Areas 领域/Frontend/邂逅JavaScript.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 11,
       "openLogs": [
@@ -3628,7 +3628,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/JavaScript基础.md",
+      "path": "2.Areas 领域/Frontend/JavaScript基础.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 15,
       "openLogs": [
@@ -3680,7 +3680,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/变量和数据类型.md",
+      "path": "2.Areas 领域/Frontend/变量和数据类型.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 16,
       "openLogs": [
@@ -3735,7 +3735,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/运算符.md",
+      "path": "2.Areas 领域/Frontend/运算符.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 27,
       "openLogs": [
@@ -3836,7 +3836,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/流程控制语句.md",
+      "path": "2.Areas 领域/Frontend/流程控制语句.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -3895,7 +3895,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/函数.md",
+      "path": "2.Areas 领域/Frontend/函数.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 23,
       "openLogs": [
@@ -3971,7 +3971,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/闭包.md",
+      "path": "2.Areas 领域/Frontend/闭包.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -3990,7 +3990,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/作用域.md",
+      "path": "2.Areas 领域/Frontend/作用域.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -4052,7 +4052,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Emoji Toolbar.md",
+      "path": "2.Areas 领域/Knowledge Management/Emoji Toolbar.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -4083,7 +4083,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Editing Toolbar.md",
+      "path": "2.Areas 领域/Knowledge Management/Editing Toolbar.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -4111,7 +4111,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Paste url into selection.md",
+      "path": "2.Areas 领域/Knowledge Management/Paste url into selection.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -4124,7 +4124,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Virtual Linker.md",
+      "path": "2.Areas 领域/Knowledge Management/Virtual Linker.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -4140,7 +4140,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/QuickAdd.md",
+      "path": "2.Areas 领域/Knowledge Management/QuickAdd.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -4162,7 +4162,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Calendar.md",
+      "path": "2.Areas 领域/Knowledge Management/Calendar.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -4184,7 +4184,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/面向对象.md",
+      "path": "2.Areas 领域/Frontend/面向对象.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 49,
       "openLogs": [
@@ -4338,7 +4338,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Claudian.md",
+      "path": "2.Areas 领域/Knowledge Management/Claudian.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 23,
       "openLogs": [
@@ -4523,7 +4523,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/README.md",
+      "path": "2.Areas 领域/README.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -4544,7 +4544,7 @@
     {
       "path": "3.Resources 资源/README.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
@@ -4554,6 +4554,9 @@
         },
         {
           "timestampMillis": 1769750785580
+        },
+        {
+          "timestampMillis": 1769750806339
         }
       ]
     },
@@ -4571,7 +4574,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Knowledge Management/Callout.md",
+      "path": "2.Areas 领域/Knowledge Management/Callout.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -4587,7 +4590,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/this.md",
+      "path": "2.Areas 领域/Frontend/this.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -4618,7 +4621,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/window.md",
+      "path": "2.Areas 领域/Frontend/window.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -4683,7 +4686,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/原型.md",
+      "path": "2.Areas 领域/Frontend/原型.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 33,
       "openLogs": [
@@ -4854,7 +4857,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/值类型和引用类型.md",
+      "path": "2.Areas 领域/Frontend/值类型和引用类型.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -4933,7 +4936,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/Frontend知识体系总览.md",
+      "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -4958,7 +4961,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/Math对象.md",
+      "path": "2.Areas 领域/Frontend/Math对象.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 5,
       "openLogs": [
@@ -4980,7 +4983,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/Array.md",
+      "path": "2.Areas 领域/Frontend/Array.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -5008,7 +5011,7 @@
       ]
     },
     {
-      "path": "2.Area 领域/Frontend/包装类型.md",
+      "path": "2.Areas 领域/Frontend/包装类型.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 6,
       "openLogs": [
