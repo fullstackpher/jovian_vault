@@ -3357,15 +3357,15 @@
     "expandedKeys": []
   },
   "1.Projects 项目/03-学习前端/学习JavaScript.md": {
-    "scroll": 48.61404973864116,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 63,
-        "ch": 5
+        "line": 61,
+        "ch": 83
       },
       "to": {
-        "line": 63,
-        "ch": 5
+        "line": 61,
+        "ch": 83
       }
     },
     "expandedKeys": []
@@ -3623,15 +3623,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 234.31981519507187,
+    "scroll": 155.1015625,
     "cursor": {
       "from": {
-        "line": 126,
-        "ch": 14
+        "line": 90,
+        "ch": 6
       },
       "to": {
-        "line": 126,
-        "ch": 14
+        "line": 90,
+        "ch": 12
       }
     },
     "expandedKeys": []

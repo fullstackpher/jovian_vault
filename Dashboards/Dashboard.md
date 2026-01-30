@@ -103,10 +103,10 @@ function ringProgress(p) {
 
 function calcProgress(page) {
     if (page.进度) return page.进度;
-    const tasks = dv.pages(`"${page.file.folder}"`).file.tasks || [];
-    const inTasks = tasks.filter(t => t.path === page.file.path);
-    if (inTasks.length === 0) return 0;
-    return Math.round(inTasks.filter(t => t.completed).length / inTasks.length * 100);
+    const allTasks = dv.pages().file.tasks;
+    const pageTasks = allTasks.filter(t => t.path === page.file.path);
+    if (pageTasks.length === 0) return 0;
+    return Math.round(pageTasks.filter(t => t.completed).length / pageTasks.length * 100);
 }
 
 const cols = ["待处理", "进行中", "已完成"];
@@ -138,10 +138,10 @@ function ringProgress(p) {
 
 function calcProgress(page) {
     if (page.进度) return page.进度;
-    const tasks = dv.pages(`"${page.file.folder}"`).file.tasks || [];
-    const inTasks = tasks.filter(t => t.path === page.file.path);
-    if (inTasks.length === 0) return 0;
-    return Math.round(inTasks.filter(t => t.completed).length / inTasks.length * 100);
+    const allTasks = dv.pages().file.tasks;
+    const pageTasks = allTasks.filter(t => t.path === page.file.path);
+    if (pageTasks.length === 0) return 0;
+    return Math.round(pageTasks.filter(t => t.completed).length / pageTasks.length * 100);
 }
 
 const pages = dv.pages('#项目')
