@@ -488,7 +488,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 180,
+      "totalTimesOpened": 185,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1029,6 +1029,21 @@
         },
         {
           "timestampMillis": 1769759399560
+        },
+        {
+          "timestampMillis": 1769759509204
+        },
+        {
+          "timestampMillis": 1769759512260
+        },
+        {
+          "timestampMillis": 1769759515136
+        },
+        {
+          "timestampMillis": 1769759521852
+        },
+        {
+          "timestampMillis": 1769759568031
         }
       ]
     },
@@ -5265,10 +5280,13 @@
     {
       "path": "8.Info 其他/添加快速任务.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
+        },
+        {
+          "timestampMillis": 1769759538612
         }
       ]
     },
@@ -5318,16 +5336,6 @@
         },
         {
           "timestampMillis": 1769759068410
-        }
-      ]
-    },
-    {
-      "path": "未命名.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1769759193775
         }
       ]
     }

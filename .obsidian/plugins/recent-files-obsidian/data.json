@@ -5,8 +5,8 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "添加快速任务",
+      "path": "8.Info 其他/添加快速任务.md"
     },
     {
       "basename": "制作obsidian主页",
@@ -23,10 +23,6 @@
     {
       "basename": "Dashboard使用指南",
       "path": "8.Info 其他/Dashboard使用指南.md"
-    },
-    {
-      "basename": "添加快速任务",
-      "path": "8.Info 其他/添加快速任务.md"
     },
     {
       "basename": "查看日历",
@@ -195,10 +191,6 @@
     {
       "basename": "包装类型",
       "path": "2.Areas 领域/Frontend/包装类型.md"
-    },
-    {
-      "basename": "值类型和引用类型",
-      "path": "2.Areas 领域/Frontend/值类型和引用类型.md"
     }
   ],
   "omittedPaths": [],
