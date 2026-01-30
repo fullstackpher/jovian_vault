@@ -3831,5 +3831,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/inbox.md": {
+    "scroll": 2.479338842975207,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

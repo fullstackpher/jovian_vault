@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "inbox",
+      "path": "0.Inbox 缓存箱/inbox.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Array",
       "path": "2.Areas 领域/Frontend/Array.md"
-    },
-    {
-      "basename": "this",
-      "path": "2.Areas 领域/Frontend/this.md"
     }
   ],
   "omittedPaths": [],

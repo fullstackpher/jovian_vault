@@ -5578,6 +5578,25 @@
           "timestampMillis": 1769765688441
         }
       ]
+    },
+    {
+      "path": "0.Inbox 缓存箱/inbox.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1769768799390
+        },
+        {
+          "timestampMillis": 1769768840252
+        },
+        {
+          "timestampMillis": 1769768842428
+        },
+        {
+          "timestampMillis": 1769768862974
+        }
+      ]
     }
   ]
 }
