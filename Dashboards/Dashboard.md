@@ -8,7 +8,7 @@ cssStyle: ""
 backgroundImage: ""
 tooltip: ""
 id: mode
-hidden: true
+hidden: false
 actions:
   - type: command
     command: theme:toggle-light-dark
