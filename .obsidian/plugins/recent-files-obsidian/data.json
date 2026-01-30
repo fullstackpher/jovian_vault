@@ -5,6 +5,26 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "项目看板",
+      "path": "1.Projects 项目/项目看板.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Areas 领域/README.md"
+    },
+    {
+      "basename": "今日日报模板",
+      "path": "Templates/今日日报模板.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "Templates/技术概念卡片.md"
+    },
+    {
       "basename": "添加快速任务",
       "path": "8.Info 其他/添加快速任务.md"
     },
@@ -41,10 +61,6 @@
       "path": "0.Inbox 缓存箱/README.md"
     },
     {
-      "basename": "项目看板",
-      "path": "1.Projects 项目/项目看板.md"
-    },
-    {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
       "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "README",
       "path": "5.Zattchments 附件/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Areas 领域/README.md"
     },
     {
       "basename": "学习Obsidian",
@@ -91,10 +103,6 @@
     {
       "basename": "2026-01-29 学习日报",
       "path": "7.Daily 日周记/2026-01-29 学习日报.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
     },
     {
       "basename": "README",
@@ -187,10 +195,6 @@
     {
       "basename": "闭包",
       "path": "2.Areas 领域/Frontend/闭包.md"
-    },
-    {
-      "basename": "包装类型",
-      "path": "2.Areas 领域/Frontend/包装类型.md"
     }
   ],
   "omittedPaths": [],

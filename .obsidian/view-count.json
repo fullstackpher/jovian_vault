@@ -488,7 +488,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 185,
+      "totalTimesOpened": 190,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1044,6 +1044,21 @@
         },
         {
           "timestampMillis": 1769759568031
+        },
+        {
+          "timestampMillis": 1769759659470
+        },
+        {
+          "timestampMillis": 1769759725984
+        },
+        {
+          "timestampMillis": 1769759767083
+        },
+        {
+          "timestampMillis": 1769759780801
+        },
+        {
+          "timestampMillis": 1769759793461
         }
       ]
     },
@@ -1200,7 +1215,7 @@
     {
       "path": "1.Projects 项目/项目看板.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 23,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -1270,6 +1285,9 @@
         },
         {
           "timestampMillis": 1769756879483
+        },
+        {
+          "timestampMillis": 1769759778918
         }
       ]
     },
@@ -1639,14 +1657,17 @@
     },
     {
       "path": "Templates/技术概念卡片.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1768556030530
         },
         {
           "timestampMillis": 1768648957260
+        },
+        {
+          "timestampMillis": 1769759688737
         }
       ]
     },
@@ -2099,7 +2120,7 @@
     {
       "path": "Templates/日报模版.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -2181,6 +2202,9 @@
         },
         {
           "timestampMillis": 1769750923498
+        },
+        {
+          "timestampMillis": 1769759690973
         }
       ]
     },
@@ -4638,7 +4662,7 @@
     {
       "path": "2.Areas 领域/README.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769495704649
@@ -4654,6 +4678,9 @@
         },
         {
           "timestampMillis": 1769753413908
+        },
+        {
+          "timestampMillis": 1769759758435
         }
       ]
     },
@@ -5336,6 +5363,19 @@
         },
         {
           "timestampMillis": 1769759068410
+        }
+      ]
+    },
+    {
+      "path": "Templates/今日日报模板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769759660477
+        },
+        {
+          "timestampMillis": 1769759714125
         }
       ]
     }

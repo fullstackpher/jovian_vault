@@ -3399,7 +3399,7 @@
     "expandedKeys": []
   },
   "2.Areas 领域/README.md": {
-    "scroll": 106.97788744038155,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 120,
@@ -3623,20 +3623,76 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 13.85687622923951,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 17
+        "line": 167,
+        "ch": 0
       },
       "to": {
-        "line": 23,
-        "ch": 17
+        "line": 167,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Frontend知识体系.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/今日日报模板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 0
+      },
+      "to": {
+        "line": 26,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/技术概念卡片.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/日报模版.md": {
+    "scroll": 37.273278452220296,
+    "cursor": {
+      "from": {
+        "line": 52,
+        "ch": 10
+      },
+      "to": {
+        "line": 52,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "周报模板.md": {
     "scroll": 0,
     "cursor": {
       "from": {
