@@ -188,6 +188,18 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "2f5aceae-0f05-491e-a315-ef8759ac9ebb",
+      "name": "新建任务",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "新建任务",
+        "id": "142f5a98-4c23-4b4c-8425-2d91d09a203e",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",

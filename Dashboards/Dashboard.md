@@ -41,7 +41,7 @@ id: todo-list
 hidden: true
 actions:
   - type: command
-    command: 
+    command: QuickAdd: 新建待办
 
 ```
 
