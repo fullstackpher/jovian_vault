@@ -5,6 +5,14 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "每日笔记",
+      "path": "Templates/每日笔记.md"
+    },
+    {
+      "basename": "2026-01-29",
+      "path": "7.Daily 日周记/2026-01-29.md"
+    },
+    {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
     },
@@ -97,10 +105,6 @@
       "path": "7.Daily 日周记/2026-01-17 学习日报.md"
     },
     {
-      "basename": "每日笔记",
-      "path": "Templates/每日笔记.md"
-    },
-    {
       "basename": "2026-01-29 学习日报",
       "path": "7.Daily 日周记/2026-01-29 学习日报.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "背景",
       "path": "2.Areas 领域/Frontend/背景.md"
-    },
-    {
-      "basename": "2026-01-29",
-      "path": "7.Daily 日周记/2026-01-29.md"
     },
     {
       "basename": "2026-01-19",

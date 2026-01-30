@@ -3623,15 +3623,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 3.859648969836701,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 49
+        "line": 3,
+        "ch": 0
       },
       "to": {
-        "line": 9,
-        "ch": 49
+        "line": 3,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3701,6 +3701,20 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-01-29.md": {
+    "scroll": 32.46744712193807,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },
