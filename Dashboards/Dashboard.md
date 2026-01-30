@@ -7,8 +7,8 @@ class: ""
 cssStyle: ""
 backgroundImage: ""
 tooltip: ""
-id: mode
-hidden: false
+id: dark
+hidden: true
 actions:
   - type: command
     command: theme:toggle-light-dark
@@ -23,13 +23,31 @@ class: ""
 cssStyle: ""
 backgroundImage: ""
 tooltip: ""
-id: mode
-hidden: false
+id: light
+hidden: true
 actions:
   - type: command
     command: theme:toggle-light-dark
 
 ```
+
+```meta-bind-button
+label: 关灯
+icon: moon
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: todo-list
+hidden: true
+actions:
+  - type: command
+    command: theme:toggle-light-dark
+
+```
+
+`BUTTON[dark]` `BUTTON[light]`
 
 
 ---
