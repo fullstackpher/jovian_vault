@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-30",
+      "path": "7.Daily 日周记/2026-01-30.md"
+    },
+    {
+      "basename": "每日笔记",
+      "path": "Templates/每日笔记.md"
+    },
+    {
+      "basename": "今日日报模板",
+      "path": "Templates/今日日报模板.md"
+    },
+    {
+      "basename": "2026-01-17 学习日报",
+      "path": "7.Daily 日周记/2026-01-17 学习日报.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "本月安排",
       "path": "0.Inbox 缓存箱/本月安排.md"
-    },
-    {
-      "basename": "2026-01-30",
-      "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
       "basename": "2026-01-13",
@@ -65,10 +77,6 @@
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md"
     },
     {
-      "basename": "每日笔记",
-      "path": "Templates/每日笔记.md"
-    },
-    {
       "basename": "Frontend知识体系总览",
       "path": "2.Areas 领域/Frontend/Frontend知识体系总览.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "README",
       "path": "2.Areas 领域/README.md"
-    },
-    {
-      "basename": "今日日报模板",
-      "path": "Templates/今日日报模板.md"
     },
     {
       "basename": "日报模版",
@@ -143,10 +147,6 @@
     {
       "basename": "面向对象",
       "path": "2.Areas 领域/Frontend/面向对象.md"
-    },
-    {
-      "basename": "2026-01-17 学习日报",
-      "path": "7.Daily 日周记/2026-01-17 学习日报.md"
     },
     {
       "basename": "README",

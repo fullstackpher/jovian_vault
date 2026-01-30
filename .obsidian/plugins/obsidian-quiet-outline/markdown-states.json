@@ -3301,7 +3301,7 @@
     "expandedKeys": []
   },
   "Templates/每日笔记.md": {
-    "scroll": 0,
+    "scroll": 26.454817685397217,
     "cursor": {
       "from": {
         "line": 4,
@@ -3315,7 +3315,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-17 学习日报.md": {
-    "scroll": 0,
+    "scroll": 63.512242381539544,
     "cursor": {
       "from": {
         "line": 23,
@@ -3623,7 +3623,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 214.7254225393298,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 49,
@@ -3651,7 +3651,7 @@
     "expandedKeys": []
   },
   "Templates/今日日报模板.md": {
-    "scroll": 0,
+    "scroll": 70.6084721729883,
     "cursor": {
       "from": {
         "line": 26,
@@ -3921,11 +3921,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 0
+        "ch": 4
       },
       "to": {
         "line": 4,
-        "ch": 0
+        "ch": 4
       }
     },
     "expandedKeys": []
