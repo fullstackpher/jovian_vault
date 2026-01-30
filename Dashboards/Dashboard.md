@@ -14,21 +14,7 @@ actions:
     command: theme:toggle-light-dark
 
 ```
-```meta-bind-button
-label: 开灯
-icon: sun
-style: default
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: "1001"
-hidden: true
-actions:
-  - type: command
-    command: ""
 
-```
 
 
 
