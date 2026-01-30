@@ -3271,5 +3271,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "6.Templates 模版/日报模版.md": {
+    "scroll": 135.99487080695533,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
