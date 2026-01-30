@@ -1182,7 +1182,7 @@
     {
       "path": "1.Projects 项目/项目看板.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 22,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -1249,6 +1249,9 @@
         },
         {
           "timestampMillis": 1769756605976
+        },
+        {
+          "timestampMillis": 1769756879483
         }
       ]
     },
@@ -2290,28 +2293,6 @@
         },
         {
           "timestampMillis": 1769752004632
-        }
-      ]
-    },
-    {
-      "path": "Templates/闪念笔记模板.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1768651043593
-        },
-        {
-          "timestampMillis": 1768651593545
-        },
-        {
-          "timestampMillis": 1768651661001
-        },
-        {
-          "timestampMillis": 1768906529517
-        },
-        {
-          "timestampMillis": 1769690197569
         }
       ]
     },
@@ -4559,7 +4540,7 @@
     {
       "path": "0.Inbox 缓存箱/README.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -4608,6 +4589,9 @@
         },
         {
           "timestampMillis": 1769753995764
+        },
+        {
+          "timestampMillis": 1769756881453
         }
       ]
     },
@@ -5026,7 +5010,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769607411780
@@ -5048,6 +5032,15 @@
         },
         {
           "timestampMillis": 1769753993929
+        },
+        {
+          "timestampMillis": 1769756893730
+        },
+        {
+          "timestampMillis": 1769756943354
+        },
+        {
+          "timestampMillis": 1769756971437
         }
       ]
     },
@@ -5244,6 +5237,22 @@
         },
         {
           "timestampMillis": 1769756595932
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1769756910147
+        },
+        {
+          "timestampMillis": 1769756945988
+        },
+        {
+          "timestampMillis": 1769756973255
         }
       ]
     }

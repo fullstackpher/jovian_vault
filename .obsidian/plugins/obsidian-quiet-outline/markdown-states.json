@@ -3189,7 +3189,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 0,
+    "scroll": 14.25034965034965,
     "cursor": {
       "from": {
         "line": 16,
@@ -3505,6 +3505,34 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/未命名.md": {
+    "scroll": 2.479338842975207,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/2026-01-30-待办事项清单.md": {
+    "scroll": 2.479338842975207,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

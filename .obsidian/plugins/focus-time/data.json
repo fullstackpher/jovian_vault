@@ -591,8 +591,8 @@
     "0.Inbox 缓存箱/README.md": {
       "fileId": "1769495523576",
       "filePath": "0.Inbox 缓存箱/README.md",
-      "duration": 1452000,
-      "openCount": 15
+      "duration": 1464000,
+      "openCount": 16
     },
     "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md": {
       "fileId": "1769496079528",
@@ -1119,8 +1119,8 @@
     "0.Inbox 缓存箱/2026-01-29-待办事项清单.md": {
       "fileId": "1769607412979",
       "filePath": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md",
-      "duration": 258000,
-      "openCount": 8
+      "duration": 282000,
+      "openCount": 11
     },
     "HOME.md": {
       "fileId": "1769754571248",
@@ -1155,8 +1155,14 @@
     "1.Projects 项目/项目看板.md": {
       "fileId": "1769756608307",
       "filePath": "1.Projects 项目/项目看板.md",
-      "duration": 12000,
-      "openCount": 1
+      "duration": 24000,
+      "openCount": 3
+    },
+    "0.Inbox 缓存箱/2026-01-30-待办事项清单.md": {
+      "fileId": "1769756872327",
+      "filePath": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
+      "duration": 186000,
+      "openCount": 4
     }
   }
 }

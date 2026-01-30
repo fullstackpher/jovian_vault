@@ -21,10 +21,6 @@
     {
       "folder": "7.Daily 日周记",
       "template": "Templates/每日笔记.md"
-    },
-    {
-      "folder": "0.Inbox 缓存箱",
-      "template": "Templates/闪念笔记模板.md"
     }
   ],
   "enable_file_templates": false,

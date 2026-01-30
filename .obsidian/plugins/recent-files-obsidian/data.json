@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-30-待办事项清单",
+      "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
+    },
+    {
+      "basename": "2026-01-29-待办事项清单",
+      "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md"
+    },
+    {
+      "basename": "README",
+      "path": "0.Inbox 缓存箱/README.md"
+    },
+    {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboard.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox 缓存箱/README.md"
-    },
-    {
-      "basename": "2026-01-29-待办事项清单",
-      "path": "0.Inbox 缓存箱/2026-01-29-待办事项清单.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -91,10 +95,6 @@
     {
       "basename": "项目模版",
       "path": "Templates/项目模版.md"
-    },
-    {
-      "basename": "闪念笔记模板",
-      "path": "Templates/闪念笔记模板.md"
     },
     {
       "basename": "实用代码片段",
@@ -195,10 +195,6 @@
     {
       "basename": "学习HTML",
       "path": "1.Projects 项目/03-学习前端/学习HTML.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "2.Areas 领域/Frontend/运算符.md"
     }
   ],
   "omittedPaths": [],
