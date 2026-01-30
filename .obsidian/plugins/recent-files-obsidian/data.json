@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "inbox",
-      "path": "0.Inbox 缓存箱/inbox.md"
+      "basename": "未命名",
+      "path": "0.Inbox 缓存箱/未命名.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "inbox",
+      "path": "0.Inbox 缓存箱/inbox.md"
     },
     {
       "basename": "2026-01-29 学习日报",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-27 学习日报",
       "path": "7.Daily 日周记/2026-01-27 学习日报.md"
-    },
-    {
-      "basename": "Array",
-      "path": "2.Areas 领域/Frontend/Array.md"
     }
   ],
   "omittedPaths": [],
