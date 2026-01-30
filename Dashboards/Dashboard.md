@@ -45,7 +45,6 @@ actions:
 
 ```
 
-
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]`
 ```meta-bind-button
 label: DailyLog

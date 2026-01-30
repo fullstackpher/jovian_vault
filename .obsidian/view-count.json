@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 240,
+      "totalTimesOpened": 243,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1218,6 +1218,15 @@
         },
         {
           "timestampMillis": 1769780142168
+        },
+        {
+          "timestampMillis": 1769780200222
+        },
+        {
+          "timestampMillis": 1769780268015
+        },
+        {
+          "timestampMillis": 1769780318985
         }
       ]
     },
@@ -5703,7 +5712,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769779566749
@@ -5716,6 +5725,12 @@
         },
         {
           "timestampMillis": 1769780048839
+        },
+        {
+          "timestampMillis": 1769780181242
+        },
+        {
+          "timestampMillis": 1769780228129
         }
       ]
     }
