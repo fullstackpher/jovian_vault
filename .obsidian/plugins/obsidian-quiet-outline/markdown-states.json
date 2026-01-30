@@ -3707,7 +3707,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-29.md": {
-    "scroll": 30.45834067289061,
+    "scroll": 1.1417910447761195,
     "cursor": {
       "from": {
         "line": 4,
@@ -3920,12 +3920,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 4
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 4,
-        "ch": 4
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
