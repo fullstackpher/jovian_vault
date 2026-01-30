@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769752437337-bnydifml3",
+  "title": "Update README files for all top-level directories",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769752437338,
+  "updatedAt": 1769752635855,
+  "lastResponseAt": 1769752635855,
+  "sessionId": "ad636df5-980f-4e2f-ac7f-ac9240744290",
+  "sdkSessionId": "ad636df5-980f-4e2f-ac7f-ac9240744290",
+  "currentNote": "0.Inbox 缓存箱/README.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 1954,
+    "cacheReadInputTokens": 31150,
+    "contextWindow": 200000,
+    "contextTokens": 33188,
+    "percentage": 17
+  }
+}

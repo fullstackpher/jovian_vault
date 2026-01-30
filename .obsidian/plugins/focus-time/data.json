@@ -597,7 +597,7 @@
     "0.Inbox 缓存箱/README.md": {
       "fileId": "1769495523576",
       "filePath": "0.Inbox 缓存箱/README.md",
-      "duration": 690000,
+      "duration": 990000,
       "openCount": 10
     },
     "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md": {
@@ -1095,8 +1095,14 @@
     "Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboard.md",
-      "duration": 6546000,
-      "openCount": 99
+      "duration": 6690000,
+      "openCount": 100
+    },
+    "2.Areas 领域/Frontend/面向对象.md": {
+      "fileId": "1769752326963",
+      "filePath": "2.Areas 领域/Frontend/面向对象.md",
+      "duration": 48000,
+      "openCount": 2
     }
   }
 }
