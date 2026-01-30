@@ -30,20 +30,7 @@ actions:
 
 ```
 
-```meta-bind-button
-label: 开灯
-icon: sun
-style: default
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: mode
-hidden: false
-actions:
-  - type: command
-    command: theme:toggle-light-dark
-```
+
 
 ---
 
