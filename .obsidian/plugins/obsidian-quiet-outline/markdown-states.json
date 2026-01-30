@@ -3957,5 +3957,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "8.Info 其他/0-Inbox.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 6
+      },
+      "to": {
+        "line": 4,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
   }
 }
