@@ -5639,7 +5639,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769771211786
@@ -5679,6 +5679,22 @@
         },
         {
           "timestampMillis": 1769774847476
+        },
+        {
+          "timestampMillis": 1769774977793
+        },
+        {
+          "timestampMillis": 1769776445234
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/0-Inbox.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769776782092
         }
       ]
     }
