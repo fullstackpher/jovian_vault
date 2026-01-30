@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "2026-01-30",
       "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
       "basename": "2026-01-29 学习日报",
       "path": "7.Daily 日周记/2026-01-29 学习日报.md"
+    },
+    {
+      "basename": "2026-01-30-待办事项清单",
+      "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-29",
@@ -29,20 +33,12 @@
       "path": "7.Daily 日周记/2026-01-17 学习日报.md"
     },
     {
-      "basename": "本月安排",
-      "path": "0.Inbox 缓存箱/本月安排.md"
-    },
-    {
       "basename": "2026-01-13",
       "path": "7.Daily 日周记/2026-01-13.md"
     },
     {
       "basename": "2026-01-12",
       "path": "7.Daily 日周记/2026-01-12.md"
-    },
-    {
-      "basename": "inbox",
-      "path": "0.Inbox 缓存箱/inbox.md"
     },
     {
       "basename": "学习JavaScript",
@@ -63,10 +59,6 @@
     {
       "basename": "学习Obsidian",
       "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "2026-01-30-待办事项清单",
-      "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",

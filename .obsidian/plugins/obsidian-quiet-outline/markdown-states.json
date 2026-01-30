@@ -3525,15 +3525,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/2026-01-30-待办事项清单.md": {
-    "scroll": 2.479338842975207,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 0
+        "line": 8,
+        "ch": 19
       },
       "to": {
-        "line": 10,
-        "ch": 0
+        "line": 8,
+        "ch": 19
       }
     },
     "expandedKeys": []
@@ -3920,12 +3920,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 6,
+        "ch": 29
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 6,
+        "ch": 29
       }
     },
     "expandedKeys": []

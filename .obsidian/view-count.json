@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 230,
+      "totalTimesOpened": 231,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1188,6 +1188,9 @@
         },
         {
           "timestampMillis": 1769773924657
+        },
+        {
+          "timestampMillis": 1769774352536
         }
       ]
     },
@@ -5400,7 +5403,7 @@
     {
       "path": "7.Daily 日周记/2026-01-29 学习日报.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769689407086
@@ -5437,6 +5440,9 @@
         },
         {
           "timestampMillis": 1769772437237
+        },
+        {
+          "timestampMillis": 1769774371063
         }
       ]
     },
@@ -5491,7 +5497,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769756910147
@@ -5510,6 +5516,9 @@
         },
         {
           "timestampMillis": 1769765031944
+        },
+        {
+          "timestampMillis": 1769774357084
         }
       ]
     },
@@ -5625,83 +5634,9 @@
       ]
     },
     {
-      "path": "0.Inbox 缓存箱/inbox.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
-      "openLogs": [
-        {
-          "timestampMillis": 1769768799390
-        },
-        {
-          "timestampMillis": 1769768840252
-        },
-        {
-          "timestampMillis": 1769768842428
-        },
-        {
-          "timestampMillis": 1769768862974
-        },
-        {
-          "timestampMillis": 1769768876679
-        },
-        {
-          "timestampMillis": 1769769009654
-        },
-        {
-          "timestampMillis": 1769769209165
-        },
-        {
-          "timestampMillis": 1769769228152
-        },
-        {
-          "timestampMillis": 1769769365992
-        },
-        {
-          "timestampMillis": 1769769458244
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox 缓存箱/本月安排.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
-      "openLogs": [
-        {
-          "timestampMillis": 1769768913672
-        },
-        {
-          "timestampMillis": 1769768998202
-        },
-        {
-          "timestampMillis": 1769769023500
-        },
-        {
-          "timestampMillis": 1769769211276
-        },
-        {
-          "timestampMillis": 1769769230753
-        },
-        {
-          "timestampMillis": 1769769355030
-        },
-        {
-          "timestampMillis": 1769769400184
-        },
-        {
-          "timestampMillis": 1769769434129
-        },
-        {
-          "timestampMillis": 1769771934557
-        },
-        {
-          "timestampMillis": 1769771936224
-        }
-      ]
-    },
-    {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769771211786
@@ -5735,6 +5670,9 @@
         },
         {
           "timestampMillis": 1769773153456
+        },
+        {
+          "timestampMillis": 1769774371921
         }
       ]
     }
