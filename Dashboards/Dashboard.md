@@ -14,7 +14,6 @@ actions:
     command: theme:toggle-light-dark
 
 ```
-
 ```meta-bind-button
 label: 关灯
 icon: moon
@@ -30,7 +29,6 @@ actions:
     command: theme:toggle-light-dark
 
 ```
-
 ```meta-bind-button
 label: 关灯
 icon: moon
@@ -47,8 +45,7 @@ actions:
 
 ```
 
-`BUTTON[dark]` `BUTTON[light]`
-
+`BUTTON[dark]` `BUTTON[light]` 
 
 ---
 
