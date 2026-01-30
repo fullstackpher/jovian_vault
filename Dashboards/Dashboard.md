@@ -48,7 +48,7 @@ actions:
 
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`
 
-- [/] 制作完善obsidian主页 ⏫ ➕ 2026-01-30
+- [x] 制作完善obsidian主页 ⏫ ➕ 2026-01-30 ✅ 2026-01-30
 
 ## 📅 今日概览
 

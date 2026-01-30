@@ -1209,8 +1209,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 9372000,
-      "openCount": 122
+      "duration": 9510000,
+      "openCount": 123
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1235,6 +1235,12 @@
       "filePath": "2.Areas 领域/Frontend/Frontend知识体系总览.md",
       "duration": 36000,
       "openCount": 4
+    },
+    "2026-01-30.md": {
+      "fileId": "1769765138073",
+      "filePath": "2026-01-30.md",
+      "duration": 18000,
+      "openCount": 2
     }
   }
 }
