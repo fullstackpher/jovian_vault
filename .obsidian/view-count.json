@@ -5233,7 +5233,7 @@
     {
       "path": "Home.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769756581071
@@ -5246,6 +5246,9 @@
         },
         {
           "timestampMillis": 1769757493811
+        },
+        {
+          "timestampMillis": 1769757844400
         }
       ]
     },
@@ -5321,10 +5324,13 @@
     {
       "path": "8.Info 其他/制作obsidian主页.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769757297908
+        },
+        {
+          "timestampMillis": 1769757832055
         }
       ]
     }
