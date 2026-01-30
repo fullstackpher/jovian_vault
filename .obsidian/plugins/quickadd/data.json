@@ -188,6 +188,18 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "1215f1a1-13a4-443b-96de-9c4be0265819",
+      "name": "开灯",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "开灯",
+        "id": "414c2501-093b-41fb-b513-e6890795fe48",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",
