@@ -3859,5 +3859,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/本月安排.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

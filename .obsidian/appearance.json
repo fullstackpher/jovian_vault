@@ -2,7 +2,8 @@
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "rainbow-tree",
-    "progress-bars"
+    "progress-bars",
+    "centered-headings"
   ],
   "theme": "moonstone"
 }

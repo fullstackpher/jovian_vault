@@ -1,0 +1,9 @@
+/* 让所有标题居中 */
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+/* 或者只让特定级别的标题居中 */
+h1, h2, h3 {
+    text-align: center;
+}
