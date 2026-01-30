@@ -30,8 +30,8 @@ actions:
 
 ```
 ```meta-bind-button
-label: 关灯
-icon: moon
+label: todo-list
+icon: list-todo
 style: default
 class: ""
 cssStyle: ""
@@ -41,11 +41,13 @@ id: todo-list
 hidden: true
 actions:
   - type: command
-    command: theme:toggle-light-dark
+    command: 
 
 ```
 
-`BUTTON[dark]` `BUTTON[light]` 
+
+
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`
 
 ---
 
