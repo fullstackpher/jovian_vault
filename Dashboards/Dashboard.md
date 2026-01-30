@@ -41,9 +41,10 @@ id: todo-list
 hidden: true
 actions:
   - type: command
-    command: quickadd:choice:2f5aceae-0f05-491e-a315-ef8759ac9ebb
+    command: quickadd:choice:31152f46-a3b4-46a2-a58c-c8617f8c8243
 
 ```
+
 
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]`
 ```meta-bind-button
