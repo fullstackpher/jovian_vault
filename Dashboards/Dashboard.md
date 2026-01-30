@@ -45,13 +45,26 @@ actions:
 
 ```
 
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` 
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]`
+```meta-bind-button
+label: DailyLog
+icon: clock-8
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: daily
+hidden: true
+actions:
+  - type: command
+    command: quickadd:choice:3e140b36-edc5-42c1-9a3e-bfc747cc3482
 
-
+```
 
 ---
 
-## ✅ 今日任务
+## ✅ 今日待办
 
 ### 日常任务
 ```tasks
