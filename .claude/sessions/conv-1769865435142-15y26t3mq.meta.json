@@ -3,18 +3,18 @@
   "title": "修改最近一周日记任务查询",
   "titleGenerationStatus": "success",
   "createdAt": 1769865435142,
-  "updatedAt": 1769865529760,
-  "lastResponseAt": 1769865529760,
+  "updatedAt": 1769865705375,
+  "lastResponseAt": 1769865705375,
   "sessionId": "73dc0c9f-d712-4036-a9d1-1dc0cb3ba1e2",
   "sdkSessionId": "73dc0c9f-d712-4036-a9d1-1dc0cb3ba1e2",
   "currentNote": "Dashboards/Dashboard.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 242,
-    "cacheCreationInputTokens": 633,
-    "cacheReadInputTokens": 17129,
+    "inputTokens": 234,
+    "cacheCreationInputTokens": 1250,
+    "cacheReadInputTokens": 21151,
     "contextWindow": 200000,
-    "contextTokens": 18004,
-    "percentage": 9
+    "contextTokens": 22635,
+    "percentage": 11
   }
 }
