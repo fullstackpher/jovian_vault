@@ -4400,8 +4400,8 @@
     },
     {
       "path": "2.Areas 领域/Knowledge Management/Emoji Toolbar.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769338648611
@@ -4426,6 +4426,12 @@
         },
         {
           "timestampMillis": 1769424543364
+        },
+        {
+          "timestampMillis": 1769837930301
+        },
+        {
+          "timestampMillis": 1769837937904
         }
       ]
     },
@@ -5754,7 +5760,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1769779566749
@@ -5803,6 +5809,9 @@
         },
         {
           "timestampMillis": 1769837633183
+        },
+        {
+          "timestampMillis": 1769837938731
         }
       ]
     },
@@ -5819,10 +5828,13 @@
     {
       "path": "8.Info 其他/Admonition插件使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769837256017
+        },
+        {
+          "timestampMillis": 1769837934958
         }
       ]
     }

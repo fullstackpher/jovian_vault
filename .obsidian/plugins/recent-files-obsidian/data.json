@@ -5,6 +5,10 @@
       "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
+      "basename": "Emoji Toolbar",
+      "path": "2.Areas 领域/Knowledge Management/Emoji Toolbar.md"
+    },
+    {
       "basename": "Admonition插件使用指南",
       "path": "8.Info 其他/Admonition插件使用指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-20 学习日报",
       "path": "7.Daily 日周记/2026-01-20 学习日报.md"
-    },
-    {
-      "basename": "2026-01-21 学习日报",
-      "path": "7.Daily 日周记/2026-01-21 学习日报.md"
     }
   ],
   "omittedPaths": [],

@@ -3917,15 +3917,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-30.md": {
-    "scroll": 14.563868531642576,
+    "scroll": 11.347222646077475,
     "cursor": {
       "from": {
         "line": 35,
-        "ch": 53
+        "ch": 25
       },
       "to": {
         "line": 35,
-        "ch": 68
+        "ch": 25
       }
     },
     "expandedKeys": []
@@ -3996,6 +3996,20 @@
       "to": {
         "line": 274,
         "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas 领域/Knowledge Management/Emoji Toolbar.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 16
+      },
+      "to": {
+        "line": 8,
+        "ch": 16
       }
     },
     "expandedKeys": []
