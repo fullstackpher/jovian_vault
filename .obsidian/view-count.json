@@ -6195,7 +6195,7 @@
     {
       "path": "7.Daily 日周记/2026-01-31.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769857593451
@@ -6208,19 +6208,28 @@
         },
         {
           "timestampMillis": 1769857971920
+        },
+        {
+          "timestampMillis": 1769858102189
+        },
+        {
+          "timestampMillis": 1769858157973
         }
       ]
     },
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769857924458
         },
         {
           "timestampMillis": 1769857986952
+        },
+        {
+          "timestampMillis": 1769858117757
         }
       ]
     }
