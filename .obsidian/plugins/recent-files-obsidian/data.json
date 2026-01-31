@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-31-参考B站博主的日记模版",
@@ -115,10 +119,6 @@
     {
       "basename": "README",
       "path": "2.Areas 领域/README.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
     },
     {
       "basename": "技术概念卡片",

@@ -33,7 +33,7 @@
       "name": "创建日记",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/每日笔记.md",
+      "templatePath": "Templates/日记模版.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
