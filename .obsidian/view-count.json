@@ -1858,7 +1858,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 55,
+      "totalTimesOpened": 56,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2024,6 +2024,9 @@
         },
         {
           "timestampMillis": 1769850737852
+        },
+        {
+          "timestampMillis": 1769851200038
         }
       ]
     },
@@ -6100,19 +6103,6 @@
       "openLogs": [
         {
           "timestampMillis": 1769845904468
-        }
-      ]
-    },
-    {
-      "path": "7.Daily 日周记/2026-01-31.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1769850770132
-        },
-        {
-          "timestampMillis": 1769850800075
         }
       ]
     }
