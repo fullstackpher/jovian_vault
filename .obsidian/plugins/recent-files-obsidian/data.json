@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-01-31",
+      "path": "7.Daily 日周记/2026-01-31.md"
+    },
+    {
       "basename": "项目看板",
       "path": "1.Projects 项目/项目看板.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
     },
     {
       "basename": "日记模版",
@@ -15,14 +23,6 @@
     {
       "basename": "日报模版",
       "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "2026-01-31",
-      "path": "7.Daily 日周记/2026-01-31.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
     },
     {
       "basename": "2026-01-30",
