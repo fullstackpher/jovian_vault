@@ -3539,7 +3539,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/查看日历.md": {
-    "scroll": 25.498263597488403,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 13,
@@ -3553,7 +3553,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/添加快速任务.md": {
-    "scroll": 22.84604715672677,
+    "scroll": 15.961309523809524,
     "cursor": {
       "from": {
         "line": 39,
@@ -3987,15 +3987,15 @@
     "expandedKeys": []
   },
   "8.Info 其他/Admonition插件使用指南.md": {
-    "scroll": 252.5772622426351,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 274,
-        "ch": 15
+        "line": 251,
+        "ch": 11
       },
       "to": {
-        "line": 274,
-        "ch": 15
+        "line": 251,
+        "ch": 11
       }
     },
     "expandedKeys": []

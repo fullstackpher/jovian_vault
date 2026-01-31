@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 250,
+      "totalTimesOpened": 251,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1248,6 +1248,9 @@
         },
         {
           "timestampMillis": 1769841219503
+        },
+        {
+          "timestampMillis": 1769841491461
         }
       ]
     },
@@ -5646,25 +5649,18 @@
       ]
     },
     {
-      "path": "8.Info 其他/查看日历.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1769757186566
-        }
-      ]
-    },
-    {
       "path": "8.Info 其他/添加快速任务.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
         },
         {
           "timestampMillis": 1769759538612
+        },
+        {
+          "timestampMillis": 1769841322274
         }
       ]
     },
@@ -5700,8 +5696,8 @@
     },
     {
       "path": "8.Info 其他/制作obsidian主页.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769757297908
@@ -5714,6 +5710,9 @@
         },
         {
           "timestampMillis": 1769759068410
+        },
+        {
+          "timestampMillis": 1769841331528
         }
       ]
     },
@@ -5758,8 +5757,8 @@
     },
     {
       "path": "8.Info 其他/0-Inbox.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -5781,6 +5780,12 @@
         },
         {
           "timestampMillis": 1769778044627
+        },
+        {
+          "timestampMillis": 1769841278186
+        },
+        {
+          "timestampMillis": 1769841321050
         }
       ]
     },
@@ -5863,17 +5868,20 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769834679451
+        },
+        {
+          "timestampMillis": 1769841686250
         }
       ]
     },
     {
       "path": "8.Info 其他/Admonition插件使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769837256017
@@ -5883,6 +5891,12 @@
         },
         {
           "timestampMillis": 1769838760710
+        },
+        {
+          "timestampMillis": 1769841346535
+        },
+        {
+          "timestampMillis": 1769841496155
         }
       ]
     }
