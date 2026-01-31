@@ -3917,15 +3917,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-30.md": {
-    "scroll": 12.662149403476457,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 27
+        "line": 19,
+        "ch": 15
       },
       "to": {
-        "line": 24,
-        "ch": 27
+        "line": 19,
+        "ch": 15
       }
     },
     "expandedKeys": []
@@ -4015,15 +4015,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-31.md": {
-    "scroll": 13.02890688681667,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 14
+        "line": 10,
+        "ch": 2
       },
       "to": {
-        "line": 23,
-        "ch": 14
+        "line": 10,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -4043,14 +4043,14 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 17.72656242052714,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 48
+        "line": 12,
+        "ch": 0
       },
       "to": {
-        "line": 27,
+        "line": 12,
         "ch": 0
       }
     },
