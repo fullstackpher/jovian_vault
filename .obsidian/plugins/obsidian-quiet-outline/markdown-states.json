@@ -3301,15 +3301,15 @@
     "expandedKeys": []
   },
   "Templates/每日笔记.md": {
-    "scroll": 39.837239583333336,
+    "scroll": 24.625,
     "cursor": {
       "from": {
-        "line": 55,
-        "ch": 0
+        "line": 35,
+        "ch": 18
       },
       "to": {
-        "line": 55,
-        "ch": 0
+        "line": 35,
+        "ch": 18
       }
     },
     "expandedKeys": []
@@ -3973,7 +3973,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md": {
-    "scroll": 1.7243107386997767,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 6,
