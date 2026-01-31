@@ -44,8 +44,6 @@ actions:
     command: quickadd:choice:31152f46-a3b4-46a2-a58c-c8617f8c8243
 
 ```
-
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]`
 ```meta-bind-button
 label: DailyLog
 icon: clock-8
@@ -62,6 +60,23 @@ actions:
 
 ```
 
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]` `BUTTON[kanban]`
+
+```meta-bind-button
+label: 看板
+icon: folder-kanban
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: kanban
+hidden: true
+actions:
+  - type: open
+    link: 1.Projects 项目/项目看板.md
+    newTab: true
+```
 ---
 
 ## ✅ 今日待办

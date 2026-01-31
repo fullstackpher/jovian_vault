@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
+      "basename": "项目看板",
+      "path": "1.Projects 项目/项目看板.md"
     },
     {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -95,10 +99,6 @@
     {
       "basename": "2026-01-28 学习日报",
       "path": "7.Daily 日周记/2026-01-28 学习日报.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects 项目/项目看板.md"
     },
     {
       "basename": "Inbox 面板搭建指南",
