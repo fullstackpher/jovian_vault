@@ -353,8 +353,8 @@
     },
     {
       "path": "1.Projects 项目/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -424,6 +424,9 @@
         },
         {
           "timestampMillis": 1769765292355
+        },
+        {
+          "timestampMillis": 1769862949162
         }
       ]
     },
@@ -6341,7 +6344,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -6357,6 +6360,12 @@
         },
         {
           "timestampMillis": 1769862813899
+        },
+        {
+          "timestampMillis": 1769862871660
+        },
+        {
+          "timestampMillis": 1769862959282
         }
       ]
     }

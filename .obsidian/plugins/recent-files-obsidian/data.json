@@ -5,6 +5,10 @@
       "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
+      "basename": "学习Obsidian",
+      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
+    },
+    {
       "basename": "2026-01-31",
       "path": "7.Daily 日周记/2026-01-31.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Inbox 面板搭建指南",
       "path": "3.Resources 资源/Inbox 面板搭建指南.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
     },
     {
       "basename": "Frontend知识体系总览",
