@@ -3,17 +3,17 @@
   "title": "Complete YAML Configuration",
   "titleGenerationStatus": "success",
   "createdAt": 1769855362394,
-  "updatedAt": 1769864397380,
-  "lastResponseAt": 1769864397380,
+  "updatedAt": 1769864600208,
+  "lastResponseAt": 1769864600208,
   "sessionId": "70c9f77a-7c3d-4166-9f3f-4805f50eb7b2",
   "sdkSessionId": "70c9f77a-7c3d-4166-9f3f-4805f50eb7b2",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 528,
-    "cacheCreationInputTokens": 3282,
-    "cacheReadInputTokens": 30987,
+    "inputTokens": 529,
+    "cacheCreationInputTokens": 3724,
+    "cacheReadInputTokens": 34713,
     "contextWindow": 200000,
-    "contextTokens": 34797,
-    "percentage": 17
+    "contextTokens": 38966,
+    "percentage": 19
   }
 }
