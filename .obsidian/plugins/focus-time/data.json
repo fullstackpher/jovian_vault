@@ -1287,8 +1287,8 @@
     "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md": {
       "fileId": "1769834684992",
       "filePath": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
-      "duration": 606000,
-      "openCount": 2
+      "duration": 666000,
+      "openCount": 3
     },
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
@@ -1301,6 +1301,12 @@
       "filePath": "7.Daily 日周记/未命名.md",
       "duration": 18000,
       "openCount": 3
+    },
+    "7.Daily 日周记/2026-01-31.md": {
+      "fileId": "1769841747305",
+      "filePath": "7.Daily 日周记/2026-01-31.md",
+      "duration": 6000,
+      "openCount": 1
     }
   }
 }

@@ -3976,12 +3976,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 13
+        "line": 25,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 13
+        "line": 25,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4010,6 +4010,20 @@
       "to": {
         "line": 8,
         "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-01-31.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

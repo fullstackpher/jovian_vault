@@ -5899,6 +5899,16 @@
           "timestampMillis": 1769841496155
         }
       ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-01-31.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769841746926
+        }
+      ]
     }
   ]
 }
