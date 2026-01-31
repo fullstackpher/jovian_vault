@@ -957,8 +957,8 @@
     "Templates/每日笔记.md": {
       "fileId": "1768469600770",
       "filePath": "Templates/每日笔记.md",
-      "duration": 702000,
-      "openCount": 22
+      "duration": 780000,
+      "openCount": 30
     },
     "Templates/面试题八股文.md": {
       "fileId": "1768469601669",
@@ -1209,7 +1209,7 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 12228000,
+      "duration": 12234000,
       "openCount": 153
     },
     "Templates/今日日报模板.md": {
@@ -1269,8 +1269,8 @@
     "7.Daily 日周记/2026-01-30.md": {
       "fileId": "1769779569283",
       "filePath": "7.Daily 日周记/2026-01-30.md",
-      "duration": 2202000,
-      "openCount": 14
+      "duration": 2538000,
+      "openCount": 20
     },
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
@@ -1294,6 +1294,12 @@
       "fileId": "1769837258986",
       "filePath": "8.Info 其他/Admonition插件使用指南.md",
       "duration": 102000,
+      "openCount": 4
+    },
+    "7.Daily 日周记/未命名.md": {
+      "fileId": "1769838782984",
+      "filePath": "7.Daily 日周记/未命名.md",
+      "duration": 18000,
       "openCount": 3
     }
   }
