@@ -131,8 +131,8 @@
           {
             "name": "calloutMaker",
             "type": "UserScript",
-            "id": "130d153d-6e45-489f-9bdc-ea02413f9042",
-            "path": "QuickAddMacros/calloutMaker.js",
+            "id": "1becaf8e-6132-44d8-b2aa-998f9f3b0df4",
+            "path": "Scripts/calloutMaker.js",
             "settings": {}
           }
         ]
