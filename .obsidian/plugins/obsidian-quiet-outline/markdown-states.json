@@ -3920,12 +3920,12 @@
     "scroll": 14.563868531642576,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 0
+        "line": 35,
+        "ch": 53
       },
       "to": {
-        "line": 32,
-        "ch": 0
+        "line": 35,
+        "ch": 68
       }
     },
     "expandedKeys": []
@@ -3987,15 +3987,15 @@
     "expandedKeys": []
   },
   "8.Info 其他/Admonition插件使用指南.md": {
-    "scroll": 57.67621692021688,
+    "scroll": 252.5772622426351,
     "cursor": {
       "from": {
-        "line": 68,
-        "ch": 0
+        "line": 274,
+        "ch": 15
       },
       "to": {
-        "line": 68,
-        "ch": 0
+        "line": 274,
+        "ch": 15
       }
     },
     "expandedKeys": []
