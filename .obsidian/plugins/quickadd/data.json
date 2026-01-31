@@ -1,38 +1,10 @@
 {
   "choices": [
     {
-      "id": "f6d5bfab-0e13-4411-b77f-c42f220f4183",
-      "name": "编辑任务",
-      "type": "Template",
-      "command": true,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "3e140b36-edc5-42c1-9a3e-bfc747cc3482",
       "name": "创建日记",
       "type": "Template",
-      "command": true,
+      "command": false,
       "templatePath": "Templates/日记模版.md",
       "fileNameFormat": {
         "enabled": false,
