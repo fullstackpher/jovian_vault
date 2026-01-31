@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 257,
+      "totalTimesOpened": 258,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1269,6 +1269,9 @@
         },
         {
           "timestampMillis": 1769849880211
+        },
+        {
+          "timestampMillis": 1769850135553
         }
       ]
     },
@@ -1849,7 +1852,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 51,
+      "totalTimesOpened": 52,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2003,6 +2006,9 @@
         },
         {
           "timestampMillis": 1769849885903
+        },
+        {
+          "timestampMillis": 1769850043970
         }
       ]
     },
@@ -5725,7 +5731,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769756910147
@@ -5753,6 +5759,12 @@
         },
         {
           "timestampMillis": 1769842083758
+        },
+        {
+          "timestampMillis": 1769850157591
+        },
+        {
+          "timestampMillis": 1769850185125
         }
       ]
     },
@@ -6046,6 +6058,16 @@
       "openLogs": [
         {
           "timestampMillis": 1769845904468
+        }
+      ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-01-31.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769850144745
         }
       ]
     }
