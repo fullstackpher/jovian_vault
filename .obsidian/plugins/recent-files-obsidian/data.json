@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "2026-01-31",
+      "path": "7.Daily 日周记/2026-01-31.md"
+    },
+    {
+      "basename": "2026-01-30",
+      "path": "7.Daily 日周记/2026-01-30.md"
+    },
+    {
       "basename": "List Callout",
       "path": "2.Areas 领域/Knowledge Management/List Callout.md"
     },
     {
       "basename": "2026-01-31-参考B站博主的日记模版",
       "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "Callout",
@@ -59,10 +67,6 @@
     {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
-      "basename": "2026-01-30",
-      "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
       "basename": "Emoji Toolbar",
