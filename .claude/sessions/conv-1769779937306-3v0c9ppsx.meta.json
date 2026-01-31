@@ -3,18 +3,18 @@
   "title": "Debug daily tasks not displaying",
   "titleGenerationStatus": "success",
   "createdAt": 1769779937316,
-  "updatedAt": 1769833351387,
-  "lastResponseAt": 1769780113013,
+  "updatedAt": 1769837221139,
+  "lastResponseAt": 1769837221139,
   "sessionId": "f8e6898e-4b86-4017-9e19-946c0c65a6f4",
   "sdkSessionId": "f8e6898e-4b86-4017-9e19-946c0c65a6f4",
   "currentNote": "Dashboards/Dashboard.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 243,
-    "cacheCreationInputTokens": 896,
-    "cacheReadInputTokens": 19632,
+    "inputTokens": 122,
+    "cacheCreationInputTokens": 1891,
+    "cacheReadInputTokens": 20551,
     "contextWindow": 200000,
-    "contextTokens": 20771,
-    "percentage": 10
+    "contextTokens": 22564,
+    "percentage": 11
   }
 }

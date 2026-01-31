@@ -5754,7 +5754,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769779566749
@@ -5797,6 +5797,9 @@
         },
         {
           "timestampMillis": 1769837135079
+        },
+        {
+          "timestampMillis": 1769837196360
         }
       ]
     },
@@ -5807,6 +5810,16 @@
       "openLogs": [
         {
           "timestampMillis": 1769834679451
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/Admonition插件使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769837256017
         }
       ]
     }

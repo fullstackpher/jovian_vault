@@ -1269,8 +1269,8 @@
     "7.Daily 日周记/2026-01-30.md": {
       "fileId": "1769779569283",
       "filePath": "7.Daily 日周记/2026-01-30.md",
-      "duration": 1566000,
-      "openCount": 12
+      "duration": 1662000,
+      "openCount": 13
     },
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
@@ -1289,6 +1289,12 @@
       "filePath": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
       "duration": 606000,
       "openCount": 2
+    },
+    "8.Info 其他/Admonition插件使用指南.md": {
+      "fileId": "1769837258986",
+      "filePath": "8.Info 其他/Admonition插件使用指南.md",
+      "duration": 18000,
+      "openCount": 1
     }
   }
 }

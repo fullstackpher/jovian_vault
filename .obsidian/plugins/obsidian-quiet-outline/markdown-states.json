@@ -3917,14 +3917,14 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-30.md": {
-    "scroll": 11.347222646077475,
+    "scroll": 14.563868531642576,
     "cursor": {
       "from": {
-        "line": 30,
+        "line": 32,
         "ch": 0
       },
       "to": {
-        "line": 30,
+        "line": 32,
         "ch": 0
       }
     },
@@ -3982,6 +3982,20 @@
       "to": {
         "line": 6,
         "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/Admonition插件使用指南.md": {
+    "scroll": 57.67621692021688,
+    "cursor": {
+      "from": {
+        "line": 68,
+        "ch": 0
+      },
+      "to": {
+        "line": 68,
+        "ch": 0
       }
     },
     "expandedKeys": []
