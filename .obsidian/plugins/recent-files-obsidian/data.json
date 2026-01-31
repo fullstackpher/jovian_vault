@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
-    },
-    {
       "basename": "2026-01-31",
       "path": "7.Daily 日周记/2026-01-31.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01-30",
@@ -31,10 +35,6 @@
     {
       "basename": "日报模版",
       "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
