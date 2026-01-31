@@ -44,23 +44,9 @@ actions:
     command: quickadd:choice:31152f46-a3b4-46a2-a58c-c8617f8c8243
 
 ```
-```meta-bind-button
-label: DailyLog
-icon: clock-8
-style: default
-class: ""
-cssStyle: ""
-backgroundImage: ""
-tooltip: ""
-id: daily
-hidden: false
-actions:
-  - type: command
-    command: quickadd:choice:3e140b36-edc5-42c1-9a3e-bfc747cc3482
 
-```
 
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]` `BUTTON[daily]` `BUTTON[kanban]`
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]`
 
 ```meta-bind-button
 label: 看板
