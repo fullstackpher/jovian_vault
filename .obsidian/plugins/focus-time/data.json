@@ -784,7 +784,7 @@
       "fileId": "1769503392540",
       "filePath": "2.Areas 领域/Knowledge Management/Callout.md",
       "duration": 432000,
-      "openCount": 7
+      "openCount": 8
     },
     "2.Areas 领域/Frontend/this.md": {
       "fileId": "1769503966548",
@@ -1191,8 +1191,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 14514000,
-      "openCount": 219
+      "duration": 14598000,
+      "openCount": 227
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1257,8 +1257,8 @@
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info 其他/0-Inbox.md",
-      "duration": 2040000,
-      "openCount": 36
+      "duration": 2334000,
+      "openCount": 42
     },
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
@@ -1395,8 +1395,8 @@
     "8.Info 其他/[摘要] 0-Inbox.md": {
       "fileId": "1769866964251",
       "filePath": "8.Info 其他/[摘要] 0-Inbox.md",
-      "duration": 30000,
-      "openCount": 2
+      "duration": 36000,
+      "openCount": 3
     }
   }
 }
