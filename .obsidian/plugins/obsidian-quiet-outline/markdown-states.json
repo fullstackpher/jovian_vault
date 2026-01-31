@@ -3315,14 +3315,14 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-17 学习日报.md": {
-    "scroll": 63.512242381539544,
+    "scroll": 65.5737841129303,
     "cursor": {
       "from": {
-        "line": 23,
+        "line": 67,
         "ch": 0
       },
       "to": {
-        "line": 23,
+        "line": 67,
         "ch": 0
       }
     },
@@ -4046,12 +4046,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 7
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 7
       }
     },
     "expandedKeys": []
