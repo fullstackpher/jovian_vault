@@ -4,7 +4,7 @@
       "id": "3e140b36-edc5-42c1-9a3e-bfc747cc3482",
       "name": "创建日记",
       "type": "Template",
-      "command": true,
+      "command": false,
       "templatePath": "Templates/日记模版.md",
       "fileNameFormat": {
         "enabled": false,

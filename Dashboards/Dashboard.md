@@ -53,7 +53,7 @@ cssStyle: ""
 backgroundImage: ""
 tooltip: ""
 id: daily
-hidden: true
+hidden: false
 actions:
   - type: command
     command: quickadd:choice:3e140b36-edc5-42c1-9a3e-bfc747cc3482
