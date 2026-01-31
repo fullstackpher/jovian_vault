@@ -8,7 +8,8 @@
     "1.Projects 项目",
     "7.Daily 日周记",
     "Templates",
-    "Dashboards"
+    "Dashboards",
+    "8.Info 其他"
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
@@ -98,11 +99,12 @@
     "8.Info 其他/制作obsidian主页.md": "b97cd49418d5424f59c45ff04da7276e525800e06a56cd0fa9491a2fab3e1aee",
     "Dashboards/Dashboard.md": "55e23571b738bef472cfc35f2014b9ffb7dd3544826e93cdfdb28ba6c5f1e743",
     "3.Resources 资源/Meta Bind 插件使用指南.md": "657a6b3814e8d155e1f83c2da5f3c3bc8b3e24a3614c3ae0fa1821b1e985bade",
-    "8.Info 其他/0-Inbox.md": "a4a931dfe60b28fe3d61c1ed70710bf134e00e399e253f332090e176ab6f9394",
+    "8.Info 其他/0-Inbox.md": "a22a99b94cd0f5d8a21b312575c40b63bb79238c5be7c5abbd38aa40a4133d1d",
     "8.Info 其他/Admonition插件使用指南.md": "6e44c10686a50b09e819c7244774a278a7d7899ca4c14853dd84091b60b8977a",
     "8.Info 其他/常用服务API.md": "f8f82604952f12a5fcf96f779624a0b747694446723625c2072ccc30aeb251dc",
     "4.Archives 归档/2026-01-29-待办事项清单.md": "711df59a86b27462bba83f5f87d67eabdb9cef53cb768dba9c19d7c0dbfd7d36",
     "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md": "df7480537eab1ec740f197fa077e825e04e7b8ae8da49e5ed0e42e9f7240d028",
-    "2.Areas 领域/Knowledge Management/List Callout.md": "a33b93513fda0811c8a314a7032cbba30d55841dacb359c74bdd80424ffad227"
+    "2.Areas 领域/Knowledge Management/List Callout.md": "a33b93513fda0811c8a314a7032cbba30d55841dacb359c74bdd80424ffad227",
+    "8.Info 其他/Inbox 侧边栏面板.md": "d2bc1506bee42f8e23fc8daa4fbed7ce78b9cc8635cca9a23b773bf6f9cfa6d6"
   }
 }

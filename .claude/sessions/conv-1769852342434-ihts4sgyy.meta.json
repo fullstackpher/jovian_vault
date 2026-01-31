@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769852342434-ihts4sgyy",
+  "title": "实现Inbox接收QuickAdd任务并展示",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769852342435,
+  "updatedAt": 1769852439729,
+  "lastResponseAt": 1769852439729,
+  "sessionId": "dbc9f0f9-5166-4a0a-9ca4-ff478d36b74e",
+  "sdkSessionId": "dbc9f0f9-5166-4a0a-9ca4-ff478d36b74e",
+  "currentNote": "8.Info 其他/0-Inbox.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 123,
+    "cacheCreationInputTokens": 395,
+    "cacheReadInputTokens": 29640,
+    "contextWindow": 200000,
+    "contextTokens": 30158,
+    "percentage": 15
+  }
+}

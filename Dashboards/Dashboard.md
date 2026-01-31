@@ -79,6 +79,27 @@ actions:
 ```
 ---
 
+## 📥 Inbox 待处理任务
+
+> 快速捕获的任务将显示在这里，定期整理清空
+
+```dataview
+TASK
+FROM "8.Info 其他/0-Inbox.md"
+WHERE !completed
+SORT file.cday DESC
+```
+
+### 📊 Inbox 统计
+```dataview
+TABLE length(rows) AS "待处理任务数"
+FROM "8.Info 其他/0-Inbox.md"
+WHERE !completed AND !is_task
+GROUP BY true
+```
+
+---
+
 ## ✅ 今日待办
 
 ### 日常任务
