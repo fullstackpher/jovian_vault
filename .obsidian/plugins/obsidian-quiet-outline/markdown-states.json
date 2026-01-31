@@ -4041,5 +4041,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "Templates/日记模版.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 32
+      },
+      "to": {
+        "line": 43,
+        "ch": 32
+      }
+    },
+    "expandedKeys": []
   }
 }
