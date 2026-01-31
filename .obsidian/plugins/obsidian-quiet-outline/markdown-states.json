@@ -4046,12 +4046,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 86
+        "line": 14,
+        "ch": 10
       },
       "to": {
-        "line": 6,
-        "ch": 86
+        "line": 14,
+        "ch": 10
       }
     },
     "expandedKeys": []
