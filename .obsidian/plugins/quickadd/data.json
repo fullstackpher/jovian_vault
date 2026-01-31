@@ -209,7 +209,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## inbox ",
+        "after": "## inbox\\n",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
