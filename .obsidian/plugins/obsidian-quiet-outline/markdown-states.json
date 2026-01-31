@@ -4043,7 +4043,7 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 1.8726591760299625,
     "cursor": {
       "from": {
         "line": 15,
@@ -4155,7 +4155,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01月汇总.md": {
-    "scroll": 20.718478648722584,
+    "scroll": 7.594936708860759,
     "cursor": {
       "from": {
         "line": 102,
@@ -4486,6 +4486,20 @@
       "to": {
         "line": 8,
         "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/实用代码片段.md": {
+    "scroll": 11.964801836347247,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []

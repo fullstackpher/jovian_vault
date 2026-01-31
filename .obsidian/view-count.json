@@ -2059,8 +2059,8 @@
     },
     {
       "path": "Templates/实用代码片段.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768556002100
@@ -2073,6 +2073,9 @@
         },
         {
           "timestampMillis": 1769690193887
+        },
+        {
+          "timestampMillis": 1769866426326
         }
       ]
     },
@@ -2092,7 +2095,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 66,
+      "totalTimesOpened": 67,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2291,6 +2294,9 @@
         },
         {
           "timestampMillis": 1769860410596
+        },
+        {
+          "timestampMillis": 1769866409592
         }
       ]
     },
@@ -2795,7 +2801,7 @@
     {
       "path": "Templates/日报模版.md",
       "uniqueDaysOpened": 8,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -2889,6 +2895,9 @@
         },
         {
           "timestampMillis": 1769860391279
+        },
+        {
+          "timestampMillis": 1769866407690
         }
       ]
     },
@@ -6701,7 +6710,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 47,
+      "totalTimesOpened": 48,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -6843,6 +6852,9 @@
         },
         {
           "timestampMillis": 1769866243681
+        },
+        {
+          "timestampMillis": 1769866391496
         }
       ]
     }
