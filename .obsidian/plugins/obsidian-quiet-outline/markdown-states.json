@@ -3973,15 +3973,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md": {
-    "scroll": 2.479338842975207,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 4
+        "line": 12,
+        "ch": 2
       },
       "to": {
-        "line": 16,
-        "ch": 4
+        "line": 12,
+        "ch": 2
       }
     },
     "expandedKeys": []
