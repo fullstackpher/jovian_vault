@@ -3357,7 +3357,7 @@
     "expandedKeys": []
   },
   "1.Projects 项目/03-学习前端/学习JavaScript.md": {
-    "scroll": 17.633463541666668,
+    "scroll": 62.80555438995361,
     "cursor": {
       "from": {
         "line": 59,
@@ -3371,7 +3371,7 @@
     "expandedKeys": []
   },
   "1.Projects 项目/02-知识管理/学习Obsidian.md": {
-    "scroll": 44.06116900338095,
+    "scroll": 29.12399265700277,
     "cursor": {
       "from": {
         "line": 48,
@@ -3651,7 +3651,7 @@
     "expandedKeys": []
   },
   "Templates/今日日报模板.md": {
-    "scroll": 70.6084721729883,
+    "scroll": 72.81510178248088,
     "cursor": {
       "from": {
         "line": 26,
@@ -3665,7 +3665,7 @@
     "expandedKeys": []
   },
   "Templates/技术概念卡片.md": {
-    "scroll": 0,
+    "scroll": 19.119580376898494,
     "cursor": {
       "from": {
         "line": 7,
@@ -3679,7 +3679,7 @@
     "expandedKeys": []
   },
   "Templates/日报模版.md": {
-    "scroll": 0,
+    "scroll": 136.03775986035666,
     "cursor": {
       "from": {
         "line": 52,
@@ -4155,21 +4155,21 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01月汇总.md": {
-    "scroll": 7.594936708860759,
+    "scroll": 228.23281084442138,
     "cursor": {
       "from": {
-        "line": 102,
-        "ch": 12
+        "line": 87,
+        "ch": 0
       },
       "to": {
-        "line": 102,
-        "ch": 12
+        "line": 87,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "1.Projects 项目/03-学习前端/学习CSS.md": {
-    "scroll": 35.57812452316284,
+    "scroll": 36.82811689376831,
     "cursor": {
       "from": {
         "line": 12,
@@ -4491,7 +4491,7 @@
     "expandedKeys": []
   },
   "Templates/实用代码片段.md": {
-    "scroll": 11.964801836347247,
+    "scroll": 16.226128419240315,
     "cursor": {
       "from": {
         "line": 8,
@@ -4499,6 +4499,132 @@
       },
       "to": {
         "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/面试题八股文.md": {
+    "scroll": 27.479600588480633,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/问题解决方案.md": {
+    "scroll": 23.343530896983612,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/项目开发记录.md": {
+    "scroll": 23.373697598775227,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/项目模版.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/01-学习Java/学习JavaEE.md": {
+    "scroll": 30.282311386366047,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/01-学习Java/学习JavaSE.md": {
+    "scroll": 34.189151134527584,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/01-学习Java/学习Spring全家桶.md": {
+    "scroll": 11.372365053699502,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/03-学习前端/学习HTML.md": {
+    "scroll": 38.00465113427021,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/[摘要] 0-Inbox.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

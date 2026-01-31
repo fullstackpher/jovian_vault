@@ -1,24 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "实用代码片段",
-      "path": "Templates/实用代码片段.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
     },
     {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
+      "basename": "[摘要] 0-Inbox",
+      "path": "8.Info 其他/[摘要] 0-Inbox.md"
     },
     {
       "basename": "2026-01月汇总",
       "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "学习JavaScript",
+      "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习HTML",
+      "path": "1.Projects 项目/03-学习前端/学习HTML.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1.Projects 项目/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "学习Spring全家桶",
+      "path": "1.Projects 项目/01-学习Java/学习Spring全家桶.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "1.Projects 项目/01-学习Java/学习JavaSE.md"
+    },
+    {
+      "basename": "学习JavaEE",
+      "path": "1.Projects 项目/01-学习Java/学习JavaEE.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "Templates/项目模版.md"
+    },
+    {
+      "basename": "项目开发记录",
+      "path": "Templates/项目开发记录.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "Templates/问题解决方案.md"
+    },
+    {
+      "basename": "实用代码片段",
+      "path": "Templates/实用代码片段.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "Templates/技术概念卡片.md"
+    },
+    {
+      "basename": "今日日报模板",
+      "path": "Templates/今日日报模板.md"
+    },
+    {
+      "basename": "面试题八股文",
+      "path": "Templates/面试题八股文.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01-29",
@@ -137,68 +197,8 @@
       "path": "7.Daily 日周记/2026-01-12.md"
     },
     {
-      "basename": "学习CSS",
-      "path": "1.Projects 项目/03-学习前端/学习CSS.md"
-    },
-    {
       "basename": "CSS视觉与表现",
       "path": "2.Areas 领域/Frontend/CSS视觉与表现.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2.Areas 领域/Frontend/CSS布局系统.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "2.Areas 领域/Frontend/CSS基础概念.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "2.Areas 领域/Frontend/现代 CSS 新特性.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects 项目/项目看板.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox 缓存箱/README.md"
-    },
-    {
-      "basename": "List Callout 标记分类",
-      "path": "8.Info 其他/List Callout 标记分类.md"
-    },
-    {
-      "basename": "制作obsidian主页",
-      "path": "8.Info 其他/制作obsidian主页.md"
-    },
-    {
-      "basename": "List Callout",
-      "path": "2.Areas 领域/Knowledge Management/List Callout.md"
-    },
-    {
-      "basename": "Callout",
-      "path": "2.Areas 领域/Knowledge Management/Callout.md"
-    },
-    {
-      "basename": "常用服务API",
-      "path": "8.Info 其他/常用服务API.md"
-    },
-    {
-      "basename": "Admonition插件使用指南",
-      "path": "8.Info 其他/Admonition插件使用指南.md"
-    },
-    {
-      "basename": "添加快速任务",
-      "path": "8.Info 其他/添加快速任务.md"
     }
   ],
   "omittedPaths": [],

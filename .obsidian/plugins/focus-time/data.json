@@ -598,31 +598,31 @@
       "fileId": "1769688618118",
       "filePath": "1.Projects 项目/02-知识管理/学习Obsidian.md",
       "duration": 102000,
-      "openCount": 6
+      "openCount": 7
     },
     "1.Projects 项目/01-学习Java/学习Spring全家桶.md": {
       "fileId": "1768483286064",
       "filePath": "1.Projects 项目/01-学习Java/学习Spring全家桶.md",
-      "duration": 54000,
-      "openCount": 10
+      "duration": 60000,
+      "openCount": 11
     },
     "1.Projects 项目/01-学习Java/学习JavaEE.md": {
       "fileId": "1769688623128",
       "filePath": "1.Projects 项目/01-学习Java/学习JavaEE.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 6000,
+      "openCount": 2
     },
     "1.Projects 项目/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects 项目/03-学习前端/学习JavaScript.md",
-      "duration": 2124000,
-      "openCount": 33
+      "duration": 2136000,
+      "openCount": 34
     },
     "1.Projects 项目/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
       "filePath": "1.Projects 项目/01-学习Java/学习JavaSE.md",
-      "duration": 66000,
-      "openCount": 14
+      "duration": 72000,
+      "openCount": 15
     },
     "1.Projects 项目/README.md": {
       "fileId": "1769495637567",
@@ -945,44 +945,44 @@
     "Templates/技术概念卡片.md": {
       "fileId": "1768469598103",
       "filePath": "Templates/技术概念卡片.md",
-      "duration": 24000,
-      "openCount": 4
+      "duration": 30000,
+      "openCount": 5
     },
     "Templates/面试题八股文.md": {
       "fileId": "1768469601669",
       "filePath": "Templates/面试题八股文.md",
       "duration": 30000,
-      "openCount": 4
+      "openCount": 5
     },
     "Templates/实用代码片段.md": {
       "fileId": "1768469607668",
       "filePath": "Templates/实用代码片段.md",
       "duration": 60000,
-      "openCount": 6
+      "openCount": 8
     },
     "Templates/问题解决方案.md": {
       "fileId": "1768469643673",
       "filePath": "Templates/问题解决方案.md",
-      "duration": 132000,
-      "openCount": 16
+      "duration": 138000,
+      "openCount": 17
     },
     "Templates/项目开发记录.md": {
       "fileId": "1768469659419",
       "filePath": "Templates/项目开发记录.md",
       "duration": 18000,
-      "openCount": 7
+      "openCount": 8
     },
     "Templates/项目模版.md": {
       "fileId": "1768469661685",
       "filePath": "Templates/项目模版.md",
-      "duration": 132000,
-      "openCount": 8
+      "duration": 144000,
+      "openCount": 9
     },
     "Templates/日报模版.md": {
       "fileId": "1768649141047",
       "filePath": "Templates/日报模版.md",
-      "duration": 1182000,
-      "openCount": 30
+      "duration": 1188000,
+      "openCount": 31
     },
     "Templates/闪念笔记模板.md": {
       "fileId": "1768651055048",
@@ -1191,14 +1191,14 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 14484000,
-      "openCount": 217
+      "duration": 14514000,
+      "openCount": 219
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
       "filePath": "Templates/今日日报模板.md",
-      "duration": 54000,
-      "openCount": 4
+      "duration": 60000,
+      "openCount": 5
     },
     "周报模板.md": {
       "fileId": "1769759793492",
@@ -1257,8 +1257,8 @@
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info 其他/0-Inbox.md",
-      "duration": 1932000,
-      "openCount": 31
+      "duration": 2040000,
+      "openCount": 36
     },
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
@@ -1335,14 +1335,14 @@
     "7.Daily 日周记/2026-01月汇总.md": {
       "fileId": "1769862218743",
       "filePath": "7.Daily 日周记/2026-01月汇总.md",
-      "duration": 2508000,
-      "openCount": 24
+      "duration": 2724000,
+      "openCount": 25
     },
     "1.Projects 项目/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
       "filePath": "1.Projects 项目/03-学习前端/学习CSS.md",
-      "duration": 24000,
-      "openCount": 7
+      "duration": 30000,
+      "openCount": 8
     },
     "2.Areas 领域/Frontend/现代 CSS 新特性.md": {
       "fileId": "1769863062588",
@@ -1385,6 +1385,18 @@
       "filePath": "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md",
       "duration": 96000,
       "openCount": 8
+    },
+    "1.Projects 项目/03-学习前端/学习HTML.md": {
+      "fileId": "1769866488025",
+      "filePath": "1.Projects 项目/03-学习前端/学习HTML.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "8.Info 其他/[摘要] 0-Inbox.md": {
+      "fileId": "1769866964251",
+      "filePath": "8.Info 其他/[摘要] 0-Inbox.md",
+      "duration": 30000,
+      "openCount": 2
     }
   }
 }
