@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 275,
+      "totalTimesOpened": 277,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1323,6 +1323,12 @@
         },
         {
           "timestampMillis": 1769853759935
+        },
+        {
+          "timestampMillis": 1769853869056
+        },
+        {
+          "timestampMillis": 1769853870557
         }
       ]
     },
@@ -1921,7 +1927,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 57,
+      "totalTimesOpened": 58,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2093,6 +2099,9 @@
         },
         {
           "timestampMillis": 1769852977945
+        },
+        {
+          "timestampMillis": 1769855101391
         }
       ]
     },
@@ -5971,7 +5980,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 33,
+      "totalTimesOpened": 43,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -6071,6 +6080,36 @@
         },
         {
           "timestampMillis": 1769853722404
+        },
+        {
+          "timestampMillis": 1769853850072
+        },
+        {
+          "timestampMillis": 1769853851145
+        },
+        {
+          "timestampMillis": 1769853854841
+        },
+        {
+          "timestampMillis": 1769853855260
+        },
+        {
+          "timestampMillis": 1769853855697
+        },
+        {
+          "timestampMillis": 1769853857333
+        },
+        {
+          "timestampMillis": 1769853863206
+        },
+        {
+          "timestampMillis": 1769853868700
+        },
+        {
+          "timestampMillis": 1769853869481
+        },
+        {
+          "timestampMillis": 1769853897370
         }
       ]
     },

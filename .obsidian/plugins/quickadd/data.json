@@ -251,8 +251,8 @@
         "format": "- $ {{value}}⏰{{time}}"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "Thoughts",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
