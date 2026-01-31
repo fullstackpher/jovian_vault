@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 258,
+      "totalTimesOpened": 259,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1272,6 +1272,9 @@
         },
         {
           "timestampMillis": 1769850135553
+        },
+        {
+          "timestampMillis": 1769850454022
         }
       ]
     },
@@ -5890,7 +5893,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -5918,6 +5921,12 @@
         },
         {
           "timestampMillis": 1769841321050
+        },
+        {
+          "timestampMillis": 1769850515452
+        },
+        {
+          "timestampMillis": 1769850547612
         }
       ]
     },
