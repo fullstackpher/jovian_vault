@@ -5,6 +5,10 @@
       "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-01-31-参考B站博主的日记模版",
       "path": "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "CSS响应式设计",
       "path": "2.Areas 领域/Frontend/CSS响应式设计.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01-31",
