@@ -3917,15 +3917,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-30.md": {
-    "scroll": 11.347222646077475,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 35,
-        "ch": 25
+        "line": 32,
+        "ch": 0
       },
       "to": {
-        "line": 35,
-        "ch": 25
+        "line": 32,
+        "ch": 0
       }
     },
     "expandedKeys": []
