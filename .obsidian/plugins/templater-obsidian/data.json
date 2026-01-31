@@ -20,7 +20,7 @@
     },
     {
       "folder": "7.Daily 日周记",
-      "template": "Templates/每日笔记.md"
+      "template": "Templates/日记模版.md"
     }
   ],
   "enable_file_templates": false,

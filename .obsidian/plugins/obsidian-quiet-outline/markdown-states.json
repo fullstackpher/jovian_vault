@@ -3626,12 +3626,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 67,
-        "ch": 0
+        "line": 77,
+        "ch": 9
       },
       "to": {
-        "line": 67,
-        "ch": 0
+        "line": 77,
+        "ch": 9
       }
     },
     "expandedKeys": []
