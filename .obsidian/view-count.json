@@ -1840,7 +1840,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 37,
+      "totalTimesOpened": 39,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1952,6 +1952,12 @@
         },
         {
           "timestampMillis": 1769843277528
+        },
+        {
+          "timestampMillis": 1769843349671
+        },
+        {
+          "timestampMillis": 1769843379177
         }
       ]
     },
