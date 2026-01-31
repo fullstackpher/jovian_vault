@@ -5,12 +5,12 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "项目看板",
-      "path": "1.Projects 项目/项目看板.md"
-    },
-    {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects 项目/项目看板.md"
     },
     {
       "basename": "日记模版",
