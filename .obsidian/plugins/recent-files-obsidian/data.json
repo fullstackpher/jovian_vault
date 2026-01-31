@@ -5,6 +5,10 @@
       "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
+      "basename": "Callout",
+      "path": "2.Areas 领域/Knowledge Management/Callout.md"
+    },
+    {
       "basename": "每日笔记",
       "path": "Templates/每日笔记.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
-      "basename": "Callout",
-      "path": "2.Areas 领域/Knowledge Management/Callout.md"
     },
     {
       "basename": "2026-01-29 学习日报",

@@ -29,5 +29,6 @@
   "cmdr",
   "obsidian-list-callouts",
   "obsidian-meta-bind-plugin",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "obsidian-admonition"
 ]

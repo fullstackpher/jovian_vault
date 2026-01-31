@@ -10,13 +10,13 @@
       "filePath": "",
       "openCount": 0,
       "fileId": "1768469600770",
-      "duration": 186000
+      "duration": 234000
     },
     "1769779569283": {
       "filePath": "",
       "openCount": 0,
       "fileId": "1769779569283",
-      "duration": 990000
+      "duration": 1134000
     },
     "undefined": {
       "filePath": "",
@@ -34,6 +34,12 @@
       "openCount": 0,
       "fileId": "1769834684992",
       "duration": 600000
+    },
+    "1769503392540": {
+      "filePath": "",
+      "openCount": 0,
+      "fileId": "1769503392540",
+      "duration": 60000
     }
   }
 }
