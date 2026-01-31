@@ -5836,7 +5836,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769756910147
@@ -5873,6 +5873,9 @@
         },
         {
           "timestampMillis": 1769850373014
+        },
+        {
+          "timestampMillis": 1769856730415
         }
       ]
     },
@@ -6125,7 +6128,7 @@
     {
       "path": "7.Daily 日周记/2026-01-30.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 29,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1769779566749
@@ -6213,6 +6216,9 @@
         },
         {
           "timestampMillis": 1769850422368
+        },
+        {
+          "timestampMillis": 1769856740685
         }
       ]
     },
@@ -6280,6 +6286,19 @@
       "openLogs": [
         {
           "timestampMillis": 1769845904468
+        }
+      ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-01-31.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769856705020
+        },
+        {
+          "timestampMillis": 1769856739212
         }
       ]
     }
