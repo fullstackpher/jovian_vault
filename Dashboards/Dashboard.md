@@ -45,8 +45,22 @@ actions:
 
 ```
 
+```meta-bind-button
+label: DailyLog
+icon: clock-8
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: daily
+hidden: true
+actions:
+  - type: command
+    command: daily-notes
 
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]`
+```
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]`
 
 ```meta-bind-button
 label: 看板
