@@ -3914,7 +3914,7 @@
     {
       "path": "7.Daily 日周记/2026-01-20 学习日报.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768917335818
@@ -3933,6 +3933,9 @@
         },
         {
           "timestampMillis": 1769863315299
+        },
+        {
+          "timestampMillis": 1769864465388
         }
       ]
     },
@@ -5199,9 +5202,9 @@
       ]
     },
     {
-      "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md",
+      "path": "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -5253,6 +5256,9 @@
         },
         {
           "timestampMillis": 1769857532577
+        },
+        {
+          "timestampMillis": 1769864504426
         }
       ]
     },
@@ -6389,15 +6395,18 @@
       ]
     },
     {
-      "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
+      "path": "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769845904468
         },
         {
           "timestampMillis": 1769857530890
+        },
+        {
+          "timestampMillis": 1769864506270
         }
       ]
     },
@@ -6530,7 +6539,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -6606,6 +6615,18 @@
         },
         {
           "timestampMillis": 1769864451476
+        },
+        {
+          "timestampMillis": 1769864461313
+        },
+        {
+          "timestampMillis": 1769864474783
+        },
+        {
+          "timestampMillis": 1769864543304
+        },
+        {
+          "timestampMillis": 1769864554105
         }
       ]
     }
