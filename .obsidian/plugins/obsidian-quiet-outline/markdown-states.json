@@ -4043,15 +4043,15 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 10.828124443689982,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 2
+        "line": 32,
+        "ch": 3
       },
       "to": {
-        "line": 25,
-        "ch": 2
+        "line": 32,
+        "ch": 3
       }
     },
     "expandedKeys": []
