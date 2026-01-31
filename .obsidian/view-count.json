@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 259,
+      "totalTimesOpened": 260,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1275,6 +1275,9 @@
         },
         {
           "timestampMillis": 1769850454022
+        },
+        {
+          "timestampMillis": 1769850755140
         }
       ]
     },
@@ -1855,7 +1858,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 54,
+      "totalTimesOpened": 55,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2018,6 +2021,9 @@
         },
         {
           "timestampMillis": 1769850370201
+        },
+        {
+          "timestampMillis": 1769850737852
         }
       ]
     },
@@ -4910,7 +4916,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -4956,6 +4962,9 @@
         },
         {
           "timestampMillis": 1769842091079
+        },
+        {
+          "timestampMillis": 1769850796849
         }
       ]
     },
@@ -5893,7 +5902,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -5927,6 +5936,9 @@
         },
         {
           "timestampMillis": 1769850547612
+        },
+        {
+          "timestampMillis": 1769850826074
         }
       ]
     },
@@ -6088,6 +6100,19 @@
       "openLogs": [
         {
           "timestampMillis": 1769845904468
+        }
+      ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-01-31.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1769850770132
+        },
+        {
+          "timestampMillis": 1769850800075
         }
       ]
     }

@@ -5,8 +5,20 @@
       "path": "8.Info 其他/0-Inbox.md"
     },
     {
+      "basename": "2026-01-31",
+      "path": "7.Daily 日周记/2026-01-31.md"
+    },
+    {
+      "basename": "2026-01-27-笔记到系统的obsidian实践",
+      "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01-30",
@@ -15,10 +27,6 @@
     {
       "basename": "2026-01-30-待办事项清单",
       "path": "0.Inbox 缓存箱/2026-01-30-待办事项清单.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "制作obsidian主页",
@@ -43,10 +51,6 @@
     {
       "basename": "日报模版",
       "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md"
     },
     {
       "basename": "2026-01-29-待办事项清单",

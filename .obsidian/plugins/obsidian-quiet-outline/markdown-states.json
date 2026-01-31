@@ -3455,7 +3455,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/2026-01-27-笔记到系统的obsidian实践.md": {
-    "scroll": 0,
+    "scroll": 33,
     "cursor": {
       "from": {
         "line": 15,
@@ -4015,15 +4015,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01-31.md": {
-    "scroll": 0,
+    "scroll": 33.46239554317549,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 2
+        "line": 32,
+        "ch": 0
       },
       "to": {
-        "line": 10,
-        "ch": 2
+        "line": 32,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4043,15 +4043,15 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 13.017311291668626,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 94,
+        "ch": 3
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 94,
+        "ch": 3
       }
     },
     "expandedKeys": []
