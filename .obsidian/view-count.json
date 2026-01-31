@@ -6518,7 +6518,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -6555,6 +6555,9 @@
         },
         {
           "timestampMillis": 1769863710134
+        },
+        {
+          "timestampMillis": 1769863806008
         }
       ]
     }
