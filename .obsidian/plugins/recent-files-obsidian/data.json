@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "0.Inbox 缓存箱/未命名.md"
+    },
+    {
+      "basename": "List Callout",
+      "path": "2.Areas 领域/Knowledge Management/List Callout.md"
+    },
+    {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2026-01-18 学习日报",
       "path": "7.Daily 日周记/2026-01-18 学习日报.md"
-    },
-    {
-      "basename": "2026-01-19 学习日报",
-      "path": "7.Daily 日周记/2026-01-19 学习日报.md"
     }
   ],
   "omittedPaths": [],

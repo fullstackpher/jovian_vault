@@ -6011,6 +6011,26 @@
           "timestampMillis": 1769841911983
         }
       ]
+    },
+    {
+      "path": "2.Areas 领域/Knowledge Management/List Callout.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769845841999
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox 缓存箱/未命名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769845862894
+        }
+      ]
     }
   ]
 }
