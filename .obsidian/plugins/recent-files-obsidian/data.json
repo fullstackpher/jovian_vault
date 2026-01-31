@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "每日笔记",
+      "path": "Templates/每日笔记.md"
+    },
+    {
+      "basename": "常用服务API",
+      "path": "8.Info 其他/常用服务API.md"
+    },
+    {
       "basename": "2026-01-31",
       "path": "7.Daily 日周记/2026-01-31.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-01-30",
       "path": "7.Daily 日周记/2026-01-30.md"
-    },
-    {
-      "basename": "每日笔记",
-      "path": "Templates/每日笔记.md"
     },
     {
       "basename": "Emoji Toolbar",
