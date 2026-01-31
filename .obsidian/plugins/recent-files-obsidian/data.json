@@ -5,6 +5,10 @@
       "path": "Templates/日记模版.md"
     },
     {
+      "basename": "2026-01-31-参考B站博主的日记模版",
+      "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md"
+    },
+    {
       "basename": "2026-01-17 学习日报",
       "path": "7.Daily 日周记/2026-01-17 学习日报.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "2026-01-31-参考B站博主的日记模版",
-      "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",

@@ -1843,7 +1843,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 44,
+      "totalTimesOpened": 45,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -1976,6 +1976,9 @@
         },
         {
           "timestampMillis": 1769844817925
+        },
+        {
+          "timestampMillis": 1769845224951
         }
       ]
     },
@@ -5946,7 +5949,7 @@
     {
       "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769834679451
@@ -5956,6 +5959,9 @@
         },
         {
           "timestampMillis": 1769842109461
+        },
+        {
+          "timestampMillis": 1769845194685
         }
       ]
     },
