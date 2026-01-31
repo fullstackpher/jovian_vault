@@ -2308,7 +2308,7 @@
     {
       "path": "2.Areas 领域/Frontend/CSS响应式设计.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1768556213505
@@ -2360,6 +2360,9 @@
         },
         {
           "timestampMillis": 1769863080460
+        },
+        {
+          "timestampMillis": 1769864451788
         }
       ]
     },
@@ -6527,7 +6530,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 21,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -6591,6 +6594,18 @@
         },
         {
           "timestampMillis": 1769864316421
+        },
+        {
+          "timestampMillis": 1769864375895
+        },
+        {
+          "timestampMillis": 1769864408056
+        },
+        {
+          "timestampMillis": 1769864441934
+        },
+        {
+          "timestampMillis": 1769864451476
         }
       ]
     }

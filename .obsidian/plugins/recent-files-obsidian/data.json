@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS响应式设计",
+      "path": "2.Areas 领域/Frontend/CSS响应式设计.md"
+    },
+    {
       "basename": "2026-01月汇总",
       "path": "7.Daily 日周记/2026-01月汇总.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "学习CSS",
       "path": "1.Projects 项目/03-学习前端/学习CSS.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "2.Areas 领域/Frontend/CSS响应式设计.md"
     },
     {
       "basename": "CSS视觉与表现",
