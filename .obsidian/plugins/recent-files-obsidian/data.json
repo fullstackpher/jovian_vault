@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
       "basename": "2026-01-31",
       "path": "7.Daily 日周记/2026-01-31.md"
     },
@@ -9,16 +17,16 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
+    },
+    {
       "basename": "2026-01-30",
       "path": "7.Daily 日周记/2026-01-30.md"
     },
     {
       "basename": "2026-01-29",
       "path": "7.Daily 日周记/2026-01-29.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "README",
@@ -31,10 +39,6 @@
     {
       "basename": "2026-01-31-参考B站博主的日记模版",
       "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
     },
     {
       "basename": "List Callout 标记分类",
@@ -59,10 +63,6 @@
     {
       "basename": "2026-01-17 学习日报",
       "path": "7.Daily 日周记/2026-01-17 学习日报.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
     },
     {
       "basename": "2026-01-29-待办事项清单",
