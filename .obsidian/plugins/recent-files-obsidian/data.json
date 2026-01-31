@@ -5,6 +5,10 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "2026-01月汇总",
+      "path": "7.Daily 日周记/2026-01月汇总.md"
+    },
+    {
       "basename": "2026-01-24 学习日报",
       "path": "7.Daily 日周记/2026-01-24 学习日报.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "面向对象",
       "path": "2.Areas 领域/Frontend/面向对象.md"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
       "basename": "2026-01-23 学习日报",
