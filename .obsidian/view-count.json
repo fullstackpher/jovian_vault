@@ -497,7 +497,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 246,
+      "totalTimesOpened": 249,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1236,6 +1236,15 @@
         },
         {
           "timestampMillis": 1769834120551
+        },
+        {
+          "timestampMillis": 1769834646682
+        },
+        {
+          "timestampMillis": 1769834653325
+        },
+        {
+          "timestampMillis": 1769834676408
         }
       ]
     },
@@ -5752,6 +5761,16 @@
         },
         {
           "timestampMillis": 1769834136887
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769834679451
         }
       ]
     }

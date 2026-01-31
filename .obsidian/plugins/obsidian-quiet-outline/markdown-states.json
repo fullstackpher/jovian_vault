@@ -3626,12 +3626,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 47,
-        "ch": 66
+        "line": 67,
+        "ch": 0
       },
       "to": {
-        "line": 47,
-        "ch": 66
+        "line": 67,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3968,6 +3968,20 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/2026-01-31-参考B站博主的日记模版.md": {
+    "scroll": 2.479338842975207,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 4
+      },
+      "to": {
+        "line": 16,
+        "ch": 4
       }
     },
     "expandedKeys": []
