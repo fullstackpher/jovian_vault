@@ -3,18 +3,18 @@
   "title": "识别Obsidian主题",
   "titleGenerationStatus": "success",
   "createdAt": 1769928290751,
-  "updatedAt": 1769928307486,
-  "lastResponseAt": 1769928307486,
+  "updatedAt": 1769928429909,
+  "lastResponseAt": 1769928429909,
   "sessionId": "09dab038-457b-4f58-ab2b-d025d5f4b730",
   "sdkSessionId": "09dab038-457b-4f58-ab2b-d025d5f4b730",
   "currentNote": "5.Zattchments 附件/temp_capture.png",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 89,
-    "cacheCreationInputTokens": 111,
-    "cacheReadInputTokens": 13972,
+    "inputTokens": 441,
+    "cacheCreationInputTokens": 457,
+    "cacheReadInputTokens": 26583,
     "contextWindow": 200000,
-    "contextTokens": 14172,
-    "percentage": 7
+    "contextTokens": 27481,
+    "percentage": 14
   }
 }

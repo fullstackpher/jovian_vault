@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Catppuccin",
   "enabledCssSnippets": [
     "rainbow-tree",
     "progress-bars",
     "centered-headings"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": false
 }

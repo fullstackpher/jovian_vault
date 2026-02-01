@@ -9,5 +9,6 @@
   "Appearance-light@@mod-left-split-background-select-light": "mod-left-split-background-secondary-light",
   "phycat-theme-settings@@dark-color-scheme": "theme-dark-abyss",
   "phycat-theme-settings@@light-color-scheme": "theme-light-sky",
-  "Editor@@codeblock-style-select": "codeblock-style-dracula"
+  "Editor@@codeblock-style-select": "codeblock-style-dracula",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato"
 }
