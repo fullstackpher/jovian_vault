@@ -121,7 +121,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "inbox",
+        "after": "## inbox",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -153,8 +153,8 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
+      "captureTo": "/7.Daily 日周记/{{date:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -163,7 +163,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- $ {{value}}⏰{{time}}"
+        "format": "- $ {{value}}⏰{{time}} \\n"
       },
       "insertAfter": {
         "enabled": true,
@@ -171,7 +171,10 @@
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
       },
       "newLineCapture": {
         "enabled": false,
