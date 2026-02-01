@@ -5,12 +5,12 @@
       "path": "8.Info 其他/0-Inbox.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "局部截取_20260201_145633",

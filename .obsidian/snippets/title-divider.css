@@ -1,117 +1,124 @@
 /* ============================================
-   居中标题 + 美化分隔线样式
-   使用方法：添加 class="styled-title" 到标题元素
+   原生标题居中 + 美化分隔线
+   无需 HTML，直接修改 Obsidian 原生样式
    ============================================ */
 
-/* 标题容器 - 居中布局 */
-.styled-title {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 12px 16px 8px;
-  margin-bottom: 4px;
-}
+/* ---------- 标题居中 ---------- */
 
-/* 标题文字 */
-.styled-title h1,
-.styled-title h2,
-.styled-title h3,
-.styled-title .title-text {
-  margin: 0;
-  padding: 0;
-  color: var(--text-normal, #ffffff);
-  font-size: 16px;
-  font-weight: 600;
-  font-family: system-ui, -apple-system, sans-serif;
+/* 编辑模式标题居中 */
+.cm-s-obsidian .cm-header-1,
+.cm-s-obsidian .cm-header-2,
+.cm-s-obsidian .cm-header-3,
+.cm-s-obsidian .cm-header-4 {
   text-align: center;
-  letter-spacing: 0.3px;
+  display: flex;
+  justify-content: flex-start;
 }
 
-/* 美化分隔线 */
-.styled-title::after {
-  content: "";
-  display: block;
-  width: 60px;
+/* 读取模式标题居中 */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+/* 标题前的 # 号隐藏或美化 */
+.HyperMD-header.HyperMD-h1::before,
+.HyperMD-header.HyperMD-h2::before,
+.HyperMD-header.HyperMD-h3::before,
+.HyperMD-header.HyperMD-h4::before {
+  display: none;
+}
+
+/* ---------- 美化分隔线 ---------- */
+
+/* 编辑模式分隔线 */
+.cm-s-obsidian hr {
+  border: none;
   height: 2px;
-  margin-top: 12px;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    var(--accented-h1, #8b5cf6) 20%,
-    var(--accented-h1, #8b5cf6) 80%,
+    var(--text-accent, #8b5cf6) 20%,
+    var(--text-accent, #8b5cf6) 80%,
     transparent 100%
   );
+  margin: 16px 0;
+  width: 60%;
   border-radius: 2px;
   opacity: 0.8;
 }
 
-/* 悬停时分隔线动画 */
-.styled-title:hover::after {
-  width: 100px;
+/* 读取模式分隔线美化 */
+.markdown-preview-view hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--text-accent, #8b5cf6) 20%,
+    var(--text-accent, #8b5cf6) 80%,
+    transparent 100%
+  );
+  margin: 24px auto;
+  width: 60%;
+  border-radius: 2px;
+}
+
+/* 悬停效果 */
+.cm-s-obsidian hr:hover,
+.markdown-preview-view hr:hover {
+  width: 80%;
   opacity: 1;
   transition: all 0.3s ease;
 }
 
 /* ============================================
-   可选：分隔线变体样式
+   可选：分隔线变体
    ============================================ */
 
-/* 渐变色分隔线 */
-.styled-title.gradient-line::after {
+/* 短横线变体 */
+hr.short {
+  width: 60px;
+  height: 3px;
+  background: var(--text-accent, #8b5cf6);
+}
+
+/* 贯穿整行变体 */
+hr.full {
   width: 100%;
   height: 1px;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    var(--text-faint, #666) 20%,
-    var(--text-faint, #666) 80%,
+    var(--text-faint, #555) 20%,
+    var(--text-faint, #555) 80%,
     transparent 100%
   );
-}
-
-/* 短横线分隔线 */
-.styled-title.short-line::after {
-  width: 40px;
-  height: 3px;
-  background-color: var(--accented-h1, #8b5cf6);
-  border-radius: 3px;
 }
 
 /* 双层分隔线 */
-.styled-title.double-line::after {
-  width: 100%;
+hr.double {
   height: 1px;
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    var(--text-muted, #888) 50%,
-    transparent 100%
-  );
-  margin-top: 8px;
+  background: var(--text-faint, #555);
+  margin-bottom: 4px;
 }
 
-.styled-title.double-line::before {
+hr.double::before {
   content: "";
   display: block;
   width: 60px;
   height: 2px;
-  margin-bottom: 8px;
-  background: var(--accented-h1, #8b5cf6);
+  background: var(--text-accent, #8b5cf6);
+  margin-bottom: 4px;
 }
 
 /* ============================================
-   在 Obsidian 中使用示例：
-   ============================================
-
-   <div class="styled-title">
-     <h2>Chat with Claude Code</h2>
-   </div>
-
-   或
-
-   <div class="styled-title short-line">
-     <h2>我的标题</h2>
-   </div>
-
+   使用说明：
+   1. 标题居中：直接写 # 标题即可自动居中
+   2. 分隔线：输入 --- 或 ***
+   3. 变体：<hr class="short"> 或 <hr class="full">
    ============================================ */
