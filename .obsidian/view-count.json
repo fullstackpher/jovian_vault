@@ -533,7 +533,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 16,
-      "totalTimesOpened": 392,
+      "totalTimesOpened": 398,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1710,6 +1710,24 @@
         },
         {
           "timestampMillis": 1769935700743
+        },
+        {
+          "timestampMillis": 1769935850820
+        },
+        {
+          "timestampMillis": 1769935979443
+        },
+        {
+          "timestampMillis": 1769936004636
+        },
+        {
+          "timestampMillis": 1769942603412
+        },
+        {
+          "timestampMillis": 1769943237599
+        },
+        {
+          "timestampMillis": 1769944988814
         }
       ]
     },
@@ -6639,7 +6657,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 111,
+      "totalTimesOpened": 115,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -6973,6 +6991,18 @@
         },
         {
           "timestampMillis": 1769935604444
+        },
+        {
+          "timestampMillis": 1769935863137
+        },
+        {
+          "timestampMillis": 1769942896471
+        },
+        {
+          "timestampMillis": 1769943497819
+        },
+        {
+          "timestampMillis": 1769944818752
         }
       ]
     },
@@ -7062,7 +7092,7 @@
     {
       "path": "7.Daily 日周记/2026-01-31.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1769857593451
@@ -7156,6 +7186,9 @@
         },
         {
           "timestampMillis": 1769923082507
+        },
+        {
+          "timestampMillis": 1769942374381
         }
       ]
     },
@@ -7353,7 +7386,7 @@
     {
       "path": "7.Daily 日周记/2026-02-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769922935841
@@ -7390,13 +7423,25 @@
         },
         {
           "timestampMillis": 1769930650706
+        },
+        {
+          "timestampMillis": 1769942309011
+        },
+        {
+          "timestampMillis": 1769942402015
+        },
+        {
+          "timestampMillis": 1769942428267
+        },
+        {
+          "timestampMillis": 1769945038826
         }
       ]
     },
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 55,
+      "totalTimesOpened": 57,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7562,19 +7607,31 @@
         },
         {
           "timestampMillis": 1769935635207
+        },
+        {
+          "timestampMillis": 1769945001662
+        },
+        {
+          "timestampMillis": 1769945334524
         }
       ]
     },
     {
       "path": "0.Inbox 缓存箱/@flomo-2026-02-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769927167532
         },
         {
           "timestampMillis": 1769927311155
+        },
+        {
+          "timestampMillis": 1769942540137
+        },
+        {
+          "timestampMillis": 1769942564785
         }
       ]
     },
@@ -7604,7 +7661,7 @@
     {
       "path": "2.Areas 领域/Frontend/Date对象.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1769930690509
@@ -7617,6 +7674,27 @@
         },
         {
           "timestampMillis": 1769935652053
+        },
+        {
+          "timestampMillis": 1769935968536
+        },
+        {
+          "timestampMillis": 1769936028186
+        },
+        {
+          "timestampMillis": 1769936347181
+        },
+        {
+          "timestampMillis": 1769942611868
+        },
+        {
+          "timestampMillis": 1769942906117
+        },
+        {
+          "timestampMillis": 1769943240300
+        },
+        {
+          "timestampMillis": 1769943267325
         }
       ]
     },
@@ -7636,6 +7714,16 @@
         },
         {
           "timestampMillis": 1769932087869
+        }
+      ]
+    },
+    {
+      "path": "5.Zattchments 附件/局部截取_20260201_185844.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1769943541316
         }
       ]
     }

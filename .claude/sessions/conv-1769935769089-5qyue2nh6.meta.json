@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769935769089-5qyue2nh6",
+  "title": "CSS条件显示水平线",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769935769089,
+  "updatedAt": 1769942874124,
+  "lastResponseAt": 1769942874124,
+  "sessionId": "2ae2edfc-3fd7-4607-9f7d-6f6e5d09a429",
+  "sdkSessionId": "2ae2edfc-3fd7-4607-9f7d-6f6e5d09a429",
+  "currentNote": "Dashboards/Dashboard.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 286,
+    "cacheReadInputTokens": 19422,
+    "contextWindow": 200000,
+    "contextTokens": 19792,
+    "percentage": 10
+  }
+}

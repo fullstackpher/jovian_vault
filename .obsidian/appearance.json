@@ -4,8 +4,7 @@
     "rainbow-tree",
     "progress-bars",
     "centered-headings",
-    "center-headings",
-    "elegant-hr"
+    "center-headings"
   ],
   "theme": "moonstone",
   "showViewHeader": true,

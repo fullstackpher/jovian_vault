@@ -67,7 +67,7 @@
   },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
-  "lastCustomModel": "",
+  "lastCustomModel": "MiniMax-M2.1",
   "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.1",
   "maxTabs": 3,
   "tabBarPosition": "input",

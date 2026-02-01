@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769943574006-0s192vm84",
+  "title": "排查图片提示的错误信息",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769943574006,
+  "updatedAt": 1769943591574,
+  "lastResponseAt": 1769943591574,
+  "sessionId": "a0a94487-7a3c-4b45-b5d0-fe7851bff002",
+  "sdkSessionId": "a0a94487-7a3c-4b45-b5d0-fe7851bff002",
+  "currentNote": "5.Zattchments 附件/局部截取_20260201_185844.png",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 89,
+    "cacheCreationInputTokens": 139,
+    "cacheReadInputTokens": 13971,
+    "contextWindow": 200000,
+    "contextTokens": 14199,
+    "percentage": 7
+  }
+}
