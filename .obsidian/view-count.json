@@ -6746,8 +6746,8 @@
     },
     {
       "path": "7.Daily 日周记/2026-01-31.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 30,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1769857593451
@@ -6838,6 +6838,9 @@
         },
         {
           "timestampMillis": 1769865733117
+        },
+        {
+          "timestampMillis": 1769923082507
         }
       ]
     },
@@ -6872,7 +6875,7 @@
     {
       "path": "7.Daily 日周记/2026-01月汇总.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 51,
+      "totalTimesOpened": 52,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -7026,6 +7029,9 @@
         },
         {
           "timestampMillis": 1769922954063
+        },
+        {
+          "timestampMillis": 1769923092074
         }
       ]
     },
@@ -7045,13 +7051,19 @@
     {
       "path": "7.Daily 日周记/2026-02-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769922935841
         },
         {
           "timestampMillis": 1769922960252
+        },
+        {
+          "timestampMillis": 1769923089959
+        },
+        {
+          "timestampMillis": 1769923135050
         }
       ]
     }

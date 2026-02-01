@@ -9,6 +9,10 @@
       "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
+      "basename": "2026-01-31",
+      "path": "7.Daily 日周记/2026-01-31.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "2026-01-29-待办事项清单",
       "path": "4.Archives 归档/2026-01-29-待办事项清单.md"
-    },
-    {
-      "basename": "2026-01-31",
-      "path": "7.Daily 日周记/2026-01-31.md"
     },
     {
       "basename": "2026-01-24 学习日报",
