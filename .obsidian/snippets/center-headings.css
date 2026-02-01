@@ -1,6 +1,0 @@
-/* 针对Catppuccin主题的精确适配 */
-.theme-catppuccin .markdown-preview-view h2,
-.theme-catppuccin.mode-dark .markdown-preview-view h2,
-.theme-catppuccin.mode-light .markdown-preview-view h2 {
-    text-align: center;
-}
