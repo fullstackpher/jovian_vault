@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-01T15:24
-更新时间: 2026-02-01T15:46
+更新时间: 2026-02-01T16:47
 tags:
   - JavaScript
 ---
@@ -23,7 +23,7 @@ console.log(date.getFullYear())
 ```
 
 ## getMonth()
-- 获取月份（从0~~11）
+- 获取月份（`从0~~11`）
 
 > [!example]+ 获取月份
 
@@ -31,3 +31,5 @@ console.log(date.getFullYear())
 let date = new Date()
 console.log("从 Date 对象返回月份 (0 ~ 11)。",date.getMonth());
 ```
+
+
