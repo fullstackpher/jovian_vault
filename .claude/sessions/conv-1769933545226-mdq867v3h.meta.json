@@ -3,18 +3,18 @@
   "title": "更换水平线样式",
   "titleGenerationStatus": "success",
   "createdAt": 1769933545226,
-  "updatedAt": 1769934853452,
-  "lastResponseAt": 1769934853452,
+  "updatedAt": 1769934931755,
+  "lastResponseAt": 1769934931755,
   "sessionId": "d952a6e7-a8ef-4f26-9a86-5d6276f1b00c",
   "sdkSessionId": "d952a6e7-a8ef-4f26-9a86-5d6276f1b00c",
   "currentNote": "8.Info 其他/本月安排.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 389,
-    "cacheCreationInputTokens": 448,
-    "cacheReadInputTokens": 21599,
+    "inputTokens": 467,
+    "cacheCreationInputTokens": 765,
+    "cacheReadInputTokens": 22081,
     "contextWindow": 200000,
-    "contextTokens": 22436,
-    "percentage": 11
+    "contextTokens": 23313,
+    "percentage": 12
   }
 }

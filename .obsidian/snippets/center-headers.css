@@ -1,11 +1,11 @@
-/* 二级标题居中样式 - Center H2 - For Catppuccin Theme */
+/* 二级标题居中样式 - Center H2 - Catppuccin Theme */
 body[data-header-center] .markdown-preview-view h2,
-body[data-header-center] .markdown-preview-view h3 {
+body[data-header-center] .markdown-preview-view h3,
+body[data-header-center] .markdown-source-view .cm-header-2,
+body[data-header-center] .markdown-source-view .cm-header-3 {
   text-align: center !important;
-  display: flex !important;
   justify-content: center !important;
-  flex-direction: column !important;
-  align-items: center !important;
+  display: flex !important;
 }
 
 body[data-header-center] .markdown-preview-view h2::after,
@@ -16,4 +16,10 @@ body[data-header-center] .markdown-preview-view h3::after {
   background: linear-gradient(90deg, #cba6f7, #89b4fa);
   margin-top: 0.8em;
   border-radius: 999px;
+}
+
+/* 使用 :where() 降低其他选择器优先级 */
+:where(body[data-header-center]) h2,
+:where(body[data-header-center]) h3 {
+  text-align: center !important;
 }
