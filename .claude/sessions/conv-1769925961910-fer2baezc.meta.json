@@ -3,18 +3,17 @@
   "title": "Create Today's Schedule with Task Syntax",
   "titleGenerationStatus": "success",
   "createdAt": 1769925961910,
-  "updatedAt": 1769925979389,
-  "lastResponseAt": 1769925979389,
+  "updatedAt": 1769926112781,
+  "lastResponseAt": 1769926085157,
   "sessionId": "54b00507-c1ea-4da8-8dba-bbda99cd896c",
   "sdkSessionId": "54b00507-c1ea-4da8-8dba-bbda99cd896c",
-  "currentNote": "8.Info 其他/本月安排.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 273,
-    "cacheCreationInputTokens": 498,
-    "cacheReadInputTokens": 14007,
+    "inputTokens": 191,
+    "cacheCreationInputTokens": 791,
+    "cacheReadInputTokens": 15173,
     "contextWindow": 200000,
-    "contextTokens": 14778,
-    "percentage": 7
+    "contextTokens": 16155,
+    "percentage": 8
   }
 }

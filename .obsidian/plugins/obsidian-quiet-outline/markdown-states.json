@@ -3634,7 +3634,10 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ]
   },
   "Frontend知识体系.md": {
     "scroll": 0,
@@ -4662,12 +4665,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 12,
+        "ch": 19
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 12,
+        "ch": 19
       }
     },
     "expandedKeys": []
