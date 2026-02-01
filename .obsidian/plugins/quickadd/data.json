@@ -200,7 +200,7 @@
   "devMode": false,
   "templateFolderPath": "Templates",
   "announceUpdates": "all",
-  "version": "2.9.4",
+  "version": "2.10.0",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,

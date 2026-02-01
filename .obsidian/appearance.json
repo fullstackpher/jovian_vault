@@ -3,8 +3,7 @@
   "enabledCssSnippets": [
     "rainbow-tree",
     "progress-bars",
-    "centered-headings",
-    "title-divider"
+    "centered-headings"
   ],
   "theme": "obsidian",
   "showViewHeader": true,
