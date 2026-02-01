@@ -22,13 +22,7 @@ hr::before {
   top: 50%;
   transform: translate(-50%, -50%);
   background: var(--background-primary, #1a1a2e);
-  padding: 0 1em;
   color: var(--text-accent, #7c3aed);
-  font-size: 0.9em;
-}
-
-hr:hover {
-  opacity: 1;
-  height: 4px;
-  transition: all 0.3s ease;
+  font-size: 1.2em;
+  padding: 0 12px;
 }

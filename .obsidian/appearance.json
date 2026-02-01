@@ -4,7 +4,8 @@
     "rainbow-tree",
     "progress-bars",
     "centered-headings",
-    "center-headings"
+    "center-headings",
+    "elegant-hr"
   ],
   "theme": "obsidian",
   "showViewHeader": true,
