@@ -4,5 +4,5 @@
   "trashOption": "local",
   "showInlineTitle": false,
   "rightToLeft": false,
-  "focusNewTab": false
+  "focusNewTab": true
 }
