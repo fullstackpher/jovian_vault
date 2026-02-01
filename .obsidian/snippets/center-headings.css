@@ -1,0 +1,4 @@
+/* 让所有级别的标题居中 */
+.markdown-preview-view h2 {
+    text-align: center !important;
+}
