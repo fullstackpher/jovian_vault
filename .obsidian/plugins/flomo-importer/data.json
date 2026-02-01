@@ -1,0 +1,9 @@
+{
+  "flomoTarget": "flomo",
+  "memoTarget": "memos",
+  "optionsMoments": "copy_with_link",
+  "optionsCanvas": "copy_with_content",
+  "expOptionAllowbilink": true,
+  "canvasSize": "M",
+  "mergeByDate": true
+}
