@@ -3,9 +3,10 @@
   "enabledCssSnippets": [
     "rainbow-tree",
     "progress-bars",
-    "centered-headings"
+    "centered-headings",
+    "title-divider"
   ],
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true,
   "showRibbon": true
 }

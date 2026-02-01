@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "2.Areas 领域/Knowledge Management/markdown使用指南.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 55,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 56,
       "openLogs": [
         {
           "timestampMillis": 1768478523905
@@ -169,6 +169,9 @@
         },
         {
           "timestampMillis": 1769424547636
+        },
+        {
+          "timestampMillis": 1769929155085
         }
       ]
     },
@@ -530,7 +533,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 16,
-      "totalTimesOpened": 360,
+      "totalTimesOpened": 361,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1611,6 +1614,9 @@
         },
         {
           "timestampMillis": 1769928572727
+        },
+        {
+          "timestampMillis": 1769929514418
         }
       ]
     },
@@ -6531,7 +6537,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 77,
+      "totalTimesOpened": 83,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -6763,6 +6769,24 @@
         },
         {
           "timestampMillis": 1769927302115
+        },
+        {
+          "timestampMillis": 1769929411888
+        },
+        {
+          "timestampMillis": 1769929423046
+        },
+        {
+          "timestampMillis": 1769929441822
+        },
+        {
+          "timestampMillis": 1769929576530
+        },
+        {
+          "timestampMillis": 1769929583161
+        },
+        {
+          "timestampMillis": 1769929626919
         }
       ]
     },
@@ -7183,7 +7207,7 @@
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7244,6 +7268,9 @@
         },
         {
           "timestampMillis": 1769928554175
+        },
+        {
+          "timestampMillis": 1769929453181
         }
       ]
     },
@@ -7286,13 +7313,28 @@
     {
       "path": "5.Zattchments 附件/局部截取_20260201_145633.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769929029321
         },
         {
           "timestampMillis": 1769929042179
+        },
+        {
+          "timestampMillis": 1769929276100
+        },
+        {
+          "timestampMillis": 1769929408527
+        },
+        {
+          "timestampMillis": 1769929414012
+        },
+        {
+          "timestampMillis": 1769929436708
+        },
+        {
+          "timestampMillis": 1769929442883
         }
       ]
     }

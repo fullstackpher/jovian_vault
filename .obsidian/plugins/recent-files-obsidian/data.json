@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "局部截取_20260201_145633",
-      "path": "5.Zattchments 附件/局部截取_20260201_145633.png"
-    },
-    {
-      "basename": "README",
-      "path": "5.Zattchments 附件/README.md"
-    },
-    {
-      "basename": "2026-02-01",
-      "path": "7.Daily 日周记/2026-02-01.md"
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
     },
     {
       "basename": "Dashboard",
@@ -19,6 +11,22 @@
     {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
+    },
+    {
+      "basename": "局部截取_20260201_145633",
+      "path": "5.Zattchments 附件/局部截取_20260201_145633.png"
+    },
+    {
+      "basename": "markdown使用指南",
+      "path": "2.Areas 领域/Knowledge Management/markdown使用指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "5.Zattchments 附件/README.md"
+    },
+    {
+      "basename": "2026-02-01",
+      "path": "7.Daily 日周记/2026-02-01.md"
     },
     {
       "basename": "temp_capture",
@@ -39,10 +47,6 @@
     {
       "basename": "@flomo-2026-02-01",
       "path": "0.Inbox 缓存箱/@flomo-2026-02-01.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
     },
     {
       "basename": "日记模版",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
       "path": "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "2.Areas 领域/Frontend/CSS响应式设计.md"
     }
   ],
   "omittedPaths": [],

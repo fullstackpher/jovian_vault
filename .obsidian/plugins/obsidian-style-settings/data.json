@@ -10,5 +10,6 @@
   "phycat-theme-settings@@dark-color-scheme": "theme-dark-abyss",
   "phycat-theme-settings@@light-color-scheme": "theme-light-sky",
   "Editor@@codeblock-style-select": "codeblock-style-dracula",
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato"
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-flamingo"
 }

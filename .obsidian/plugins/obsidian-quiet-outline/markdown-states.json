@@ -3970,12 +3970,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 8
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -4738,5 +4738,22 @@
       }
     },
     "expandedKeys": []
+  },
+  "2.Areas 领域/Knowledge Management/markdown使用指南.md": {
+    "scroll": 72.08203125,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-3",
+      "item-1-9"
+    ]
   }
 }

@@ -1191,8 +1191,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 16050000,
-      "openCount": 247
+      "duration": 16110000,
+      "openCount": 248
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1257,8 +1257,8 @@
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info 其他/0-Inbox.md",
-      "duration": 3264000,
-      "openCount": 56
+      "duration": 3396000,
+      "openCount": 59
     },
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
@@ -1407,8 +1407,8 @@
     "8.Info 其他/本月安排.md": {
       "fileId": "1769925310579",
       "filePath": "8.Info 其他/本月安排.md",
-      "duration": 654000,
-      "openCount": 11
+      "duration": 672000,
+      "openCount": 12
     },
     "0.Inbox 缓存箱/@flomo-2026-02-01.md": {
       "fileId": "1769927170569",
@@ -1431,7 +1431,13 @@
     "5.Zattchments 附件/局部截取_20260201_145633.png": {
       "fileId": "1769929030562",
       "filePath": "5.Zattchments 附件/局部截取_20260201_145633.png",
-      "duration": 48000,
+      "duration": 288000,
+      "openCount": 7
+    },
+    "2.Areas 领域/Knowledge Management/markdown使用指南.md": {
+      "fileId": "1769929156569",
+      "filePath": "2.Areas 领域/Knowledge Management/markdown使用指南.md",
+      "duration": 12000,
       "openCount": 2
     }
   }

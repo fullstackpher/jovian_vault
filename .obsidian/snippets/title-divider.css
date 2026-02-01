@@ -1,0 +1,117 @@
+/* ============================================
+   居中标题 + 美化分隔线样式
+   使用方法：添加 class="styled-title" 到标题元素
+   ============================================ */
+
+/* 标题容器 - 居中布局 */
+.styled-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 16px 8px;
+  margin-bottom: 4px;
+}
+
+/* 标题文字 */
+.styled-title h1,
+.styled-title h2,
+.styled-title h3,
+.styled-title .title-text {
+  margin: 0;
+  padding: 0;
+  color: var(--text-normal, #ffffff);
+  font-size: 16px;
+  font-weight: 600;
+  font-family: system-ui, -apple-system, sans-serif;
+  text-align: center;
+  letter-spacing: 0.3px;
+}
+
+/* 美化分隔线 */
+.styled-title::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  margin-top: 12px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--accented-h1, #8b5cf6) 20%,
+    var(--accented-h1, #8b5cf6) 80%,
+    transparent 100%
+  );
+  border-radius: 2px;
+  opacity: 0.8;
+}
+
+/* 悬停时分隔线动画 */
+.styled-title:hover::after {
+  width: 100px;
+  opacity: 1;
+  transition: all 0.3s ease;
+}
+
+/* ============================================
+   可选：分隔线变体样式
+   ============================================ */
+
+/* 渐变色分隔线 */
+.styled-title.gradient-line::after {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--text-faint, #666) 20%,
+    var(--text-faint, #666) 80%,
+    transparent 100%
+  );
+}
+
+/* 短横线分隔线 */
+.styled-title.short-line::after {
+  width: 40px;
+  height: 3px;
+  background-color: var(--accented-h1, #8b5cf6);
+  border-radius: 3px;
+}
+
+/* 双层分隔线 */
+.styled-title.double-line::after {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--text-muted, #888) 50%,
+    transparent 100%
+  );
+  margin-top: 8px;
+}
+
+.styled-title.double-line::before {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  margin-bottom: 8px;
+  background: var(--accented-h1, #8b5cf6);
+}
+
+/* ============================================
+   在 Obsidian 中使用示例：
+   ============================================
+
+   <div class="styled-title">
+     <h2>Chat with Claude Code</h2>
+   </div>
+
+   或
+
+   <div class="styled-title short-line">
+     <h2>我的标题</h2>
+   </div>
+
+   ============================================ */
