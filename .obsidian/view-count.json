@@ -4498,7 +4498,7 @@
     {
       "path": "1.Projects 项目/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 35,
+      "totalTimesOpened": 36,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -4604,6 +4604,9 @@
         },
         {
           "timestampMillis": 1769930742697
+        },
+        {
+          "timestampMillis": 1769932060502
         }
       ]
     },
@@ -7359,34 +7362,6 @@
       ]
     },
     {
-      "path": "5.Zattchments 附件/局部截取_20260201_145633.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
-      "openLogs": [
-        {
-          "timestampMillis": 1769929029321
-        },
-        {
-          "timestampMillis": 1769929042179
-        },
-        {
-          "timestampMillis": 1769929276100
-        },
-        {
-          "timestampMillis": 1769929408527
-        },
-        {
-          "timestampMillis": 1769929414012
-        },
-        {
-          "timestampMillis": 1769929436708
-        },
-        {
-          "timestampMillis": 1769929442883
-        }
-      ]
-    },
-    {
       "path": "2.Areas 领域/Frontend/Date对象.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
@@ -7399,6 +7374,25 @@
         },
         {
           "timestampMillis": 1769930766982
+        }
+      ]
+    },
+    {
+      "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1769932054237
+        },
+        {
+          "timestampMillis": 1769932062180
+        },
+        {
+          "timestampMillis": 1769932081351
+        },
+        {
+          "timestampMillis": 1769932087869
         }
       ]
     }

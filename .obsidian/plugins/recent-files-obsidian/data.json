@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian.exe_20260201_154658",
+      "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
+    },
+    {
       "basename": "Date对象",
       "path": "2.Areas 领域/Frontend/Date对象.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects 项目/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "项目看板",
@@ -27,10 +31,6 @@
     {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
-    },
-    {
-      "basename": "局部截取_20260201_145633",
-      "path": "5.Zattchments 附件/局部截取_20260201_145633.png"
     },
     {
       "basename": "markdown使用指南",
@@ -195,10 +195,6 @@
     {
       "basename": "2026-01-14",
       "path": "7.Daily 日周记/2026-01-14.md"
-    },
-    {
-      "basename": "2026-01-31-参考B站博主的日记模版",
-      "path": "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md"
     }
   ],
   "omittedPaths": [],
