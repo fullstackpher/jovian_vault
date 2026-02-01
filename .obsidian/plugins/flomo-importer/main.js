@@ -84748,7 +84748,7 @@ var FlomoExporter = class {
       const page = await context.newPage();
       const downloadPromise = page.waitForEvent("download", { timeout: 10 * 60 * 1e3 });
       await page.goto("https://v.flomoapp.com/mine?source=export");
-      await page.getByRole("button", { name: "\u5F00\u59CB\u5BFC\u51FA" }).click();
+      await page.getByRole("button", { name: "\u5BFC\u51FA" }).click();
       const download = await downloadPromise;
       await download.saveAs(DOWNLOAD_FILE);
       await context.close();

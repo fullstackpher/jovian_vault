@@ -5,5 +5,6 @@
   "optionsCanvas": "copy_with_content",
   "expOptionAllowbilink": true,
   "canvasSize": "M",
-  "mergeByDate": true
+  "mergeByDate": true,
+  "baseDir": "E:\\obsidian\\jovian_vault"
 }
