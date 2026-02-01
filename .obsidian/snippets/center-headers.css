@@ -1,16 +1,19 @@
-/* 二级标题居中样式 - Center H2 */
+/* 二级标题居中样式 - Center H2 - For Catppuccin Theme */
 body[data-header-center] .markdown-preview-view h2,
 body[data-header-center] .markdown-preview-view h3 {
   text-align: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  flex-direction: column !important;
+  align-items: center !important;
 }
 
 body[data-header-center] .markdown-preview-view h2::after,
 body[data-header-center] .markdown-preview-view h3::after {
   content: "";
-  display: block;
-  width: 60px;
+  width: 80px;
   height: 3px;
-  background: var(--text-accent, #7c3aed);
-  margin: 0.5em auto 0;
-  border-radius: 2px;
+  background: linear-gradient(90deg, #cba6f7, #89b4fa);
+  margin-top: 0.8em;
+  border-radius: 999px;
 }
