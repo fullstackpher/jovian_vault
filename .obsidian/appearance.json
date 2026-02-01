@@ -5,7 +5,8 @@
     "progress-bars",
     "centered-headings",
     "center-headings",
-    "elegant-hr"
+    "elegant-hr",
+    "center-headers"
   ],
   "theme": "obsidian",
   "showViewHeader": true,

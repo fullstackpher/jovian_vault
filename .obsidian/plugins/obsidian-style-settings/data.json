@@ -11,5 +11,6 @@
   "phycat-theme-settings@@light-color-scheme": "theme-light-sky",
   "Editor@@codeblock-style-select": "codeblock-style-dracula",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false
 }

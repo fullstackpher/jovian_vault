@@ -1,21 +1,16 @@
 /* 二级标题居中样式 - Center H2 */
-body[data-header-center="true"] h2 {
-  text-align: center;
-  position: relative;
-  padding-bottom: 0.5em;
-  margin-top: 2em;
-  margin-bottom: 1em;
+body[data-header-center] .markdown-preview-view h2,
+body[data-header-center] .markdown-preview-view h3 {
+  text-align: center !important;
 }
 
-/* 可选：二级标题下方加一条线 */
-body[data-header-center="true"] h2::after {
+body[data-header-center] .markdown-preview-view h2::after,
+body[data-header-center] .markdown-preview-view h3::after {
   content: "";
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  display: block;
   width: 60px;
   height: 3px;
   background: var(--text-accent, #7c3aed);
+  margin: 0.5em auto 0;
   border-radius: 2px;
 }
