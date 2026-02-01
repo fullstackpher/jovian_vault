@@ -46,7 +46,9 @@ limit 100
 - [x] 学习obsidian标签功能 ✅ 2026-01-15
 - [ ] 学习obsidian的数据库Bases
 - [ ] 学习excalidraw插件
-- [/] 制作一个obsidian主页
+- [x] 制作一个obsidian主页 ✅ 2026-02-01
+- [/] obsidian工作流系统
+
 
 
   

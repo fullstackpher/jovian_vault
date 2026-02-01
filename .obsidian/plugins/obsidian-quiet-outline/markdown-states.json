@@ -3371,15 +3371,15 @@
     "expandedKeys": []
   },
   "1.Projects 项目/02-知识管理/学习Obsidian.md": {
-    "scroll": 29.12399265700277,
+    "scroll": 8.904109589041095,
     "cursor": {
       "from": {
-        "line": 48,
-        "ch": 20
+        "line": 50,
+        "ch": 0
       },
       "to": {
-        "line": 48,
-        "ch": 20
+        "line": 50,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4690,6 +4690,20 @@
       "to": {
         "line": 7,
         "ch": 135
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects 项目/项目看板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
