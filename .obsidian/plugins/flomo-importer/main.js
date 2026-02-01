@@ -84740,97 +84740,26 @@ var FlomoImporter = class {
 };
 
 // lib/flomo/exporter.ts
-// 调试辅助: 捕获页面状态（HTML/Cookies/标题/当前URL/可见按钮）
-async function captureDebugState(context, page, tag) {
-  try {
-    const cookies = await context.cookies();
-    const html = await page.content();
-    const url = page.url();
-    const title = await page.title();
-    const buttons = await page.locator('button').allTextContents().catch(()=>[]);
-    return { tag, url, title, buttons, cookies }; // 不返回整页 html 以免太大
-  } catch (e) {
-    return { tag, error: String(e) };
-  }
-}
-
 var FlomoExporter = class {
   async export() {
-    // 成功返回 [true, '']; 失败返回 [false, Error]
-    let browser;
-    let context;
     try {
-      browser = await chromium.launch();
-      context = await browser.newContext({ storageState: AUTH_FILE, acceptDownloads: true });
+      const browser = await chromium.launch();
+      const context = await browser.newContext({ storageState: AUTH_FILE });
       const page = await context.newPage();
-      // 控制台输出便于排查
-      page.on('console', msg => console.log('[flomo page]', msg.type(), msg.text()));
-
-      // 安全获取调试函数（防止打包/热更新导致 captureDebugState 未定义）
-      const ensureDebug = (typeof captureDebugState === 'function') ? captureDebugState : async function(contextFallback, pageFallback, tag) {
-        try {
-          const [cookies, url, title, buttons] = await Promise.all([
-            contextFallback.cookies().catch(()=>[]),
-            Promise.resolve(pageFallback.url()),
-            pageFallback.title().catch(()=>''),
-            pageFallback.locator('button').allTextContents().catch(()=>[])
-          ]);
-          return { tag, url, title, buttons, cookies, note: 'fallback debug (captureDebugState missing)' };
-        } catch (e) {
-          return { tag, error: String(e), note: 'fallback debug error' };
-        }
-      };
-
-      await page.goto('https://v.flomoapp.com/mine?source=export', { waitUntil: 'domcontentloaded' });
-
-      // 寻找导出按钮: 兼容大小写 / 其它文案
-      const exportBtn = page.getByRole('button', { name: /导出/i });
-      if (await exportBtn.count() === 0) {
-        const debug = await ensureDebug(context, page, 'button-not-found');
-        throw new Error('未找到导出按钮: ' + JSON.stringify(debug));
-      }
-
-      // 并发等待下载与点击
-      let download;
-      try {
-        [download] = await Promise.all([
-          page.waitForEvent('download', { timeout: 120000 }), // 2 分钟，避免等待 10 分钟才发现问题
-          exportBtn.first().click()
-        ]);
-      } catch (e) {
-        const debug = await ensureDebug(context, page, 'download-wait-failed');
-        throw new Error('等待下载事件失败: ' + String(e) + '; debug=' + JSON.stringify(debug));
-      }
-
-      try {
-        await download.saveAs(DOWNLOAD_FILE);
-      } catch (e) {
-        const debug = await ensureDebug(context, page, 'saveAs-failed');
-        throw new Error('保存下载文件失败: ' + String(e) + '; debug=' + JSON.stringify(debug));
-      }
-
-      return [true, ''];
+      const downloadPromise = page.waitForEvent("download", { timeout: 10 * 60 * 1e3 });
+      await page.goto("https://v.flomoapp.com/mine?source=export");
+      await page.getByRole("button", { name: "\u5F00\u59CB\u5BFC\u51FA" }).click();
+      const download = await downloadPromise;
+      await download.saveAs(DOWNLOAD_FILE);
+      await context.close();
+      await browser.close();
+      return [true, ""];
     } catch (error) {
-      console.log('[FlomoExporter error]', error);
+      console.log(error);
       return [false, error];
-    } finally {
-      if (context) await context.close().catch(()=>{});
-      if (browser) await browser.close().catch(()=>{});
     }
   }
 };
-      // const download = await downloadPromise;
-      // await download.saveAs(DOWNLOAD_FILE);
-//       await context.close();
-//       await browser.close();
-//       return [true, ""];
-//     } catch (error) {
-//       console.log(error);
-//       return [false, error];
-//     }
-//   }
-// };
-
 
 // lib/ui/main_ui.ts
 var fs3 = __toESM(require_lib());
