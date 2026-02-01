@@ -1,0 +1,21 @@
+/* 二级标题居中样式 - Center H2 */
+body[data-header-center="true"] h2 {
+  text-align: center;
+  position: relative;
+  padding-bottom: 0.5em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* 可选：二级标题下方加一条线 */
+body[data-header-center="true"] h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: var(--text-accent, #7c3aed);
+  border-radius: 2px;
+}

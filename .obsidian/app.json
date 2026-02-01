@@ -4,5 +4,6 @@
   "trashOption": "local",
   "showInlineTitle": false,
   "rightToLeft": false,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "propertiesInDocument": "hidden"
 }

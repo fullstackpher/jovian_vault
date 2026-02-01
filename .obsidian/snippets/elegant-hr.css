@@ -1,7 +1,7 @@
 /* 美化水平线样式 - Elegant Horizontal Rule */
 hr {
   border: none;
-  height: 3px;
+  height: 1px;
   background: linear-gradient(
     90deg,
     transparent 0%,
@@ -10,19 +10,18 @@ hr {
     var(--text-accent, #7c3aed) 80%,
     transparent 100%
   );
-  margin: 2em 0;
-  opacity: 0.8;
+  margin: 2.5em 0;
   position: relative;
 }
 
-hr::before {
+hr::after {
   content: "✦";
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  background: var(--background-primary, #1a1a2e);
-  color: var(--text-accent, #7c3aed);
-  font-size: 1.2em;
-  padding: 0 12px;
+  color: var(--text-normal, #dcddde);
+  font-size: 1.5em;
+  padding: 0 0.8em;
+  background: var(--background-primary, #1e1e2e);
 }
