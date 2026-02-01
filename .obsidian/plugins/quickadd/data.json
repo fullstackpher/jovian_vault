@@ -125,7 +125,10 @@
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
       },
       "newLineCapture": {
         "enabled": false,
@@ -194,7 +197,7 @@
   "devMode": false,
   "templateFolderPath": "Templates",
   "announceUpdates": "all",
-  "version": "2.10.0",
+  "version": "2.9.4",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
