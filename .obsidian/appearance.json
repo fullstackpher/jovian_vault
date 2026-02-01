@@ -6,7 +6,8 @@
     "centered-headings",
     "title-divider"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 17
 }

@@ -1,79 +1,125 @@
 /* ============================================
    原生标题居中 + 美化分隔线
-   无需 HTML，直接修改 Obsidian 原生样式
+   针对 Catppuccin 主题优化
    ============================================ */
 
-/* ---------- 标题居中 ---------- */
+/* ---------- 标题居中 - 高优先级覆盖 ---------- */
 
 /* 编辑模式标题居中 */
-.cm-s-obsidian .cm-header-1,
-.cm-s-obsidian .cm-header-2,
-.cm-s-obsidian .cm-header-3,
-.cm-s-obsidian .cm-header-4 {
-  text-align: center;
-  display: flex;
-  justify-content: flex-start;
+body.theme-dark .cm-s-obsidian .HyperMD-header,
+body.theme-light .cm-s-obsidian .HyperMD-header,
+.cm-s-obsidian .HyperMD-header {
+  text-align: center !important;
+}
+
+body.theme-dark .cm-s-obsidian .cm-header-1,
+body.theme-dark .cm-s-obsidian .cm-header-2,
+body.theme-dark .cm-s-obsidian .cm-header-3,
+body.theme-dark .cm-s-obsidian .cm-header-4,
+body.theme-light .cm-s-obsidian .cm-header-1,
+body.theme-light .cm-s-obsidian .cm-header-2,
+body.theme-light .cm-s-obsidian .cm-header-3,
+body.theme-light .cm-s-obsidian .cm-header-4 {
+  text-align: center !important;
+  justify-content: center !important;
+  display: flex !important;
 }
 
 /* 读取模式标题居中 */
-.markdown-preview-view h1,
-.markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-preview-view h4 {
-  text-align: center;
-  display: flex;
-  justify-content: center;
+body.theme-dark .markdown-preview-view h1,
+body.theme-dark .markdown-preview-view h2,
+body.theme-dark .markdown-preview-view h3,
+body.theme-dark .markdown-preview-view h4,
+body.theme-light .markdown-preview-view h1,
+body.theme-light .markdown-preview-view h2,
+body.theme-light .markdown-preview-view h3,
+body.theme-light .markdown-preview-view h4 {
+  text-align: center !important;
+  justify-content: center !important;
+  display: flex !important;
 }
 
-/* 标题前的 # 号隐藏或美化 */
+/* Live Preview 标题居中 */
+.HyperMD-header.HyperMD-h1,
+.HyperMD-header.HyperMD-h2,
+.HyperMD-header.HyperMD-h3,
+.HyperMD-header.HyperMD-h4 {
+  text-align: center !important;
+  justify-content: center !important;
+  display: flex !important;
+}
+
+/* 隐藏标题前的 # 号 */
 .HyperMD-header.HyperMD-h1::before,
 .HyperMD-header.HyperMD-h2::before,
 .HyperMD-header.HyperMD-h3::before,
 .HyperMD-header.HyperMD-h4::before {
-  display: none;
+  display: none !important;
+  color: transparent !important;
 }
 
-/* ---------- 美化分隔线 ---------- */
+/* ============================================
+   美化分隔线
+   ============================================ */
 
 /* 编辑模式分隔线 */
-.cm-s-obsidian hr {
-  border: none;
-  height: 2px;
+.cm-s-obsidian hr,
+body.theme-dark .cm-s-obsidian hr,
+body.theme-light .cm-s-obsidian hr {
+  border: none !important;
+  height: 2px !important;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    var(--text-accent, #8b5cf6) 20%,
-    var(--text-accent, #8b5cf6) 80%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 20%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 80%,
     transparent 100%
-  );
-  margin: 16px 0;
-  width: 60%;
-  border-radius: 2px;
-  opacity: 0.8;
+  ) !important;
+  margin: 16px auto !important;
+  width: 60% !important;
+  border-radius: 2px !important;
 }
 
-/* 读取模式分隔线美化 */
-.markdown-preview-view hr {
-  border: none;
-  height: 2px;
+/* 读取模式分隔线 */
+.markdown-preview-view hr,
+body.theme-dark .markdown-preview-view hr,
+body.theme-light .markdown-preview-view hr {
+  border: none !important;
+  height: 2px !important;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    var(--text-accent, #8b5cf6) 20%,
-    var(--text-accent, #8b5cf6) 80%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 20%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 80%,
     transparent 100%
-  );
-  margin: 24px auto;
-  width: 60%;
-  border-radius: 2px;
+  ) !important;
+  margin: 24px auto !important;
+  width: 60% !important;
+  border-radius: 2px !important;
 }
 
 /* 悬停效果 */
 .cm-s-obsidian hr:hover,
 .markdown-preview-view hr:hover {
-  width: 80%;
-  opacity: 1;
-  transition: all 0.3s ease;
+  width: 80% !important;
+  opacity: 1 !important;
+  transition: all 0.3s ease !important;
+}
+
+/* hr 标记 */
+hr {
+  border: none !important;
+  height: 2px !important;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 20%,
+    rgb(var(--ctp-accent, 137, 180, 250)) 80%,
+    transparent 100%
+  ) !important;
+  margin: 20px auto !important;
+  width: 60% !important;
+  border-radius: 2px !important;
 }
 
 /* ============================================
@@ -82,38 +128,38 @@
 
 /* 短横线变体 */
 hr.short {
-  width: 60px;
-  height: 3px;
-  background: var(--text-accent, #8b5cf6);
+  width: 60px !important;
+  height: 3px !important;
+  background: rgb(var(--ctp-accent, 137, 180, 250)) !important;
 }
 
 /* 贯穿整行变体 */
 hr.full {
-  width: 100%;
-  height: 1px;
+  width: 100% !important;
+  height: 1px !important;
   background: linear-gradient(
     90deg,
     transparent 0%,
     var(--text-faint, #555) 20%,
     var(--text-faint, #555) 80%,
     transparent 100%
-  );
+  ) !important;
 }
 
 /* 双层分隔线 */
 hr.double {
-  height: 1px;
-  background: var(--text-faint, #555);
-  margin-bottom: 4px;
+  height: 1px !important;
+  background: var(--text-faint, #555) !important;
+  margin-bottom: 4px !important;
 }
 
 hr.double::before {
-  content: "";
-  display: block;
-  width: 60px;
-  height: 2px;
-  background: var(--text-accent, #8b5cf6);
-  margin-bottom: 4px;
+  content: "" !important;
+  display: block !important;
+  width: 60px !important;
+  height: 2px !important;
+  background: rgb(var(--ctp-accent, 137, 180, 250)) !important;
+  margin-bottom: 4px !important;
 }
 
 /* ============================================

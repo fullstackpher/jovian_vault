@@ -3,18 +3,18 @@
   "title": "分析箭头位置CSS样式实现",
   "titleGenerationStatus": "success",
   "createdAt": 1769929063953,
-  "updatedAt": 1769929797823,
-  "lastResponseAt": 1769929797823,
+  "updatedAt": 1769930419808,
+  "lastResponseAt": 1769930419808,
   "sessionId": "00a695fa-f8f2-4c78-9a79-920a9d41149b",
   "sdkSessionId": "00a695fa-f8f2-4c78-9a79-920a9d41149b",
   "currentNote": "5.Zattchments 附件/局部截取_20260201_145633.png",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 1435,
-    "cacheCreationInputTokens": 2195,
-    "cacheReadInputTokens": 19612,
+    "inputTokens": 2136,
+    "cacheCreationInputTokens": 2683,
+    "cacheReadInputTokens": 31465,
     "contextWindow": 200000,
-    "contextTokens": 23242,
-    "percentage": 12
+    "contextTokens": 36284,
+    "percentage": 18
   }
 }

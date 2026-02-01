@@ -3357,7 +3357,7 @@
     "expandedKeys": []
   },
   "1.Projects 项目/03-学习前端/学习JavaScript.md": {
-    "scroll": 62.80555438995361,
+    "scroll": 16.336602005304076,
     "cursor": {
       "from": {
         "line": 59,
@@ -3628,12 +3628,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 113,
-        "ch": 9
+        "line": 81,
+        "ch": 17
       },
       "to": {
-        "line": 113,
-        "ch": 9
+        "line": 81,
+        "ch": 17
       }
     },
     "expandedKeys": [
@@ -3970,12 +3970,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 8
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -4653,7 +4653,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-02-01.md": {
-    "scroll": 28.15213812897988,
+    "scroll": 39.237409984122074,
     "cursor": {
       "from": {
         "line": 20,
@@ -4673,12 +4673,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 19
+        "line": 2,
+        "ch": 17
       },
       "to": {
-        "line": 12,
-        "ch": 19
+        "line": 2,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -4755,5 +4755,19 @@
       "item-1-3",
       "item-1-9"
     ]
+  },
+  "2.Areas 领域/Frontend/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
