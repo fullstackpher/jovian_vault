@@ -4155,18 +4155,21 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-01月汇总.md": {
-    "scroll": 228.23281084442138,
+    "scroll": 74.12065680821736,
     "cursor": {
       "from": {
-        "line": 87,
-        "ch": 0
+        "line": 88,
+        "ch": 6
       },
       "to": {
-        "line": 87,
-        "ch": 0
+        "line": 88,
+        "ch": 6
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-5"
+    ]
   },
   "1.Projects 项目/03-学习前端/学习CSS.md": {
     "scroll": 36.82811689376831,
@@ -4629,5 +4632,22 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-02-01.md": {
+    "scroll": 12.899883763111848,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 14
+      },
+      "to": {
+        "line": 20,
+        "ch": 14
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-1-3"
+    ]
   }
 }

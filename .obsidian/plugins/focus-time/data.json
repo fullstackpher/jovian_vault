@@ -1335,8 +1335,8 @@
     "7.Daily 日周记/2026-01月汇总.md": {
       "fileId": "1769862218743",
       "filePath": "7.Daily 日周记/2026-01月汇总.md",
-      "duration": 2724000,
-      "openCount": 25
+      "duration": 2730000,
+      "openCount": 26
     },
     "1.Projects 项目/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
@@ -1397,6 +1397,12 @@
       "filePath": "8.Info 其他/[摘要] 0-Inbox.md",
       "duration": 36000,
       "openCount": 3
+    },
+    "7.Daily 日周记/2026-02-01.md": {
+      "fileId": "1769922938688",
+      "filePath": "7.Daily 日周记/2026-02-01.md",
+      "duration": 96000,
+      "openCount": 2
     }
   }
 }

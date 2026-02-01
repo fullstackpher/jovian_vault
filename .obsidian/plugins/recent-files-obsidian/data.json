@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-01",
+      "path": "7.Daily 日周记/2026-02-01.md"
+    },
+    {
+      "basename": "2026-01月汇总",
+      "path": "7.Daily 日周记/2026-01月汇总.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "[摘要] 0-Inbox",
       "path": "8.Info 其他/[摘要] 0-Inbox.md"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily 日周记/2026-01月汇总.md"
     },
     {
       "basename": "学习JavaScript",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-13",
       "path": "7.Daily 日周记/2026-01-13.md"
-    },
-    {
-      "basename": "2026-01-12",
-      "path": "7.Daily 日周记/2026-01-12.md"
     }
   ],
   "omittedPaths": [],
