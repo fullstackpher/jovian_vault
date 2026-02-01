@@ -1,6 +1,3 @@
----
-header-center: true
----
 ## inbox
 
 - [x] 跑通obsidian工作流 ➕ 2026-02-01 ✅ 2026-02-01

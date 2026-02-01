@@ -5,10 +5,9 @@
     "progress-bars",
     "centered-headings",
     "center-headings",
-    "elegant-hr",
-    "center-headers"
+    "elegant-hr"
   ],
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSize": 17
