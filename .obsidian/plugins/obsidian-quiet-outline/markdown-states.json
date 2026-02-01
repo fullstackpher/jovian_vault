@@ -4726,11 +4726,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 60,
+        "line": 61,
         "ch": 67
       },
       "to": {
-        "line": 60,
+        "line": 61,
         "ch": 67
       }
     },
