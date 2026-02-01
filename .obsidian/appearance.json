@@ -6,5 +6,6 @@
     "centered-headings"
   ],
   "theme": "obsidian",
-  "showViewHeader": false
+  "showViewHeader": true,
+  "showRibbon": true
 }

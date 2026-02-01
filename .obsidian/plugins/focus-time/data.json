@@ -1089,8 +1089,8 @@
     "5.Zattchments 附件/README.md": {
       "fileId": "1769753491134",
       "filePath": "5.Zattchments 附件/README.md",
-      "duration": 42000,
-      "openCount": 2
+      "duration": 48000,
+      "openCount": 3
     },
     "7.Daily 日周记/README.md": {
       "fileId": "1769753533124",
@@ -1401,8 +1401,8 @@
     "7.Daily 日周记/2026-02-01.md": {
       "fileId": "1769922938688",
       "filePath": "7.Daily 日周记/2026-02-01.md",
-      "duration": 630000,
-      "openCount": 10
+      "duration": 762000,
+      "openCount": 11
     },
     "8.Info 其他/本月安排.md": {
       "fileId": "1769925310579",
@@ -1426,6 +1426,12 @@
       "fileId": "1769928268566",
       "filePath": "5.Zattchments 附件/temp_capture.png",
       "duration": 240000,
+      "openCount": 2
+    },
+    "5.Zattchments 附件/局部截取_20260201_145633.png": {
+      "fileId": "1769929030562",
+      "filePath": "5.Zattchments 附件/局部截取_20260201_145633.png",
+      "duration": 48000,
       "openCount": 2
     }
   }

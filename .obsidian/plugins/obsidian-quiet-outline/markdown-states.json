@@ -3424,7 +3424,9 @@
         "ch": 17
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "7.Daily 日周记/README.md": {
     "scroll": 223.6827064114877,
@@ -4651,7 +4653,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-02-01.md": {
-    "scroll": 0,
+    "scroll": 28.15213812897988,
     "cursor": {
       "from": {
         "line": 20,
