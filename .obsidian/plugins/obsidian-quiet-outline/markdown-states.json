@@ -3626,17 +3626,19 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 80,
-        "ch": 0
+        "line": 113,
+        "ch": 9
       },
       "to": {
-        "line": 80,
-        "ch": 0
+        "line": 113,
+        "ch": 9
       }
     },
     "expandedKeys": [
       "item-2-1",
-      "item-1-0"
+      "item-1-0",
+      "item-2-3",
+      "item-2-6"
     ]
   },
   "Frontend知识体系.md": {
@@ -3965,11 +3967,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 2,
+        "line": 4,
         "ch": 0
       }
     },
@@ -4651,12 +4653,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 20,
+        "ch": 14
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 20,
+        "ch": 14
       }
     },
     "expandedKeys": [
@@ -4674,6 +4676,20 @@
       "to": {
         "line": 12,
         "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/@flomo-2026-02-01.md": {
+    "scroll": 2.479338842975207,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 135
+      },
+      "to": {
+        "line": 7,
+        "ch": 135
       }
     },
     "expandedKeys": []
