@@ -533,7 +533,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 16,
-      "totalTimesOpened": 398,
+      "totalTimesOpened": 399,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1728,6 +1728,9 @@
         },
         {
           "timestampMillis": 1769944988814
+        },
+        {
+          "timestampMillis": 1769945442357
         }
       ]
     },
@@ -6657,7 +6660,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 115,
+      "totalTimesOpened": 116,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7003,6 +7006,9 @@
         },
         {
           "timestampMillis": 1769944818752
+        },
+        {
+          "timestampMillis": 1769945491181
         }
       ]
     },
@@ -7386,7 +7392,7 @@
     {
       "path": "7.Daily 日周记/2026-02-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1769922935841
@@ -7435,13 +7441,16 @@
         },
         {
           "timestampMillis": 1769945038826
+        },
+        {
+          "timestampMillis": 1769945429005
         }
       ]
     },
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 57,
+      "totalTimesOpened": 58,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7613,6 +7622,9 @@
         },
         {
           "timestampMillis": 1769945334524
+        },
+        {
+          "timestampMillis": 1769945485528
         }
       ]
     },
@@ -7661,7 +7673,7 @@
     {
       "path": "2.Areas 领域/Frontend/Date对象.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769930690509
@@ -7695,6 +7707,9 @@
         },
         {
           "timestampMillis": 1769943267325
+        },
+        {
+          "timestampMillis": 1769945432163
         }
       ]
     },
