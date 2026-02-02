@@ -6649,13 +6649,16 @@
     {
       "path": "3.Resources 资源/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
         },
         {
           "timestampMillis": 1770016546284
+        },
+        {
+          "timestampMillis": 1770017207106
         }
       ]
     },
