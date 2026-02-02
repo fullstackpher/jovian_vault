@@ -8,7 +8,7 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T16:31
+更新时间: 2026-02-02T16:35
 rating: "5"
 age: "18"
 is_important: true
@@ -16,6 +16,7 @@ status: 进行中
 exampleProperty: apple
 priority: 高
 is_completed: false
+progress: 50
 ---
 
 # Meta Bind 插件使用指南
@@ -65,8 +66,8 @@ Meta bind 使用 `%%` 包裹内联绑定表达式：
 
 
 ```
-%%bind:date[due_date](2024-01-30)%%
-%%bind:date[created](today)%%
+`INPUT[date:exampleProperty]`
+`INPUT[datePicker:exampleProperty]`
 ```
 
 ### 4. 下拉选择框
@@ -83,35 +84,24 @@ INPUT[select(option(待办), option(进行中), option(完成)):status]
 
 `INPUT[inlineList:exampleProperty]`
 
-```
-%%bind:select[status](未开始|进行中|已完成)%%
-%%bind:select[priority](高|中|低)%%
-```
-
 ### 5. 复选框（布尔值）
 
 `INPUT[toggle:is_completed]`
 
 ```
-%%bind:toggle[is_completed](false)%%
-%%bind:toggle[is_important](true)%%
+`INPUT[toggle:is_completed]`
 ```
 
 ### 6. 滑块（范围）
 
-
+`INPUT[slider(addLabels):progress]`
 
 ```
-%%bind:range[progress](0|100|50)%%  % 最小值|最大值|默认值
-%%bind:range[volume](0|100|75)%%
+`INPUT[slider(addLabels):progress]`
 ```
 
 ### 7. 文本区域
-
-```
-%%bind:textarea[notes](这是一个笔记区域)%%
-```
-
+`INPUT[textArea:exampleProperty]`
 ## 使用示例
 
 ### 示例 1：项目跟踪
