@@ -7495,7 +7495,7 @@
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 66,
+      "totalTimesOpened": 68,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7694,6 +7694,12 @@
         },
         {
           "timestampMillis": 1770006740009
+        },
+        {
+          "timestampMillis": 1770006764914
+        },
+        {
+          "timestampMillis": 1770006786613
         }
       ]
     },
@@ -7817,7 +7823,7 @@
     {
       "path": "7.Daily 日周记/2026-02-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7857,6 +7863,15 @@
         },
         {
           "timestampMillis": 1770006737616
+        },
+        {
+          "timestampMillis": 1770006758096
+        },
+        {
+          "timestampMillis": 1770006766581
+        },
+        {
+          "timestampMillis": 1770006790125
         }
       ]
     }
