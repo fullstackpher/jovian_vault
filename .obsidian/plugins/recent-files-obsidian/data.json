@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Admonition插件使用指南",
-      "path": "8.Info 其他/Admonition插件使用指南.md"
-    },
-    {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Callout",
+      "path": "2.Areas 领域/Knowledge Management/Callout.md"
     },
     {
       "basename": "2026-02-02",
       "path": "7.Daily 日周记/2026-02-02.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "Date对象",
+      "path": "2.Areas 领域/Frontend/Date对象.md"
+    },
+    {
+      "basename": "Admonition插件使用指南",
+      "path": "8.Info 其他/Admonition插件使用指南.md"
     },
     {
       "basename": "0-Inbox",
@@ -27,10 +35,6 @@
     {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "Date对象",
-      "path": "2.Areas 领域/Frontend/Date对象.md"
     },
     {
       "basename": "局部截取_20260201_185844",
@@ -79,10 +83,6 @@
     {
       "basename": "2026-01月汇总",
       "path": "7.Daily 日周记/2026-01月汇总.md"
-    },
-    {
-      "basename": "Callout",
-      "path": "2.Areas 领域/Knowledge Management/Callout.md"
     },
     {
       "basename": "学习HTML",
