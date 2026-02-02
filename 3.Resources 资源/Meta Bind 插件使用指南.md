@@ -8,7 +8,7 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T16:21
+更新时间: 2026-02-02T16:31
 rating: "5"
 age: "18"
 is_important: true
@@ -99,6 +99,8 @@ INPUT[select(option(待办), option(进行中), option(完成)):status]
 
 ### 6. 滑块（范围）
 
+
+
 ```
 %%bind:range[progress](0|100|50)%%  % 最小值|最大值|默认值
 %%bind:range[volume](0|100|75)%%
@@ -114,25 +116,7 @@ INPUT[select(option(待办), option(进行中), option(完成)):status]
 
 ### 示例 1：项目跟踪
 
-```yaml
----
-project: 个人网站重构
-status: 进行中
-priority: 高
-progress: 60
-due_date: 2024-02-15
-is_completed: false
----
-```
-
-在笔记中添加控件：
-
-```
-项目状态：%%bind:select[status](未开始|进行中|已完成]%%
-优先级：%%bind:select[priority](高|中|低)%%
-进度：%%bind:range[progress](0|100|60)%%
-截止日期：%%bind:date[due_date]%%
-```
+[[示例 1：项目跟踪]]
 
 ### 示例 2：图书追踪
 
