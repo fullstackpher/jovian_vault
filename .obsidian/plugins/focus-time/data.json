@@ -1131,8 +1131,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 19092000,
-      "openCount": 287
+      "duration": 19146000,
+      "openCount": 288
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1541,6 +1541,12 @@
       "filePath": "5.Zattchments 附件/图片/截图/2026-02-02-屏幕截图.png",
       "duration": 12000,
       "openCount": 2
+    },
+    "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png": {
+      "fileId": "1770044016756",
+      "filePath": "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png",
+      "duration": 42000,
+      "openCount": 1
     }
   }
 }
