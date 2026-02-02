@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 24.658904879700906,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 47,
-        "ch": 20
+        "line": 71,
+        "ch": 0
       },
       "to": {
-        "line": 47,
-        "ch": 20
+        "line": 71,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 92.76184849040106,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
