@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Date对象",
-      "path": "2.Areas 领域/Frontend/Date对象.md"
+      "basename": "局部截取_20260202_143528",
+      "path": "5.Zattchments 附件/局部截取_20260202_143528.png"
     },
     {
       "basename": "2026-02-02",
       "path": "7.Daily 日周记/2026-02-02.md"
+    },
+    {
+      "basename": "Obsidian.exe_20260201_154658",
+      "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png"
+    },
+    {
+      "basename": "局部截取_20260201_185844",
+      "path": "5.Zattchments 附件/局部截取_20260201_185844.png"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
+    },
+    {
+      "basename": "Date对象",
+      "path": "2.Areas 领域/Frontend/Date对象.md"
     },
     {
       "basename": "本月安排",
@@ -25,10 +41,6 @@
       "path": "8.Info 其他/Admonition插件使用指南.md"
     },
     {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
       "basename": "2026-02-01",
       "path": "7.Daily 日周记/2026-02-01.md"
     },
@@ -37,20 +49,12 @@
       "path": "Templates/日记模版.md"
     },
     {
-      "basename": "局部截取_20260201_185844",
-      "path": "5.Zattchments 附件/局部截取_20260201_185844.png"
-    },
-    {
       "basename": "@flomo-2026-02-01",
       "path": "0.Inbox 缓存箱/@flomo-2026-02-01.md"
     },
     {
       "basename": "2026-01-31",
       "path": "7.Daily 日周记/2026-01-31.md"
-    },
-    {
-      "basename": "Obsidian.exe_20260201_154658",
-      "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png"
     },
     {
       "basename": "学习JavaScript",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-01-18",
       "path": "7.Daily 日周记/2026-01-18.md"
-    },
-    {
-      "basename": "2026-01-18 学习日报",
-      "path": "7.Daily 日周记/2026-01-18 学习日报.md"
     }
   ],
   "omittedPaths": [],

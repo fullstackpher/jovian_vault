@@ -3,11 +3,10 @@
   "title": "排查图片提示的错误信息",
   "titleGenerationStatus": "success",
   "createdAt": 1769943574006,
-  "updatedAt": 1769943591574,
+  "updatedAt": 1770014170942,
   "lastResponseAt": 1769943591574,
   "sessionId": "a0a94487-7a3c-4b45-b5d0-fe7851bff002",
   "sdkSessionId": "a0a94487-7a3c-4b45-b5d0-fe7851bff002",
-  "currentNote": "5.Zattchments 附件/局部截取_20260201_185844.png",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 89,
