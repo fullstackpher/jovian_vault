@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770036410315-jxfrkv50u",
+  "title": "Complete Comparison Request",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770036410315,
+  "updatedAt": 1770038084461,
+  "lastResponseAt": 1770036477572,
+  "sessionId": "b5d0560e-804b-4479-b7f7-b7d382c30f74",
+  "sdkSessionId": "b5d0560e-804b-4479-b7f7-b7d382c30f74",
+  "currentNote": "3.Resources 资源/Editing Toolbar使用指南.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 971,
+    "cacheCreationInputTokens": 749,
+    "cacheReadInputTokens": 14676,
+    "contextWindow": 200000,
+    "contextTokens": 16396,
+    "percentage": 8
+  }
+}

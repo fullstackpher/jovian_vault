@@ -1,0 +1,19 @@
+{
+  "id": "conv-1770022527318-neww6jnax",
+  "title": "使用控件完善比较功能",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770022527318,
+  "updatedAt": 1770036169481,
+  "lastResponseAt": 1770034474344,
+  "sessionId": "fcf4bf31-2391-4f20-a24e-905b696afaa3",
+  "sdkSessionId": "fcf4bf31-2391-4f20-a24e-905b696afaa3",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 700,
+    "cacheReadInputTokens": 24446,
+    "contextWindow": 200000,
+    "contextTokens": 25230,
+    "percentage": 13
+  }
+}
