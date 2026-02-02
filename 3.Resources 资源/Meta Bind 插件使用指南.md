@@ -8,10 +8,11 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T15:52
-status: 待办
+更新时间: 2026-02-02T15:58
+status: 进行中
 rating: "5"
 age: "18"
+is_important: true
 ---
 
 # Meta Bind 插件使用指南
@@ -170,19 +171,17 @@ review:
 
 ```markdown
 > [!info] 任务信息
-> 状态：%%bind:select[status](待办|进行中|完成)%%
-> 重要性：%%bind:toggle[is_important]%%
+> 状态：`INPUT[select:status]`
+> 重要性：`INPUT[toggle:is_important]`
 ```
 
 > [!example]+ 在Callout中使用
 
 > [!info] 任务信息
-> 状态：
-```meta-bind
-INPUT[select(option(待办), option(进行中), option(完成)):status]
-```
+> 状态：`INPUT[select:status]`
+> 重要性：`INPUT[toggle:is_important]`
 
-> 重要性：%%bind:toggle[is_important]%%
+
 
 ### 3. 在表格中使用
 
