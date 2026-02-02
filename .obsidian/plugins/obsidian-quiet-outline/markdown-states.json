@@ -3799,15 +3799,15 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Inbox 面板搭建指南.md": {
-    "scroll": 115.38512889709537,
+    "scroll": 187.3177138800142,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 220,
+        "ch": 29
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 220,
+        "ch": 29
       }
     },
     "expandedKeys": []
@@ -4788,12 +4788,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 18
+        "line": 21,
+        "ch": 23
       },
       "to": {
-        "line": 22,
-        "ch": 18
+        "line": 21,
+        "ch": 23
       }
     },
     "expandedKeys": []

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily 日周记/2026-02-02.md"
+    },
+    {
       "basename": "Inbox 面板搭建指南",
       "path": "3.Resources 资源/Inbox 面板搭建指南.md"
     },
@@ -37,16 +45,8 @@
       "path": "8.Info 其他/添加快速任务.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "7.Daily 日周记/2026-02-02.md"
     },
     {
       "basename": "Obsidian.exe_20260201_154658",
