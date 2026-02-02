@@ -3,6 +3,18 @@
   "title": "Analyze image to identify issues",
   "titleGenerationStatus": "success",
   "createdAt": 1770044035353,
-  "updatedAt": 1770044045338,
-  "sessionId": null
+  "updatedAt": 1770044054996,
+  "lastResponseAt": 1770044054996,
+  "sessionId": "d2e5dfc6-7312-4397-a896-373f0fdbf02e",
+  "sdkSessionId": "d2e5dfc6-7312-4397-a896-373f0fdbf02e",
+  "currentNote": "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 89,
+    "cacheCreationInputTokens": 196,
+    "cacheReadInputTokens": 13973,
+    "contextWindow": 200000,
+    "contextTokens": 14258,
+    "percentage": 7
+  }
 }
