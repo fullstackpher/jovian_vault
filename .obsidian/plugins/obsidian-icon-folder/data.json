@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiTemplate",
+      "LiTemplaterIcon",
+      "TiBrandJavascript",
+      "RiJavascriptLine",
+      "LiNotebookPen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "0.Inbox 缓存箱": "LiInbox",
+  "1.Projects 项目": "BoBxCollection",
+  "2.Areas 领域": "LiAreaChart",
+  "3.Resources 资源": "TiBrandOpenSource",
+  "4.Archives 归档": "LiArchive",
+  "5.Zattchments 附件": "RiAttachment2",
+  "7.Daily 日周记": "LiCalendarDays",
+  "8.Info 其他": "LiInfo",
+  "Dashboards": "IbDashboard",
+  "Excalidraw": "TiDragDrop",
+  "flomo": "LiNotebookPen",
+  "Scripts": "TiBrandJavascript",
+  "Templates": "TiTemplate"
+}

@@ -533,7 +533,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 17,
-      "totalTimesOpened": 404,
+      "totalTimesOpened": 405,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1746,6 +1746,9 @@
         },
         {
           "timestampMillis": 1770009069934
+        },
+        {
+          "timestampMillis": 1770016253935
         }
       ]
     },
@@ -4320,8 +4323,8 @@
     },
     {
       "path": "3.Resources 资源/Clion.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768906307994
@@ -4337,6 +4340,9 @@
         },
         {
           "timestampMillis": 1768906458954
+        },
+        {
+          "timestampMillis": 1770016544802
         }
       ]
     },
@@ -5668,8 +5674,8 @@
     },
     {
       "path": "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -5724,6 +5730,9 @@
         },
         {
           "timestampMillis": 1769864504426
+        },
+        {
+          "timestampMillis": 1770016443136
         }
       ]
     },
@@ -6271,58 +6280,6 @@
       ]
     },
     {
-      "path": "4.Archives 归档/2026-01-29-待办事项清单.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 15,
-      "openLogs": [
-        {
-          "timestampMillis": 1769607411780
-        },
-        {
-          "timestampMillis": 1769662851681
-        },
-        {
-          "timestampMillis": 1769690808435
-        },
-        {
-          "timestampMillis": 1769690856625
-        },
-        {
-          "timestampMillis": 1769753721299
-        },
-        {
-          "timestampMillis": 1769753897751
-        },
-        {
-          "timestampMillis": 1769753993929
-        },
-        {
-          "timestampMillis": 1769756893730
-        },
-        {
-          "timestampMillis": 1769756943354
-        },
-        {
-          "timestampMillis": 1769756971437
-        },
-        {
-          "timestampMillis": 1769757097018
-        },
-        {
-          "timestampMillis": 1769765027634
-        },
-        {
-          "timestampMillis": 1769842060036
-        },
-        {
-          "timestampMillis": 1769842079223
-        },
-        {
-          "timestampMillis": 1769865845435
-        }
-      ]
-    },
-    {
       "path": "Excalidraw/Drawing 2026-01-29 13.05.09.excalidraw.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
@@ -6576,8 +6533,8 @@
     },
     {
       "path": "8.Info 其他/添加快速任务.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
@@ -6587,6 +6544,9 @@
         },
         {
           "timestampMillis": 1769841322274
+        },
+        {
+          "timestampMillis": 1770016266108
         }
       ]
     },
@@ -6602,11 +6562,14 @@
     },
     {
       "path": "8.Info 其他/QuickAdd配置指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769757277344
+        },
+        {
+          "timestampMillis": 1770016408001
         }
       ]
     },
@@ -6679,18 +6642,21 @@
     },
     {
       "path": "3.Resources 资源/Inbox 面板搭建指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
+        },
+        {
+          "timestampMillis": 1770016546284
         }
       ]
     },
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 123,
+      "totalTimesOpened": 124,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7060,6 +7026,9 @@
         },
         {
           "timestampMillis": 1770014089474
+        },
+        {
+          "timestampMillis": 1770016212617
         }
       ]
     },
@@ -7125,8 +7094,8 @@
     },
     {
       "path": "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769845904468
@@ -7136,16 +7105,25 @@
         },
         {
           "timestampMillis": 1769864506270
+        },
+        {
+          "timestampMillis": 1770016475958
+        },
+        {
+          "timestampMillis": 1770016512760
         }
       ]
     },
     {
       "path": "8.Info 其他/List Callout 标记分类.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769857166324
+        },
+        {
+          "timestampMillis": 1770016405480
         }
       ]
     },
@@ -7766,14 +7744,17 @@
     },
     {
       "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1769927558491
         },
         {
           "timestampMillis": 1769927558789
+        },
+        {
+          "timestampMillis": 1770016533749
         }
       ]
     },
@@ -7842,7 +7823,7 @@
     {
       "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769932054237
@@ -7861,13 +7842,16 @@
         },
         {
           "timestampMillis": 1770014373390
+        },
+        {
+          "timestampMillis": 1770015227867
         }
       ]
     },
     {
       "path": "7.Daily 日周记/2026-02-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 23,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7937,6 +7921,9 @@
         },
         {
           "timestampMillis": 1770014166084
+        },
+        {
+          "timestampMillis": 1770015487533
         }
       ]
     },
@@ -7962,6 +7949,16 @@
         },
         {
           "timestampMillis": 1770014372763
+        }
+      ]
+    },
+    {
+      "path": "8.Info 其他/Inbox 侧边栏面板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770016396627
         }
       ]
     }

@@ -3555,7 +3555,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/添加快速任务.md": {
-    "scroll": 15.961309523809524,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 39,
@@ -3583,15 +3583,15 @@
     "expandedKeys": []
   },
   "8.Info 其他/QuickAdd配置指南.md": {
-    "scroll": 94.47122837248303,
+    "scroll": 71.05892793752218,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 96,
+        "ch": 20
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 96,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -3799,14 +3799,14 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Inbox 面板搭建指南.md": {
-    "scroll": 0,
+    "scroll": 115.38512889709537,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 11,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 11,
         "ch": 0
       }
     },
@@ -3970,11 +3970,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
+        "line": 2,
         "ch": 0
       },
       "to": {
-        "line": 1,
+        "line": 2,
         "ch": 0
       }
     },
@@ -4726,7 +4726,7 @@
     "expandedKeys": []
   },
   "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
-    "scroll": 47.480157307216096,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 62,
@@ -4794,6 +4794,62 @@
       "to": {
         "line": 22,
         "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/Inbox 侧边栏面板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 35
+      },
+      "to": {
+        "line": 23,
+        "ch": 35
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Clion.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []

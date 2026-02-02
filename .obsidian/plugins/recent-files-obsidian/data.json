@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources 资源/Inbox 面板搭建指南.md"
+    },
+    {
+      "basename": "Clion",
+      "path": "3.Resources 资源/Clion.md"
+    },
+    {
+      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
+      "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
+    },
+    {
+      "basename": "2026-01-31-参考B站博主的日记模版",
+      "path": "4.Archives 归档/2026-01-31-参考B站博主的日记模版.md"
+    },
+    {
+      "basename": "2026-01-27-笔记到系统的obsidian实践",
+      "path": "4.Archives 归档/2026-01-27-笔记到系统的obsidian实践.md"
+    },
+    {
+      "basename": "QuickAdd配置指南",
+      "path": "8.Info 其他/QuickAdd配置指南.md"
+    },
+    {
+      "basename": "List Callout 标记分类",
+      "path": "8.Info 其他/List Callout 标记分类.md"
+    },
+    {
+      "basename": "Inbox 侧边栏面板",
+      "path": "8.Info 其他/Inbox 侧边栏面板.md"
+    },
+    {
+      "basename": "添加快速任务",
+      "path": "8.Info 其他/添加快速任务.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info 其他/0-Inbox.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily 日周记/2026-02-02.md"
+    },
+    {
       "basename": "Obsidian.exe_20260201_154658",
       "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png"
     },
@@ -9,24 +57,12 @@
       "path": "5.Zattchments 附件/局部截取_20260202_143528.png"
     },
     {
-      "basename": "2026-02-02",
-      "path": "7.Daily 日周记/2026-02-02.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
       "basename": "Date对象",
       "path": "2.Areas 领域/Frontend/Date对象.md"
     },
     {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "Callout",
@@ -71,10 +107,6 @@
     {
       "basename": "temp_capture",
       "path": "5.Zattchments 附件/temp_capture.png"
-    },
-    {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
     },
     {
       "basename": "学习Obsidian",
@@ -141,10 +173,6 @@
       "path": "7.Daily 日周记/2026-01-29.md"
     },
     {
-      "basename": "2026-01-29-待办事项清单",
-      "path": "4.Archives 归档/2026-01-29-待办事项清单.md"
-    },
-    {
       "basename": "2026-01-24 学习日报",
       "path": "7.Daily 日周记/2026-01-24 学习日报.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "面向对象",
       "path": "2.Areas 领域/Frontend/面向对象.md"
-    },
-    {
-      "basename": "2026-01-23 学习日报",
-      "path": "7.Daily 日周记/2026-01-23 学习日报.md"
-    },
-    {
-      "basename": "2026-01-22 学习日报",
-      "path": "7.Daily 日周记/2026-01-22 学习日报.md"
-    },
-    {
-      "basename": "2026-01-21 学习日报",
-      "path": "7.Daily 日周记/2026-01-21 学习日报.md"
-    },
-    {
-      "basename": "2026-01-19 学习日报",
-      "path": "7.Daily 日周记/2026-01-19 学习日报.md"
-    },
-    {
-      "basename": "2026-01-20 学习日报",
-      "path": "7.Daily 日周记/2026-01-20 学习日报.md"
-    },
-    {
-      "basename": "2026-01-18",
-      "path": "7.Daily 日周记/2026-01-18.md"
     }
   ],
   "omittedPaths": [],
