@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 6.032679688696768,
+    "scroll": 24.658904879700906,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 23
+        "line": 47,
+        "ch": 20
       },
       "to": {
-        "line": 17,
-        "ch": 23
+        "line": 47,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -3245,7 +3245,7 @@
     "expandedKeys": []
   },
   "3.Resources 资源/README.md": {
-    "scroll": 0,
+    "scroll": 67.63687769833373,
     "cursor": {
       "from": {
         "line": 119,
@@ -5040,11 +5040,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 11,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 11,
         "ch": 0
       }
     },
@@ -5345,15 +5345,15 @@
     "expandedKeys": []
   },
   "3.Resources 资源/QuickAdd使用指南.md": {
-    "scroll": 343.1661341853035,
+    "scroll": 316.7534862699963,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 12
+        "line": 361,
+        "ch": 17
       },
       "to": {
-        "line": 14,
-        "ch": 12
+        "line": 361,
+        "ch": 17
       }
     },
     "expandedKeys": []

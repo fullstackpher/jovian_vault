@@ -4128,7 +4128,7 @@
     {
       "path": "3.Resources 资源/开发工具汇总.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768905623757
@@ -4159,6 +4159,9 @@
         },
         {
           "timestampMillis": 1770034329175
+        },
+        {
+          "timestampMillis": 1770043251322
         }
       ]
     },
@@ -5014,7 +5017,7 @@
     {
       "path": "3.Resources 资源/QuickAdd使用指南.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769341643576
@@ -5051,6 +5054,9 @@
         },
         {
           "timestampMillis": 1770036337133
+        },
+        {
+          "timestampMillis": 1770043285256
         }
       ]
     },
@@ -5445,7 +5451,7 @@
     {
       "path": "0.Inbox 缓存箱/README.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5503,6 +5509,12 @@
         },
         {
           "timestampMillis": 1770042695759
+        },
+        {
+          "timestampMillis": 1770043312186
+        },
+        {
+          "timestampMillis": 1770043453960
         }
       ]
     },
@@ -5559,7 +5571,7 @@
     {
       "path": "3.Resources 资源/README.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
@@ -5578,6 +5590,9 @@
         },
         {
           "timestampMillis": 1770036541111
+        },
+        {
+          "timestampMillis": 1770043219957
         }
       ]
     },
