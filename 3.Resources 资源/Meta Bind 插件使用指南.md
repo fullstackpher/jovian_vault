@@ -8,15 +8,18 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T16:36
+更新时间: 2026-02-02T16:43
 rating: "5"
 age: "18"
 is_important: true
-status: 进行中
+status: 完成
 exampleProperty: apple
 priority: 高
 is_completed: false
 progress: 50
+status_:
+  - 进行中
+  - 待办
 ---
 
 # Meta Bind 插件使用指南
@@ -74,10 +77,12 @@ Meta bind 使用 `%%` 包裹内联绑定表达式：
 
 `INPUT[inlineSelect(option(高), option(中), option(低)):priority]`
 
+> [!example]+ 多选
 ```meta-bind
-INPUT[multiSelect(option(待办), option(进行中), option(完成)):status]
+INPUT[multiSelect(option(待办), option(进行中), option(完成)):status_]
 ```
 
+> [!example]+ 单选
 ```meta-bind
 INPUT[select(option(待办), option(进行中), option(完成)):status]
 ```
@@ -120,6 +125,16 @@ notes:
 is_recommended: true
 ---
 ```
+
+控件写法：
+
+> [!example]+ 图书追踪控件
+> **书名**：`INPUT[text:book_title]`
+> **作者**：`INPUT[text:author]`
+> **我的评分**：`INPUT[slider(addLabels):rating]` （1-5分）
+> **阅读日期**：`INPUT[date:read_date]`
+> **个人笔记**：`INPUT[textArea:notes]`
+> **推荐他人**：`INPUT[toggle:is_recommended]`
 
 ### 示例 3：日常记录
 

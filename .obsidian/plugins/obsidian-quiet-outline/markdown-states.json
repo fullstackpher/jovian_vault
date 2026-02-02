@@ -3743,14 +3743,14 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Meta Bind 插件使用指南.md": {
-    "scroll": 123.80049698260561,
+    "scroll": 110.29779411764706,
     "cursor": {
       "from": {
-        "line": 187,
+        "line": 127,
         "ch": 0
       },
       "to": {
-        "line": 187,
+        "line": 127,
         "ch": 0
       }
     },
@@ -3957,11 +3957,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 6
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 6
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4920,6 +4920,20 @@
       "to": {
         "line": 31,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/示例 2：图书追踪.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 3
+      },
+      "to": {
+        "line": 7,
+        "ch": 3
       }
     },
     "expandedKeys": []
