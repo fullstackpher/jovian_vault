@@ -7050,8 +7050,8 @@
     },
     {
       "path": "8.Info 其他/Admonition插件使用指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769837256017
@@ -7067,6 +7067,9 @@
         },
         {
           "timestampMillis": 1769841496155
+        },
+        {
+          "timestampMillis": 1770008836331
         }
       ]
     },
@@ -7501,7 +7504,7 @@
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 69,
+      "totalTimesOpened": 70,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7709,6 +7712,9 @@
         },
         {
           "timestampMillis": 1770008410992
+        },
+        {
+          "timestampMillis": 1770008711503
         }
       ]
     },
