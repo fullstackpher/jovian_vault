@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-01",
-      "path": "7.Daily 日周记/2026-02-01.md"
+      "basename": "2026-02-03",
+      "path": "7.Daily 日周记/2026-02-03.md"
     },
     {
       "basename": "2026-02-02",
       "path": "7.Daily 日周记/2026-02-02.md"
+    },
+    {
+      "basename": "2026-02-01",
+      "path": "7.Daily 日周记/2026-02-01.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -195,10 +199,6 @@
     {
       "basename": "示例 1：项目跟踪",
       "path": "8.Info 其他/示例 1：项目跟踪.md"
-    },
-    {
-      "basename": "添加快速任务",
-      "path": "8.Info 其他/添加快速任务.md"
     }
   ],
   "omittedPaths": [],

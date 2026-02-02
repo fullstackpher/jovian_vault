@@ -7452,7 +7452,7 @@
     {
       "path": "7.Daily 日周记/2026-02-02.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7546,6 +7546,9 @@
         },
         {
           "timestampMillis": 1770049476502
+        },
+        {
+          "timestampMillis": 1770049524986
         }
       ]
     },
@@ -7844,6 +7847,16 @@
         },
         {
           "timestampMillis": 1770049286182
+        }
+      ]
+    },
+    {
+      "path": "7.Daily 日周记/2026-02-03.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770049598791
         }
       ]
     }
