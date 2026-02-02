@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "本月安排",
       "path": "8.Info 其他/本月安排.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Callout指南-2026-02",
       "path": "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "README",
