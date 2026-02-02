@@ -1149,8 +1149,8 @@
     "8.Info 其他/添加快速任务.md": {
       "fileId": "1769757214331",
       "filePath": "8.Info 其他/添加快速任务.md",
-      "duration": 60000,
-      "openCount": 5
+      "duration": 348000,
+      "openCount": 6
     },
     "8.Info 其他/Dashboard使用指南.md": {
       "fileId": "1769757226341",
@@ -1209,8 +1209,8 @@
     "3.Resources 资源/Meta Bind 插件使用指南.md": {
       "fileId": "1769760610411",
       "filePath": "3.Resources 资源/Meta Bind 插件使用指南.md",
-      "duration": 120000,
-      "openCount": 2
+      "duration": 138000,
+      "openCount": 3
     },
     "2.Areas 领域/Frontend/Frontend知识体系总览.md": {
       "fileId": "1769761930279",
@@ -1233,8 +1233,8 @@
     "3.Resources 资源/Inbox 面板搭建指南.md": {
       "fileId": "1769765690089",
       "filePath": "3.Resources 资源/Inbox 面板搭建指南.md",
-      "duration": 354000,
-      "openCount": 3
+      "duration": 366000,
+      "openCount": 4
     },
     "0.Inbox 缓存箱/inbox.md": {
       "fileId": "1769768803076",
@@ -1474,6 +1474,12 @@
       "fileId": "1770016400844",
       "filePath": "8.Info 其他/Inbox 侧边栏面板.md",
       "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources 资源/Iconize插件使用指南.md": {
+      "fileId": "1770017522828",
+      "filePath": "3.Resources 资源/Iconize插件使用指南.md",
+      "duration": 276000,
       "openCount": 2
     }
   }

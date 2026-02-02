@@ -6540,7 +6540,7 @@
     {
       "path": "8.Info 其他/添加快速任务.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
@@ -6553,6 +6553,9 @@
         },
         {
           "timestampMillis": 1770016266108
+        },
+        {
+          "timestampMillis": 1770017234773
         }
       ]
     },
@@ -6635,14 +6638,20 @@
     },
     {
       "path": "3.Resources 资源/Meta Bind 插件使用指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769760606108
         },
         {
           "timestampMillis": 1769760654656
+        },
+        {
+          "timestampMillis": 1770017578456
+        },
+        {
+          "timestampMillis": 1770017593043
         }
       ]
     },
@@ -7986,6 +7995,22 @@
       "openLogs": [
         {
           "timestampMillis": 1770016396627
+        }
+      ]
+    },
+    {
+      "path": "3.Resources 资源/Iconize插件使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1770017521837
+        },
+        {
+          "timestampMillis": 1770017528109
+        },
+        {
+          "timestampMillis": 1770017596164
         }
       ]
     }

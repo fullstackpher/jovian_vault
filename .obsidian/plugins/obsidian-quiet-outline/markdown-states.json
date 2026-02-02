@@ -3555,7 +3555,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/添加快速任务.md": {
-    "scroll": 0,
+    "scroll": 8.705830903790087,
     "cursor": {
       "from": {
         "line": 39,
@@ -3799,7 +3799,7 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Inbox 面板搭建指南.md": {
-    "scroll": 112.65804985441375,
+    "scroll": 312.84488795518206,
     "cursor": {
       "from": {
         "line": 220,
@@ -4850,6 +4850,34 @@
       "to": {
         "line": 7,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Iconize.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Iconize插件使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 25
+      },
+      "to": {
+        "line": 14,
+        "ch": 25
       }
     },
     "expandedKeys": []
