@@ -8,11 +8,14 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T16:03
-status: 进行中
+更新时间: 2026-02-02T16:21
 rating: "5"
 age: "18"
 is_important: true
+status: 进行中
+exampleProperty: apple
+priority: 高
+is_completed: false
 ---
 
 # Meta Bind 插件使用指南
@@ -55,6 +58,12 @@ Meta bind 使用 `%%` 包裹内联绑定表达式：
 
 ### 3. 日期选择器
 
+`INPUT[date:exampleProperty]`
+
+`INPUT[datePicker:exampleProperty]`
+
+
+
 ```
 %%bind:date[due_date](2024-01-30)%%
 %%bind:date[created](today)%%
@@ -62,12 +71,26 @@ Meta bind 使用 `%%` 包裹内联绑定表达式：
 
 ### 4. 下拉选择框
 
+`INPUT[inlineSelect(option(高), option(中), option(低)):priority]`
+
+```meta-bind
+INPUT[multiSelect(option(待办), option(进行中), option(完成)):status]
+```
+
+```meta-bind
+INPUT[select(option(待办), option(进行中), option(完成)):status]
+```
+
+`INPUT[inlineList:exampleProperty]`
+
 ```
 %%bind:select[status](未开始|进行中|已完成)%%
 %%bind:select[priority](高|中|低)%%
 ```
 
 ### 5. 复选框（布尔值）
+
+`INPUT[toggle:is_completed]`
 
 ```
 %%bind:toggle[is_completed](false)%%
@@ -182,6 +205,10 @@ review:
 > 重要性：`INPUT[toggle:is_important]`
 
 
+
+```meta-bind
+INPUT[select(option(待办), option(进行中), option(完成)):status]
+```
 
 
 
