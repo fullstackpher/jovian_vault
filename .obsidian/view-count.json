@@ -7787,7 +7787,7 @@
     {
       "path": "2.Areas 领域/Frontend/Date对象.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769930690509
@@ -7830,6 +7830,9 @@
         },
         {
           "timestampMillis": 1770008973070
+        },
+        {
+          "timestampMillis": 1770011593666
         }
       ]
     },
@@ -7865,7 +7868,7 @@
     {
       "path": "7.Daily 日周记/2026-02-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 21,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7929,6 +7932,9 @@
         },
         {
           "timestampMillis": 1770008973605
+        },
+        {
+          "timestampMillis": 1770011593130
         }
       ]
     }
