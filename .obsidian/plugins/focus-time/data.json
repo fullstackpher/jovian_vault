@@ -1209,8 +1209,8 @@
     "3.Resources 资源/Meta Bind 插件使用指南.md": {
       "fileId": "1769760610411",
       "filePath": "3.Resources 资源/Meta Bind 插件使用指南.md",
-      "duration": 2052000,
-      "openCount": 6
+      "duration": 2064000,
+      "openCount": 7
     },
     "2.Areas 领域/Frontend/Frontend知识体系总览.md": {
       "fileId": "1769761930279",
@@ -1482,11 +1482,11 @@
       "duration": 366000,
       "openCount": 3
     },
-    "8.Info 其他/个人网站重构示例.md": {
+    "8.Info 其他/示例 1：项目跟踪.md": {
       "fileId": "1770020564837",
-      "filePath": "8.Info 其他/个人网站重构示例.md",
-      "duration": 48000,
-      "openCount": 3
+      "filePath": "8.Info 其他/示例 1：项目跟踪.md",
+      "duration": 102000,
+      "openCount": 4
     }
   }
 }
