@@ -8,7 +8,7 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-02-02T15:58
+更新时间: 2026-02-02T16:03
 status: 进行中
 rating: "5"
 age: "18"
@@ -178,8 +178,12 @@ review:
 > [!example]+ 在Callout中使用
 
 > [!info] 任务信息
-> 状态：`INPUT[select:status]`
+> 状态：
 > 重要性：`INPUT[toggle:is_important]`
+
+
+
+
 
 
 
