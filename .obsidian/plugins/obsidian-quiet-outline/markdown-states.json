@@ -3970,12 +3970,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 8
+        "line": 1,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 8
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4657,11 +4657,11 @@
     "cursor": {
       "from": {
         "line": 5,
-        "ch": 26
+        "ch": 25
       },
       "to": {
         "line": 5,
-        "ch": 26
+        "ch": 25
       }
     },
     "expandedKeys": [

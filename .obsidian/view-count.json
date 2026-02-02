@@ -6675,7 +6675,7 @@
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 117,
+      "totalTimesOpened": 119,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7027,6 +7027,12 @@
         },
         {
           "timestampMillis": 1770005852147
+        },
+        {
+          "timestampMillis": 1770006547748
+        },
+        {
+          "timestampMillis": 1770006565609
         }
       ]
     },
@@ -7410,7 +7416,7 @@
     {
       "path": "7.Daily 日周记/2026-02-01.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769922935841
@@ -7465,13 +7471,19 @@
         },
         {
           "timestampMillis": 1770005266663
+        },
+        {
+          "timestampMillis": 1770006499158
+        },
+        {
+          "timestampMillis": 1770006519276
         }
       ]
     },
     {
       "path": "8.Info 其他/本月安排.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 63,
+      "totalTimesOpened": 64,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7661,6 +7673,9 @@
         },
         {
           "timestampMillis": 1770006040813
+        },
+        {
+          "timestampMillis": 1770006470772
         }
       ]
     },
@@ -7784,7 +7799,7 @@
     {
       "path": "7.Daily 日周记/2026-02-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7797,6 +7812,24 @@
         },
         {
           "timestampMillis": 1770005958988
+        },
+        {
+          "timestampMillis": 1770006437591
+        },
+        {
+          "timestampMillis": 1770006498728
+        },
+        {
+          "timestampMillis": 1770006511277
+        },
+        {
+          "timestampMillis": 1770006531735
+        },
+        {
+          "timestampMillis": 1770006549118
+        },
+        {
+          "timestampMillis": 1770006571140
         }
       ]
     }
