@@ -3189,7 +3189,7 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 0,
+    "scroll": 40.91083045767135,
     "cursor": {
       "from": {
         "line": 71,
@@ -4653,7 +4653,7 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-02-01.md": {
-    "scroll": 44.985695617181975,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 5,
@@ -4788,12 +4788,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 0
+        "line": 5,
+        "ch": 9
       },
       "to": {
-        "line": 24,
-        "ch": 0
+        "line": 5,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -5093,14 +5093,14 @@
     "expandedKeys": []
   },
   "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md": {
-    "scroll": 0,
+    "scroll": 9.527453162246722,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 11,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 11,
         "ch": 0
       }
     },
@@ -5485,14 +5485,14 @@
     "expandedKeys": []
   },
   "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md": {
-    "scroll": 8.4375,
+    "scroll": 11.022772524318157,
     "cursor": {
       "from": {
-        "line": 29,
+        "line": 37,
         "ch": 10
       },
       "to": {
-        "line": 29,
+        "line": 37,
         "ch": 10
       }
     },

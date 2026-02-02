@@ -649,8 +649,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 17,
-      "totalTimesOpened": 420,
+      "uniqueDaysOpened": 18,
+      "totalTimesOpened": 421,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1911,6 +1911,9 @@
         },
         {
           "timestampMillis": 1770043862839
+        },
+        {
+          "timestampMillis": 1770049390658
         }
       ]
     },
@@ -5380,8 +5383,8 @@
     },
     {
       "path": "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -5451,13 +5454,16 @@
         },
         {
           "timestampMillis": 1770038193623
+        },
+        {
+          "timestampMillis": 1770049449592
         }
       ]
     },
     {
       "path": "0.Inbox 缓存箱/README.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 22,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5524,6 +5530,9 @@
         },
         {
           "timestampMillis": 1770043811734
+        },
+        {
+          "timestampMillis": 1770049299527
         }
       ]
     },
@@ -5644,8 +5653,8 @@
     },
     {
       "path": "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769503388454
@@ -5700,6 +5709,12 @@
         },
         {
           "timestampMillis": 1770036243764
+        },
+        {
+          "timestampMillis": 1770049400060
+        },
+        {
+          "timestampMillis": 1770049427971
         }
       ]
     },
@@ -7051,8 +7066,8 @@
     },
     {
       "path": "7.Daily 日周记/2026-02-01.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1769922935841
@@ -7122,6 +7137,9 @@
         },
         {
           "timestampMillis": 1770041869275
+        },
+        {
+          "timestampMillis": 1770049492344
         }
       ]
     },
@@ -7433,8 +7451,8 @@
     },
     {
       "path": "7.Daily 日周记/2026-02-02.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 27,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -7516,6 +7534,18 @@
         },
         {
           "timestampMillis": 1770041876090
+        },
+        {
+          "timestampMillis": 1770049393252
+        },
+        {
+          "timestampMillis": 1770049419598
+        },
+        {
+          "timestampMillis": 1770049447914
+        },
+        {
+          "timestampMillis": 1770049476502
         }
       ]
     },
@@ -7803,14 +7833,17 @@
     },
     {
       "path": "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770044012066
         },
         {
           "timestampMillis": 1770044070497
+        },
+        {
+          "timestampMillis": 1770049286182
         }
       ]
     }

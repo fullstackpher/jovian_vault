@@ -591,8 +591,8 @@
     "0.Inbox 缓存箱/README.md": {
       "fileId": "1769495523576",
       "filePath": "0.Inbox 缓存箱/README.md",
-      "duration": 1758000,
-      "openCount": 19
+      "duration": 1764000,
+      "openCount": 20
     },
     "1.Projects 项目/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
@@ -1132,7 +1132,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 19146000,
-      "openCount": 288
+      "openCount": 289
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1191,8 +1191,8 @@
     "8.Info 其他/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info 其他/0-Inbox.md",
-      "duration": 4908000,
-      "openCount": 94
+      "duration": 4914000,
+      "openCount": 95
     },
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
@@ -1317,7 +1317,7 @@
     "7.Daily 日周记/2026-02-01.md": {
       "fileId": "1769922938688",
       "filePath": "7.Daily 日周记/2026-02-01.md",
-      "duration": 1194000,
+      "duration": 1224000,
       "openCount": 21
     },
     "8.Info 其他/本月安排.md": {
@@ -1371,8 +1371,8 @@
     "7.Daily 日周记/2026-02-02.md": {
       "fileId": "1770005264827",
       "filePath": "7.Daily 日周记/2026-02-02.md",
-      "duration": 2082000,
-      "openCount": 26
+      "duration": 2118000,
+      "openCount": 30
     },
     "5.Zattchments 附件/局部截取_20260202_143528.png": {
       "fileId": "1770014148899",
@@ -1413,8 +1413,8 @@
     "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md": {
       "fileId": "1769496079528",
       "filePath": "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md",
-      "duration": 150000,
-      "openCount": 11
+      "duration": 174000,
+      "openCount": 12
     },
     "4.Archives 归档/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md": {
       "fileId": "1769760610411",
@@ -1431,8 +1431,8 @@
     "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md": {
       "fileId": "1769503392540",
       "filePath": "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md",
-      "duration": 738000,
-      "openCount": 18
+      "duration": 780000,
+      "openCount": 20
     },
     "4.Archives 归档/03-资源-2026-02/Claudian使用指南-2026-02.md": {
       "fileId": "1769409161602",
@@ -1545,8 +1545,8 @@
     "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png": {
       "fileId": "1770044016756",
       "filePath": "5.Zattchments 附件/图片/截图/2026-02-02_225205-屏幕截图.png",
-      "duration": 96000,
-      "openCount": 1
+      "duration": 114000,
+      "openCount": 2
     }
   }
 }
