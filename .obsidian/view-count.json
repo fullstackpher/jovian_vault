@@ -7842,7 +7842,7 @@
     {
       "path": "5.Zattchments 附件/Obsidian.exe_20260201_154658.png",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769932054237
@@ -7858,19 +7858,9 @@
         },
         {
           "timestampMillis": 1770014148946
-        }
-      ]
-    },
-    {
-      "path": "5.Zattchments 附件/局部截取_20260201_185844.png",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1769943541316
         },
         {
-          "timestampMillis": 1770014146474
+          "timestampMillis": 1770014373390
         }
       ]
     },
@@ -7953,7 +7943,7 @@
     {
       "path": "5.Zattchments 附件/局部截取_20260202_143528.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770014148075
@@ -7963,6 +7953,15 @@
         },
         {
           "timestampMillis": 1770014166976
+        },
+        {
+          "timestampMillis": 1770014331231
+        },
+        {
+          "timestampMillis": 1770014368354
+        },
+        {
+          "timestampMillis": 1770014372763
         }
       ]
     }
