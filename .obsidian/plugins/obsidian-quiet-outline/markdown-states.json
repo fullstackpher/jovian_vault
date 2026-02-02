@@ -4057,12 +4057,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 0
+        "line": 11,
+        "ch": 63
       },
       "to": {
-        "line": 25,
-        "ch": 0
+        "line": 11,
+        "ch": 63
       }
     },
     "expandedKeys": [
@@ -4785,15 +4785,15 @@
     "expandedKeys": []
   },
   "7.Daily 日周记/2026-02-02.md": {
-    "scroll": 0,
+    "scroll": 7.34983922829582,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 21,
+        "ch": 15
       },
       "to": {
-        "line": 5,
-        "ch": 0
+        "line": 21,
+        "ch": 15
       }
     },
     "expandedKeys": []

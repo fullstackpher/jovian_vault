@@ -2373,8 +2373,8 @@
     },
     {
       "path": "Templates/日记模版.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 68,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 70,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2579,6 +2579,12 @@
         },
         {
           "timestampMillis": 1769926730088
+        },
+        {
+          "timestampMillis": 1770005339417
+        },
+        {
+          "timestampMillis": 1770005356411
         }
       ]
     },
@@ -7681,8 +7687,8 @@
     },
     {
       "path": "2.Areas 领域/Frontend/Date对象.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769930690509
@@ -7719,6 +7725,9 @@
         },
         {
           "timestampMillis": 1769945432163
+        },
+        {
+          "timestampMillis": 1770005354773
         }
       ]
     },

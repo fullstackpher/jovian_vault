@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "Date对象",
+      "path": "2.Areas 领域/Frontend/Date对象.md"
+    },
+    {
       "basename": "2026-02-02",
       "path": "7.Daily 日周记/2026-02-02.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "0-Inbox",
       "path": "8.Info 其他/0-Inbox.md"
-    },
-    {
-      "basename": "Date对象",
-      "path": "2.Areas 领域/Frontend/Date对象.md"
     },
     {
       "basename": "局部截取_20260201_185844",
@@ -67,10 +71,6 @@
     {
       "basename": "学习Obsidian",
       "path": "1.Projects 项目/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01月汇总",
