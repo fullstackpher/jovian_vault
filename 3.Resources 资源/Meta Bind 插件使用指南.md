@@ -8,7 +8,10 @@ tags:
   - frontmatter
   - interactive
 创建时间: 2026-01-30T16:09
-更新时间: 2026-01-30T16:10
+更新时间: 2026-02-02T15:52
+status: 待办
+rating: "5"
+age: "18"
 ---
 
 # Meta Bind 插件使用指南
@@ -22,23 +25,31 @@ Meta Bind 插件允许你在 Obsidian 笔记中创建交互式控件（输入框
 Meta bind 使用 `%%` 包裹内联绑定表达式：
 
 ```markdown
-%%bind:类型[属性名](默认值为空)%%
+`INPUT[类型:属性名]`
 ```
 
 ## 可用的控件类型
 
 ### 1. 文本输入框
 
+`INPUT[text:title]`
+
+`INPUT[text:author]`
+
 ```
-%%bind:text[title](默认标题)%%
-%%bind:text[author](Anonymous)%%
+`INPUT[text:title]`
+`INPUT[text:author]`
 ```
 
 ### 2. 数字输入框
 
+`INPUT[number:rating]`
+
+`INPUT[number:age]`
+
 ```
-%%bind:number[rating](5)%%
-%%bind:number[age](25)%%
+`INPUT[number:rating]`
+`INPUT[number:age]`
 ```
 
 ### 3. 日期选择器
@@ -162,6 +173,16 @@ review:
 > 状态：%%bind:select[status](待办|进行中|完成)%%
 > 重要性：%%bind:toggle[is_important]%%
 ```
+
+> [!example]+ 在Callout中使用
+
+> [!info] 任务信息
+> 状态：
+```meta-bind
+INPUT[select(option(待办), option(进行中), option(完成)):status]
+```
+
+> 重要性：%%bind:toggle[is_important]%%
 
 ### 3. 在表格中使用
 

@@ -6639,7 +6639,7 @@
     {
       "path": "3.Resources 资源/Meta Bind 插件使用指南.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769760606108
@@ -6652,6 +6652,9 @@
         },
         {
           "timestampMillis": 1770017593043
+        },
+        {
+          "timestampMillis": 1770018143770
         }
       ]
     },
