@@ -3743,15 +3743,15 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Meta Bind 插件使用指南.md": {
-    "scroll": 103.71988795518207,
+    "scroll": 111.24142156862744,
     "cursor": {
       "from": {
-        "line": 118,
-        "ch": 9
+        "line": 114,
+        "ch": 4
       },
       "to": {
-        "line": 118,
-        "ch": 15
+        "line": 114,
+        "ch": 13
       }
     },
     "expandedKeys": []
@@ -3957,11 +3957,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 6
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -4877,6 +4877,34 @@
       },
       "to": {
         "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/个人网站重构.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info 其他/个人网站重构示例.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
         "ch": 0
       }
     },
