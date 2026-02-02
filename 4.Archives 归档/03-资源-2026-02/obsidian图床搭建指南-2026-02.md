@@ -69,8 +69,8 @@ tags:
 1. 打开 PicGo → **图床设置** → **腾讯云COS**
 2. 填写配置：
    ```
-   SecretId: [请填写您的腾讯云SecretId] 
-   SecretKey: nOlwvjMtNlx1tY0FI8mFZigbQ276vYiw
+   SecretId: [请填写您的腾讯云SecretId]
+   SecretKey: [请填写您的腾讯云SecretKey]
    APPID: 1257905003
    存储桶名称: jovian-1257905003
    存储区域: ap-shanghai
