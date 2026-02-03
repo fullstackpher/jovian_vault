@@ -5583,29 +5583,99 @@
     "expandedKeys": []
   },
   "Obsidian任务管理教程/Obs3.Resources 资源idian任务管理教程整体脉络.md": {
-    "scroll": 48.160714285714285,
+    "scroll": 263.30422794117646,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 249,
+        "ch": 12
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 249,
+        "ch": 12
       }
     },
     "expandedKeys": []
   },
   "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
-    "scroll": 0,
+    "scroll": 107.81127450980392,
     "cursor": {
       "from": {
-        "line": 11,
+        "line": 81,
+        "ch": 7
+      },
+      "to": {
+        "line": 81,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md": {
+    "scroll": 106.30139275766017,
+    "cursor": {
+      "from": {
+        "line": 113,
+        "ch": 26
+      },
+      "to": {
+        "line": 113,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程/析径任务管理系统介绍.md": {
+    "scroll": 107.27382920110193,
+    "cursor": {
+      "from": {
+        "line": 102,
         "ch": 0
       },
       "to": {
-        "line": 11,
+        "line": 102,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obs3.Resources 资源idian任务管理教程整体脉络.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 71
+      },
+      "to": {
+        "line": 17,
+        "ch": 71
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程整体脉络.md": {
+    "scroll": 43.67892156862745,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 71
+      },
+      "to": {
+        "line": 17,
+        "ch": 71
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
+    "scroll": 22.94467787114846,
+    "cursor": {
+      "from": {
+        "line": 98,
+        "ch": 55
+      },
+      "to": {
+        "line": 98,
+        "ch": 55
       }
     },
     "expandedKeys": []

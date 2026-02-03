@@ -7999,22 +7999,64 @@
       ]
     },
     {
-      "path": "Obsidian任务管理教程/Obs3.Resources 资源idian任务管理教程整体脉络.md",
+      "path": "3.Resources 资源/Obsidian任务管理教程整体脉络.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770097917829
+        },
+        {
+          "timestampMillis": 1770098586509
+        },
+        {
+          "timestampMillis": 1770098655925
         }
       ]
     },
     {
       "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770097982887
+        },
+        {
+          "timestampMillis": 1770098376401
+        }
+      ]
+    },
+    {
+      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770098243546
+        },
+        {
+          "timestampMillis": 1770098353676
+        }
+      ]
+    },
+    {
+      "path": "3.Resources 资源/Obsidian任务管理教程/析径任务管理系统介绍.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770098536179
+        }
+      ]
+    },
+    {
+      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770098710827
         }
       ]
     }
