@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 83.12704243379481,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 103,
@@ -5550,6 +5550,34 @@
       "to": {
         "line": 22,
         "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程视频汇总.md": {
+    "scroll": 105.02288629737609,
+    "cursor": {
+      "from": {
+        "line": 123,
+        "ch": 0
+      },
+      "to": {
+        "line": 123,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources 资源/Obsidian任务管理教程思维导图.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
       }
     },
     "expandedKeys": []
