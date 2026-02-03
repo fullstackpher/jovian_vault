@@ -7997,6 +7997,26 @@
           "timestampMillis": 1770050725401
         }
       ]
+    },
+    {
+      "path": "Obsidian任务管理教程/Obs3.Resources 资源idian任务管理教程整体脉络.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770097917829
+        }
+      ]
+    },
+    {
+      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770097982887
+        }
+      ]
     }
   ]
 }

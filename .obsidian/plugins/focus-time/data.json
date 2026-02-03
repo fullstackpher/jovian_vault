@@ -1131,8 +1131,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 19542000,
-      "openCount": 297
+      "duration": 19554000,
+      "openCount": 298
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1565,6 +1565,18 @@
       "filePath": "3.Resources 资源/Obsidian任务管理教程思维导图.md",
       "duration": 12000,
       "openCount": 3
+    },
+    "Obsidian任务管理教程/Obs3.Resources 资源idian任务管理教程整体脉络.md": {
+      "fileId": "1770097922551",
+      "filePath": "Obsidian任务管理教程/Obs3.Resources 资源idian任务管理教程整体脉络.md",
+      "duration": 66000,
+      "openCount": 2
+    },
+    "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
+      "fileId": "1770097988551",
+      "filePath": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
+      "duration": 18000,
+      "openCount": 1
     }
   }
 }
