@@ -5849,7 +5849,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-01-13.md": {
-    "scroll": 0,
+    "scroll": 15.151736212430697,
     "cursor": {
       "from": {
         "line": 4,
@@ -5858,6 +5858,104 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-01-14.md": {
+    "scroll": 24.711516034985422,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-01-15.md": {
+    "scroll": 9.426462395543176,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-01月汇总.md": {
+    "scroll": 62.60438550420168,
+    "cursor": {
+      "from": {
+        "line": 80,
+        "ch": 15
+      },
+      "to": {
+        "line": 80,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-02-01.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 14
+      },
+      "to": {
+        "line": 7,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-02-02.md": {
+    "scroll": 11.873792120911794,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-02-03.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily 日周记/2026-02-04.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 8
+      },
+      "to": {
+        "line": 5,
+        "ch": 8
       }
     },
     "expandedKeys": []
