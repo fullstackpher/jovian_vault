@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Inbox 侧边栏面板",
+      "path": "8.Info 其他/Inbox 侧边栏面板.md"
+    },
+    {
       "basename": "Dashboard使用指南",
       "path": "8.Info 其他/Dashboard使用指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Calendar使用指南",
       "path": "3.Resources 资源/Calendar使用指南.md"
-    },
-    {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
     }
   ],
   "omittedPaths": [],
