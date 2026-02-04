@@ -2653,7 +2653,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 75,
+      "totalTimesOpened": 76,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2879,6 +2879,9 @@
         },
         {
           "timestampMillis": 1770199893793
+        },
+        {
+          "timestampMillis": 1770200362743
         }
       ]
     },
@@ -7457,7 +7460,7 @@
     {
       "path": "8.Info/本月安排.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 105,
+      "totalTimesOpened": 106,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7773,6 +7776,9 @@
         },
         {
           "timestampMillis": 1770199201890
+        },
+        {
+          "timestampMillis": 1770200352440
         }
       ]
     },
@@ -8427,13 +8433,19 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770189624999
         },
         {
           "timestampMillis": 1770200114293
+        },
+        {
+          "timestampMillis": 1770200353619
+        },
+        {
+          "timestampMillis": 1770200367209
         }
       ]
     },

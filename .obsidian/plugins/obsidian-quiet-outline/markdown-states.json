@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 0,
+    "scroll": 2.4390243902439024,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 4
+        "line": 9,
+        "ch": 14
       },
       "to": {
-        "line": 14,
-        "ch": 4
+        "line": 9,
+        "ch": 14
       }
     },
     "expandedKeys": []
