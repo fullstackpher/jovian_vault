@@ -3189,15 +3189,15 @@
     "expandedKeys": []
   },
   "0.Inbox 缓存箱/README.md": {
-    "scroll": 86.74938725490196,
+    "scroll": 111.47732843137256,
     "cursor": {
       "from": {
-        "line": 47,
-        "ch": 20
+        "line": 100,
+        "ch": 9
       },
       "to": {
-        "line": 47,
-        "ch": 20
+        "line": 100,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3555,7 +3555,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/添加快速任务.md": {
-    "scroll": 8.705830903790087,
+    "scroll": 56.876838235294116,
     "cursor": {
       "from": {
         "line": 39,
@@ -3995,15 +3995,15 @@
     "expandedKeys": []
   },
   "8.Info 其他/Admonition插件使用指南.md": {
-    "scroll": 20.541666666666668,
+    "scroll": 40.83938077892967,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 5
+        "line": 53,
+        "ch": 7
       },
       "to": {
-        "line": 5,
-        "ch": 5
+        "line": 53,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -5676,6 +5676,20 @@
       "to": {
         "line": 34,
         "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox 缓存箱/模板-视频收藏.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []

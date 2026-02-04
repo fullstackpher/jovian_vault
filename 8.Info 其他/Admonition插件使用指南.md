@@ -14,34 +14,32 @@
 使用 `!!!` 和 `???` 语法创建提示框：
 
 ```markdown
-!!! note "标题"
-    内容...
+	```ad-note 
+	"标题"
+	    内容...
+	    
+	```
 ```
 
-```markdown
-??? note "标题"
-    内容...
-    可折叠内容
-```
 
 ---
 
 ## 🎨 内置类型
 
-| 类型 | 用途 | 示例 |
-|:---:|:---|:---|
-| `note` | 笔记/备注 | !!! note |
-| `abstract` | 摘要/总结 | !!! abstract |
-| `info` | 信息提示 | !!! info |
-| `tip` | 技巧/提示 | !!! tip |
-| `success` | 成功/完成 | !!! success |
-| `question` | 问题/疑问 | !!! question |
-| `warning` | 警告 | !!! warning |
-| `failure` | 失败/错误 | !!! failure |
-| `danger` | 危险/⚠️ | !!! danger |
-| `bug` | Bug/问题 | !!! bug |
-| `example` | 示例 | !!! example |
-| `quote` | 引用 | !!! quote |
+|     类型     | 用途     | 示例          |
+| :--------: | :----- | :---------- |
+|   `note`   | 笔记/备注  | ad-note     |
+| `abstract` | 摘要/总结  | ad-abstract |
+|   `info`   | 信息提示   | ad-info     |
+|   `tip`    | 技巧/提示  | ad-tip      |
+| `success`  | 成功/完成  | ad-success  |
+| `question` | 问题/疑问  | ad-question |
+| `warning`  | 警告     | ad-warning  |
+| `failure`  | 失败/错误  | ad-failure  |
+|  `danger`  | 危险/⚠️  | ad-danger   |
+|   `bug`    | Bug/问题 | ad-bug      |
+| `example`  | 示例     | ad-example  |
+|  `quote`   | 引用     | ad-quote    |
 
 ---
 
@@ -49,41 +47,26 @@
 
 ### 基础用法
 
-```ad-note
-!!! note
-    这是一个简单的提示框
+```ad-note 
+这是一个简单的提示框
 ```
-
-!!! note
-    这是一个简单的提示框
 
 ### 带标题
 
 ```ad-tip
-!!! tip "💡 实用技巧"
-    这是带有标题的提示框
+title: 这是带有标题的提示框    
 ```
-
-!!! tip "💡 实用技巧"
-    这是带有标题的提示框
 
 ### 多种类型
 
 ```ad-warning
-!!! warning "⚠️ 注意事项"
-    这是一个警告框，用于提醒重要信息
+这是一个警告框，用于提醒重要信息
 ```
 
-!!! warning "⚠️ 注意事项"
-    这是一个警告框，用于提醒重要信息
 
 ```ad-danger
-!!! danger "🚫 禁止操作"
     这是一个危险警告
 ```
-
-!!! danger "🚫 禁止操作"
-    这是一个危险警告
 
 ---
 
@@ -97,9 +80,7 @@
     只有点击标题才会展开
 ```
 
-??? note "点击展开查看更多"
-    这段内容默认是折叠的
-    只有点击标题才会展开
+
 
 ### 默认展开
 
@@ -109,9 +90,11 @@
     使用 ???+ 而不是 ???
 ```
 
-???+ note "默认展开"
-    这个提示框默认就是展开状态
-    使用 ???+ 而不是 ???
+```ad-tip
+title: This is a tip
+
+This is the content of the admonition tip.
+```
 
 ---
 
@@ -136,46 +119,32 @@
 ### 嵌入列表
 
 ```ad-done
-!!! note "待办事项"
+## 待办事项
 - [ ] 任务一
 - [ ] 任务二
 - [ ] 任务三
 ```
 
-!!! note "待办事项"
-    - [ ] 任务一
-    - [ ] 任务二
-    - [ ] 任务三
-
 ### 嵌入代码
 
 ```ad-tip
-!!! tip "代码技巧"
-    ```javascript
-    console.log('Hello, Admonition!');
-    ```
+## 嵌入代码
+    
+    `console.log('Hello, Admonition!');`
+    
 ```
-
-!!! tip "代码技巧"
-    ```javascript
-    console.log('Hello, Admonition!');
-    ```
 
 ### 嵌入表格
 
 ```ad-info
-!!! info "数据统计"
-| 项目 | 数值 |
-|:---:|:---:|
-| A | 100 |
-| B | 200 |
-```
+## 嵌入表格
+	
 
-!!! info "数据统计"
-    | 项目 | 数值 |
-    |:---:|:---:|
-    | A | 100 |
-    | B | 200 |
+|   项目  |   说明  |
+| --- | --- |
+|    项目A | 这是一个项目说明    |
+
+```
 
 ---
 
@@ -183,13 +152,11 @@
 
 ### 无标题
 
-```markdown
-!!! info ""
-    没有标题的提示框
+```ad-info
+没有标题的提示框
 ```
 
-!!! info ""
-    没有标题的提示框
+
 
 ### 嵌套使用
 
@@ -200,12 +167,6 @@
     !!! tip "内层提示"
         这是内层内容
 ```
-
-!!! note "外层提示"
-    这是外层内容
-
-    !!! tip "内层提示"
-        这是内层内容
 
 ---
 
@@ -224,43 +185,43 @@
 
 ### 1. 知识整理
 
-```markdown
-!!! note "关键概念"
-    **定义**：这是某个重要概念的定义
-    - 特点一
-    - 特点二
+```ad-note
+"关键概念"
+**定义**：这是某个重要概念的定义
+- 特点一
+- 特点二
 ```
 
 ### 2. 学习笔记
 
-```markdown
-!!! tip "学习技巧"
-    1. 先理解原理
-    2. 再动手实践
-    3. 最后总结复盘
+```ad-tip
+"学习技巧"
+1. 先理解原理
+2. 再动手实践
+3. 最后总结复盘
 ```
 
 ### 3. 项目文档
 
-```markdown
-!!! warning "环境要求"
-    - Node.js 16+
-    - npm 8+
-    - Obsidian 1.0+
+```ad-warning
+"环境要求"
+- Node.js 16+
+- npm 8+
+- Obsidian 1.0+
 ```
 
 ### 4. 问题记录
 
 ```ad-bug
-!!! bug "已知问题"
-    当前版本在某些情况下会出现渲染问题
-    解决方案：重启 Obsidian
+"已知问题"
+- 当前版本在某些情况下会出现渲染问题
+- 解决方案：重启 Obsidian
 ```
 
 ### 5. 代码注释
 
-```markdown
-!!! example "使用示例"
+```ad-example
+"使用示例"
     ```python
     def hello():
         print("Hello, World!")

@@ -591,8 +591,8 @@
     "0.Inbox 缓存箱/README.md": {
       "fileId": "1769495523576",
       "filePath": "0.Inbox 缓存箱/README.md",
-      "duration": 2034000,
-      "openCount": 21
+      "duration": 2058000,
+      "openCount": 22
     },
     "1.Projects 项目/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
@@ -1095,8 +1095,8 @@
     "8.Info 其他/添加快速任务.md": {
       "fileId": "1769757214331",
       "filePath": "8.Info 其他/添加快速任务.md",
-      "duration": 348000,
-      "openCount": 6
+      "duration": 354000,
+      "openCount": 7
     },
     "8.Info 其他/Dashboard使用指南.md": {
       "fileId": "1769757226341",
@@ -1120,7 +1120,7 @@
       "fileId": "1769757298335",
       "filePath": "8.Info 其他/制作obsidian主页.md",
       "duration": 210000,
-      "openCount": 6
+      "openCount": 7
     },
     "Frontend知识体系.md": {
       "fileId": "1769759506435",
@@ -1197,7 +1197,7 @@
     "8.Info 其他/Admonition插件使用指南.md": {
       "fileId": "1769837258986",
       "filePath": "8.Info 其他/Admonition插件使用指南.md",
-      "duration": 462000,
+      "duration": 1284000,
       "openCount": 7
     },
     "7.Daily 日周记/未命名.md": {
@@ -1594,6 +1594,12 @@
       "fileId": "1770098714549",
       "filePath": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
       "duration": 552000,
+      "openCount": 2
+    },
+    "0.Inbox 缓存箱/模板-视频收藏.md": {
+      "fileId": "1770182987903",
+      "filePath": "0.Inbox 缓存箱/模板-视频收藏.md",
+      "duration": 60000,
       "openCount": 2
     }
   }

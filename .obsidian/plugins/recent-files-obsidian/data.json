@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Admonition插件使用指南",
+      "path": "8.Info 其他/Admonition插件使用指南.md"
+    },
+    {
+      "basename": "制作obsidian主页",
+      "path": "8.Info 其他/制作obsidian主页.md"
+    },
+    {
+      "basename": "添加快速任务",
+      "path": "8.Info 其他/添加快速任务.md"
+    },
+    {
+      "basename": "模板-视频收藏",
+      "path": "0.Inbox 缓存箱/模板-视频收藏.md"
+    },
+    {
       "basename": "README",
       "path": "0.Inbox 缓存箱/README.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Paste url into selection使用指南-2026-02",
       "path": "4.Archives 归档/03-资源-2026-02/Paste url into selection使用指南-2026-02.md"
-    },
-    {
-      "basename": "Virtual Linker使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/Virtual Linker使用指南-2026-02.md"
-    },
-    {
-      "basename": "Meta Bind 插件使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md"
-    },
-    {
-      "basename": "List Callout使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/List Callout使用指南-2026-02.md"
-    },
-    {
-      "basename": "Iconize插件使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/Iconize插件使用指南-2026-02.md"
     }
   ],
   "omittedPaths": [],

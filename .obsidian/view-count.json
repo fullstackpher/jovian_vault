@@ -5493,7 +5493,7 @@
     {
       "path": "0.Inbox 缓存箱/README.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5569,6 +5569,9 @@
         },
         {
           "timestampMillis": 1770182808764
+        },
+        {
+          "timestampMillis": 1770182963913
         }
       ]
     },
@@ -6020,8 +6023,8 @@
     },
     {
       "path": "8.Info 其他/添加快速任务.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
@@ -6037,6 +6040,9 @@
         },
         {
           "timestampMillis": 1770017234773
+        },
+        {
+          "timestampMillis": 1770183045053
         }
       ]
     },
@@ -6075,8 +6081,8 @@
     },
     {
       "path": "8.Info 其他/制作obsidian主页.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769757297908
@@ -6095,6 +6101,9 @@
         },
         {
           "timestampMillis": 1769850359339
+        },
+        {
+          "timestampMillis": 1770183049338
         }
       ]
     },
@@ -6707,8 +6716,8 @@
     },
     {
       "path": "8.Info 其他/Admonition插件使用指南.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769837256017
@@ -6727,6 +6736,9 @@
         },
         {
           "timestampMillis": 1770008836331
+        },
+        {
+          "timestampMillis": 1770183052064
         }
       ]
     },
@@ -8078,6 +8090,16 @@
         },
         {
           "timestampMillis": 1770171465921
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox 缓存箱/模板-视频收藏.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770182983976
         }
       ]
     }
