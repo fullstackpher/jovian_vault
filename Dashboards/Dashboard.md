@@ -85,7 +85,7 @@ actions:
 
 ```dataview
 TASK
-FROM "8.Info 其他/0-Inbox.md"
+FROM "8.Info/0-Inbox.md"
 WHERE !completed
 SORT file.cday DESC
 ```
