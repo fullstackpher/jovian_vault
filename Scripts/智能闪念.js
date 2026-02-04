@@ -51,7 +51,7 @@ module.exports = async (params) => {
 
     // ===== 3. 格式化内容（处理多行） =====
     const lines = content.split("\n");
-    const timestamp = new Date().toFormat("HH:mm");
+    const timestamp = new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', hour12: false });
     const formattedLines = lines.map((line, index) => {
         if (index === 0) {
             return `- ${typeChoice.symbol} [${timestamp}] ${line}`;

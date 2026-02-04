@@ -3,18 +3,17 @@
   "title": "修复QuickAdd脚本错误",
   "titleGenerationStatus": "success",
   "createdAt": 1770204431591,
-  "updatedAt": 1770204508115,
-  "lastResponseAt": 1770204508115,
+  "updatedAt": 1770204681060,
+  "lastResponseAt": 1770204681060,
   "sessionId": "294cd443-e44d-494e-952e-ca61030ea366",
   "sdkSessionId": "294cd443-e44d-494e-952e-ca61030ea366",
-  "currentNote": "5.Zattchments/图片/截图/局部截取_20260204_192605.png",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 190,
-    "cacheCreationInputTokens": 298,
-    "cacheReadInputTokens": 22031,
+    "inputTokens": 308,
+    "cacheCreationInputTokens": 2169,
+    "cacheReadInputTokens": 22958,
     "contextWindow": 200000,
-    "contextTokens": 22519,
-    "percentage": 11
+    "contextTokens": 25435,
+    "percentage": 13
   }
 }

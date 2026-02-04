@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 122.79503676470588,
+    "scroll": 150.99279835390945,
     "cursor": {
       "from": {
         "line": 83,
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 12.966759002770083,
+    "scroll": 5.170731707317073,
     "cursor": {
       "from": {
         "line": 28,
-        "ch": 0
+        "ch": 20
       },
       "to": {
         "line": 28,
-        "ch": 0
+        "ch": 20
       }
     },
     "expandedKeys": [
@@ -6109,12 +6109,12 @@
     "scroll": 35.39031862745098,
     "cursor": {
       "from": {
-        "line": 41,
-        "ch": 26
+        "line": 48,
+        "ch": 29
       },
       "to": {
-        "line": 41,
-        "ch": 26
+        "line": 48,
+        "ch": 29
       }
     },
     "expandedKeys": [
