@@ -5,16 +5,28 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "List Callout使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "QuickAdd使用指南",
+      "path": "3.Resources/QuickAdd使用指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "0.Inbox/README.md"
+    },
+    {
       "basename": "复盘模板",
       "path": "Templates/复盘模板.md"
     },
     {
       "basename": "2026-02-04",
       "path": "7.Daily/每日日志/2026-02-04.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "Inbox 面板搭建指南",
@@ -39,10 +51,6 @@
     {
       "basename": "QuickAdd配置指南",
       "path": "8.Info/QuickAdd配置指南.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox/README.md"
     },
     {
       "basename": "README",
@@ -103,10 +111,6 @@
     {
       "basename": "2026-01-30",
       "path": "7.Daily/每日日志/2026-01-30.md"
-    },
-    {
-      "basename": "List Callout使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
     },
     {
       "basename": "本月安排",

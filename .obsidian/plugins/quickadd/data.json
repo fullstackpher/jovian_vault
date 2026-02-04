@@ -73,7 +73,7 @@
     },
     {
       "id": "31152f46-a3b4-46a2-a58c-c8617f8c8243",
-      "name": "📥Todo",
+      "name": "📥新建代办",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -136,6 +136,39 @@
           }
         ]
       }
+    },
+    {
+      "id": "134aaca3-d5f2-4864-9518-f53f8adbe738",
+      "name": "🔄项目复盘",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/复盘模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "7.Daily/周记",
+          "7.Daily/月度复盘",
+          "7.Daily/季度总结",
+          "7.Daily/年度回顾"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",

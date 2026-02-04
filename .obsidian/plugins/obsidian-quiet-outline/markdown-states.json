@@ -5709,15 +5709,15 @@
     "expandedKeys": []
   },
   "0.Inbox/README.md": {
-    "scroll": 24.93198529411765,
+    "scroll": 107.57598039215686,
     "cursor": {
       "from": {
-        "line": 41,
-        "ch": 23
+        "line": 123,
+        "ch": 22
       },
       "to": {
-        "line": 41,
-        "ch": 23
+        "line": 123,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -6256,6 +6256,20 @@
       "to": {
         "line": 7,
         "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/QuickAdd使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 12
+      },
+      "to": {
+        "line": 14,
+        "ch": 12
       }
     },
     "expandedKeys": []
