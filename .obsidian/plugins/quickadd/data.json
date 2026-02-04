@@ -82,9 +82,9 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "1.Projects 项目/01-学习Java",
-          "1.Projects 项目/02-知识管理",
-          "1.Projects 项目/03-学习前端"
+          "1.Projects/01-学习Java",
+          "1.Projects/02-知识管理",
+          "1.Projects/03-学习前端"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -107,7 +107,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "8.Info 其他/0-Inbox.md",
+      "captureTo": "8.Info/0-Inbox.md",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -153,7 +153,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "/7.Daily 日周记/{{date:YYYY-MM-DD}}",
+      "captureTo": "/7.Daily/{{date:YYYY-MM-DD}}",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {

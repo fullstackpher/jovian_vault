@@ -1,7 +1,7 @@
 ---
 title: List Callout 使用指南
 创建时间: 2026-01-31T15:50
-更新时间: 2026-02-04T14:40
+更新时间: 2026-02-04T19:04
 tags:
   - obsidian/plugin
   - list-callout
@@ -70,3 +70,4 @@ description: List Callout 插件使用说明，通过特殊符号快速创建带
 
 - 插件仓库：[List Callout](https://github.com/joethei/obsidian-list-callout)
 - 相关插件：[[Callout 使用指南]]
+

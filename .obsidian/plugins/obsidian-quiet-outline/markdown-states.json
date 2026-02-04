@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 135.81837606837607,
     "cursor": {
       "from": {
         "line": 83,
@@ -6003,7 +6003,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 8.647058823529411,
+    "scroll": 34.10906862745098,
     "cursor": {
       "from": {
         "line": 28,
@@ -6085,5 +6085,22 @@
       }
     },
     "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md": {
+    "scroll": 20.41360294117647,
+    "cursor": {
+      "from": {
+        "line": 73,
+        "ch": 0
+      },
+      "to": {
+        "line": 73,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-4",
+      "item-1-0"
+    ]
   }
 }

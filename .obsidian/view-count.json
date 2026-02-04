@@ -7007,7 +7007,7 @@
     {
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769845841999
@@ -7038,6 +7038,12 @@
         },
         {
           "timestampMillis": 1770187204030
+        },
+        {
+          "timestampMillis": 1770202903344
+        },
+        {
+          "timestampMillis": 1770203057873
         }
       ]
     },
@@ -8497,7 +8503,7 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770201740058
@@ -8507,6 +8513,9 @@
         },
         {
           "timestampMillis": 1770202150135
+        },
+        {
+          "timestampMillis": 1770202326568
         }
       ]
     }
