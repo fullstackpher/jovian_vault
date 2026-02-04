@@ -3628,12 +3628,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 84,
-        "ch": 0
+        "line": 62,
+        "ch": 85
       },
       "to": {
-        "line": 84,
-        "ch": 0
+        "line": 62,
+        "ch": 85
       }
     },
     "expandedKeys": [
@@ -6064,12 +6064,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 3,
+        "ch": 6
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 3,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -6149,15 +6149,15 @@
     "expandedKeys": []
   },
   "3.Resources/Inbox 面板搭建指南.md": {
-    "scroll": 282.9062777284827,
+    "scroll": 255.74571078431373,
     "cursor": {
       "from": {
-        "line": 298,
-        "ch": 47
+        "line": 271,
+        "ch": 9
       },
       "to": {
-        "line": 298,
-        "ch": 47
+        "line": 271,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -6242,6 +6242,20 @@
       "to": {
         "line": 60,
         "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-04.md": {
+    "scroll": 26.38915808600848,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 37
+      },
+      "to": {
+        "line": 7,
+        "ch": 37
       }
     },
     "expandedKeys": []

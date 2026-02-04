@@ -60,7 +60,7 @@ actions:
     command: daily-notes
 
 ```
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]`
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]` 
 
 ```meta-bind-button
 label: 看板

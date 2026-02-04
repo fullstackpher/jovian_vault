@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Inbox 面板搭建指南",
-      "path": "3.Resources/Inbox 面板搭建指南.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "复盘模板",
+      "path": "Templates/复盘模板.md"
+    },
+    {
+      "basename": "2026-02-04",
+      "path": "7.Daily/每日日志/2026-02-04.md"
+    },
+    {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources/Inbox 面板搭建指南.md"
     },
     {
       "basename": "学习Obsidian",
@@ -73,20 +81,12 @@
       "path": "Templates/技术概念卡片.md"
     },
     {
-      "basename": "复盘模板",
-      "path": "Templates/复盘模板.md"
-    },
-    {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-01月汇总",
       "path": "7.Daily/2026-01月汇总.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "7.Daily/每日日志/2026-02-04.md"
     },
     {
       "basename": "2026-02-03",

@@ -21,6 +21,10 @@
     {
       "folder": "7.Daily",
       "template": "Templates/日记模版.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
