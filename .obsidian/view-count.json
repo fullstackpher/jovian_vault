@@ -8058,11 +8058,14 @@
     },
     {
       "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770098710827
+        },
+        {
+          "timestampMillis": 1770171465921
         }
       ]
     }
