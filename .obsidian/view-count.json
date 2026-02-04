@@ -650,7 +650,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 434,
+      "totalTimesOpened": 435,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1953,6 +1953,9 @@
         },
         {
           "timestampMillis": 1770187275191
+        },
+        {
+          "timestampMillis": 1770187313497
         }
       ]
     },
@@ -5422,8 +5425,8 @@
     },
     {
       "path": "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 24,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -5496,6 +5499,9 @@
         },
         {
           "timestampMillis": 1770049449592
+        },
+        {
+          "timestampMillis": 1770187365147
         }
       ]
     },
@@ -6033,7 +6039,7 @@
     {
       "path": "8.Info 其他/添加快速任务.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769757210739
@@ -6052,6 +6058,9 @@
         },
         {
           "timestampMillis": 1770183045053
+        },
+        {
+          "timestampMillis": 1770187378453
         }
       ]
     },
@@ -6295,7 +6304,7 @@
     {
       "path": "3.Resources 资源/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -6329,13 +6338,16 @@
         },
         {
           "timestampMillis": 1770182655577
+        },
+        {
+          "timestampMillis": 1770187392681
         }
       ]
     },
     {
       "path": "8.Info 其他/0-Inbox.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 134,
+      "totalTimesOpened": 135,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -6738,6 +6750,9 @@
         },
         {
           "timestampMillis": 1770170969056
+        },
+        {
+          "timestampMillis": 1770187372228
         }
       ]
     },
@@ -6772,7 +6787,7 @@
     {
       "path": "8.Info 其他/常用服务API.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769841797554
@@ -6788,6 +6803,9 @@
         },
         {
           "timestampMillis": 1770187281944
+        },
+        {
+          "timestampMillis": 1770187376108
         }
       ]
     },
@@ -7240,8 +7258,8 @@
     },
     {
       "path": "8.Info 其他/本月安排.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 101,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 102,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7545,6 +7563,9 @@
         },
         {
           "timestampMillis": 1770096201418
+        },
+        {
+          "timestampMillis": 1770187374505
         }
       ]
     },

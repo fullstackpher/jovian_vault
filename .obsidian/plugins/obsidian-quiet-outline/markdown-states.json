@@ -3555,7 +3555,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/添加快速任务.md": {
-    "scroll": 56.876838235294116,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 39,
@@ -3799,15 +3799,15 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Inbox 面板搭建指南.md": {
-    "scroll": 0,
+    "scroll": 44.32983193277311,
     "cursor": {
       "from": {
-        "line": 300,
-        "ch": 33
+        "line": 287,
+        "ch": 0
       },
       "to": {
-        "line": 300,
-        "ch": 33
+        "line": 287,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -5485,7 +5485,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md": {
-    "scroll": 11.022772524318157,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 37,

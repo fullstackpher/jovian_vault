@@ -8,6 +8,8 @@ tags:
   - workflow
   - quick-capture
   - dataview
+创建时间: 2026-01-30T17:34
+更新时间: 2026-02-04T14:43
 ---
 
 # Obsidian Inbox 面板搭建指南
@@ -252,13 +254,12 @@ GROUP BY status
 | 🏷️ 批量标签 | 批量添加标签 |
 | 📦 导出 Inbox | 导出为备份 |
 
-```
+
 
 ---
 
 ## 我的 Inbox 工作流
 
-```
 1. 随时捕获
    ↓
 2. 每日回顾（早晨）
@@ -271,7 +272,7 @@ GROUP BY status
    - 推迟 ⏰
    ↓
 4. 移出 Inbox
-```
+
 
 ## 推荐插件组合
 
