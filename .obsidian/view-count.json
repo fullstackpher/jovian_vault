@@ -6162,7 +6162,7 @@
     {
       "path": "4.Archives 归档/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 45,
+      "totalTimesOpened": 46,
       "openLogs": [
         {
           "timestampMillis": 1769760606108
@@ -6298,13 +6298,16 @@
         },
         {
           "timestampMillis": 1770187220909
+        },
+        {
+          "timestampMillis": 1770187728229
         }
       ]
     },
     {
       "path": "3.Resources 资源/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -6341,6 +6344,9 @@
         },
         {
           "timestampMillis": 1770187392681
+        },
+        {
+          "timestampMillis": 1770187747931
         }
       ]
     },

@@ -9,7 +9,7 @@ tags:
   - quick-capture
   - dataview
 创建时间: 2026-01-30T17:34
-更新时间: 2026-02-04T14:43
+更新时间: 2026-02-04T14:53
 ---
 
 # Obsidian Inbox 面板搭建指南
@@ -133,14 +133,14 @@ inbox_type: idea
 
 # 📥 快速捕获
 
-标题：%%bind:text[inbox_title]()%%
-类型：%%bind:select[inbox_type](想法|任务|项目|问题)%%
-优先级：%%bind:select[inbox_priority](高|中|低)%%
-标签：%%bind:text[inbox_tags]()%%
+标题：`INPUT[text:inbox_title]`
+类型：`INPUT:[inlineSelect(option(想法),option(任务),option(项目),option(问题)):inbox_type]`
+优先级：`INPUT[inlineSelect(option(高),option(中),option(低)):inbox_priority]`
+标签：`INPUT[text:inbox_tags]`
 
-%%bind:textarea[inbox_content](在这里输入内容...)%%
+`INPUT[textarea(placeholder):inbox_content]]`
 
-%%bind:toggle[save_to_inbox](保存到 Inbox)%%
+`INPUT[toggle:save_to_inbox]`
 ```
 
 ---
