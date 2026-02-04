@@ -21,7 +21,8 @@
   },
   {
     "color": "0, 200, 83",
-    "char": "$"
+    "char": "$",
+    "icon": "check-small"
   },
   {
     "color": "158, 158, 158",
