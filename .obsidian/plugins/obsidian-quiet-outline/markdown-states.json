@@ -4054,7 +4054,7 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 2.262443438914027,
     "cursor": {
       "from": {
         "line": 11,
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 14.389769197499312,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 14
+        "line": 14,
+        "ch": 4
       },
       "to": {
-        "line": 22,
-        "ch": 14
+        "line": 14,
+        "ch": 4
       }
     },
     "expandedKeys": []
