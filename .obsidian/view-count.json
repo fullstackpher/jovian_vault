@@ -5655,7 +5655,7 @@
     {
       "path": "0.Inbox/README.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 29,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5743,6 +5743,12 @@
         },
         {
           "timestampMillis": 1770209375542
+        },
+        {
+          "timestampMillis": 1770210818047
+        },
+        {
+          "timestampMillis": 1770210899765
         }
       ]
     },
@@ -6262,7 +6268,7 @@
     {
       "path": "8.Info/Dashboard使用指南.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769757223400
@@ -6305,13 +6311,16 @@
         },
         {
           "timestampMillis": 1770188975711
+        },
+        {
+          "timestampMillis": 1770210905332
         }
       ]
     },
     {
       "path": "8.Info/QuickAdd配置指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769757277344
@@ -6324,6 +6333,9 @@
         },
         {
           "timestampMillis": 1770188890938
+        },
+        {
+          "timestampMillis": 1770210903343
         }
       ]
     },
@@ -6349,7 +6361,7 @@
     {
       "path": "8.Info/制作obsidian主页.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769757297908
@@ -6377,6 +6389,9 @@
         },
         {
           "timestampMillis": 1770187212034
+        },
+        {
+          "timestampMillis": 1770210907080
         }
       ]
     },
@@ -6528,7 +6543,7 @@
     {
       "path": "3.Resources/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -6574,6 +6589,9 @@
         },
         {
           "timestampMillis": 1770209468847
+        },
+        {
+          "timestampMillis": 1770210930545
         }
       ]
     },
@@ -8072,22 +8090,6 @@
         },
         {
           "timestampMillis": 1770209008897
-        }
-      ]
-    },
-    {
-      "path": "8.Info/Inbox 侧边栏面板.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1770016396627
-        },
-        {
-          "timestampMillis": 1770187001698
-        },
-        {
-          "timestampMillis": 1770187207610
         }
       ]
     },

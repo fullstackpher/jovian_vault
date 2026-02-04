@@ -5709,15 +5709,15 @@
     "expandedKeys": []
   },
   "0.Inbox/README.md": {
-    "scroll": 3.6199095022624435,
+    "scroll": 24.93198529411765,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 60
+        "line": 41,
+        "ch": 23
       },
       "to": {
-        "line": 10,
-        "ch": 60
+        "line": 41,
+        "ch": 23
       }
     },
     "expandedKeys": []
@@ -5793,7 +5793,7 @@
     "expandedKeys": []
   },
   "7.Daily/README.md": {
-    "scroll": 69.99900514010943,
+    "scroll": 76.14075630252101,
     "cursor": {
       "from": {
         "line": 73,
@@ -6149,15 +6149,15 @@
     "expandedKeys": []
   },
   "3.Resources/Inbox 面板搭建指南.md": {
-    "scroll": 301.6067927170868,
+    "scroll": 299.7219887955182,
     "cursor": {
       "from": {
-        "line": 321,
-        "ch": 22
+        "line": 319,
+        "ch": 14
       },
       "to": {
-        "line": 321,
-        "ch": 22
+        "line": 319,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -6200,6 +6200,34 @@
       "to": {
         "line": 11,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/Inbox 侧边栏面板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 19
+      },
+      "to": {
+        "line": 14,
+        "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/制作obsidian主页.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 7
+      },
+      "to": {
+        "line": 6,
+        "ch": 7
       }
     },
     "expandedKeys": []
