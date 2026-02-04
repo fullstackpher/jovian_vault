@@ -3,11 +3,10 @@
   "title": "优化文档内容",
   "titleGenerationStatus": "success",
   "createdAt": 1770187180707,
-  "updatedAt": 1770187226423,
+  "updatedAt": 1770189320140,
   "lastResponseAt": 1770187226423,
   "sessionId": "567c8f48-f631-44ea-b02a-d603fc8c4cc9",
   "sdkSessionId": "567c8f48-f631-44ea-b02a-d603fc8c4cc9",
-  "currentNote": "4.Archives 归档/03-资源-2026-02/List Callout使用指南-2026-02.md",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 1252,

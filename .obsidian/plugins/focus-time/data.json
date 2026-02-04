@@ -1635,8 +1635,14 @@
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
       "filePath": "Templates/模板-视频收藏.md",
-      "duration": 90000,
-      "openCount": 2
+      "duration": 120000,
+      "openCount": 3
+    },
+    "5.Zattchments/图片/截图/局部截取_20260204_151441.png": {
+      "fileId": "1770189319654",
+      "filePath": "5.Zattchments/图片/截图/局部截取_20260204_151441.png",
+      "duration": 48000,
+      "openCount": 1
     }
   }
 }

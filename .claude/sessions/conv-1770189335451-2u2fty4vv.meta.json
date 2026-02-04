@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770189335451-2u2fty4vv",
+  "title": "诊断图片中的问题及原因",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770189335451,
+  "updatedAt": 1770189358047,
+  "lastResponseAt": 1770189358047,
+  "sessionId": "b26a04cd-4f20-45f7-b726-0dc7fdb47e2d",
+  "sdkSessionId": "b26a04cd-4f20-45f7-b726-0dc7fdb47e2d",
+  "currentNote": "5.Zattchments/图片/截图/局部截取_20260204_151441.png",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 89,
+    "cacheCreationInputTokens": 198,
+    "cacheReadInputTokens": 13972,
+    "contextWindow": 200000,
+    "contextTokens": 14259,
+    "percentage": 7
+  }
+}
