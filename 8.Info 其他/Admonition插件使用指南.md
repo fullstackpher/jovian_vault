@@ -125,6 +125,31 @@ collapse: open
     
 ```
 
+- 外层的 `反斜杠符号` 比内层的多一个
+
+`````ad-note
+title: 嵌套
+collapse: open
+这里是嵌套的最外层
+```ad-info
+title: 内层嵌套
+这里是嵌套的内层
+```
+`````
+
+
+```ad-note
+title: 另一种嵌套形式
+collapse: open
+加叹号缩进
+	!!! ad-tip
+		title: 一级嵌套
+		内层嵌套
+			!!! ad-warning
+			title: 二级嵌套
+			collapse: close
+```
+
 ### 嵌入表格
 
 ```ad-info
