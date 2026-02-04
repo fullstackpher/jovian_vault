@@ -4058,11 +4058,11 @@
     "cursor": {
       "from": {
         "line": 7,
-        "ch": 0
+        "ch": 16
       },
       "to": {
         "line": 7,
-        "ch": 0
+        "ch": 16
       }
     },
     "expandedKeys": [
@@ -5919,15 +5919,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-02.md": {
-    "scroll": 11.873792120911794,
+    "scroll": 2.929864253393665,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 7,
+        "ch": 14
       },
       "to": {
-        "line": 5,
-        "ch": 0
+        "line": 7,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 0,
+    "scroll": 41.553015399226645,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 16
+        "line": 29,
+        "ch": 38
       },
       "to": {
-        "line": 19,
-        "ch": 16
+        "line": 29,
+        "ch": 38
       }
     },
     "expandedKeys": [
@@ -6078,12 +6078,12 @@
     "scroll": 3.84180790960452,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 6
+        "line": 13,
+        "ch": 0
       },
       "to": {
-        "line": 15,
-        "ch": 6
+        "line": 13,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6119,5 +6119,19 @@
     "expandedKeys": [
       "item-1-0"
     ]
+  },
+  "7.Daily/2026-01-31.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
