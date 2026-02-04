@@ -71,24 +71,54 @@ module.exports = async (params) => {
     if (editor) {
         editor.replaceSelection(result);
         new Notice(`✅ 闪念已记录：${typeChoice.icon}`);
-    } else {
-        // 如果没有编辑器（Capture 场景），追加到 Inbox
-        const inboxPath = "8.Info/0-Inbox.md";
-        try {
-            const inboxFile = app.vault.getAbstractFileByPath(inboxPath);
-            if (inboxFile) {
-                // 读取现有内容
-                const existingContent = await app.vault.read(inboxFile);
-                // 添加新内容（空行分隔）
-                const newContent = existingContent + (existingContent.trim() ? "\n" : "") + result + "\n";
-                // 写入文件
-                await app.vault.modify(inboxFile, newContent);
-                new Notice(`✅ 已追加到 Inbox：${typeChoice.icon}`);
-            } else {
-                new Notice(`⚠️ Inbox 文件不存在：${inboxPath}`);
-            }
-        } catch (error) {
-            new Notice(`❌ 写入失败：${error.message}`);
+        return;
+    }
+
+    // ===== 5. 无编辑器时，追加到今日日记的 Thoughts 标题下 =====
+    // 获取今日日期，构造日记路径
+    const today = new Date();
+    const dateStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
+    const diaryPath = `7.Daily/${dateStr}.md`;
+
+    try {
+        const diaryFile = app.vault.getAbstractFileByPath(diaryPath);
+        if (!diaryFile) {
+            new Notice(`⚠️ 今日日记不存在：${diaryPath}`);
+            return;
         }
+
+        // 读取日记内容
+        let diaryContent = await app.vault.read(diaryFile);
+
+        // 检查是否存在 ## 💭 Thoughts 标题
+        const thoughtsHeader = "## 💭 Thoughts";
+        const thoughtsPattern = new RegExp(`^${thoughtsHeader}.*$`, 'm');
+
+        if (thoughtsPattern.test(diaryContent)) {
+            // 找到 Thoughts 标题，在其后追加内容
+            diaryContent = diaryContent.replace(
+                thoughtsPattern,
+                match => `${match}\n${result}`
+            );
+        } else {
+            // 没找到 Thoughts 标题，在最后一个 ## 二级标题后追加
+            const lastHeaderMatch = diaryContent.match(/^## .+$/m);
+            if (lastHeaderMatch) {
+                diaryContent = diaryContent.replace(
+                    lastHeaderMatch,
+                    `${lastHeaderMatch}\n\n${thoughtsHeader}\n${result}`
+                );
+            } else {
+                // 完全没有二级标题，在文件末尾追加
+                diaryContent += `\n\n${thoughtsHeader}\n${result}`;
+            }
+        }
+
+        // 写入修改后的内容
+        await app.vault.modify(diaryFile, diaryContent);
+        new Notice(`✅ 已写入日记 Thoughts：${typeChoice.icon}`);
+
+    } catch (error) {
+        new Notice(`❌ 写入失败：${error.message}`);
     }
 };

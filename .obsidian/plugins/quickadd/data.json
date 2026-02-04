@@ -1,36 +1,6 @@
 {
   "choices": [
     {
-      "id": "3e140b36-edc5-42c1-9a3e-bfc747cc3482",
-      "name": "创建日记",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/日记模版.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "7.Daily 日周记"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "92c7c599-28d0-4862-8ed9-dca2920c7e6d",
       "name": "智能Callout",
       "type": "Macro",
