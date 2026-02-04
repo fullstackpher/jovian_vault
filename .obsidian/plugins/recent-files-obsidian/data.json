@@ -5,6 +5,10 @@
       "path": "7.Daily/2026-02-04.md"
     },
     {
+      "basename": "2026-01-30",
+      "path": "7.Daily/2026-01-30.md"
+    },
+    {
       "basename": "2026-02-03",
       "path": "7.Daily/2026-02-03.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Admonition插件使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Admonition插件使用指南-2026-02.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程整体脉络",
-      "path": "3.Resources/Obsidian任务管理教程整体脉络.md"
     }
   ],
   "omittedPaths": [],

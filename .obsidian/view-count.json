@@ -7162,8 +7162,8 @@
     },
     {
       "path": "7.Daily/2026-01-30.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769858416433
@@ -7188,6 +7188,9 @@
         },
         {
           "timestampMillis": 1770041825344
+        },
+        {
+          "timestampMillis": 1770200824328
         }
       ]
     },
@@ -8436,7 +8439,7 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1770189624999
@@ -8458,6 +8461,18 @@
         },
         {
           "timestampMillis": 1770200672379
+        },
+        {
+          "timestampMillis": 1770200711474
+        },
+        {
+          "timestampMillis": 1770200742918
+        },
+        {
+          "timestampMillis": 1770200801694
+        },
+        {
+          "timestampMillis": 1770200836098
         }
       ]
     },
