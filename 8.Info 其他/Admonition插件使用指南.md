@@ -107,8 +107,7 @@ This is the content of the admonition tip.
     使用 emoji 作为图标
 ```
 
-!!! tip "💡"
-    使用 emoji 作为图标
+
 
 ---
 
