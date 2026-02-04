@@ -51,10 +51,30 @@
 这是一个简单的提示框
 ```
 
-### 带标题
+### 指定标题
+
+- title: 指定标题
+
+```ad-info
+title: 这是带有标题的提示框    
+```
+
+### 指定颜色
+
+- color：指定颜色，必须RGB风格
+
+```ad-warning
+color: 200, 200, 200
+必须遵守RGB风格
+```
+
+### 指定icon
+
+- icon：指定icon，来自`FontAwesome` 或 `RPGAwesome`
 
 ```ad-tip
-title: 这是带有标题的提示框    
+icon: campground
+使用 emoji 作为图标
 ```
 
 ### 多种类型
@@ -72,7 +92,7 @@ title: 这是带有标题的提示框
 
 ## 🔽 可折叠提示框
 
-使用 `collapse: open` 创建可折叠的提示框：
+- 使用 `collapse: open` 创建可折叠的提示框：
 
 ```ad-note
 title: 点击展开查看更多
@@ -81,31 +101,11 @@ collapse: open
 只有点击标题才会展开
 ```
 
-### 默认不展开
-
-```ad-note 
-title:"展开状态"
-collapse: open
-这个提示框默认就是展开状态
-```
-
----
-
-## 🖼️ 图标自定义
-
-自定义 `Admonition` 的图标：来自`FontAwesome` 或 `RPGAwesome`
-
-
-```ad-tip
-icon: campground
-使用 emoji 作为图标
-```
-
 ---
 
 ## 📦 嵌入内容
 
-提示框内可以嵌入各种 Markdown 内容：
+- 提示框内可以嵌入各种 Markdown 内容：
 
 ### 嵌入列表
 
