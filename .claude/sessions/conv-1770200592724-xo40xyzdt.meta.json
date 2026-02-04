@@ -3,18 +3,18 @@
   "title": "Debug 7.Daily Not Effective in Path",
   "titleGenerationStatus": "success",
   "createdAt": 1770200592724,
-  "updatedAt": 1770201187875,
-  "lastResponseAt": 1770201187875,
+  "updatedAt": 1770201322912,
+  "lastResponseAt": 1770201322912,
   "sessionId": "d0c64268-026b-4dc4-98db-61c555a17dd9",
   "sdkSessionId": "d0c64268-026b-4dc4-98db-61c555a17dd9",
   "currentNote": "7.Daily/2026-02-04.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 228,
-    "cacheCreationInputTokens": 953,
-    "cacheReadInputTokens": 18061,
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 1197,
+    "cacheReadInputTokens": 18625,
     "contextWindow": 200000,
-    "contextTokens": 19242,
+    "contextTokens": 19906,
     "percentage": 10
   }
 }
