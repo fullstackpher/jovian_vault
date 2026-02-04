@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "模板-视频收藏",
+      "path": "Templates/模板-视频收藏.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "Admonition插件使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Admonition插件使用指南-2026-02.md"
-    },
-    {
-      "basename": "模板-视频收藏",
-      "path": "0.Inbox/模板-视频收藏.md"
     },
     {
       "basename": "Obsidian任务管理教程1-任务管理全流程",

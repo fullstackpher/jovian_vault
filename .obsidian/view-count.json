@@ -8351,12 +8351,21 @@
       ]
     },
     {
-      "path": "0.Inbox/模板-视频收藏.md",
+      "path": "Templates/模板-视频收藏.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770182983976
+        },
+        {
+          "timestampMillis": 1770189236054
+        },
+        {
+          "timestampMillis": 1770189263991
+        },
+        {
+          "timestampMillis": 1770189274543
         }
       ]
     },

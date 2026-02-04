@@ -1104,12 +1104,6 @@
       "duration": 174000,
       "openCount": 4
     },
-    "0.Inbox/模板-视频收藏.md": {
-      "fileId": "1770182987903",
-      "filePath": "0.Inbox/模板-视频收藏.md",
-      "duration": 60000,
-      "openCount": 2
-    },
     "1.Projects/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
       "filePath": "1.Projects/02-知识管理/学习Obsidian.md",
@@ -1637,6 +1631,12 @@
       "filePath": "7.Daily/2026-02-04.md",
       "duration": 0,
       "openCount": 1
+    },
+    "Templates/模板-视频收藏.md": {
+      "fileId": "1770182987903",
+      "filePath": "Templates/模板-视频收藏.md",
+      "duration": 90000,
+      "openCount": 2
     }
   }
 }
