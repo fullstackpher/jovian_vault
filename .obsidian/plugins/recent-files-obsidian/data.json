@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "本月安排",
+      "path": "8.Info/本月安排.md"
+    },
+    {
       "basename": "Obsidian任务管理教程1-任务管理全流程",
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "模板-视频收藏",
       "path": "Templates/模板-视频收藏.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-01月汇总",
@@ -67,10 +75,6 @@
     {
       "basename": "2026-01-12",
       "path": "7.Daily/2026-01-12.md"
-    },
-    {
-      "basename": "本月安排",
-      "path": "8.Info/本月安排.md"
     },
     {
       "basename": "实用代码片段",
@@ -195,10 +199,6 @@
     {
       "basename": "析径任务管理系统介绍",
       "path": "3.Resources/Obsidian任务管理教程/析径任务管理系统介绍.md"
-    },
-    {
-      "basename": "2026-02-02_225205-屏幕截图",
-      "path": "5.Zattchments/图片/截图/2026-02-02_225205-屏幕截图.png"
     }
   ],
   "omittedPaths": [],

@@ -6,8 +6,10 @@
     "centered-headings",
     "center-headings"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "textFontFamily": "LXGW Fasmart Gothic",
+  "interfaceFontFamily": "LXGW Fasmart Gothic"
 }
