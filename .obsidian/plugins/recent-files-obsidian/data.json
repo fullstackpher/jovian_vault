@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "QuickAdd错误_20260204_192605",
+      "path": "3.Resources/QuickAdd错误_20260204_192605.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "局部截取_20260204_192605",
       "path": "5.Zattchments/图片/截图/局部截取_20260204_192605.png"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "List Callout使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "待处理区",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian任务管理教程3-如何拆解目标计划",
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md"
-    },
-    {
-      "basename": "Admonition插件使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/Admonition插件使用指南-2026-02.md"
     }
   ],
   "omittedPaths": [],

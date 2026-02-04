@@ -665,7 +665,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 442,
+      "totalTimesOpened": 443,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1992,6 +1992,9 @@
         },
         {
           "timestampMillis": 1770202191804
+        },
+        {
+          "timestampMillis": 1770204543594
         }
       ]
     },
@@ -8484,10 +8487,29 @@
     {
       "path": "5.Zattchments/图片/截图/局部截取_20260204_192605.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770204402789
+        },
+        {
+          "timestampMillis": 1770204538667
+        },
+        {
+          "timestampMillis": 1770204541264
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/QuickAdd错误_20260204_192605.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770204523170
+        },
+        {
+          "timestampMillis": 1770204546404
         }
       ]
     }

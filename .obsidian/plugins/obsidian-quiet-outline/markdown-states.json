@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 135.81837606837607,
+    "scroll": 122.79503676470588,
     "cursor": {
       "from": {
         "line": 83,
@@ -6102,6 +6102,22 @@
     },
     "expandedKeys": [
       "item-2-4",
+      "item-1-0"
+    ]
+  },
+  "3.Resources/QuickAdd错误_20260204_192605.md": {
+    "scroll": 35.39031862745098,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 26
+      },
+      "to": {
+        "line": 41,
+        "ch": 26
+      }
+    },
+    "expandedKeys": [
       "item-1-0"
     ]
   }
