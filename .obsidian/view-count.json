@@ -8477,7 +8477,7 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1770201740058
@@ -8502,22 +8502,31 @@
         },
         {
           "timestampMillis": 1770205695235
+        },
+        {
+          "timestampMillis": 1770206050552
+        },
+        {
+          "timestampMillis": 1770206153381
+        },
+        {
+          "timestampMillis": 1770206168109
+        },
+        {
+          "timestampMillis": 1770206182123
+        },
+        {
+          "timestampMillis": 1770206224248
         }
       ]
     },
     {
-      "path": "5.Zattchments/图片/截图/局部截取_20260204_192605.png",
+      "path": "5.Zattchments/图片/截图/局部截取_20260204_195636.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1770204402789
-        },
-        {
-          "timestampMillis": 1770204538667
-        },
-        {
-          "timestampMillis": 1770204541264
+          "timestampMillis": 1770206251696
         }
       ]
     }

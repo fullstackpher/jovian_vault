@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770205807533-wvuooid1j",
+  "title": "Fix List Callout icon style inconsistency",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770205807533,
+  "updatedAt": 1770206205552,
+  "lastResponseAt": 1770206205552,
+  "sessionId": "30ce986b-dc27-47a7-ba1d-86ff214df07c",
+  "sdkSessionId": "30ce986b-dc27-47a7-ba1d-86ff214df07c",
+  "currentNote": "7.Daily/2026-02-04.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 84,
+    "cacheCreationInputTokens": 1065,
+    "cacheReadInputTokens": 29126,
+    "contextWindow": 200000,
+    "contextTokens": 30275,
+    "percentage": 15
+  }
+}

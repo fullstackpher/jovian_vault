@@ -1629,8 +1629,8 @@
     "7.Daily/2026-02-04.md": {
       "fileId": "1770188685477",
       "filePath": "7.Daily/2026-02-04.md",
-      "duration": 2262000,
-      "openCount": 18
+      "duration": 2742000,
+      "openCount": 19
     },
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
@@ -1667,6 +1667,12 @@
       "filePath": "3.Resources/QuickAdd错误_20260204_192605.md",
       "duration": 54000,
       "openCount": 5
+    },
+    "5.Zattchments/图片/截图/局部截取_20260204_195636.png": {
+      "fileId": "1770206255185",
+      "filePath": "5.Zattchments/图片/截图/局部截取_20260204_195636.png",
+      "duration": 54000,
+      "openCount": 1
     }
   }
 }

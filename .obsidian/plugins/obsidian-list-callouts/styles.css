@@ -168,13 +168,19 @@ settings:
   font-weight: bold;
   color: rgb(var(--lc-callout-color));
   pointer-events: none;
+  display: inline-flex;
+  width: 1.2em;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 .lc-list-marker > svg {
-  position: relative;
+  display: inline-block;
   width: 1em;
   height: 1em;
-  top: 0.125em;
+  flex-shrink: 0;
 }
 
 .lc-li-wrapper {
