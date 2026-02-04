@@ -3659,7 +3659,7 @@
     "expandedKeys": []
   },
   "Templates/今日日报模板.md": {
-    "scroll": 32.66022017256769,
+    "scroll": 54.28057122284891,
     "cursor": {
       "from": {
         "line": 26,
@@ -3687,7 +3687,7 @@
     "expandedKeys": []
   },
   "Templates/日报模版.md": {
-    "scroll": 16.417430555555555,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 22,
@@ -5709,15 +5709,15 @@
     "expandedKeys": []
   },
   "0.Inbox/README.md": {
-    "scroll": 0,
+    "scroll": 3.6199095022624435,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 10,
+        "ch": 60
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 10,
+        "ch": 60
       }
     },
     "expandedKeys": []
@@ -5793,15 +5793,15 @@
     "expandedKeys": []
   },
   "7.Daily/README.md": {
-    "scroll": 0,
+    "scroll": 172.78649303452454,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 19
+        "line": 194,
+        "ch": 37
       },
       "to": {
-        "line": 6,
-        "ch": 19
+        "line": 194,
+        "ch": 37
       }
     },
     "expandedKeys": []
@@ -6135,7 +6135,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 11.534883720930232,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 48,
@@ -6144,6 +6144,62 @@
       "to": {
         "line": 48,
         "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Inbox 面板搭建指南.md": {
+    "scroll": 301.6067927170868,
+    "cursor": {
+      "from": {
+        "line": 321,
+        "ch": 22
+      },
+      "to": {
+        "line": 321,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/复盘模板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 10
+      },
+      "to": {
+        "line": 35,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/模板-视频收藏.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []

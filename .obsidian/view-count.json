@@ -2658,7 +2658,7 @@
     {
       "path": "Templates/面试题八股文.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768556014740
@@ -2674,13 +2674,16 @@
         },
         {
           "timestampMillis": 1770188528697
+        },
+        {
+          "timestampMillis": 1770210434345
         }
       ]
     },
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 80,
+      "totalTimesOpened": 81,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2921,13 +2924,16 @@
         },
         {
           "timestampMillis": 1770208979756
+        },
+        {
+          "timestampMillis": 1770210426377
         }
       ]
     },
     {
       "path": "Templates/技术概念卡片.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768556030530
@@ -2943,6 +2949,9 @@
         },
         {
           "timestampMillis": 1770188522909
+        },
+        {
+          "timestampMillis": 1770210421018
         }
       ]
     },
@@ -3381,7 +3390,7 @@
     {
       "path": "Templates/项目模版.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1768648972944
@@ -3409,13 +3418,16 @@
         },
         {
           "timestampMillis": 1770188520353
+        },
+        {
+          "timestampMillis": 1770210425617
         }
       ]
     },
     {
       "path": "Templates/日报模版.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 35,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -3521,6 +3533,12 @@
         },
         {
           "timestampMillis": 1770188529608
+        },
+        {
+          "timestampMillis": 1770210426892
+        },
+        {
+          "timestampMillis": 1770210450582
         }
       ]
     },
@@ -5634,7 +5652,7 @@
     {
       "path": "0.Inbox/README.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 28,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5719,6 +5737,9 @@
         },
         {
           "timestampMillis": 1770188327331
+        },
+        {
+          "timestampMillis": 1770209375542
         }
       ]
     },
@@ -6179,7 +6200,7 @@
     {
       "path": "7.Daily/README.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1769753533065
@@ -6195,6 +6216,9 @@
         },
         {
           "timestampMillis": 1770188867190
+        },
+        {
+          "timestampMillis": 1770210467077
         }
       ]
     },
@@ -6348,28 +6372,6 @@
       ]
     },
     {
-      "path": "Templates/今日日报模板.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1769759660477
-        },
-        {
-          "timestampMillis": 1769759714125
-        },
-        {
-          "timestampMillis": 1769771987907
-        },
-        {
-          "timestampMillis": 1769866436034
-        },
-        {
-          "timestampMillis": 1770188527449
-        }
-      ]
-    },
-    {
       "path": "4.Archives/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 46,
@@ -6517,7 +6519,7 @@
     {
       "path": "3.Resources/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -6560,6 +6562,9 @@
         },
         {
           "timestampMillis": 1770188307970
+        },
+        {
+          "timestampMillis": 1770209468847
         }
       ]
     },
@@ -8517,7 +8522,7 @@
     {
       "path": "Templates/模板-视频收藏.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770182983976
@@ -8530,6 +8535,9 @@
         },
         {
           "timestampMillis": 1770189274543
+        },
+        {
+          "timestampMillis": 1770210432946
         }
       ]
     },
@@ -8637,6 +8645,16 @@
         },
         {
           "timestampMillis": 1770209017947
+        }
+      ]
+    },
+    {
+      "path": "Templates/复盘模板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770210389703
         }
       ]
     }

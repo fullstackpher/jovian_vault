@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "7.Daily/README.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "面试题八股文",
+      "path": "Templates/面试题八股文.md"
+    },
+    {
+      "basename": "模板-视频收藏",
+      "path": "Templates/模板-视频收藏.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "Templates/项目模版.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "Templates/技术概念卡片.md"
+    },
+    {
+      "basename": "复盘模板",
+      "path": "Templates/复盘模板.md"
+    },
+    {
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources/Inbox 面板搭建指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "0.Inbox/README.md"
+    },
+    {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
@@ -37,10 +77,6 @@
       "path": "7.Daily/2026-01-31.md"
     },
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
-    },
-    {
       "basename": "2026-01-30",
       "path": "7.Daily/2026-01-30.md"
     },
@@ -65,20 +101,12 @@
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
     },
     {
-      "basename": "模板-视频收藏",
-      "path": "Templates/模板-视频收藏.md"
-    },
-    {
       "basename": "Dashboard使用指南",
       "path": "8.Info/Dashboard使用指南.md"
     },
     {
       "basename": "QuickAdd配置指南",
       "path": "8.Info/QuickAdd配置指南.md"
-    },
-    {
-      "basename": "README",
-      "path": "7.Daily/README.md"
     },
     {
       "basename": "2026-01-15",
@@ -99,26 +127,6 @@
     {
       "basename": "实用代码片段",
       "path": "Templates/实用代码片段.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "面试题八股文",
-      "path": "Templates/面试题八股文.md"
-    },
-    {
-      "basename": "今日日报模板",
-      "path": "Templates/今日日报模板.md"
-    },
-    {
-      "basename": "技术概念卡片",
-      "path": "Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "Templates/项目模版.md"
     },
     {
       "basename": "项目开发记录",
@@ -153,16 +161,8 @@
       "path": "1.Projects/README.md"
     },
     {
-      "basename": "README",
-      "path": "0.Inbox/README.md"
-    },
-    {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "Inbox 面板搭建指南",
-      "path": "3.Resources/Inbox 面板搭建指南.md"
     },
     {
       "basename": "Meta Bind 插件使用指南-2026-02",
@@ -195,10 +195,6 @@
     {
       "basename": "Obsidian任务管理教程2-如何管理目标和任务",
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程3-如何拆解目标计划",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md"
     }
   ],
   "omittedPaths": [],
