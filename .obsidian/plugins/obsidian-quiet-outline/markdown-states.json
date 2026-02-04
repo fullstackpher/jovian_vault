@@ -3628,12 +3628,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 92,
-        "ch": 15
+        "line": 112,
+        "ch": 0
       },
       "to": {
-        "line": 92,
-        "ch": 15
+        "line": 112,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -5891,7 +5891,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-01月汇总.md": {
-    "scroll": 194.0411131059246,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 181,
@@ -6130,6 +6130,20 @@
       "to": {
         "line": 6,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/03-学习前端/学习JavaScript.md": {
+    "scroll": 11.534883720930232,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 6
+      },
+      "to": {
+        "line": 48,
+        "ch": 6
       }
     },
     "expandedKeys": []
