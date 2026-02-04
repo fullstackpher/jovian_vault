@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "2026-02-04",
+      "path": "7.Daily/每日日志/2026-02-04.md"
     },
     {
       "basename": "List Callout使用指南-2026-02",
@@ -25,20 +41,8 @@
       "path": "Templates/复盘模板.md"
     },
     {
-      "basename": "2026-02-04",
-      "path": "7.Daily/每日日志/2026-02-04.md"
-    },
-    {
       "basename": "Inbox 面板搭建指南",
       "path": "3.Resources/Inbox 面板搭建指南.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
     },
     {
       "basename": "制作obsidian主页",
@@ -173,10 +177,6 @@
       "path": "1.Projects/README.md"
     },
     {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
-    },
-    {
       "basename": "Meta Bind 插件使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "示例 1：项目跟踪",
       "path": "8.Info/示例 1：项目跟踪.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程2-如何管理目标和任务",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md"
     }
   ],
   "omittedPaths": [],

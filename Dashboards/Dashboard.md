@@ -44,7 +44,6 @@ actions:
     command: quickadd:choice:31152f46-a3b4-46a2-a58c-c8617f8c8243
 
 ```
-
 ```meta-bind-button
 label: DailyLog
 icon: clock-8
@@ -60,8 +59,6 @@ actions:
     command: daily-notes
 
 ```
-`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]` 
-
 ```meta-bind-button
 label: 看板
 icon: folder-kanban
@@ -74,9 +71,26 @@ id: kanban
 hidden: true
 actions:
   - type: open
-    link: 1.Projects 项目/项目看板.md
+    link: 1.Projects/项目看板.md
     newTab: true
 ```
+
+```meta-bind-button
+label: 项目复盘
+icon: target
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: review
+hidden: true
+actions:
+  - type: command
+    command: quickadd:choice:134aaca3-d5f2-4864-9518-f53f8adbe738
+```
+`BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]` `BUTTON[review]`
+
 ---
 
 ## 📥 Inbox 待处理任务
@@ -258,11 +272,11 @@ LIMIT 10
 
 ## ⚡ 快速入口
 
-|        📝 日报         |       📚 学习        |   💻 项目    |    🔧 工具     |
-| :------------------: | :----------------: | :--------: | :----------: |
-| [[Templates/今日日报模板]] | [[Frontend知识体系总览]] |  [[项目看板]]  |  [[开发工具汇总]]  |
-|       [[周报模板]]       |  [[JavaScript基础]]  |  [[学习前端]]  | [[WebStorm使用指南]] |
-|                      |     [[HTML标签]]     | [[学习Java]] | [[VSCode使用指南]] |
+|  📝 日报   |       📚 学习        |      💻 项目       |      🔧 工具       |
+| :------: | :----------------: | :--------------: | :--------------: |
+| [[日报模版]] | [[Frontend知识体系总览]] |     [[项目看板]]     |    [[开发工具汇总]]    |
+| [[复盘模板]] |  [[JavaScript基础]]  | [[学习JavaScript]] | [[WebStorm使用指南]] |
+| [[日记模版]] |     [[HTML标签]]     |  [[学习Obsidian]]  |  [[VSCode使用指南]]  |
 
 ---
 
