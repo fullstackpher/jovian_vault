@@ -5,6 +5,10 @@
       "path": "Dashboards/待处理区.md"
     },
     {
+      "basename": "学习JavaEE",
+      "path": "1.Projects/01-学习Java/学习JavaEE.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian任务管理教程整体脉络",
       "path": "3.Resources/Obsidian任务管理教程整体脉络.md"
-    },
-    {
-      "basename": "析径任务管理系统介绍",
-      "path": "3.Resources/Obsidian任务管理教程/析径任务管理系统介绍.md"
     }
   ],
   "omittedPaths": [],
