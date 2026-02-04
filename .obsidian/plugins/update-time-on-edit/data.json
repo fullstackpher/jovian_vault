@@ -5,11 +5,11 @@
   "headerCreated": "创建时间",
   "minMinutesBetweenSaves": 1,
   "ignoreGlobalFolder": [
-    "1.Projects 项目",
-    "7.Daily 日周记",
     "Templates",
     "Dashboards",
-    "8.Info 其他"
+    "1.Projects",
+    "7.Daily",
+    "8.Info"
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,

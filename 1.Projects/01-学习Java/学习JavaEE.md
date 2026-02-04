@@ -40,7 +40,7 @@ limit 100
 
 #### 🕒 项目进度条
 
-- [/] 学习Cookie ⏫
+- [ ] 学习Cookie ⏫
 - [ ] 学习Session ⏫ 
 - [ ] 学习Filter ⏫ 
 - [ ] 学习Listener⏫ 
