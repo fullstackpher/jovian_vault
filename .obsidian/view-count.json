@@ -8372,13 +8372,16 @@
     {
       "path": "5.Zattchments/图片/截图/局部截取_20260204_151441.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770189314942
         },
         {
           "timestampMillis": 1770189436004
+        },
+        {
+          "timestampMillis": 1770189504545
         }
       ]
     }
