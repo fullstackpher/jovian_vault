@@ -22,12 +22,12 @@
     },
     {
       "id": "b238dd9f-9968-4b5d-bc9e-57c98f8e764a",
-      "name": "插入Callout",
+      "name": "📌插入Callout",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
-        "name": "插入Callout",
+        "name": "📌插入Callout",
         "id": "9e97f362-8a91-4e5a-9535-63b2ab8791bc",
         "commands": [
           {
@@ -41,7 +41,7 @@
     },
     {
       "id": "13baf9b5-5d7b-4e60-a021-f2a4a37297d2",
-      "name": "创建项目",
+      "name": "🚀创建项目",
       "type": "Template",
       "command": true,
       "templatePath": "Templates/项目模版.md",
@@ -118,85 +118,19 @@
       }
     },
     {
-      "id": "33f49e14-9a07-40a6-a020-2395bd1abfe1",
-      "name": "记录闪念",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "/7.Daily/{{date:YYYY-MM-DD}}",
-      "captureToActiveFile": false,
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "- $ {{value}}⏰{{time}} \\n"
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "Thoughts",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top",
-        "inline": false,
-        "replaceExisting": false,
-        "blankLineAfterMatchMode": "auto"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "templater": {
-        "afterCapture": "none"
-      }
-    },
-    {
       "id": "e2840c22-1d2b-4f1e-baf0-509e65fbc3f7",
-      "name": "智能闪念",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "智能闪念",
-        "id": "b7748a69-7e05-4b1e-878d-13fcf90ff26d",
-        "commands": [
-          {
-            "name": "智能闪念",
-            "type": "UserScript",
-            "id": "b3f10bb9-c2ef-4000-b058-8398771830e2",
-            "path": "Scripts/智能闪念.js",
-            "settings": {}
-          }
-        ]
-      }
-    },
-    {
-      "id": "e346e739-0413-4264-b614-432a2b24ed5a",
       "name": "💭记录闪念",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
         "name": "💭记录闪念",
-        "id": "a4a5b251-f8bb-4b7a-ab6c-c579bd58c800",
+        "id": "b7748a69-7e05-4b1e-878d-13fcf90ff26d",
         "commands": [
           {
             "name": "智能闪念",
             "type": "UserScript",
-            "id": "1a385e7c-cd43-4966-afa1-c81f93c36be0",
+            "id": "b3f10bb9-c2ef-4000-b058-8398771830e2",
             "path": "Scripts/智能闪念.js",
             "settings": {}
           }
