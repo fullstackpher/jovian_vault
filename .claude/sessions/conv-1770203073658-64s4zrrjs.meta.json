@@ -3,6 +3,18 @@
   "title": "Create QuickAdd Script for Smart Flash Notes",
   "titleGenerationStatus": "success",
   "createdAt": 1770203073658,
-  "updatedAt": 1770203085316,
-  "sessionId": null
+  "updatedAt": 1770203187644,
+  "lastResponseAt": 1770203187644,
+  "sessionId": "13433889-c49d-4dd4-9a21-268e8dd0e74f",
+  "sdkSessionId": "13433889-c49d-4dd4-9a21-268e8dd0e74f",
+  "currentNote": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 615,
+    "cacheCreationInputTokens": 1117,
+    "cacheReadInputTokens": 23745,
+    "contextWindow": 200000,
+    "contextTokens": 25477,
+    "percentage": 13
+  }
 }
