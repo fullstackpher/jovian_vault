@@ -649,8 +649,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 18,
-      "totalTimesOpened": 431,
+      "uniqueDaysOpened": 19,
+      "totalTimesOpened": 432,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1944,6 +1944,9 @@
         },
         {
           "timestampMillis": 1770096933475
+        },
+        {
+          "timestampMillis": 1770186963812
         }
       ]
     },
@@ -6048,11 +6051,14 @@
     },
     {
       "path": "8.Info 其他/Dashboard使用指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1769757223400
+        },
+        {
+          "timestampMillis": 1770186979584
         }
       ]
     },
@@ -6082,7 +6088,7 @@
     {
       "path": "8.Info 其他/制作obsidian主页.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1769757297908
@@ -6104,6 +6110,9 @@
         },
         {
           "timestampMillis": 1770183049338
+        },
+        {
+          "timestampMillis": 1770186975046
         }
       ]
     },
@@ -6715,7 +6724,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/Admonition插件使用指南.md",
+      "path": "4.Archives 归档/03-资源-2026-02/Admonition插件使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -8046,27 +8055,33 @@
     },
     {
       "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770097982887
         },
         {
           "timestampMillis": 1770098376401
+        },
+        {
+          "timestampMillis": 1770186962963
         }
       ]
     },
     {
       "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770098243546
         },
         {
           "timestampMillis": 1770098353676
+        },
+        {
+          "timestampMillis": 1770186961153
         }
       ]
     },

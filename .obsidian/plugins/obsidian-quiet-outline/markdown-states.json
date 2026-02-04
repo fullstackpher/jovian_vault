@@ -3569,7 +3569,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/Dashboard使用指南.md": {
-    "scroll": 136.12925233437826,
+    "scroll": 72.39609236234459,
     "cursor": {
       "from": {
         "line": 4,
@@ -5597,7 +5597,7 @@
     "expandedKeys": []
   },
   "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
-    "scroll": 107.81127450980392,
+    "scroll": 106.83398328690808,
     "cursor": {
       "from": {
         "line": 81,
@@ -5689,6 +5689,20 @@
       },
       "to": {
         "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives 归档/03-资源-2026-02/Admonition插件使用指南-2026-02.md": {
+    "scroll": 191.5351554350094,
+    "cursor": {
+      "from": {
+        "line": 218,
+        "ch": 0
+      },
+      "to": {
+        "line": 218,
         "ch": 0
       }
     },

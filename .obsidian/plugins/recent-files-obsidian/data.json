@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Admonition插件使用指南",
-      "path": "8.Info 其他/Admonition插件使用指南.md"
+      "basename": "Dashboard使用指南",
+      "path": "8.Info 其他/Dashboard使用指南.md"
     },
     {
       "basename": "制作obsidian主页",
       "path": "8.Info 其他/制作obsidian主页.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian任务管理教程2-如何管理目标和任务",
+      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md"
+    },
+    {
+      "basename": "Obsidian任务管理教程3-如何拆解目标计划",
+      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md"
+    },
+    {
+      "basename": "Admonition插件使用指南-2026-02",
+      "path": "4.Archives 归档/03-资源-2026-02/Admonition插件使用指南-2026-02.md"
     },
     {
       "basename": "添加快速任务",
@@ -39,18 +55,6 @@
     {
       "basename": "析径任务管理系统介绍",
       "path": "3.Resources 资源/Obsidian任务管理教程/析径任务管理系统介绍.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程2-如何管理目标和任务",
-      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程3-如何拆解目标计划",
-      "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-02-02_225205-屏幕截图",
@@ -195,10 +199,6 @@
     {
       "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
       "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
-      "basename": "Paste url into selection使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/Paste url into selection使用指南-2026-02.md"
     }
   ],
   "omittedPaths": [],
