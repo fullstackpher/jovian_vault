@@ -186,7 +186,7 @@ settings:
 .lc-li-wrapper {
   z-index: 1;
   position: relative;
-  display: block;
+  display: inline;
 }
 
 .lc-li-wrapper::after {
