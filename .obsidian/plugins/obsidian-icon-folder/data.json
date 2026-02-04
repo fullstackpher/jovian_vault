@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "8.Info 其他": "LiInfo",
   "Dashboards": "IbDashboard",
   "Excalidraw": "TiDragDrop",
   "flomo": "LiNotebookPen",
@@ -46,5 +45,6 @@
   "3.Resources": "TiBrandOpenSource",
   "4.Archives": "LiArchive",
   "5.Zattchments": "RiAttachment2",
-  "7.Daily": "LiCalendarDays"
+  "7.Daily": "LiCalendarDays",
+  "8.Info": "LiInfo"
 }

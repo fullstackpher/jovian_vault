@@ -564,8 +564,8 @@
     },
     {
       "path": "7.Daily/2026-01-12.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1768478859225
@@ -581,13 +581,16 @@
         },
         {
           "timestampMillis": 1769863089412
+        },
+        {
+          "timestampMillis": 1770188562107
         }
       ]
     },
     {
       "path": "7.Daily/2026-01-13.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768478970171
@@ -600,6 +603,9 @@
         },
         {
           "timestampMillis": 1769863096406
+        },
+        {
+          "timestampMillis": 1770188570904
         }
       ]
     },
@@ -650,7 +656,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 435,
+      "totalTimesOpened": 436,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1956,6 +1962,9 @@
         },
         {
           "timestampMillis": 1770187313497
+        },
+        {
+          "timestampMillis": 1770188472227
         }
       ]
     },
@@ -2480,8 +2489,8 @@
     },
     {
       "path": "Templates/项目开发记录.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1768555992674
@@ -2503,13 +2512,16 @@
         },
         {
           "timestampMillis": 1769866449419
+        },
+        {
+          "timestampMillis": 1770188519610
         }
       ]
     },
     {
       "path": "Templates/问题解决方案.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 15,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1768555996455
@@ -2555,13 +2567,16 @@
         },
         {
           "timestampMillis": 1769866447087
+        },
+        {
+          "timestampMillis": 1770188518863
         }
       ]
     },
     {
       "path": "Templates/实用代码片段.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768556002100
@@ -2580,13 +2595,22 @@
         },
         {
           "timestampMillis": 1769866443733
+        },
+        {
+          "timestampMillis": 1770188513771
+        },
+        {
+          "timestampMillis": 1770188518089
+        },
+        {
+          "timestampMillis": 1770188531985
         }
       ]
     },
     {
       "path": "Templates/面试题八股文.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768556014740
@@ -2596,13 +2620,19 @@
         },
         {
           "timestampMillis": 1769866432556
+        },
+        {
+          "timestampMillis": 1770188523967
+        },
+        {
+          "timestampMillis": 1770188528697
         }
       ]
     },
     {
       "path": "Templates/日记模版.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 70,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 73,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2813,13 +2843,22 @@
         },
         {
           "timestampMillis": 1770005356411
+        },
+        {
+          "timestampMillis": 1770188512380
+        },
+        {
+          "timestampMillis": 1770188514839
+        },
+        {
+          "timestampMillis": 1770188530681
         }
       ]
     },
     {
       "path": "Templates/技术概念卡片.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1768556030530
@@ -2832,6 +2871,9 @@
         },
         {
           "timestampMillis": 1769866441723
+        },
+        {
+          "timestampMillis": 1770188522909
         }
       ]
     },
@@ -3269,8 +3311,8 @@
     },
     {
       "path": "Templates/项目模版.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768648972944
@@ -3295,13 +3337,16 @@
         },
         {
           "timestampMillis": 1769866452399
+        },
+        {
+          "timestampMillis": 1770188520353
         }
       ]
     },
     {
       "path": "Templates/日报模版.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 33,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -3401,6 +3446,12 @@
         },
         {
           "timestampMillis": 1769866428803
+        },
+        {
+          "timestampMillis": 1770188503940
+        },
+        {
+          "timestampMillis": 1770188529608
         }
       ]
     },
@@ -5427,7 +5478,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md",
+      "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 7,
       "totalTimesOpened": 25,
       "openLogs": [
@@ -6067,7 +6118,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/添加快速任务.md",
+      "path": "8.Info/添加快速任务.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -6095,7 +6146,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/Dashboard使用指南.md",
+      "path": "8.Info/Dashboard使用指南.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -6111,7 +6162,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/QuickAdd配置指南.md",
+      "path": "8.Info/QuickAdd配置指南.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -6127,17 +6178,26 @@
       ]
     },
     {
-      "path": "8.Info 其他/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "8.Info/README.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769757287419
+        },
+        {
+          "timestampMillis": 1770188372815
+        },
+        {
+          "timestampMillis": 1770188403426
+        },
+        {
+          "timestampMillis": 1770188469720
         }
       ]
     },
     {
-      "path": "8.Info 其他/制作obsidian主页.md",
+      "path": "8.Info/制作obsidian主页.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 9,
       "openLogs": [
@@ -6172,8 +6232,8 @@
     },
     {
       "path": "Templates/今日日报模板.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769759660477
@@ -6186,6 +6246,9 @@
         },
         {
           "timestampMillis": 1769866436034
+        },
+        {
+          "timestampMillis": 1770188527449
         }
       ]
     },
@@ -6384,7 +6447,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/0-Inbox.md",
+      "path": "8.Info/0-Inbox.md",
       "uniqueDaysOpened": 6,
       "totalTimesOpened": 135,
       "openLogs": [
@@ -6824,7 +6887,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/常用服务API.md",
+      "path": "8.Info/常用服务API.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -6886,7 +6949,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/2026-01-31-参考B站博主的日记模版.md",
+      "path": "8.Info/2026-01-31-参考B站博主的日记模版.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -7296,9 +7359,9 @@
       ]
     },
     {
-      "path": "8.Info 其他/本月安排.md",
+      "path": "8.Info/本月安排.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 102,
+      "totalTimesOpened": 103,
       "openLogs": [
         {
           "timestampMillis": 1769925307646
@@ -7605,6 +7668,9 @@
         },
         {
           "timestampMillis": 1770187374505
+        },
+        {
+          "timestampMillis": 1770188544143
         }
       ]
     },
@@ -7762,7 +7828,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/Inbox 侧边栏面板.md",
+      "path": "8.Info/Inbox 侧边栏面板.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -7778,7 +7844,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/示例 1：项目跟踪.md",
+      "path": "8.Info/示例 1：项目跟踪.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 12,
       "openLogs": [
@@ -7821,7 +7887,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/示例 2：图书追踪.md",
+      "path": "8.Info/示例 2：图书追踪.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 18,
       "openLogs": [
@@ -7882,7 +7948,7 @@
       ]
     },
     {
-      "path": "8.Info 其他/示例 3：日常记录.md",
+      "path": "8.Info/示例 3：日常记录.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 22,
       "openLogs": [

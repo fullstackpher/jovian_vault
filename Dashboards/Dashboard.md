@@ -124,7 +124,7 @@ short mode
 ```dataviewjs
 // 1. 定义数据来源：可以按文件夹或标签筛选
 // 示例A：获取指定文件夹下的所有笔记
-const pages = dv.pages('"1.Projects 项目"');
+const pages = dv.pages('"1.Projects"');
 // 示例B：或获取包含特定标签（如#项目）的所有笔记
 // const pages = dv.pages('#项目');
 

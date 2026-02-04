@@ -3597,15 +3597,15 @@
     "expandedKeys": []
   },
   "8.Info 其他/README.md": {
-    "scroll": 0,
+    "scroll": 108.74601715686275,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 127,
+        "ch": 16
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 127,
+        "ch": 16
       }
     },
     "expandedKeys": []
@@ -3625,15 +3625,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 202.54061291282358,
     "cursor": {
       "from": {
-        "line": 103,
-        "ch": 0
+        "line": 121,
+        "ch": 12
       },
       "to": {
-        "line": 103,
-        "ch": 0
+        "line": 121,
+        "ch": 12
       }
     },
     "expandedKeys": [
@@ -3659,7 +3659,7 @@
     "expandedKeys": []
   },
   "Templates/今日日报模板.md": {
-    "scroll": 72.81510178248088,
+    "scroll": 32.66022017256769,
     "cursor": {
       "from": {
         "line": 26,
@@ -3687,15 +3687,15 @@
     "expandedKeys": []
   },
   "Templates/日报模版.md": {
-    "scroll": 136.03775986035666,
+    "scroll": 16.417430555555555,
     "cursor": {
       "from": {
-        "line": 52,
-        "ch": 10
+        "line": 22,
+        "ch": 11
       },
       "to": {
-        "line": 52,
-        "ch": 10
+        "line": 22,
+        "ch": 11
       }
     },
     "expandedKeys": []
@@ -5793,6 +5793,62 @@
     "expandedKeys": []
   },
   "7.Daily/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/README.md": {
+    "scroll": 108.74601715686275,
+    "cursor": {
+      "from": {
+        "line": 115,
+        "ch": 28
+      },
+      "to": {
+        "line": 115,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/本月安排.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-01-12.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/2026-01-13.md": {
     "scroll": 0,
     "cursor": {
       "from": {

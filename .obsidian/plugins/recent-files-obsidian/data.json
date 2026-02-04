@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-13",
+      "path": "7.Daily/2026-01-13.md"
+    },
+    {
+      "basename": "2026-01-12",
+      "path": "7.Daily/2026-01-12.md"
+    },
+    {
+      "basename": "本月安排",
+      "path": "8.Info/本月安排.md"
+    },
+    {
+      "basename": "实用代码片段",
+      "path": "Templates/实用代码片段.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "面试题八股文",
+      "path": "Templates/面试题八股文.md"
+    },
+    {
+      "basename": "今日日报模板",
+      "path": "Templates/今日日报模板.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "Templates/技术概念卡片.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "Templates/项目模版.md"
+    },
+    {
+      "basename": "项目开发记录",
+      "path": "Templates/项目开发记录.md"
+    },
+    {
+      "basename": "问题解决方案",
+      "path": "Templates/问题解决方案.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "README",
+      "path": "8.Info/README.md"
+    },
+    {
       "basename": "README",
       "path": "7.Daily/README.md"
     },
@@ -42,47 +98,39 @@
     },
     {
       "basename": "添加快速任务",
-      "path": "8.Info 其他/添加快速任务.md"
+      "path": "8.Info/添加快速任务.md"
     },
     {
       "basename": "常用服务API",
-      "path": "8.Info 其他/常用服务API.md"
-    },
-    {
-      "basename": "本月安排",
-      "path": "8.Info 其他/本月安排.md"
+      "path": "8.Info/常用服务API.md"
     },
     {
       "basename": "0-Inbox",
-      "path": "8.Info 其他/0-Inbox.md"
+      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "8.Info 其他/2026-01-27-笔记到系统的obsidian实践.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md"
     },
     {
       "basename": "示例 1：项目跟踪",
-      "path": "8.Info 其他/示例 1：项目跟踪.md"
+      "path": "8.Info/示例 1：项目跟踪.md"
     },
     {
       "basename": "制作obsidian主页",
-      "path": "8.Info 其他/制作obsidian主页.md"
+      "path": "8.Info/制作obsidian主页.md"
     },
     {
       "basename": "Dashboard使用指南",
-      "path": "8.Info 其他/Dashboard使用指南.md"
+      "path": "8.Info/Dashboard使用指南.md"
     },
     {
       "basename": "Inbox 侧边栏面板",
-      "path": "8.Info 其他/Inbox 侧边栏面板.md"
+      "path": "8.Info/Inbox 侧边栏面板.md"
     },
     {
       "basename": "QuickAdd配置指南",
-      "path": "8.Info 其他/QuickAdd配置指南.md"
+      "path": "8.Info/QuickAdd配置指南.md"
     },
     {
       "basename": "List Callout使用指南-2026-02",
@@ -151,54 +199,6 @@
     {
       "basename": "2026-02-02-屏幕截图",
       "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
-    },
-    {
-      "basename": "2026-02-02-unsplash背景图",
-      "path": "5.Zattchments/图片/2026-02-02-unsplash背景图.jpg"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily/2026-01月汇总.md"
-    },
-    {
-      "basename": "2026-01-31",
-      "path": "7.Daily/2026-01-31.md"
-    },
-    {
-      "basename": "2026-01-30",
-      "path": "7.Daily/2026-01-30.md"
-    },
-    {
-      "basename": "2026-01-29",
-      "path": "7.Daily/2026-01-29.md"
-    },
-    {
-      "basename": "2026-01-19",
-      "path": "7.Daily/2026-01-19.md"
-    },
-    {
-      "basename": "2026-01-18",
-      "path": "7.Daily/2026-01-18.md"
-    },
-    {
-      "basename": "2026-01-17",
-      "path": "7.Daily/2026-01-17.md"
-    },
-    {
-      "basename": "2026-01-15",
-      "path": "7.Daily/2026-01-15.md"
-    },
-    {
-      "basename": "obsidian收藏",
-      "path": "2.Areas/Knowledge Management/obsidian收藏.md"
-    },
-    {
-      "basename": "obsidian图床搭建指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/obsidian图床搭建指南-2026-02.md"
-    },
-    {
-      "basename": "obsidian标签",
-      "path": "2.Areas/Knowledge Management/obsidian标签.md"
     }
   ],
   "omittedPaths": [],
