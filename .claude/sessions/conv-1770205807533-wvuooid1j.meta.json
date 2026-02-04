@@ -3,18 +3,18 @@
   "title": "Fix List Callout icon style inconsistency",
   "titleGenerationStatus": "success",
   "createdAt": 1770205807533,
-  "updatedAt": 1770206383485,
-  "lastResponseAt": 1770206383485,
+  "updatedAt": 1770206844040,
+  "lastResponseAt": 1770206844040,
   "sessionId": "30ce986b-dc27-47a7-ba1d-86ff214df07c",
   "sdkSessionId": "30ce986b-dc27-47a7-ba1d-86ff214df07c",
   "currentNote": "7.Daily/2026-02-04.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 251,
-    "cacheCreationInputTokens": 585,
-    "cacheReadInputTokens": 30526,
+    "inputTokens": 449,
+    "cacheCreationInputTokens": 808,
+    "cacheReadInputTokens": 22761,
     "contextWindow": 200000,
-    "contextTokens": 31362,
-    "percentage": 16
+    "contextTokens": 24018,
+    "percentage": 12
   }
 }

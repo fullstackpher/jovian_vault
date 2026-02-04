@@ -13,6 +13,5 @@
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
   "catppuccin-interface-styles@@ctp-bold-folder-title": false,
-  "things-style@@default-font-color": true,
-  "list-callouts@@lc-bg-top": 5
+  "things-style@@default-font-color": true
 }
