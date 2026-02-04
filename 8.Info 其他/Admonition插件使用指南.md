@@ -136,8 +136,8 @@ console.log("Hello!");
 
 ### 嵌入表格
 
-```ad-info
-## 嵌入表格
+```ad-help
+title: 嵌入表格
 	
 
 |   项目  |   说明  |
