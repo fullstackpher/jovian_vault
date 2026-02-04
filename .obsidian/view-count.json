@@ -662,7 +662,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 436,
+      "totalTimesOpened": 438,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1971,6 +1971,12 @@
         },
         {
           "timestampMillis": 1770188472227
+        },
+        {
+          "timestampMillis": 1770189108989
+        },
+        {
+          "timestampMillis": 1770189154474
         }
       ]
     },
@@ -6113,13 +6119,22 @@
     {
       "path": "7.Daily/README.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769753533065
         },
         {
           "timestampMillis": 1770188364538
+        },
+        {
+          "timestampMillis": 1770188819571
+        },
+        {
+          "timestampMillis": 1770188847708
+        },
+        {
+          "timestampMillis": 1770188867190
         }
       ]
     },
@@ -6154,7 +6169,7 @@
     {
       "path": "8.Info/Dashboard使用指南.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1769757223400
@@ -6164,13 +6179,46 @@
         },
         {
           "timestampMillis": 1770187209880
+        },
+        {
+          "timestampMillis": 1770188900407
+        },
+        {
+          "timestampMillis": 1770188963230
+        },
+        {
+          "timestampMillis": 1770188964303
+        },
+        {
+          "timestampMillis": 1770188964689
+        },
+        {
+          "timestampMillis": 1770188965328
+        },
+        {
+          "timestampMillis": 1770188965965
+        },
+        {
+          "timestampMillis": 1770188967626
+        },
+        {
+          "timestampMillis": 1770188969651
+        },
+        {
+          "timestampMillis": 1770188973624
+        },
+        {
+          "timestampMillis": 1770188974731
+        },
+        {
+          "timestampMillis": 1770188975711
         }
       ]
     },
     {
       "path": "8.Info/QuickAdd配置指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1769757277344
@@ -6180,6 +6228,9 @@
         },
         {
           "timestampMillis": 1770187206021
+        },
+        {
+          "timestampMillis": 1770188890938
         }
       ]
     },
@@ -7122,7 +7173,7 @@
     {
       "path": "7.Daily/2026-01月汇总.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 54,
+      "totalTimesOpened": 59,
       "openLogs": [
         {
           "timestampMillis": 1769862217318
@@ -7285,6 +7336,21 @@
         },
         {
           "timestampMillis": 1770188595079
+        },
+        {
+          "timestampMillis": 1770189001267
+        },
+        {
+          "timestampMillis": 1770189032949
+        },
+        {
+          "timestampMillis": 1770189060322
+        },
+        {
+          "timestampMillis": 1770189069709
+        },
+        {
+          "timestampMillis": 1770189105357
         }
       ]
     },
@@ -8295,7 +8361,7 @@
       ]
     },
     {
-      "path": "7.Daily 日周记/2026-02-04.md",
+      "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [

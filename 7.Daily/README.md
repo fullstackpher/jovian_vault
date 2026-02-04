@@ -1,8 +1,8 @@
 ---
 创建时间: 2026-01-30T13:47
-更新时间: 2026-01-30T13:56
+更新时间: 2026-02-04T15:07
 ---
-# 7.Daily 日周记 (Daily Notes)
+# 7.Daily (Daily Notes)
 
 > 每日记录、周记、月度复盘、习惯追踪
 
@@ -75,7 +75,7 @@ YYYY-MM-月度复盘.md      # 如 2026-01-月度复盘.md
 ## 📁 目录结构
 
 ```
-7.Daily 日周记/
+7.Daily/
 ├── 每日日志/                   # 每日简短记录
 │   ├── 2026-01/
 │   │   ├── 2026-01-30.md
@@ -191,7 +191,7 @@ YYYY-MM-月度复盘.md      # 如 2026-01-月度复盘.md
 
 ```dataview
 TABLE file.name, 记录日期 AS "日期"
-FROM "7.Daily 日周记/学习日报"
+FROM "7.Daily/学习日报"
 WHERE file.cday >= date("2026-01-01")
 SORT file.cday DESC
 ```

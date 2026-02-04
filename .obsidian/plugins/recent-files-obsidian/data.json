@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-01月汇总",
+      "path": "7.Daily/2026-01月汇总.md"
+    },
+    {
+      "basename": "Dashboard使用指南",
+      "path": "8.Info/Dashboard使用指南.md"
+    },
+    {
+      "basename": "QuickAdd配置指南",
+      "path": "8.Info/QuickAdd配置指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "7.Daily/README.md"
+    },
+    {
       "basename": "2026-02-03",
       "path": "7.Daily/2026-02-03.md"
     },
     {
       "basename": "2026-02-04",
-      "path": "7.Daily 日周记/2026-02-04.md"
+      "path": "7.Daily/2026-02-04.md"
     },
     {
       "basename": "2026-02-02",
@@ -15,10 +35,6 @@
     {
       "basename": "2026-02-01",
       "path": "7.Daily/2026-02-01.md"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily/2026-01月汇总.md"
     },
     {
       "basename": "2026-01-15",
@@ -77,16 +93,8 @@
       "path": "Templates/问题解决方案.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "README",
       "path": "8.Info/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "7.Daily/README.md"
     },
     {
       "basename": "README",
@@ -149,16 +157,8 @@
       "path": "8.Info/制作obsidian主页.md"
     },
     {
-      "basename": "Dashboard使用指南",
-      "path": "8.Info/Dashboard使用指南.md"
-    },
-    {
       "basename": "Inbox 侧边栏面板",
       "path": "8.Info/Inbox 侧边栏面板.md"
-    },
-    {
-      "basename": "QuickAdd配置指南",
-      "path": "8.Info/QuickAdd配置指南.md"
     },
     {
       "basename": "List Callout使用指南-2026-02",

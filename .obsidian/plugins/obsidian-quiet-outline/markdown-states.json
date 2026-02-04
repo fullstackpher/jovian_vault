@@ -3625,15 +3625,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 202.54061291282358,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 121,
-        "ch": 12
+        "line": 234,
+        "ch": 11
       },
       "to": {
-        "line": 121,
-        "ch": 12
+        "line": 234,
+        "ch": 11
       }
     },
     "expandedKeys": [
@@ -5796,12 +5796,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 6,
+        "ch": 19
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 6,
+        "ch": 19
       }
     },
     "expandedKeys": []
@@ -5891,15 +5891,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-01月汇总.md": {
-    "scroll": 62.60438550420168,
+    "scroll": 6.514285714285714,
     "cursor": {
       "from": {
-        "line": 80,
-        "ch": 15
+        "line": 13,
+        "ch": 16
       },
       "to": {
-        "line": 80,
-        "ch": 15
+        "line": 13,
+        "ch": 16
       }
     },
     "expandedKeys": []
@@ -5956,6 +5956,34 @@
       "to": {
         "line": 5,
         "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/QuickAdd配置指南.md": {
+    "scroll": 71.04313099041534,
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 17
+      },
+      "to": {
+        "line": 87,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/Dashboard使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 26
+      },
+      "to": {
+        "line": 71,
+        "ch": 26
       }
     },
     "expandedKeys": []
