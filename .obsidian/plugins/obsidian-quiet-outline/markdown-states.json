@@ -6003,7 +6003,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 4.878048780487805,
+    "scroll": 7.509803921568627,
     "cursor": {
       "from": {
         "line": 28,
@@ -6101,7 +6101,6 @@
       }
     },
     "expandedKeys": [
-      "item-2-4",
       "item-1-0"
     ]
   },

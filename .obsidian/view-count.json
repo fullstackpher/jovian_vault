@@ -7013,7 +7013,7 @@
     {
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769845841999
@@ -7056,6 +7056,9 @@
         },
         {
           "timestampMillis": 1770205662414
+        },
+        {
+          "timestampMillis": 1770205692834
         }
       ]
     },
@@ -8474,7 +8477,7 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1770201740058
@@ -8496,6 +8499,9 @@
         },
         {
           "timestampMillis": 1770204707872
+        },
+        {
+          "timestampMillis": 1770205695235
         }
       ]
     },
@@ -8512,22 +8518,6 @@
         },
         {
           "timestampMillis": 1770204541264
-        }
-      ]
-    },
-    {
-      "path": "3.Resources/QuickAdd错误_20260204_192605.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1770204523170
-        },
-        {
-          "timestampMillis": 1770204546404
-        },
-        {
-          "timestampMillis": 1770205661646
         }
       ]
     }
