@@ -674,7 +674,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 449,
+      "totalTimesOpened": 451,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2022,6 +2022,12 @@
         },
         {
           "timestampMillis": 1770209214245
+        },
+        {
+          "timestampMillis": 1770211244349
+        },
+        {
+          "timestampMillis": 1770211385485
         }
       ]
     },
@@ -6549,7 +6555,7 @@
     {
       "path": "3.Resources/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -6598,13 +6604,16 @@
         },
         {
           "timestampMillis": 1770210930545
+        },
+        {
+          "timestampMillis": 1770211409382
         }
       ]
     },
     {
       "path": "8.Info/0-Inbox.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 140,
+      "totalTimesOpened": 141,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7025,6 +7034,9 @@
         },
         {
           "timestampMillis": 1770211032166
+        },
+        {
+          "timestampMillis": 1770211334839
         }
       ]
     },

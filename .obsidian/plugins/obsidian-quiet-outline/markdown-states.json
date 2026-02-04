@@ -3628,11 +3628,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 112,
+        "line": 84,
         "ch": 0
       },
       "to": {
-        "line": 112,
+        "line": 84,
         "ch": 0
       }
     },
@@ -6149,15 +6149,15 @@
     "expandedKeys": []
   },
   "3.Resources/Inbox 面板搭建指南.md": {
-    "scroll": 299.7219887955182,
+    "scroll": 282.9062777284827,
     "cursor": {
       "from": {
-        "line": 319,
-        "ch": 14
+        "line": 298,
+        "ch": 47
       },
       "to": {
-        "line": 319,
-        "ch": 14
+        "line": 298,
+        "ch": 47
       }
     },
     "expandedKeys": []
