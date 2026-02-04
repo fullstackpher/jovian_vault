@@ -6003,7 +6003,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 34.10906862745098,
+    "scroll": 12.966759002770083,
     "cursor": {
       "from": {
         "line": 28,
@@ -6014,7 +6014,9 @@
         "ch": 4
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-3"
+    ]
   },
   "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
     "scroll": 72.34023927633498,
@@ -6087,7 +6089,7 @@
     "expandedKeys": []
   },
   "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md": {
-    "scroll": 0,
+    "scroll": 30.38162323899763,
     "cursor": {
       "from": {
         "line": 73,

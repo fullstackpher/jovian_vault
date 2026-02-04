@@ -182,6 +182,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "e346e739-0413-4264-b614-432a2b24ed5a",
+      "name": "💭记录闪念",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "💭记录闪念",
+        "id": "a4a5b251-f8bb-4b7a-ab6c-c579bd58c800",
+        "commands": [
+          {
+            "name": "智能闪念",
+            "type": "UserScript",
+            "id": "1a385e7c-cd43-4966-afa1-c81f93c36be0",
+            "path": "Scripts/智能闪念.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

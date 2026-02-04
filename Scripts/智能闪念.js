@@ -3,10 +3,6 @@
  *
  * 基于 List Callout 插件，快速捕获和分类闪念
  *
- * 使用方法：
- * 1. 【宏】单独使用：选择类型 → 输入内容 → 插入光标
- * 2. 【Capture结合】Capture输入 → 宏处理 → 追加到Inbox
- *
  * 闪念类型：
  * - ~ 灵感 💡 记录突发的想法和创意
  * - ! 重要 🔴 标记重要事项或提醒
@@ -14,6 +10,8 @@
  * - $ 待办 ☑️ 需要完成的任务
  * - & 记事 📝 一般性记录和备注
  * - % 语言 🌐 外语学习或专业术语
+ *
+ * 输出：始终追加到今日日记的 ## 💭 Thoughts 标题下
  */
 
 module.exports = async (params) => {
@@ -30,18 +28,17 @@ module.exports = async (params) => {
         { label: "% 语言", symbol: "%", icon: "🌐", desc: "外语学习或专业术语" },
     ];
 
-    // ===== 方式1：从 Capture 获取内容 =====
-    // 如果 params 中有用户输入（来自 Capture 的 Prompt），则使用它
+    // ===== 1. 获取输入内容 =====
     let content = null;
 
-    // 检查是否有从 Capture 传递的参数
+    // 从 Capture 获取输入
     if (params.userInput && params.userInput.length > 0) {
         content = params.userInput;
     }
 
-    // 如果没有传入内容，则先提示输入
+    // 如果没有传入内容，提示输入
     if (!content) {
-        content = await quickadd.inputPrompt("输入闪念内容");
+        content = await quickadd.inputPrompt("记录闪念");
         if (!content) return;
     }
 
@@ -59,22 +56,13 @@ module.exports = async (params) => {
         if (index === 0) {
             return `- ${typeChoice.symbol} [${timestamp}] ${line}`;
         } else {
-            // 多行内容：保持缩进
+            // 多行内容保持缩进
             return `  ${line}`;
         }
     });
     const result = formattedLines.join("\n");
 
-    // ===== 4. 判断输出方式 =====
-    // 如果有打开的编辑器，插入到光标位置（单独使用）
-    const editor = app.workspace.activeEditor?.editor;
-    if (editor) {
-        editor.replaceSelection(result);
-        new Notice(`✅ 闪念已记录：${typeChoice.icon}`);
-        return;
-    }
-
-    // ===== 5. 无编辑器时，追加到今日日记的 Thoughts 标题下 =====
+    // ===== 4. 追加到今日日记的 Thoughts 标题下 =====
     // 获取今日日期，构造日记路径
     const today = new Date();
     const dateStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
