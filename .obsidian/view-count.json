@@ -2644,7 +2644,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 73,
+      "totalTimesOpened": 74,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2864,6 +2864,9 @@
         },
         {
           "timestampMillis": 1770188530681
+        },
+        {
+          "timestampMillis": 1770189659483
         }
       ]
     },
@@ -8346,13 +8349,16 @@
     {
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770098710827
         },
         {
           "timestampMillis": 1770171465921
+        },
+        {
+          "timestampMillis": 1770189708530
         }
       ]
     },

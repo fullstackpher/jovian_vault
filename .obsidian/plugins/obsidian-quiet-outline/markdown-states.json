@@ -4057,12 +4057,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 63
+        "line": 20,
+        "ch": 6
       },
       "to": {
-        "line": 11,
-        "ch": 63
+        "line": 20,
+        "ch": 6
       }
     },
     "expandedKeys": [
@@ -6003,15 +6003,29 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 12.376636653167145,
+    "scroll": 14.389769197499312,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 22,
+        "ch": 14
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 22,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
+    "scroll": 72.34023927633498,
+    "cursor": {
+      "from": {
+        "line": 92,
+        "ch": 19
+      },
+      "to": {
+        "line": 92,
+        "ch": 19
       }
     },
     "expandedKeys": []
