@@ -14,7 +14,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "0.Inbox 缓存箱/README.md": "a8de9e98e787f296437255c9439f0beb359f0c835da0fff9859e8ca84ab04601",
+    "0.Inbox 缓存箱/README.md": "9b631d461174a71c413c597d5e6caf4eb0ca434e3c41253867f012401dedaf06",
     "1.Projects 项目/README.md": "b910ecbbfd1880bac115b6b5c9e9800aaf612f266381be1187525f2c4810cd17",
     "1.Projects 项目/03-学习前端/学习JavaScript.md": "610f67f2204ff840166f6f0e69ecdcb350c57aa92ba84fb7dfb976944e7c9f2e",
     "4.Archives 归档/README.md": "e14666e1adaf70b1f7303280d75ec69bc61543e72a3c7ee01556334692ea7a9f",
@@ -118,6 +118,7 @@
     "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程9-知识创作规律.md": "d67b8363d51ee4d07aa994901c78851ea913f4e536bf64b005ca542300ba5728",
     "3.Resources 资源/Obsidian任务管理教程/析径任务管理系统介绍.md": "fd0923c073b73227cc064f4594a66f1dbeaa729e5caf9c02980f6834f38c1340",
     "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程整体脉络.md": "6d55e08c14d0476579b8d4b7db7fbc4e0a3d5bce716097e966e320dbe0580c66",
-    "3.Resources 资源/Obsidian任务管理教程整体脉络.md": "31d65924d3265f862e214b08fc56bb1bcf168b59148973733c3f824bb248117f"
+    "3.Resources 资源/Obsidian任务管理教程整体脉络.md": "31d65924d3265f862e214b08fc56bb1bcf168b59148973733c3f824bb248117f",
+    "0.Inbox 缓存箱/模板-视频收藏.md": "8c7ac257888613c3e619ca4a9cd76ccb030811bfff5101ef2ac1289ded16da1e"
   }
 }

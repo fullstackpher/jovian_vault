@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "0.Inbox 缓存箱/README.md"
+    },
+    {
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources 资源/Inbox 面板搭建指南.md"
+    },
+    {
       "basename": "Obsidian任务管理教程1-任务管理全流程",
       "path": "3.Resources 资源/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Callout指南-2026-02",
       "path": "4.Archives 归档/03-资源-2026-02/Callout指南-2026-02.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox 缓存箱/README.md"
     },
     {
       "basename": "QuickAdd使用指南",
@@ -175,10 +179,6 @@
     {
       "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
       "path": "3.Resources 资源/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
-      "basename": "Inbox 面板搭建指南",
-      "path": "3.Resources 资源/Inbox 面板搭建指南.md"
     },
     {
       "basename": "Paste url into selection使用指南-2026-02",

@@ -3,11 +3,10 @@
   "title": "解析视频内容并生成汇总文档",
   "titleGenerationStatus": "success",
   "createdAt": 1770097081605,
-  "updatedAt": 1770098044111,
+  "updatedAt": 1770182483232,
   "lastResponseAt": 1770098044111,
   "sessionId": "09e4b721-f312-4ba4-8f1f-2f53782e8586",
   "sdkSessionId": "09e4b721-f312-4ba4-8f1f-2f53782e8586",
-  "currentNote": "Dashboards/Dashboard.md",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 527,
