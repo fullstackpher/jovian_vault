@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "Inbox 面板搭建指南",
       "path": "3.Resources/Inbox 面板搭建指南.md"
     },
@@ -65,10 +77,6 @@
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "2026-01-30",
       "path": "7.Daily/每日日志/2026-01-30.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "List Callout使用指南-2026-02",

@@ -47,7 +47,7 @@ limit 100
 - [ ] 学习obsidian的数据库Bases
 - [ ] 学习excalidraw插件
 - [x] 制作一个obsidian主页 ✅ 2026-02-01
-- [/] obsidian工作流系统
+- [/] 完成obsidian工作流系统
 
 
 
@@ -58,6 +58,7 @@ limit 100
 
 - [清单沙控牛](https://space.bilibili.com/443605967/lists/266172?type=season)
 - [[markdown使用指南]]
+- 
 
 
 > [!danger]- 项目灵感

@@ -6065,11 +6065,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 23
+        "ch": 0
       },
       "to": {
         "line": 4,
-        "ch": 23
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6228,6 +6228,20 @@
       "to": {
         "line": 6,
         "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/02-知识管理/学习Obsidian.md": {
+    "scroll": 35.22511087322221,
+    "cursor": {
+      "from": {
+        "line": 60,
+        "ch": 2
+      },
+      "to": {
+        "line": 60,
+        "ch": 2
       }
     },
     "expandedKeys": []
