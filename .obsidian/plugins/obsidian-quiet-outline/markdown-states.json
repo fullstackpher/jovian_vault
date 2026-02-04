@@ -4054,15 +4054,15 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 1.5950226244343892,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 6
+        "line": 7,
+        "ch": 0
       },
       "to": {
-        "line": 17,
-        "ch": 6
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -5936,12 +5936,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 14
+        "line": 19,
+        "ch": 21
       },
       "to": {
-        "line": 9,
-        "ch": 14
+        "line": 19,
+        "ch": 21
       }
     },
     "expandedKeys": []
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 0,
+    "scroll": 8.647058823529411,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 50
+        "line": 28,
+        "ch": 3
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 28,
+        "ch": 3
       }
     },
     "expandedKeys": []

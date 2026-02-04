@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
+      "basename": "2026-02-04",
+      "path": "7.Daily/2026-02-04.md"
     },
     {
       "basename": "2026-02-03",
       "path": "7.Daily/2026-02-03.md"
     },
     {
-      "basename": "2026-02-04",
-      "path": "7.Daily/2026-02-04.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-01-30",
@@ -31,10 +35,6 @@
     {
       "basename": "学习JavaEE",
       "path": "1.Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "Obsidian任务管理教程1-任务管理全流程",

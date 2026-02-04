@@ -3,6 +3,18 @@
   "title": "Optimize Template Emojis",
   "titleGenerationStatus": "success",
   "createdAt": 1770201627241,
-  "updatedAt": 1770201636912,
-  "sessionId": null
+  "updatedAt": 1770201699935,
+  "lastResponseAt": 1770201699935,
+  "sessionId": "3f8f943d-78c1-4ec8-8e01-218587ec2bf4",
+  "sdkSessionId": "3f8f943d-78c1-4ec8-8e01-218587ec2bf4",
+  "currentNote": "Templates/日记模版.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 684,
+    "cacheCreationInputTokens": 1301,
+    "cacheReadInputTokens": 14704,
+    "contextWindow": 200000,
+    "contextTokens": 16689,
+    "percentage": 8
+  }
 }

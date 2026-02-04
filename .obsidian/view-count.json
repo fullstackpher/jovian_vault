@@ -665,7 +665,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 440,
+      "totalTimesOpened": 441,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -1986,6 +1986,9 @@
         },
         {
           "timestampMillis": 1770199303888
+        },
+        {
+          "timestampMillis": 1770201737006
         }
       ]
     },
@@ -2653,7 +2656,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 78,
+      "totalTimesOpened": 79,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -2888,6 +2891,9 @@
         },
         {
           "timestampMillis": 1770201597322
+        },
+        {
+          "timestampMillis": 1770201734870
         }
       ]
     },
@@ -8269,7 +8275,7 @@
     {
       "path": "7.Daily/2026-02-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1770049598791
@@ -8342,6 +8348,9 @@
         },
         {
           "timestampMillis": 1770201589968
+        },
+        {
+          "timestampMillis": 1770201865669
         }
       ]
     },
@@ -8461,61 +8470,6 @@
       ]
     },
     {
-      "path": "7.Daily/2026-02-04.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
-      "openLogs": [
-        {
-          "timestampMillis": 1770189624999
-        },
-        {
-          "timestampMillis": 1770200114293
-        },
-        {
-          "timestampMillis": 1770200353619
-        },
-        {
-          "timestampMillis": 1770200367209
-        },
-        {
-          "timestampMillis": 1770200575810
-        },
-        {
-          "timestampMillis": 1770200589389
-        },
-        {
-          "timestampMillis": 1770200672379
-        },
-        {
-          "timestampMillis": 1770200711474
-        },
-        {
-          "timestampMillis": 1770200742918
-        },
-        {
-          "timestampMillis": 1770200801694
-        },
-        {
-          "timestampMillis": 1770200836098
-        },
-        {
-          "timestampMillis": 1770200959565
-        },
-        {
-          "timestampMillis": 1770200977469
-        },
-        {
-          "timestampMillis": 1770201031713
-        },
-        {
-          "timestampMillis": 1770201291255
-        },
-        {
-          "timestampMillis": 1770201343132
-        }
-      ]
-    },
-    {
       "path": "Dashboards/待处理区.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 4,
@@ -8531,6 +8485,19 @@
         },
         {
           "timestampMillis": 1770199730649
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/2026-02-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770201740058
+        },
+        {
+          "timestampMillis": 1770201946486
         }
       ]
     }
