@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Inbox 侧边栏面板",
-      "path": "8.Info 其他/Inbox 侧边栏面板.md"
+      "basename": "常用服务API",
+      "path": "8.Info 其他/常用服务API.md"
     },
     {
-      "basename": "Dashboard使用指南",
-      "path": "8.Info 其他/Dashboard使用指南.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "示例 1：项目跟踪",
+      "path": "8.Info 其他/示例 1：项目跟踪.md"
+    },
+    {
+      "basename": "Meta Bind 插件使用指南-2026-02",
+      "path": "4.Archives 归档/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md"
     },
     {
       "basename": "制作obsidian主页",
       "path": "8.Info 其他/制作obsidian主页.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "Dashboard使用指南",
+      "path": "8.Info 其他/Dashboard使用指南.md"
+    },
+    {
+      "basename": "Inbox 侧边栏面板",
+      "path": "8.Info 其他/Inbox 侧边栏面板.md"
+    },
+    {
+      "basename": "QuickAdd配置指南",
+      "path": "8.Info 其他/QuickAdd配置指南.md"
+    },
+    {
+      "basename": "List Callout使用指南-2026-02",
+      "path": "4.Archives 归档/03-资源-2026-02/List Callout使用指南-2026-02.md"
     },
     {
       "basename": "Obsidian任务管理教程2-如何管理目标和任务",
@@ -179,26 +199,6 @@
     {
       "basename": "README",
       "path": "2.Areas 领域/README.md"
-    },
-    {
-      "basename": "Emoji Toolbar使用指南-2026-02",
-      "path": "4.Archives 归档/03-资源-2026-02/Emoji Toolbar使用指南-2026-02.md"
-    },
-    {
-      "basename": "markdown使用指南",
-      "path": "3.Resources 资源/markdown使用指南.md"
-    },
-    {
-      "basename": "Excalidraw插件使用指南",
-      "path": "3.Resources 资源/Excalidraw插件使用指南.md"
-    },
-    {
-      "basename": "Editing Toolbar使用指南",
-      "path": "3.Resources 资源/Editing Toolbar使用指南.md"
-    },
-    {
-      "basename": "Calendar使用指南",
-      "path": "3.Resources 资源/Calendar使用指南.md"
     }
   ],
   "omittedPaths": [],

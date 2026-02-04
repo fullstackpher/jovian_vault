@@ -4130,12 +4130,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 12
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 5,
-        "ch": 12
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4911,7 +4911,7 @@
     "expandedKeys": []
   },
   "8.Info 其他/示例 1：项目跟踪.md": {
-    "scroll": 0,
+    "scroll": 1.4772727272727273,
     "cursor": {
       "from": {
         "line": 31,
@@ -5135,7 +5135,7 @@
     "expandedKeys": []
   },
   "4.Archives 归档/03-资源-2026-02/Meta Bind 插件使用指南-2026-02.md": {
-    "scroll": 0,
+    "scroll": 159.44302449414272,
     "cursor": {
       "from": {
         "line": 20,
@@ -5177,15 +5177,15 @@
     "expandedKeys": []
   },
   "4.Archives 归档/03-资源-2026-02/List Callout使用指南-2026-02.md": {
-    "scroll": 0,
+    "scroll": 13.482843137254902,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 0
+        "line": 30,
+        "ch": 12
       },
       "to": {
-        "line": 8,
-        "ch": 0
+        "line": 30,
+        "ch": 12
       }
     },
     "expandedKeys": []
