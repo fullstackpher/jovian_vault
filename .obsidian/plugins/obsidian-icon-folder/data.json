@@ -34,17 +34,17 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "0.Inbox 缓存箱": "LiInbox",
-  "1.Projects 项目": "BoBxCollection",
-  "2.Areas 领域": "LiAreaChart",
-  "3.Resources 资源": "TiBrandOpenSource",
-  "4.Archives 归档": "LiArchive",
-  "5.Zattchments 附件": "RiAttachment2",
-  "7.Daily 日周记": "LiCalendarDays",
   "8.Info 其他": "LiInfo",
   "Dashboards": "IbDashboard",
   "Excalidraw": "TiDragDrop",
   "flomo": "LiNotebookPen",
   "Scripts": "TiBrandJavascript",
-  "Templates": "TiTemplate"
+  "Templates": "TiTemplate",
+  "0.Inbox": "LiInbox",
+  "1.Projects": "BoBxCollection",
+  "2.Areas": "LiAreaChart",
+  "3.Resources": "TiBrandOpenSource",
+  "4.Archives": "LiArchive",
+  "5.Zattchments": "RiAttachment2",
+  "7.Daily": "LiCalendarDays"
 }
