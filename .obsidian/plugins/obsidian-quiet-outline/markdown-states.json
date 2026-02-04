@@ -5933,15 +5933,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-03.md": {
-    "scroll": 10.405024509803921,
+    "scroll": 12.982589549011127,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 29
+        "line": 18,
+        "ch": 10
       },
       "to": {
-        "line": 24,
-        "ch": 29
+        "line": 18,
+        "ch": 10
       }
     },
     "expandedKeys": []
@@ -6073,15 +6073,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-01-30.md": {
-    "scroll": 0,
+    "scroll": 3.84180790960452,
     "cursor": {
       "from": {
         "line": 15,
-        "ch": 34
+        "ch": 6
       },
       "to": {
         "line": 15,
-        "ch": 34
+        "ch": 6
       }
     },
     "expandedKeys": []
