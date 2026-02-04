@@ -93,8 +93,8 @@ collapse: open
 
 ## 🖼️ 图标自定义
 
-在标题中可以添加 `emoji` 或使用 `Admonition` 设置中的图标：
-请注意，您提供的图标名称必须与 `FontAwesome` 或 `RPGAwesome` 中的图标名称完全一致，否则将无法正常工作。
+自定义 `Admonition` 的图标：来自`FontAwesome` 或 `RPGAwesome`
+
 
 ```ad-tip
 icon: campground
