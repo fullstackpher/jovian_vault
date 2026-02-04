@@ -197,13 +197,14 @@ title: 已知问题
 
 ### 5. 代码注释
 
-```ad-example
+````ad-example
 title: 使用示例
-    ```python
-    def hello():
-        print("Hello, World!")
-    ```
+
+```python
+def hello():
+	print("Hello, World!")
 ```
+````
 
 ---
 
