@@ -9,7 +9,7 @@ tags:
   - quick-capture
   - dataview
 创建时间: 2026-01-30T17:34
-更新时间: 2026-02-04T14:53
+更新时间: 2026-02-04T14:55
 ---
 
 # Obsidian Inbox 面板搭建指南
@@ -196,7 +196,7 @@ action Dataview: Inbox 查询
 color yellow
 ```
 
-```
+
 
 ---
 
