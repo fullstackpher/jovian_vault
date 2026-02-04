@@ -7016,7 +7016,7 @@
     {
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769845841999
@@ -7062,6 +7062,9 @@
         },
         {
           "timestampMillis": 1770205692834
+        },
+        {
+          "timestampMillis": 1770207115034
         }
       ]
     },
@@ -8480,7 +8483,7 @@
     {
       "path": "7.Daily/2026-02-04.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1770201740058
@@ -8532,16 +8535,12 @@
         },
         {
           "timestampMillis": 1770206854653
-        }
-      ]
-    },
-    {
-      "path": "5.Zattchments/图片/截图/闪念布局问题截图.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
+        },
         {
-          "timestampMillis": 1770206251696
+          "timestampMillis": 1770206886609
+        },
+        {
+          "timestampMillis": 1770207014705
         }
       ]
     }
