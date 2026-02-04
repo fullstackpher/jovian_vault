@@ -75,26 +75,18 @@ title: 这是带有标题的提示框
 使用 `collapse: open` 创建可折叠的提示框：
 
 ```ad-note
-??? note "点击展开查看更多"
-    这段内容默认是折叠的
-    只有点击标题才会展开
+title: 点击展开查看更多
+collapse: open
+这段内容默认是折叠的
+只有点击标题才会展开
 ```
 
-
-
-### 默认展开
+### 默认不展开
 
 ```ad-note 
 title:"展开状态"
 collapse: open
 这个提示框默认就是展开状态
-使用 ???+ 而不是 ???
-```
-
-```ad-tip
-title: This is a tip
-
-This is the content of the admonition tip.
 ```
 
 ---
@@ -103,12 +95,10 @@ This is the content of the admonition tip.
 
 在标题中可以添加 emoji 或使用 Admonition 设置中的图标：
 
-```markdown
-!!! tip "💡"
-    使用 emoji 作为图标
+```ad-tip
+icon: triforce
+使用 emoji 作为图标
 ```
-
-
 
 ---
 
