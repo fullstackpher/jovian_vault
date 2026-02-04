@@ -1629,8 +1629,8 @@
     "7.Daily/2026-02-04.md": {
       "fileId": "1770188685477",
       "filePath": "7.Daily/2026-02-04.md",
-      "duration": 1824000,
-      "openCount": 16
+      "duration": 1914000,
+      "openCount": 17
     },
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
@@ -1655,6 +1655,12 @@
       "filePath": "1.Projects/01-学习Java/学习JavaEE.md",
       "duration": 12000,
       "openCount": 2
+    },
+    "5.Zattchments/图片/截图/局部截取_20260204_192605.png": {
+      "fileId": "1770204407268",
+      "filePath": "5.Zattchments/图片/截图/局部截取_20260204_192605.png",
+      "duration": 42000,
+      "openCount": 1
     }
   }
 }

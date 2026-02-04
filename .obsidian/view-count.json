@@ -8260,28 +8260,6 @@
       ]
     },
     {
-      "path": "5.Zattchments/图片/截图/2026-02-02_225205-屏幕截图.png",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1770044012066
-        },
-        {
-          "timestampMillis": 1770044070497
-        },
-        {
-          "timestampMillis": 1770049286182
-        },
-        {
-          "timestampMillis": 1770096924932
-        },
-        {
-          "timestampMillis": 1770096925785
-        }
-      ]
-    },
-    {
       "path": "7.Daily/2026-02-03.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 25,
@@ -8460,25 +8438,6 @@
       ]
     },
     {
-      "path": "5.Zattchments/图片/截图/局部截取_20260204_151441.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1770189314942
-        },
-        {
-          "timestampMillis": 1770189436004
-        },
-        {
-          "timestampMillis": 1770189504545
-        },
-        {
-          "timestampMillis": 1770189539685
-        }
-      ]
-    },
-    {
       "path": "Dashboards/待处理区.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 5,
@@ -8519,6 +8478,16 @@
         },
         {
           "timestampMillis": 1770203970833
+        }
+      ]
+    },
+    {
+      "path": "5.Zattchments/图片/截图/局部截取_20260204_192605.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770204402789
         }
       ]
     }
