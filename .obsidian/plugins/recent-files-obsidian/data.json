@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "项目模版",
+      "path": "Templates/项目模版.md"
+    },
+    {
+      "basename": "复盘模板",
+      "path": "Templates/复盘模板.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "整理obsidian",
       "path": "1.Projects/02-知识管理/整理obsidian.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "2026-02-04",
       "path": "7.Daily/2026-02-04.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "0-Inbox",
@@ -69,10 +77,6 @@
       "path": "0.Inbox/README.md"
     },
     {
-      "basename": "复盘模板",
-      "path": "Templates/复盘模板.md"
-    },
-    {
       "basename": "Inbox 面板搭建指南",
       "path": "3.Resources/Inbox 面板搭建指南.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "模板-视频收藏",
       "path": "Templates/模板-视频收藏.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "Templates/项目模版.md"
     },
     {
       "basename": "技术概念卡片",

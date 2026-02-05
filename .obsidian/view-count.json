@@ -695,7 +695,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 20,
-      "totalTimesOpened": 463,
+      "totalTimesOpened": 464,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2085,6 +2085,9 @@
         },
         {
           "timestampMillis": 1770305479847
+        },
+        {
+          "timestampMillis": 1770305932491
         }
       ]
     },
@@ -2764,7 +2767,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 83,
+      "totalTimesOpened": 84,
       "openLogs": [
         {
           "timestampMillis": 1768556028603
@@ -3014,6 +3017,9 @@
         },
         {
           "timestampMillis": 1770305654241
+        },
+        {
+          "timestampMillis": 1770305963021
         }
       ]
     },
@@ -3476,8 +3482,8 @@
     },
     {
       "path": "Templates/项目模版.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768648972944
@@ -3508,6 +3514,9 @@
         },
         {
           "timestampMillis": 1770210425617
+        },
+        {
+          "timestampMillis": 1770305958528
         }
       ]
     },
@@ -8856,14 +8865,17 @@
     },
     {
       "path": "Templates/复盘模板.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770210389703
         },
         {
           "timestampMillis": 1770212713940
+        },
+        {
+          "timestampMillis": 1770305951215
         }
       ]
     },
