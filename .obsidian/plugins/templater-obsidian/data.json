@@ -17,6 +17,10 @@
     {
       "folder": "1.Projects",
       "template": "Templates/项目模版.md"
+    },
+    {
+      "folder": "7.Daily/",
+      "template": "Templates/日记模版.md"
     }
   ],
   "enable_file_templates": false,
