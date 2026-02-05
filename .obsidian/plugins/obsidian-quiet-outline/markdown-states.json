@@ -6278,12 +6278,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 6
+        "line": 25,
+        "ch": 3
       },
       "to": {
-        "line": 17,
-        "ch": 6
+        "line": 25,
+        "ch": 3
       }
     },
     "expandedKeys": []
