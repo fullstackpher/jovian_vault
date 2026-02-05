@@ -4057,11 +4057,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 7,
         "ch": 16
       },
       "to": {
-        "line": 8,
+        "line": 7,
         "ch": 16
       }
     },
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 0,
+    "scroll": 30.9265058686233,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 22
+        "line": 43,
+        "ch": 15
       },
       "to": {
-        "line": 31,
-        "ch": 22
+        "line": 43,
+        "ch": 15
       }
     },
     "expandedKeys": [
