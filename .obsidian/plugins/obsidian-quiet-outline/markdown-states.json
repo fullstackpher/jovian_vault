@@ -6343,5 +6343,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/2026-02-05.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

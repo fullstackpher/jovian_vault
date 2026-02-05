@@ -15,36 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1.Projects/02-知识管理",
-      "template": "Templates/项目模版.md"
-    },
-    {
-      "folder": "1.Projects/01-学习Java",
-      "template": "Templates/项目模版.md"
-    },
-    {
-      "folder": "1.Projects/03-学习前端",
+      "folder": "1.Projects",
       "template": "Templates/项目模版.md"
     },
     {
       "folder": "7.Daily",
       "template": "Templates/日记模版.md"
-    },
-    {
-      "folder": "7.Daily/每周复盘",
-      "template": "Templates/复盘模板.md"
-    },
-    {
-      "folder": "7.Daily/月度复盘",
-      "template": "Templates/复盘模板.md"
-    },
-    {
-      "folder": "7.Daily/季度总结",
-      "template": "Templates/复盘模板.md"
-    },
-    {
-      "folder": "7.Daily/年度回顾",
-      "template": "Templates/复盘模板.md"
     }
   ],
   "enable_file_templates": false,

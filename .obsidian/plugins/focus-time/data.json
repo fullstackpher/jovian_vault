@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 21276000,
-      "openCount": 324
+      "duration": 21318000,
+      "openCount": 326
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1143,8 +1143,8 @@
     "1.Projects/项目看板.md": {
       "fileId": "1769756608307",
       "filePath": "1.Projects/项目看板.md",
-      "duration": 120000,
-      "openCount": 22
+      "duration": 126000,
+      "openCount": 24
     },
     "2.Areas/Frontend/背景.md": {
       "fileId": "1768805305769",
@@ -1419,7 +1419,7 @@
     "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png": {
       "fileId": "1770042428361",
       "filePath": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png",
-      "duration": 12000,
+      "duration": 66000,
       "openCount": 2
     },
     "5.Zattchments/图片/截图/2026-02-02_225205-屏幕截图.png": {
@@ -1431,8 +1431,8 @@
     "7.Daily/2026-01-12.md": {
       "fileId": "1768478863631",
       "filePath": "7.Daily/2026-01-12.md",
-      "duration": 162000,
-      "openCount": 7
+      "duration": 294000,
+      "openCount": 12
     },
     "7.Daily/2026-01-13.md": {
       "fileId": "1768478971635",
@@ -1504,19 +1504,19 @@
       "fileId": "1769922938688",
       "filePath": "7.Daily/2026-02-01.md",
       "duration": 1266000,
-      "openCount": 25
+      "openCount": 26
     },
     "7.Daily/2026-02-02.md": {
       "fileId": "1770005264827",
       "filePath": "7.Daily/2026-02-02.md",
       "duration": 2244000,
-      "openCount": 34
+      "openCount": 35
     },
     "7.Daily/2026-02-03.md": {
       "fileId": "1770049604326",
       "filePath": "7.Daily/2026-02-03.md",
-      "duration": 888000,
-      "openCount": 25
+      "duration": 942000,
+      "openCount": 29
     },
     "2.Areas/README.md": {
       "fileId": "1770188339928",
@@ -1677,8 +1677,8 @@
     "7.Daily/每日日志/2026-01-12.md": {
       "fileId": "1768478863631",
       "filePath": "7.Daily/每日日志/2026-01-12.md",
-      "duration": 216000,
-      "openCount": 8
+      "duration": 258000,
+      "openCount": 9
     },
     "7.Daily/每日日志/2026-01-13.md": {
       "fileId": "1768478971635",
@@ -1734,12 +1734,6 @@
       "duration": 3102000,
       "openCount": 42
     },
-    "7.Daily/每日日志/2026-02-04.md": {
-      "fileId": "1770188685477",
-      "filePath": "7.Daily/每日日志/2026-02-04.md",
-      "duration": 4044000,
-      "openCount": 25
-    },
     "7.Daily/每日日志/2026-02-01.md": {
       "fileId": "1769922938688",
       "filePath": "7.Daily/每日日志/2026-02-01.md",
@@ -1767,14 +1761,32 @@
     "7.Daily/每日日志/2026-02-05.md": {
       "fileId": "1770303739423",
       "filePath": "7.Daily/每日日志/2026-02-05.md",
-      "duration": 876000,
-      "openCount": 7
+      "duration": 900000,
+      "openCount": 9
     },
     "7.Daily/每日日志/未命名.md": {
       "fileId": "1770304591428",
       "filePath": "7.Daily/每日日志/未命名.md",
       "duration": 12000,
       "openCount": 2
+    },
+    "7.Daily/2026-02-04.md": {
+      "fileId": "1770188685477",
+      "filePath": "7.Daily/2026-02-04.md",
+      "duration": 4044000,
+      "openCount": 25
+    },
+    "7.Daily/2026-01-31.md": {
+      "fileId": "1769841747305",
+      "filePath": "7.Daily/2026-01-31.md",
+      "duration": 2970000,
+      "openCount": 49
+    },
+    "7.Daily/2026-02-05.md": {
+      "fileId": "1770304915442",
+      "filePath": "7.Daily/2026-02-05.md",
+      "duration": 66000,
+      "openCount": 3
     }
   }
 }
