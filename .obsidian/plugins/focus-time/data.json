@@ -1509,8 +1509,8 @@
     "7.Daily/2026-02-02.md": {
       "fileId": "1770005264827",
       "filePath": "7.Daily/2026-02-02.md",
-      "duration": 2316000,
-      "openCount": 37
+      "duration": 2322000,
+      "openCount": 38
     },
     "7.Daily/2026-02-03.md": {
       "fileId": "1770049604326",
@@ -1793,6 +1793,12 @@
       "filePath": "7.Daily/2026-01-31.md",
       "duration": 2970000,
       "openCount": 49
+    },
+    "1.Projects/02-知识管理/整理obsidian.md": {
+      "fileId": "1770305812637",
+      "filePath": "1.Projects/02-知识管理/整理obsidian.md",
+      "duration": 54000,
+      "openCount": 1
     }
   }
 }

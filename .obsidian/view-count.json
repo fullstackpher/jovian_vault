@@ -8879,6 +8879,16 @@
           "timestampMillis": 1770305134058
         }
       ]
+    },
+    {
+      "path": "1.Projects/02-知识管理/整理obsidian.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770305811431
+        }
+      ]
     }
   ]
 }

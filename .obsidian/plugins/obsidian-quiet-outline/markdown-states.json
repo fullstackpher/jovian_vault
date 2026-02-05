@@ -6371,5 +6371,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "1.Projects/02-知识管理/整理obsidian.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
