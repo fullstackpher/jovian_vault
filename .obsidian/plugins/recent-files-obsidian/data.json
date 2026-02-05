@@ -5,6 +5,10 @@
       "path": "Dashboards/Dashboard.md"
     },
     {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "2026-02-05",
       "path": "7.Daily/每日日志/2026-02-05.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
     },
     {
       "basename": "学习Obsidian",
