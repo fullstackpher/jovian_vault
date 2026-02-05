@@ -3628,12 +3628,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 272,
-        "ch": 9
+        "line": 95,
+        "ch": 17
       },
       "to": {
-        "line": 272,
-        "ch": 9
+        "line": 95,
+        "ch": 17
       }
     },
     "expandedKeys": [
@@ -6003,15 +6003,15 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 41.553015399226645,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 38
+        "line": 31,
+        "ch": 22
       },
       "to": {
-        "line": 29,
-        "ch": 38
+        "line": 31,
+        "ch": 22
       }
     },
     "expandedKeys": [
@@ -6348,11 +6348,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 7,
         "ch": 0
       }
     },

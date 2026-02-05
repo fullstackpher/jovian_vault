@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-04",
+      "path": "7.Daily/2026-02-04.md"
+    },
+    {
       "basename": "2026-02-05",
-      "path": "7.Daily/每日日志/2026-02-05.md"
+      "path": "7.Daily/2026-02-05.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
     },
     {
-      "basename": "2026-02-01",
-      "path": "7.Daily/每日日志/2026-02-01.md"
+      "basename": "2026-01-12",
+      "path": "7.Daily/2026-01-12.md"
     },
     {
-      "basename": "2026-01-12",
-      "path": "7.Daily/每日日志/2026-01-12.md"
+      "basename": "2026-02-01",
+      "path": "7.Daily/2026-02-01.md"
     },
     {
       "basename": "日记模版",
@@ -29,24 +37,16 @@
       "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
     },
     {
       "basename": "2026-02-03",
-      "path": "7.Daily/每日日志/2026-02-03.md"
+      "path": "7.Daily/2026-02-03.md"
     },
     {
       "basename": "2026-02-02",
-      "path": "7.Daily/每日日志/2026-02-02.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "7.Daily/每日日志/2026-02-04.md"
+      "path": "7.Daily/2026-02-02.md"
     },
     {
       "basename": "待处理区",
@@ -122,11 +122,11 @@
     },
     {
       "basename": "2026-01-31",
-      "path": "7.Daily/每日日志/2026-01-31.md"
+      "path": "7.Daily/2026-01-31.md"
     },
     {
       "basename": "2026-01-30",
-      "path": "7.Daily/每日日志/2026-01-30.md"
+      "path": "7.Daily/2026-01-30.md"
     },
     {
       "basename": "本月安排",
@@ -142,15 +142,15 @@
     },
     {
       "basename": "2026-01-15",
-      "path": "7.Daily/每日日志/2026-01-15.md"
+      "path": "7.Daily/2026-01-15.md"
     },
     {
       "basename": "2026-01-14",
-      "path": "7.Daily/每日日志/2026-01-14.md"
+      "path": "7.Daily/2026-01-14.md"
     },
     {
       "basename": "2026-01-13",
-      "path": "7.Daily/每日日志/2026-01-13.md"
+      "path": "7.Daily/2026-01-13.md"
     },
     {
       "basename": "实用代码片段",
