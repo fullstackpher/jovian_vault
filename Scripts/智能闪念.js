@@ -66,7 +66,7 @@ module.exports = async (params) => {
     // 获取今日日期，构造日记路径
     const today = new Date();
     const dateStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
-    const diaryPath = `7.Daily/${dateStr}.md`;
+    const diaryPath = `7.Daily/每日日志/${dateStr}.md`;
 
     try {
         const diaryFile = app.vault.getAbstractFileByPath(diaryPath);

@@ -6279,11 +6279,11 @@
     "cursor": {
       "from": {
         "line": 25,
-        "ch": 4
+        "ch": 0
       },
       "to": {
         "line": 25,
-        "ch": 4
+        "ch": 0
       }
     },
     "expandedKeys": []
