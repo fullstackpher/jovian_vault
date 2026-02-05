@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-25T19:47
-更新时间: 2026-02-04T21:58
+更新时间: 2026-02-05T23:28
 tags:
   - obsidian/plugin
   - obsidian/工作流
@@ -200,7 +200,7 @@ tags:
 QuickAdd + Templater = 超级组合：
 ```javascript
 // 在模板中使用 Templater 函数
-<% tp.date.now("YYYY-MM-DD") %>
+<% tp.file.creation_date("YYYY-MM-DD") %>
 <% tp.file.title %>
 <% tp.web.fetch() %>
 ```

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-02-屏幕截图",
-      "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
+      "basename": "2026-02-05",
+      "path": "7.Daily/每日日志/2026-02-05.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "2026-02-01",
+      "path": "7.Daily/每日日志/2026-02-01.md"
     },
     {
       "basename": "2026-01-12",
-      "path": "7.Daily/2026-01-12.md"
+      "path": "7.Daily/每日日志/2026-01-12.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "局部截取_20260205_232320",
+      "path": "5.Zattchments/图片/截图/局部截取_20260205_232320.png"
+    },
+    {
+      "basename": "2026-02-02-屏幕截图",
+      "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
     },
     {
       "basename": "Dashboard",
@@ -18,15 +38,15 @@
     },
     {
       "basename": "2026-02-03",
-      "path": "7.Daily/2026-02-03.md"
+      "path": "7.Daily/每日日志/2026-02-03.md"
     },
     {
       "basename": "2026-02-02",
-      "path": "7.Daily/2026-02-02.md"
+      "path": "7.Daily/每日日志/2026-02-02.md"
     },
     {
       "basename": "2026-02-04",
-      "path": "7.Daily/2026-02-04.md"
+      "path": "7.Daily/每日日志/2026-02-04.md"
     },
     {
       "basename": "待处理区",
@@ -39,10 +59,6 @@
     {
       "basename": "List Callout使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "QuickAdd使用指南",
@@ -77,10 +93,6 @@
       "path": "7.Daily/README.md"
     },
     {
-      "basename": "2026-02-01",
-      "path": "7.Daily/2026-02-01.md"
-    },
-    {
       "basename": "日报模版",
       "path": "Templates/日报模版.md"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "模板-视频收藏",
       "path": "Templates/模板-视频收藏.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "项目模版",
@@ -114,11 +122,11 @@
     },
     {
       "basename": "2026-01-31",
-      "path": "7.Daily/2026-01-31.md"
+      "path": "7.Daily/每日日志/2026-01-31.md"
     },
     {
       "basename": "2026-01-30",
-      "path": "7.Daily/2026-01-30.md"
+      "path": "7.Daily/每日日志/2026-01-30.md"
     },
     {
       "basename": "本月安排",
@@ -134,15 +142,15 @@
     },
     {
       "basename": "2026-01-15",
-      "path": "7.Daily/2026-01-15.md"
+      "path": "7.Daily/每日日志/2026-01-15.md"
     },
     {
       "basename": "2026-01-14",
-      "path": "7.Daily/2026-01-14.md"
+      "path": "7.Daily/每日日志/2026-01-14.md"
     },
     {
       "basename": "2026-01-13",
-      "path": "7.Daily/2026-01-13.md"
+      "path": "7.Daily/每日日志/2026-01-13.md"
     },
     {
       "basename": "实用代码片段",
@@ -191,10 +199,6 @@
     {
       "basename": "常用服务API",
       "path": "8.Info/常用服务API.md"
-    },
-    {
-      "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md"
     }
   ],
   "omittedPaths": [],

@@ -75,11 +75,11 @@
     "2.Areas/Frontend/面向对象.md": "70ffdb68169d5c97e2ffb7366a6bcc306c8fd85b4380528e844777bfa5904a0b",
     "3.Resources/Calendar使用指南.md": "c2a2cae85ce05f273fa9d0f485c5c42079a56d77e9e1043d59e2a63177742df1",
     "3.Resources/Editing Toolbar使用指南.md": "efcb671f03d51f7d24095d0212b71120afc304c7e9a28ba052730392b3c14a85",
-    "3.Resources/Inbox 面板搭建指南.md": "d0430f10b75fb33de80f156ec73ba8b2b5455331ee16ef62a0da7aa759024b65",
-    "3.Resources/Excalidraw插件使用指南.md": "b1c1ff596165bbc3870d46022ffb723baf666cbe7f6cedbb9302f49ccce2f697",
+    "3.Resources/Inbox 面板搭建指南.md": "9a6c5f288aece09e2354ac0621aadf84b0353e513994981568813a15ec935589",
+    "3.Resources/Excalidraw插件使用指南.md": "b915dbce3e9f9b3dbbaa9c805c2a2ab0b1ece72505c7668f4529857185d15612",
     "3.Resources/markdown使用指南.md": "dfdb1d7fa76f995e76a27583fc97131b783c0fc4b6e43c5d55e2847783438e53",
     "3.Resources/Obsidian任务管理教程整体脉络.md": "31d65924d3265f862e214b08fc56bb1bcf168b59148973733c3f824bb248117f",
-    "3.Resources/QuickAdd使用指南.md": "8d903cee08bc5fa413c88c91661872612a092c3b5134576ed387de568c3c7b36",
+    "3.Resources/QuickAdd使用指南.md": "c28eafaeebbaf73d8029a5485bc7b7e02594c15fe1d7338c5bdc4577514f5a08",
     "3.Resources/README.md": "b5c57c9892be2057a335e6cb879d3cf7c78d1271d840b6c913917cae14ca8853",
     "3.Resources/VSCode使用指南.md": "a203e26a7406cda56aa697d1b6aad4f4645ce632216bad88db305c04334e9c9b",
     "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md": "aac1e0036f0ad639ec1d32aae89c023729e4b53bf6fc0e451ac1f59c49bffb94",
@@ -121,8 +121,8 @@
     "7.Daily/2026-01月汇总.md": "aeb94b70548150b3361cc09aac94e0b7b7ad6ea67f0406f0f725a58aed1305f3",
     "Templates/模板-视频收藏.md": "03e273f19cb7e89ec8a4a6f37b57edd2538693a207689d5198bdb7081b9ddc0b",
     "8.Info/本月安排.md": "c4a1999107920d88942e172264d9605e4851552809edf0ceeff3ba46a3ba5cfe",
-    "7.Daily/2026-02-04.md": "c7b0f5e3603799a128df5eedf2fb3a08ec29c9366f2bfb9304ea98f39fd95dbd",
-    "7.Daily/2026-01-12.md": "d4e8e9e3d6476f9e363c1c4a2de05c6d9ecb4b1620cd152dae7e1bea10539f6f",
-    "7.Daily/2026-02-03.md": "608a6005394f5bd2985a55b449db78dbae72be82e0dfb1a080948e956c8cc823"
+    "7.Daily/每日日志/2026-01-12.md": "d4e8e9e3d6476f9e363c1c4a2de05c6d9ecb4b1620cd152dae7e1bea10539f6f",
+    "7.Daily/每日日志/2026-02-04.md": "c7b0f5e3603799a128df5eedf2fb3a08ec29c9366f2bfb9304ea98f39fd95dbd",
+    "7.Daily/每日日志/2026-02-03.md": "608a6005394f5bd2985a55b449db78dbae72be82e0dfb1a080948e956c8cc823"
   }
 }

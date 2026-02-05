@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-17T20:02
-更新时间: 2026-02-02T20:19
+更新时间: 2026-02-05T23:28
 tags:
   - "#excalidraw"
   - "#绘图"
@@ -393,7 +393,7 @@ WHERE file.name LIKE "architecture*"
 
 ```javascript
 // 在模板中自动插入当前日期
-<% tp.date.now("YYYY-MM-DD") %>
+<% tp.file.creation_date("YYYY-MM-DD") %>
 
 // 插入链接的笔记标题
 <% tp.file.title %>

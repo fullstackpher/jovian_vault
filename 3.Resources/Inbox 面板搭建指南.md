@@ -9,7 +9,7 @@ tags:
   - quick-capture
   - dataview
 创建时间: 2026-01-30T17:34
-更新时间: 2026-02-04T14:55
+更新时间: 2026-02-05T23:28
 ---
 
 # Obsidian Inbox 面板搭建指南
@@ -48,7 +48,7 @@ Inbox（收件箱）是快速捕获想法、任务、笔记的中转站。核心
 
 ```markdown
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
 source: quick-capture
 tags:
 ---
