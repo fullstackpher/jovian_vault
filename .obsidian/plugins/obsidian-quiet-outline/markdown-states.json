@@ -6287,5 +6287,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-03.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 37
+      },
+      "to": {
+        "line": 5,
+        "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
