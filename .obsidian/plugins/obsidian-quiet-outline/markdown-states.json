@@ -5919,7 +5919,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-02.md": {
-    "scroll": 2.929864253393665,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 7,
@@ -5936,12 +5936,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 21
+        "line": 21,
+        "ch": 12
       },
       "to": {
-        "line": 19,
-        "ch": 21
+        "line": 21,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -6003,7 +6003,7 @@
     "expandedKeys": []
   },
   "7.Daily/2026-02-04.md": {
-    "scroll": 30.9265058686233,
+    "scroll": 35.04388216487852,
     "cursor": {
       "from": {
         "line": 43,
@@ -6349,11 +6349,11 @@
     "cursor": {
       "from": {
         "line": 7,
-        "ch": 0
+        "ch": 16
       },
       "to": {
         "line": 7,
-        "ch": 0
+        "ch": 16
       }
     },
     "expandedKeys": []
