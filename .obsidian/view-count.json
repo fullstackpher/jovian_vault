@@ -294,7 +294,7 @@
     {
       "path": "2.Areas/Knowledge Management/obsidian标签.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 29,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -382,6 +382,9 @@
         },
         {
           "timestampMillis": 1770353326103
+        },
+        {
+          "timestampMillis": 1770353918402
         }
       ]
     },
@@ -716,7 +719,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 21,
-      "totalTimesOpened": 469,
+      "totalTimesOpened": 470,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2124,6 +2127,9 @@
         },
         {
           "timestampMillis": 1770351401272
+        },
+        {
+          "timestampMillis": 1770353906109
         }
       ]
     },
@@ -8184,8 +8190,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-02.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 41,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 44,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -8309,6 +8315,15 @@
         },
         {
           "timestampMillis": 1770306872456
+        },
+        {
+          "timestampMillis": 1770353882653
+        },
+        {
+          "timestampMillis": 1770353894976
+        },
+        {
+          "timestampMillis": 1770353949737
         }
       ]
     },
@@ -8995,7 +9010,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-05.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1770306195583
@@ -9038,13 +9053,19 @@
         },
         {
           "timestampMillis": 1770351007349
+        },
+        {
+          "timestampMillis": 1770353959530
+        },
+        {
+          "timestampMillis": 1770353961213
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 22,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9111,6 +9132,9 @@
         },
         {
           "timestampMillis": 1770353480035
+        },
+        {
+          "timestampMillis": 1770353872905
         }
       ]
     }
