@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily/每日日志/2026-02-02.md"
+    },
+    {
       "basename": "现代 CSS 新特性",
       "path": "2.Areas/Frontend/现代 CSS 新特性.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Article 2026-02-06 13-43-47",
       "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "7.Daily/每日日志/2026-02-02.md"
     },
     {
       "basename": "Clion使用指南",
@@ -67,10 +75,6 @@
     {
       "basename": "2026-01月汇总",
       "path": "7.Daily/2026-01月汇总.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "原型构造函数对象之间的关系图",
@@ -195,10 +199,6 @@
     {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
-    },
-    {
-      "basename": "2026-02-01",
-      "path": "7.Daily/每日日志/2026-02-01.md"
     }
   ],
   "omittedPaths": [],
