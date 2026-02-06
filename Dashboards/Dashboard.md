@@ -221,10 +221,10 @@ function ringProgress(p) {
         <span class="label">${p}%</span></span>`;
 }
 
-const pages = dv.pages('#技术栈');
+const pages = dv.pages('#类型/技术栈');
 
 if (pages.length === 0) {
-    dv.paragraph("⚠️ 未找到带有 #技术栈 标签的笔记");
+    dv.paragraph("⚠️ 未找到带有 #类型/技术栈 标签的笔记");
 } else {
     dv.table(["技术栈", "掌握度", "完成任务"],
         pages.map(p => {
@@ -241,7 +241,7 @@ if (pages.length === 0) {
 
 ```dataview
 TABLE sum(time) AS "总时长"
-FROM #日报
+FROM #周期/每日
 WHERE date >= date(now) - dur(7 days) AND !contains(file.path, "Templates")
 SORT date DESC
 ```
@@ -252,7 +252,7 @@ SORT date DESC
 TABLE WITHOUT ID
   dateformat(date, "MM-dd") AS "日期",
   time AS "学习时长"
-FROM #日报
+FROM #周期/每日
 WHERE date >= date(now) - dur(14 days) AND !contains(file.path, "Templates")
 SORT date DESC
 LIMIT 7
@@ -263,7 +263,7 @@ LIMIT 7
 ## 🚨 待解决问题
 
 ```dataview
-LIST FROM #问题解决
+LIST FROM #类型/问题解决
 WHERE !contains(状态, "已完成") AND !contains(file.path, "Templates")
 LIMIT 10
 ```

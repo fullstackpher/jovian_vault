@@ -3,11 +3,10 @@
   "title": "补充嵌套标签管理示例",
   "titleGenerationStatus": "success",
   "createdAt": 1770353036185,
-  "updatedAt": 1770353117612,
+  "updatedAt": 1770354609521,
   "lastResponseAt": 1770353117612,
   "sessionId": "c9517faf-b2b6-4e28-b375-2e125371e920",
   "sdkSessionId": "c9517faf-b2b6-4e28-b375-2e125371e920",
-  "currentNote": "2.Areas/Knowledge Management/obsidian标签.md",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 1816,
