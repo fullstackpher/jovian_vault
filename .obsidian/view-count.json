@@ -9445,6 +9445,16 @@
           "timestampMillis": 1770356060666
         }
       ]
+    },
+    {
+      "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770356640168
+        }
+      ]
     }
   ]
 }

@@ -1851,8 +1851,8 @@
     "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
       "fileId": "1770355594291",
       "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
-      "duration": 60000,
-      "openCount": 3
+      "duration": 84000,
+      "openCount": 4
     },
     "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png": {
       "fileId": "1770355942308",
@@ -1871,6 +1871,12 @@
       "filePath": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
       "duration": 114000,
       "openCount": 2
+    },
+    "ReadItLater Inbox/Article 2026-02-06 13-43-47.md": {
+      "fileId": "1770356644295",
+      "filePath": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md",
+      "duration": 12000,
+      "openCount": 1
     }
   }
 }

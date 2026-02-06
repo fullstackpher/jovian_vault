@@ -6791,5 +6791,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "ReadItLater Inbox/Article 2026-02-06 13-43-47.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 16
+      },
+      "to": {
+        "line": 4,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
   }
 }
