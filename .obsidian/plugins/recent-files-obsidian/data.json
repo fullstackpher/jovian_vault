@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "日期对象",
+      "path": "2.Areas/Frontend/日期对象.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "inline-block布局",
       "path": "2.Areas/Frontend/inline-block布局.md"
+    },
+    {
+      "basename": "flexbox布局",
+      "path": "2.Areas/Frontend/flexbox布局.md"
+    },
+    {
+      "basename": "float浮动+margin布局",
+      "path": "2.Areas/Frontend/float浮动+margin布局.md"
     },
     {
       "basename": "JavaScript基础",
@@ -19,10 +35,6 @@
     {
       "basename": "PostCSS",
       "path": "2.Areas/Frontend/PostCSS.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "CSS基础概念",
@@ -63,14 +75,6 @@
     {
       "basename": "Frontend知识体系总览",
       "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2.Areas/Frontend/float浮动+margin布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2.Areas/Frontend/flexbox布局.md"
     },
     {
       "basename": "CSS引入方式",
@@ -195,10 +199,6 @@
     {
       "basename": "数学对象",
       "path": "2.Areas/Frontend/数学对象.md"
-    },
-    {
-      "basename": "日期对象",
-      "path": "2.Areas/Frontend/日期对象.md"
     }
   ],
   "omittedPaths": [],
