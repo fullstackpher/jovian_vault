@@ -8966,10 +8966,13 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
+        },
+        {
+          "timestampMillis": 1770350785869
         }
       ]
     }

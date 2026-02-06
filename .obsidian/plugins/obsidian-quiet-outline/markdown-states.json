@@ -6391,11 +6391,11 @@
     "cursor": {
       "from": {
         "line": 21,
-        "ch": 21
+        "ch": 18
       },
       "to": {
         "line": 21,
-        "ch": 21
+        "ch": 18
       }
     },
     "expandedKeys": []
