@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "CSS动画",
-      "path": "2.Areas/Frontend/CSS动画.md"
+      "basename": "CSS视觉与表现",
+      "path": "2.Areas/Frontend/CSS视觉与表现.md"
     },
     {
-      "basename": "CSS布局系统",
-      "path": "2.Areas/Frontend/CSS布局系统.md"
+      "basename": "CSS响应式设计",
+      "path": "2.Areas/Frontend/CSS响应式设计.md"
+    },
+    {
+      "basename": "Window对象",
+      "path": "2.Areas/Frontend/Window对象.md"
+    },
+    {
+      "basename": "This指向",
+      "path": "2.Areas/Frontend/This指向.md"
+    },
+    {
+      "basename": "table表格布局",
+      "path": "2.Areas/Frontend/table表格布局.md"
+    },
+    {
+      "basename": "Sass预处理器",
+      "path": "2.Areas/Frontend/Sass预处理器.md"
+    },
+    {
+      "basename": "PostCSS",
+      "path": "2.Areas/Frontend/PostCSS.md"
+    },
+    {
+      "basename": "Less预处理器",
+      "path": "2.Areas/Frontend/Less预处理器.md"
+    },
+    {
+      "basename": "JavaScript基础概念",
+      "path": "2.Areas/Frontend/JavaScript基础概念.md"
+    },
+    {
+      "basename": "JavaScript基础",
+      "path": "2.Areas/Frontend/JavaScript基础.md"
+    },
+    {
+      "basename": "inline-block布局",
+      "path": "2.Areas/Frontend/inline-block布局.md"
+    },
+    {
+      "basename": "HTML标签",
+      "path": "2.Areas/Frontend/HTML标签.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "float浮动+margin布局",
+      "path": "2.Areas/Frontend/float浮动+margin布局.md"
+    },
+    {
+      "basename": "flexbox布局",
+      "path": "2.Areas/Frontend/flexbox布局.md"
+    },
+    {
+      "basename": "CSS引入方式",
+      "path": "2.Areas/Frontend/CSS引入方式.md"
+    },
+    {
+      "basename": "CSS选择器",
+      "path": "2.Areas/Frontend/CSS选择器.md"
     },
     {
       "basename": "CSS基础概念",
       "path": "2.Areas/Frontend/CSS基础概念.md"
-    },
-    {
-      "basename": "CSS视觉与表现",
-      "path": "2.Areas/Frontend/CSS视觉与表现.md"
     },
     {
       "basename": "CSS工程化",
@@ -25,8 +81,20 @@
       "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
     },
     {
+      "basename": "CSS动画",
+      "path": "2.Areas/Frontend/CSS动画.md"
+    },
+    {
       "basename": "CSS层叠、继承、值计算",
       "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
+    },
+    {
+      "basename": "CSS布局系统",
+      "path": "2.Areas/Frontend/CSS布局系统.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "作用域",
@@ -131,74 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "复盘模板",
-      "path": "Templates/复盘模板.md"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily/2026-01月汇总.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "List Callout使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
-    },
-    {
-      "basename": "Inbox 面板搭建指南",
-      "path": "3.Resources/Inbox 面板搭建指南.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "HTML标签",
-      "path": "2.Areas/Frontend/HTML标签.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程索引",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
-      "basename": "@flomo-2026-02-01",
-      "path": "0.Inbox/@flomo-2026-02-01.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
-      "basename": "omisearch使用指南",
-      "path": "3.Resources/omisearch使用指南.md"
-    },
-    {
-      "basename": "obsidian双链",
-      "path": "2.Areas/Knowledge Management/obsidian双链.md"
-    },
-    {
-      "basename": "obsidian属性",
-      "path": "2.Areas/Knowledge Management/obsidian属性.md"
-    },
-    {
-      "basename": "obsidian收藏",
-      "path": "2.Areas/Knowledge Management/obsidian收藏.md"
-    },
-    {
-      "basename": "obsidian标签",
-      "path": "2.Areas/Knowledge Management/obsidian标签.md"
     }
   ],
   "omittedPaths": [],

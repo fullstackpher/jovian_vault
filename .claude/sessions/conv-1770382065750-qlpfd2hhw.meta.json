@@ -3,6 +3,17 @@
   "title": "优化这个笔记",
   "titleGenerationStatus": "failed",
   "createdAt": 1770382065750,
-  "updatedAt": 1770382088399,
-  "sessionId": null
+  "updatedAt": 1770382225198,
+  "lastResponseAt": 1770382146001,
+  "sessionId": null,
+  "currentNote": "2.Areas/Frontend/CSS工程化.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }
