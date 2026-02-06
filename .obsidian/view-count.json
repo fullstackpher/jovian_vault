@@ -725,7 +725,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 21,
-      "totalTimesOpened": 470,
+      "totalTimesOpened": 471,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2136,6 +2136,9 @@
         },
         {
           "timestampMillis": 1770353906109
+        },
+        {
+          "timestampMillis": 1770354572317
         }
       ]
     },
@@ -4649,7 +4652,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 13,
-      "totalTimesOpened": 38,
+      "totalTimesOpened": 40,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -4764,6 +4767,12 @@
         },
         {
           "timestampMillis": 1770352703962
+        },
+        {
+          "timestampMillis": 1770354476290
+        },
+        {
+          "timestampMillis": 1770354525909
         }
       ]
     },
@@ -6222,8 +6231,8 @@
     },
     {
       "path": "2.Areas/Frontend/Frontend知识体系总览.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1769665075914
@@ -6254,6 +6263,18 @@
         },
         {
           "timestampMillis": 1769761947161
+        },
+        {
+          "timestampMillis": 1770354518944
+        },
+        {
+          "timestampMillis": 1770354525220
+        },
+        {
+          "timestampMillis": 1770354530939
+        },
+        {
+          "timestampMillis": 1770354571356
         }
       ]
     },
@@ -9080,7 +9101,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9156,13 +9177,16 @@
         },
         {
           "timestampMillis": 1770354358098
+        },
+        {
+          "timestampMillis": 1770354466232
         }
       ]
     },
     {
       "path": "3.Resources/专注个人提升的obsidian标签体系.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770354279367
@@ -9175,6 +9199,22 @@
         },
         {
           "timestampMillis": 1770354362323
+        },
+        {
+          "timestampMillis": 1770354524206
+        },
+        {
+          "timestampMillis": 1770354569360
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/Frontend/日期对象.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770354589064
         }
       ]
     }

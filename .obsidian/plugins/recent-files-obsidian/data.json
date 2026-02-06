@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "日期对象",
+      "path": "2.Areas/Frontend/日期对象.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
       "basename": "专注个人提升的obsidian标签体系",
       "path": "3.Resources/专注个人提升的obsidian标签体系.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-02-06",
@@ -21,10 +37,6 @@
       "path": "7.Daily/每日日志/2026-02-02.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "obsidian收藏",
       "path": "2.Areas/Knowledge Management/obsidian收藏.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "obsidian双链",
       "path": "2.Areas/Knowledge Management/obsidian双链.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "0-Inbox",
@@ -191,14 +199,6 @@
     {
       "basename": "问题解决方案",
       "path": "Templates/问题解决方案.md"
-    },
-    {
-      "basename": "README",
-      "path": "8.Info/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "5.Zattchments/README.md"
     }
   ],
   "omittedPaths": [],

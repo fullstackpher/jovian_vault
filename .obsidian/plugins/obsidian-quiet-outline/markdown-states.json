@@ -6135,15 +6135,15 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 20.46323529411765,
+    "scroll": 41.926880182004446,
     "cursor": {
       "from": {
-        "line": 48,
-        "ch": 6
+        "line": 62,
+        "ch": 0
       },
       "to": {
-        "line": 48,
-        "ch": 6
+        "line": 62,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6471,7 +6471,7 @@
     "expandedKeys": []
   },
   "3.Resources/专注个人提升的obsidian标签体系.md": {
-    "scroll": 37.60447474131366,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 56,
@@ -6480,6 +6480,34 @@
       "to": {
         "line": 56,
         "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/Frontend知识体系总览.md": {
+    "scroll": 316.1539351016724,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/日期对象.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
