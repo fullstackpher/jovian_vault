@@ -5,6 +5,10 @@
       "path": "8.Info/0-Inbox.md"
     },
     {
+      "basename": "Claudian使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian属性",
       "path": "2.Areas/Knowledge Management/obsidian属性.md"
-    },
-    {
-      "basename": "obsidian双链",
-      "path": "2.Areas/Knowledge Management/obsidian双链.md"
     }
   ],
   "omittedPaths": [],

@@ -5,7 +5,7 @@
   "createdAt": 1769421971826,
   "updatedAt": 1769664600315,
   "lastResponseAt": 1769424647516,
-  "sessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
+  "sessionId": null,
   "sdkSessionId": "aeedb11c-9d7a-47cb-823b-b9330cd4d4fe",
   "usage": {
     "model": "MiniMax-M2.1",
