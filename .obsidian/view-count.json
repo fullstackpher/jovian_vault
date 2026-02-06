@@ -767,7 +767,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 21,
-      "totalTimesOpened": 485,
+      "totalTimesOpened": 486,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2223,6 +2223,9 @@
         },
         {
           "timestampMillis": 1770374192900
+        },
+        {
+          "timestampMillis": 1770380968847
         }
       ]
     },
@@ -2541,8 +2544,8 @@
     },
     {
       "path": "2.Areas/Frontend/HTML标签.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 41,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 42,
       "openLogs": [
         {
           "timestampMillis": 1768540015111
@@ -2666,6 +2669,9 @@
         },
         {
           "timestampMillis": 1768637131688
+        },
+        {
+          "timestampMillis": 1770380974071
         }
       ]
     },
@@ -5925,97 +5931,6 @@
       ]
     },
     {
-      "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 28,
-      "openLogs": [
-        {
-          "timestampMillis": 1769425094441
-        },
-        {
-          "timestampMillis": 1769425308171
-        },
-        {
-          "timestampMillis": 1769425348084
-        },
-        {
-          "timestampMillis": 1769425741405
-        },
-        {
-          "timestampMillis": 1769425970076
-        },
-        {
-          "timestampMillis": 1769494498411
-        },
-        {
-          "timestampMillis": 1769495871932
-        },
-        {
-          "timestampMillis": 1769495986794
-        },
-        {
-          "timestampMillis": 1769496046755
-        },
-        {
-          "timestampMillis": 1769496062711
-        },
-        {
-          "timestampMillis": 1769753908369
-        },
-        {
-          "timestampMillis": 1769753948800
-        },
-        {
-          "timestampMillis": 1769753981093
-        },
-        {
-          "timestampMillis": 1769765029688
-        },
-        {
-          "timestampMillis": 1769842091079
-        },
-        {
-          "timestampMillis": 1769850796849
-        },
-        {
-          "timestampMillis": 1769857532577
-        },
-        {
-          "timestampMillis": 1769864504426
-        },
-        {
-          "timestampMillis": 1770016443136
-        },
-        {
-          "timestampMillis": 1770034062946
-        },
-        {
-          "timestampMillis": 1770038192136
-        },
-        {
-          "timestampMillis": 1770038193399
-        },
-        {
-          "timestampMillis": 1770038193623
-        },
-        {
-          "timestampMillis": 1770049449592
-        },
-        {
-          "timestampMillis": 1770187365147
-        },
-        {
-          "timestampMillis": 1770355628055
-        },
-        {
-          "timestampMillis": 1770355731946
-        },
-        {
-          "timestampMillis": 1770380929879
-        }
-      ]
-    },
-    {
       "path": "0.Inbox/README.md",
       "uniqueDaysOpened": 8,
       "totalTimesOpened": 34,
@@ -6436,7 +6351,7 @@
     {
       "path": "2.Areas/Frontend/Frontend知识体系总览.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769665075914
@@ -6482,6 +6397,9 @@
         },
         {
           "timestampMillis": 1770356442188
+        },
+        {
+          "timestampMillis": 1770380986600
         }
       ]
     },
@@ -6954,7 +6872,7 @@
     {
       "path": "3.Resources/Inbox 面板搭建指南.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1769765688441
@@ -7015,6 +6933,9 @@
         },
         {
           "timestampMillis": 1770356457520
+        },
+        {
+          "timestampMillis": 1770381016080
         }
       ]
     },
@@ -9631,7 +9552,7 @@
     {
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1770355589823
@@ -9653,6 +9574,9 @@
         },
         {
           "timestampMillis": 1770380901116
+        },
+        {
+          "timestampMillis": 1770380961284
         }
       ]
     },

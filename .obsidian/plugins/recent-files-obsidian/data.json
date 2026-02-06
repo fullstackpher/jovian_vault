@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-01-27-笔记到系统的obsidian实践",
-      "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md"
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources/Inbox 面板搭建指南.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "HTML标签",
+      "path": "2.Areas/Frontend/HTML标签.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "Obsidian任务管理教程索引",
@@ -89,10 +101,6 @@
       "path": "8.Info/0-Inbox.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "Obsidian ReadItLater 插件使用教程",
       "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md"
     },
@@ -139,14 +147,6 @@
     {
       "basename": "2026-02-05",
       "path": "7.Daily/每日日志/2026-02-05.md"
-    },
-    {
-      "basename": "Inbox 面板搭建指南",
-      "path": "3.Resources/Inbox 面板搭建指南.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
     },
     {
       "basename": "obsidian图床搭建指南-2026-02",

@@ -5,11 +5,10 @@ created: 2026-01-30
 tags:
   - obsidian
   - inbox
-  - workflow
   - quick-capture
   - dataview
 创建时间: 2026-01-30T17:34
-更新时间: 2026-02-05T23:33
+更新时间: 2026-02-06T20:30
 ---
 
 # Obsidian Inbox 面板搭建指南

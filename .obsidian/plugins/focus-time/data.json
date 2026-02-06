@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 22452000,
-      "openCount": 340
+      "duration": 22458000,
+      "openCount": 341
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1227,8 +1227,8 @@
     "2.Areas/Frontend/Frontend知识体系总览.md": {
       "fileId": "1769761930279",
       "filePath": "2.Areas/Frontend/Frontend知识体系总览.md",
-      "duration": 96000,
-      "openCount": 9
+      "duration": 126000,
+      "openCount": 10
     },
     "2.Areas/Frontend/现代 CSS 新特性.md": {
       "fileId": "1769863062588",
@@ -1341,7 +1341,7 @@
     "3.Resources/Inbox 面板搭建指南.md": {
       "fileId": "1770188291913",
       "filePath": "3.Resources/Inbox 面板搭建指南.md",
-      "duration": 378000,
+      "duration": 390000,
       "openCount": 7
     },
     "4.Archives/README.md": {
@@ -1617,8 +1617,8 @@
     "8.Info/2026-01-27-笔记到系统的obsidian实践.md": {
       "fileId": "1769496079528",
       "filePath": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
-      "duration": 432000,
-      "openCount": 15
+      "duration": 438000,
+      "openCount": 16
     },
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
@@ -1851,8 +1851,8 @@
     "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
       "fileId": "1770355594291",
       "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
-      "duration": 126000,
-      "openCount": 5
+      "duration": 132000,
+      "openCount": 6
     },
     "未命名看板.md": {
       "fileId": "1770357010292",
@@ -1901,6 +1901,12 @@
       "filePath": "1.Projects/01-学习Java/学习Spring全家桶.md",
       "duration": 0,
       "openCount": 1
+    },
+    "2.Areas/Frontend/HTML标签.md": {
+      "fileId": "1770380978448",
+      "filePath": "2.Areas/Frontend/HTML标签.md",
+      "duration": 12000,
+      "openCount": 2
     }
   }
 }

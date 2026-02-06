@@ -6723,7 +6723,7 @@
     "expandedKeys": []
   },
   "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
-    "scroll": 85.5044277154251,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
@@ -6955,6 +6955,20 @@
       },
       "to": {
         "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/HTML标签.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },
