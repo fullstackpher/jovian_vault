@@ -6387,15 +6387,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 10.930207951863606,
+    "scroll": 1.309090909090909,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 20
+        "line": 25,
+        "ch": 0
       },
       "to": {
-        "line": 24,
-        "ch": 20
+        "line": 25,
+        "ch": 0
       }
     },
     "expandedKeys": []
