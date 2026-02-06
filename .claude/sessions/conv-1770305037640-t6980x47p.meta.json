@@ -3,11 +3,10 @@
   "title": "诊断图表问题并解决",
   "titleGenerationStatus": "success",
   "createdAt": 1770305037640,
-  "updatedAt": 1770305645310,
+  "updatedAt": 1770352722021,
   "lastResponseAt": 1770305645310,
   "sessionId": "8726e0e6-cc10-46ca-9558-89dbd92ab5fa",
   "sdkSessionId": "8726e0e6-cc10-46ca-9558-89dbd92ab5fa",
-  "currentNote": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 98,
