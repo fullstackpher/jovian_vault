@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS响应式设计",
+      "path": "2.Areas/Frontend/CSS响应式设计.md"
+    },
+    {
       "basename": "CSS视觉与表现",
       "path": "2.Areas/Frontend/CSS视觉与表现.md"
     },
     {
-      "basename": "CSS响应式设计",
-      "path": "2.Areas/Frontend/CSS响应式设计.md"
+      "basename": "CSS高级特性与新特性",
+      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
     },
     {
       "basename": "Window对象",
@@ -75,10 +79,6 @@
     {
       "basename": "CSS工程化",
       "path": "2.Areas/Frontend/CSS工程化.md"
-    },
-    {
-      "basename": "CSS高级特性与新特性",
-      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
     },
     {
       "basename": "CSS动画",
