@@ -294,7 +294,7 @@
     {
       "path": "2.Areas/Knowledge Management/obsidian标签.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 33,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -394,6 +394,9 @@
         },
         {
           "timestampMillis": 1770356939604
+        },
+        {
+          "timestampMillis": 1770357143349
         }
       ]
     },
@@ -3373,7 +3376,7 @@
     {
       "path": "1.Projects/03-学习前端/学习CSS.md",
       "uniqueDaysOpened": 10,
-      "totalTimesOpened": 57,
+      "totalTimesOpened": 58,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -3545,6 +3548,9 @@
         },
         {
           "timestampMillis": 1770355326480
+        },
+        {
+          "timestampMillis": 1770357217993
         }
       ]
     },
@@ -4733,7 +4739,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 13,
-      "totalTimesOpened": 41,
+      "totalTimesOpened": 42,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -4857,6 +4863,9 @@
         },
         {
           "timestampMillis": 1770355336913
+        },
+        {
+          "timestampMillis": 1770357232973
         }
       ]
     },
@@ -9275,7 +9284,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 33,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9375,6 +9384,12 @@
         },
         {
           "timestampMillis": 1770356923425
+        },
+        {
+          "timestampMillis": 1770357105209
+        },
+        {
+          "timestampMillis": 1770357346452
         }
       ]
     },
@@ -9429,10 +9444,13 @@
     {
       "path": "3.Resources/Clion使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770355535768
+        },
+        {
+          "timestampMillis": 1770357260865
         }
       ]
     },

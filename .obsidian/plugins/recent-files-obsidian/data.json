@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard使用指南",
-      "path": "8.Info/Dashboard使用指南.md"
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "Clion使用指南",
+      "path": "3.Resources/Clion使用指南.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1.Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "obsidian标签",
       "path": "2.Areas/Knowledge Management/obsidian标签.md"
     },
     {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
+      "basename": "Dashboard使用指南",
+      "path": "8.Info/Dashboard使用指南.md"
     },
     {
       "basename": "2026-02-05",
@@ -97,10 +109,6 @@
       "path": "7.Daily/每日日志/2026-01-16.md"
     },
     {
-      "basename": "Clion使用指南",
-      "path": "3.Resources/Clion使用指南.md"
-    },
-    {
       "basename": "SublimeText使用指南",
       "path": "3.Resources/SublimeText使用指南.md"
     },
@@ -141,16 +149,8 @@
       "path": "1.Projects/项目看板.md"
     },
     {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
       "basename": "学习HTML",
       "path": "1.Projects/03-学习前端/学习HTML.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1.Projects/03-学习前端/学习CSS.md"
     },
     {
       "basename": "整理obsidian",
