@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian任务管理教程索引",
+      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
+    },
+    {
+      "basename": "盒模型",
+      "path": "2.Areas/Frontend/盒模型.md"
+    },
+    {
+      "basename": "实用代码片段",
+      "path": "Templates/实用代码片段.md"
+    },
+    {
+      "basename": "2026-01-16",
+      "path": "7.Daily/每日日志/2026-01-16.md"
+    },
+    {
+      "basename": "Clion使用指南",
+      "path": "3.Resources/Clion使用指南.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "SublimeText使用指南",
+      "path": "3.Resources/SublimeText使用指南.md"
+    },
+    {
+      "basename": "Calendar使用指南",
+      "path": "3.Resources/Calendar使用指南.md"
+    },
+    {
+      "basename": "专注个人提升的obsidian标签体系",
+      "path": "3.Resources/专注个人提升的obsidian标签体系.md"
+    },
+    {
+      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
+      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
+    },
+    {
+      "basename": "开发工具汇总",
+      "path": "3.Resources/开发工具汇总.md"
+    },
+    {
+      "basename": "面向对象",
+      "path": "2.Areas/Frontend/面向对象.md"
+    },
+    {
       "basename": "边框与圆角",
       "path": "2.Areas/Frontend/边框与圆角.md"
     },
@@ -53,20 +105,8 @@
       "path": "2.Areas/Frontend/日期对象.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "Frontend知识体系总览",
       "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "专注个人提升的obsidian标签体系",
-      "path": "3.Resources/专注个人提升的obsidian标签体系.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
     },
     {
       "basename": "obsidian标签",
@@ -159,46 +199,6 @@
     {
       "basename": "QuickAdd配置指南",
       "path": "8.Info/QuickAdd配置指南.md"
-    },
-    {
-      "basename": "README",
-      "path": "7.Daily/README.md"
-    },
-    {
-      "basename": "日报模版",
-      "path": "Templates/日报模版.md"
-    },
-    {
-      "basename": "面试题八股文",
-      "path": "Templates/面试题八股文.md"
-    },
-    {
-      "basename": "模板-视频收藏",
-      "path": "Templates/模板-视频收藏.md"
-    },
-    {
-      "basename": "技术概念卡片",
-      "path": "Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "2026-01月汇总",
-      "path": "7.Daily/2026-01月汇总.md"
-    },
-    {
-      "basename": "2026-01-31",
-      "path": "7.Daily/每日日志/2026-01-31.md"
-    },
-    {
-      "basename": "2026-01-30",
-      "path": "7.Daily/每日日志/2026-01-30.md"
-    },
-    {
-      "basename": "本月安排",
-      "path": "8.Info/本月安排.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1.Projects/01-学习Java/学习JavaEE.md"
     }
   ],
   "omittedPaths": [],

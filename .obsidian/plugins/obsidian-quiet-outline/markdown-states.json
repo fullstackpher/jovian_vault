@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 198.40631186036566,
     "cursor": {
       "from": {
         "line": 91,
@@ -6555,7 +6555,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/包装类型.md": {
-    "scroll": 59.2720573275697,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 151,
@@ -6569,7 +6569,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/背景.md": {
-    "scroll": 81.69467077602525,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
@@ -6598,6 +6598,132 @@
   },
   "2.Areas/Frontend/边框与圆角.md": {
     "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/面向对象.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/开发工具汇总.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Calendar使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/SublimeText使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Clion使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-01-16.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/盒模型.md": {
+    "scroll": 117.69444020589192,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
+    "scroll": 85.5044277154251,
     "cursor": {
       "from": {
         "line": 10,
