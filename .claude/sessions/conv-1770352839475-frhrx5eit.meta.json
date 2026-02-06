@@ -3,11 +3,10 @@
   "title": "Complete Note Entry",
   "titleGenerationStatus": "success",
   "createdAt": 1770352839475,
-  "updatedAt": 1770352936699,
+  "updatedAt": 1770353316902,
   "lastResponseAt": 1770352936699,
   "sessionId": "fbd70057-0536-45f8-9257-50e3bc230ff4",
   "sdkSessionId": "fbd70057-0536-45f8-9257-50e3bc230ff4",
-  "currentNote": "2.Areas/Knowledge Management/obsidian收藏.md",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 337,

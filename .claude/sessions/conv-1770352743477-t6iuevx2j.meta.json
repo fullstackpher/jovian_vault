@@ -3,11 +3,10 @@
   "title": "Link Project Tasks in Diary TODOs",
   "titleGenerationStatus": "success",
   "createdAt": 1770352743477,
-  "updatedAt": 1770352762816,
+  "updatedAt": 1770353318401,
   "lastResponseAt": 1770352762816,
   "sessionId": "d03a45cb-e8f5-46a7-8b7f-f1c91377810f",
   "sdkSessionId": "d03a45cb-e8f5-46a7-8b7f-f1c91377810f",
-  "currentNote": "7.Daily/每日日志/2026-02-06.md",
   "usage": {
     "model": "MiniMax-M2.1",
     "inputTokens": 635,
