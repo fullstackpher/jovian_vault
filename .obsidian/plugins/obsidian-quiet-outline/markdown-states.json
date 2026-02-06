@@ -6763,5 +6763,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "3.Resources/Excalidraw插件使用指南.md": {
+    "scroll": 343.9604483240801,
+    "cursor": {
+      "from": {
+        "line": 360,
+        "ch": 0
+      },
+      "to": {
+        "line": 360,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/obsidian图床搭建指南-2026-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

@@ -1,9 +1,8 @@
 ---
 创建时间: 2026-01-15T19:48
-更新时间: 2026-02-02T22:07
+更新时间: 2026-02-06T13:40
 tags:
-  - image-auto-upload
-  - picgo
+  - tools/picgo
   - 图床
   - "#obsidian/plugin"
 ---

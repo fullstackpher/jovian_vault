@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian任务管理教程索引",
+      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
+    },
+    {
+      "basename": "Inbox 面板搭建指南",
+      "path": "3.Resources/Inbox 面板搭建指南.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "obsidian图床搭建指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/obsidian图床搭建指南-2026-02.md"
+    },
+    {
+      "basename": "Excalidraw插件使用指南",
+      "path": "3.Resources/Excalidraw插件使用指南.md"
+    },
+    {
+      "basename": "2026-01月汇总",
+      "path": "7.Daily/2026-01月汇总.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "原型构造函数对象之间的关系图",
+      "path": "Excalidraw/原型构造函数对象之间的关系图.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
     },
@@ -11,14 +43,6 @@
     {
       "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
       "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程索引",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
     },
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
@@ -129,10 +153,6 @@
       "path": "2.Areas/Frontend/日期对象.md"
     },
     {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
       "basename": "obsidian标签",
       "path": "2.Areas/Knowledge Management/obsidian标签.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2026-01-12",
       "path": "7.Daily/每日日志/2026-01-12.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "Templates/项目模版.md"
-    },
-    {
-      "basename": "复盘模板",
-      "path": "Templates/复盘模板.md"
-    },
-    {
-      "basename": "局部截取_20260205_232320",
-      "path": "5.Zattchments/图片/截图/局部截取_20260205_232320.png"
-    },
-    {
-      "basename": "2026-02-02-屏幕截图",
-      "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
     }
   ],
   "omittedPaths": [],

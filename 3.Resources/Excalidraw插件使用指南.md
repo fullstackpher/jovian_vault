@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-17T20:02
-更新时间: 2026-02-05T23:28
+更新时间: 2026-02-06T13:39
 tags:
   - "#excalidraw"
   - "#绘图"
@@ -352,12 +352,12 @@ alignElements(app.selectedElements, 'left');
 
 ### 画布设置
 
-| 选项 | 说明 | 默认值 |
+| 选项 | 说明 | 默认值         |
 |------|------|--------|
 | Default folder | 默认保存文件夹 | excalidraw/ |
-| Canvas size | 默认画布尺寸 | 1920x1080 |
-| Background color | 背景颜色 | #ffffff |
-| Grid size | 网格大小 | 10px |
+| Canvas size | 默认画布尺寸 | 1920x1080   |
+| Background color | 背景颜色 | `#ffffff`   |
+| Grid size | 网格大小 | 10px        |
 
 ### 样式设置
 
