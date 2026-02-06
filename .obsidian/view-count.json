@@ -2218,8 +2218,8 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习HTML.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 27,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1768538740239
@@ -2301,13 +2301,16 @@
         },
         {
           "timestampMillis": 1769866484574
+        },
+        {
+          "timestampMillis": 1770355335384
         }
       ]
     },
     {
       "path": "1.Projects/项目看板.md",
-      "uniqueDaysOpened": 14,
-      "totalTimesOpened": 44,
+      "uniqueDaysOpened": 15,
+      "totalTimesOpened": 45,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -2440,6 +2443,9 @@
         },
         {
           "timestampMillis": 1770304838361
+        },
+        {
+          "timestampMillis": 1770355349211
         }
       ]
     },
@@ -3327,8 +3333,8 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 56,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 57,
       "openLogs": [
         {
           "timestampMillis": 1768559266453
@@ -3497,6 +3503,9 @@
         },
         {
           "timestampMillis": 1769866482895
+        },
+        {
+          "timestampMillis": 1770355326480
         }
       ]
     },
@@ -4655,7 +4664,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 13,
-      "totalTimesOpened": 40,
+      "totalTimesOpened": 41,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -4776,6 +4785,9 @@
         },
         {
           "timestampMillis": 1770354525909
+        },
+        {
+          "timestampMillis": 1770355336913
         }
       ]
     },
@@ -6286,8 +6298,8 @@
     },
     {
       "path": "2.Areas/Frontend/包装类型.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769666208059
@@ -6306,6 +6318,9 @@
         },
         {
           "timestampMillis": 1769688871798
+        },
+        {
+          "timestampMillis": 1770355355082
         }
       ]
     },

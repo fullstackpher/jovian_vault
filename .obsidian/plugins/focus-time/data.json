@@ -1113,20 +1113,20 @@
     "1.Projects/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
       "filePath": "1.Projects/03-学习前端/学习CSS.md",
-      "duration": 30000,
-      "openCount": 8
+      "duration": 36000,
+      "openCount": 9
     },
     "1.Projects/03-学习前端/学习HTML.md": {
       "fileId": "1769866488025",
       "filePath": "1.Projects/03-学习前端/学习HTML.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 6000,
+      "openCount": 2
     },
     "1.Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects/03-学习前端/学习JavaScript.md",
-      "duration": 2238000,
-      "openCount": 40
+      "duration": 2250000,
+      "openCount": 41
     },
     "1.Projects/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
@@ -1143,8 +1143,8 @@
     "1.Projects/项目看板.md": {
       "fileId": "1769756608307",
       "filePath": "1.Projects/项目看板.md",
-      "duration": 126000,
-      "openCount": 24
+      "duration": 132000,
+      "openCount": 25
     },
     "2.Areas/Frontend/背景.md": {
       "fileId": "1768805305769",
@@ -1811,6 +1811,12 @@
       "filePath": "2.Areas/Frontend/日期对象.md",
       "duration": 702000,
       "openCount": 2
+    },
+    "2.Areas/Frontend/包装类型.md": {
+      "fileId": "1770355360285",
+      "filePath": "2.Areas/Frontend/包装类型.md",
+      "duration": 12000,
+      "openCount": 1
     }
   }
 }

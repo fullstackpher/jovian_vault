@@ -3,17 +3,17 @@
   "title": "Replace Obsidian Library Tags",
   "titleGenerationStatus": "success",
   "createdAt": 1770354665187,
-  "updatedAt": 1770354828470,
-  "lastResponseAt": 1770354828470,
+  "updatedAt": 1770355349109,
+  "lastResponseAt": 1770355349109,
   "sessionId": "de020a0c-9de6-450e-b884-9b600d889f81",
   "sdkSessionId": "de020a0c-9de6-450e-b884-9b600d889f81",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 84,
-    "cacheCreationInputTokens": 399,
-    "cacheReadInputTokens": 25958,
+    "inputTokens": 484,
+    "cacheCreationInputTokens": 394,
+    "cacheReadInputTokens": 73787,
     "contextWindow": 200000,
-    "contextTokens": 26441,
-    "percentage": 13
+    "contextTokens": 74665,
+    "percentage": 37
   }
 }

@@ -6135,7 +6135,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 41.926880182004446,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 62,
@@ -6535,6 +6535,34 @@
       },
       "to": {
         "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/03-学习前端/学习HTML.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/包装类型.md": {
+    "scroll": 92.31331484925514,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
         "ch": 0
       }
     },
