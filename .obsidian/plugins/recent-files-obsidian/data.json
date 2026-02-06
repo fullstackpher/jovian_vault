@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "学习CSS",
+      "path": "1.Projects/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "整理obsidian",
+      "path": "1.Projects/02-知识管理/整理obsidian.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "README",
+      "path": "0.Inbox/README.md"
+    },
+    {
+      "basename": "@flomo-2026-02-01",
+      "path": "0.Inbox/@flomo-2026-02-01.md"
+    },
+    {
       "basename": "日期对象",
       "path": "2.Areas/Frontend/日期对象.md"
     },
@@ -85,10 +105,6 @@
       "path": "Templates/复盘模板.md"
     },
     {
-      "basename": "整理obsidian",
-      "path": "1.Projects/02-知识管理/整理obsidian.md"
-    },
-    {
       "basename": "局部截取_20260205_232320",
       "path": "5.Zattchments/图片/截图/局部截取_20260205_232320.png"
     },
@@ -101,20 +117,12 @@
       "path": "1.Projects/项目看板.md"
     },
     {
-      "basename": "学习Obsidian",
-      "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
       "basename": "List Callout使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
     },
     {
       "basename": "QuickAdd使用指南",
       "path": "3.Resources/QuickAdd使用指南.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox/README.md"
     },
     {
       "basename": "Inbox 面板搭建指南",
@@ -191,14 +199,6 @@
     {
       "basename": "实用代码片段",
       "path": "Templates/实用代码片段.md"
-    },
-    {
-      "basename": "项目开发记录",
-      "path": "Templates/项目开发记录.md"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "Templates/问题解决方案.md"
     }
   ],
   "omittedPaths": [],

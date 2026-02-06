@@ -503,8 +503,8 @@
     },
     {
       "path": "1.Projects/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 31,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -598,6 +598,9 @@
         },
         {
           "timestampMillis": 1770214487121
+        },
+        {
+          "timestampMillis": 1770355304812
         }
       ]
     },
@@ -5819,8 +5822,8 @@
     },
     {
       "path": "0.Inbox/README.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 33,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1769495519401
@@ -5920,6 +5923,9 @@
         },
         {
           "timestampMillis": 1770213284099
+        },
+        {
+          "timestampMillis": 1770355298497
         }
       ]
     },
@@ -8170,8 +8176,8 @@
     },
     {
       "path": "0.Inbox/@flomo-2026-02-01.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1769927167532
@@ -8184,6 +8190,9 @@
         },
         {
           "timestampMillis": 1769942564785
+        },
+        {
+          "timestampMillis": 1770355296622
         }
       ]
     },
@@ -9026,11 +9035,14 @@
     },
     {
       "path": "1.Projects/02-知识管理/整理obsidian.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770305811431
+        },
+        {
+          "timestampMillis": 1770355314970
         }
       ]
     },

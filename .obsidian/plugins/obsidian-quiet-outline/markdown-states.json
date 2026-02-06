@@ -6233,7 +6233,7 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 0,
+    "scroll": 45.7421985306671,
     "cursor": {
       "from": {
         "line": 60,
@@ -6507,6 +6507,34 @@
       },
       "to": {
         "line": 71,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/@flomo-2026-02-01.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/03-学习前端/学习CSS.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
         "ch": 0
       }
     },
