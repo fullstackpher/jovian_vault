@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "边框与圆角",
+      "path": "2.Areas/Frontend/边框与圆角.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "2.Areas/Frontend/闭包.md"
+    },
+    {
+      "basename": "背景",
+      "path": "2.Areas/Frontend/背景.md"
+    },
+    {
       "basename": "包装类型",
       "path": "2.Areas/Frontend/包装类型.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "学习JavaEE",
       "path": "1.Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程1-任务管理全流程",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
-    },
-    {
-      "basename": "2026-01-15",
-      "path": "7.Daily/每日日志/2026-01-15.md"
-    },
-    {
-      "basename": "2026-01-14",
-      "path": "7.Daily/每日日志/2026-01-14.md"
     }
   ],
   "omittedPaths": [],
