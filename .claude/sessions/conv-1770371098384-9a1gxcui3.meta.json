@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770371098384-9a1gxcui3",
+  "title": "你了解一下整个仓库，然后告诉我你了解了什么",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1770371098384,
+  "updatedAt": 1770372944162,
+  "lastResponseAt": 1770372944162,
+  "sessionId": "f75a7b61-b4cf-4d66-a7b7-e76385632854",
+  "sdkSessionId": "f75a7b61-b4cf-4d66-a7b7-e76385632854",
+  "currentNote": "8.Info/0-Inbox.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
