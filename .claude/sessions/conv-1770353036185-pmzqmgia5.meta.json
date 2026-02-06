@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770353036185-pmzqmgia5",
+  "title": "补充嵌套标签管理示例",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770353036185,
+  "updatedAt": 1770353117612,
+  "lastResponseAt": 1770353117612,
+  "sessionId": "c9517faf-b2b6-4e28-b375-2e125371e920",
+  "sdkSessionId": "c9517faf-b2b6-4e28-b375-2e125371e920",
+  "currentNote": "2.Areas/Knowledge Management/obsidian标签.md",
+  "usage": {
+    "model": "MiniMax-M2.1",
+    "inputTokens": 1816,
+    "cacheCreationInputTokens": 3517,
+    "cacheReadInputTokens": 17543,
+    "contextWindow": 200000,
+    "contextTokens": 22876,
+    "percentage": 11
+  }
+}

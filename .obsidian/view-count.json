@@ -294,7 +294,7 @@
     {
       "path": "2.Areas/Knowledge Management/obsidian标签.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -376,6 +376,9 @@
         },
         {
           "timestampMillis": 1770352962281
+        },
+        {
+          "timestampMillis": 1770353144056
         }
       ]
     },
