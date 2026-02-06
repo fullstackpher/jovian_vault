@@ -6233,7 +6233,7 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 45.7421985306671,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 60,
@@ -6401,7 +6401,7 @@
     "expandedKeys": []
   },
   "2.Areas/Knowledge Management/obsidian双链.md": {
-    "scroll": 36.12481357864387,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 50,
@@ -6446,11 +6446,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 6,
         "ch": 0
       }
     },
@@ -6914,6 +6914,48 @@
       "to": {
         "line": 14,
         "ch": 54
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/omisearch使用指南.md": {
+    "scroll": 83.40808928246592,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/01-学习Java/学习JavaSE.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/01-学习Java/学习Spring全家桶.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
       }
     },
     "expandedKeys": []
