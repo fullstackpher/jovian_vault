@@ -7087,7 +7087,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/CSS布局系统.md": {
-    "scroll": 27.21691109152401,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
@@ -7171,7 +7171,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/响应式图片.md": {
-    "scroll": 0,
+    "scroll": 82.86723557692308,
     "cursor": {
       "from": {
         "line": 11,
@@ -7179,6 +7179,90 @@
       },
       "to": {
         "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/邂逅JavaScript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/行内元素与块元素.md": {
+    "scroll": 10.18913433598537,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/原型与原型链.md": {
+    "scroll": 153.52795719021634,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/运算符.md": {
+    "scroll": 224.67933048921472,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/值类型和引用类型.md": {
+    "scroll": 12.00104655808207,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/作用域.md": {
+    "scroll": 44.43968844427114,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },

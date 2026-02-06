@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2.Areas/Frontend/CSS布局系统.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "2.Areas/Frontend/作用域.md"
+    },
+    {
+      "basename": "值类型和引用类型",
+      "path": "2.Areas/Frontend/值类型和引用类型.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "2.Areas/Frontend/运算符.md"
+    },
+    {
+      "basename": "原型与原型链",
+      "path": "2.Areas/Frontend/原型与原型链.md"
+    },
+    {
+      "basename": "行内元素与块元素",
+      "path": "2.Areas/Frontend/行内元素与块元素.md"
+    },
+    {
+      "basename": "邂逅JavaScript",
+      "path": "2.Areas/Frontend/邂逅JavaScript.md"
+    },
+    {
       "basename": "响应式图片",
       "path": "2.Areas/Frontend/响应式图片.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "CSS层叠、继承、值计算",
       "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2.Areas/Frontend/CSS布局系统.md"
     },
     {
       "basename": "包装类型",
@@ -175,30 +199,6 @@
     {
       "basename": "学习CSS",
       "path": "1.Projects/03-学习前端/学习CSS.md"
-    },
-    {
-      "basename": "整理obsidian",
-      "path": "1.Projects/02-知识管理/整理obsidian.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "学习Spring全家桶",
-      "path": "1.Projects/01-学习Java/学习Spring全家桶.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1.Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1.Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     }
   ],
   "omittedPaths": [],

@@ -1186,7 +1186,7 @@
       "fileId": "1768974639239",
       "filePath": "2.Areas/Frontend/响应式图片.md",
       "duration": 72000,
-      "openCount": 11
+      "openCount": 12
     },
     "2.Areas/Frontend/CSS层叠、继承、值计算.md": {
       "fileId": "1768708073051",
@@ -1239,7 +1239,7 @@
     "2.Areas/Frontend/CSS布局系统.md": {
       "fileId": "1769863070724",
       "filePath": "2.Areas/Frontend/CSS布局系统.md",
-      "duration": 18000,
+      "duration": 78000,
       "openCount": 3
     },
     "2.Areas/Frontend/CSS视觉与表现.md": {
@@ -1955,6 +1955,42 @@
       "filePath": "2.Areas/Frontend/CSS高级特性与新特性.md",
       "duration": 24000,
       "openCount": 2
+    },
+    "2.Areas/Frontend/邂逅JavaScript.md": {
+      "fileId": "1770381908449",
+      "filePath": "2.Areas/Frontend/邂逅JavaScript.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "2.Areas/Frontend/行内元素与块元素.md": {
+      "fileId": "1770381912549",
+      "filePath": "2.Areas/Frontend/行内元素与块元素.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "2.Areas/Frontend/原型与原型链.md": {
+      "fileId": "1770381914444",
+      "filePath": "2.Areas/Frontend/原型与原型链.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "2.Areas/Frontend/运算符.md": {
+      "fileId": "1770381926445",
+      "filePath": "2.Areas/Frontend/运算符.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "2.Areas/Frontend/值类型和引用类型.md": {
+      "fileId": "1770381938447",
+      "filePath": "2.Areas/Frontend/值类型和引用类型.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "2.Areas/Frontend/作用域.md": {
+      "fileId": "1770381950628",
+      "filePath": "2.Areas/Frontend/作用域.md",
+      "duration": 6000,
+      "openCount": 1
     }
   }
 }
