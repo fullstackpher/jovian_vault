@@ -5927,7 +5927,7 @@
     {
       "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
       "uniqueDaysOpened": 8,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -6009,6 +6009,9 @@
         },
         {
           "timestampMillis": 1770355731946
+        },
+        {
+          "timestampMillis": 1770380929879
         }
       ]
     },
@@ -9628,7 +9631,7 @@
     {
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1770355589823
@@ -9641,6 +9644,15 @@
         },
         {
           "timestampMillis": 1770356506434
+        },
+        {
+          "timestampMillis": 1770380885803
+        },
+        {
+          "timestampMillis": 1770380894820
+        },
+        {
+          "timestampMillis": 1770380901116
         }
       ]
     },
