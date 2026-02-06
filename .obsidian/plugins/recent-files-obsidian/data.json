@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS动画",
+      "path": "2.Areas/Frontend/CSS动画.md"
+    },
+    {
       "basename": "CSS布局系统",
       "path": "2.Areas/Frontend/CSS布局系统.md"
+    },
+    {
+      "basename": "CSS基础概念",
+      "path": "2.Areas/Frontend/CSS基础概念.md"
+    },
+    {
+      "basename": "CSS视觉与表现",
+      "path": "2.Areas/Frontend/CSS视觉与表现.md"
+    },
+    {
+      "basename": "CSS工程化",
+      "path": "2.Areas/Frontend/CSS工程化.md"
+    },
+    {
+      "basename": "CSS高级特性与新特性",
+      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
+    },
+    {
+      "basename": "CSS层叠、继承、值计算",
+      "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
     },
     {
       "basename": "作用域",
@@ -43,18 +67,6 @@
     {
       "basename": "现代 CSS 新特性",
       "path": "2.Areas/Frontend/现代 CSS 新特性.md"
-    },
-    {
-      "basename": "CSS高级特性与新特性",
-      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
-    },
-    {
-      "basename": "CSS动画",
-      "path": "2.Areas/Frontend/CSS动画.md"
-    },
-    {
-      "basename": "CSS层叠、继承、值计算",
-      "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
     },
     {
       "basename": "包装类型",
@@ -187,18 +199,6 @@
     {
       "basename": "obsidian标签",
       "path": "2.Areas/Knowledge Management/obsidian标签.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "学习HTML",
-      "path": "1.Projects/03-学习前端/学习HTML.md"
-    },
-    {
-      "basename": "学习CSS",
-      "path": "1.Projects/03-学习前端/学习CSS.md"
     }
   ],
   "omittedPaths": [],
