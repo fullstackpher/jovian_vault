@@ -6387,7 +6387,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 12.707986068725585,
+    "scroll": 36.5909894396737,
     "cursor": {
       "from": {
         "line": 25,
@@ -6857,6 +6857,62 @@
       },
       "to": {
         "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Article 2026-02-06 13-43-47.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
+    "scroll": 389.0247054754519,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 32
+      },
+      "to": {
+        "line": 8,
+        "ch": 32
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Obsidian ReadItLater 插件使用教程.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
+    "scroll": 5.60629909245048,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

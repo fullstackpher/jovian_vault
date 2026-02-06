@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-06T13:32
-更新时间: 2026-02-06T13:32
+更新时间: 2026-02-06T18:31
 ---
 [[ReadItLater]] [[Article]]
 
@@ -35,11 +35,11 @@ Claudian是连接Obsidian和Claude Code的桥接插件，实现两个工具的�
 
 将下载的三个文件复制到上述目录
 
-![](ReadItLater%20Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-nWiyrOwdWk.png)
+![](从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-nWiyrOwdWk.png)
 
 打开Obsidian设置面板：`Settings → Community plugins → Enable "Claudian"`
 
-![](ReadItLater%20Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-P3Tg8LWkl4.png)
+![](从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-P3Tg8LWkl4.png)
 
 启用后，左侧边栏会出现机器人图标按钮，点击可在右侧面板与Claude实时对话
 
@@ -73,7 +73,7 @@ cp -r awesome-skill ~/.claude/skills/
 
 我采用的目录结构结合了**杜威十进制分类法**和**PARA方法论**（Project、Area、Resource、Archive），根据工作内容定制。
 
-![](ReadItLater%20Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-gfLg5ZAx15.png)
+![](从笔记到系统，手把手教你用Obsidian+Claude%20Code搭建个人知识管理系统%20-%20苏米客-gfLg5ZAx15.png)
 
 **目录结构示例：**
 

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian ReadItLater 插件使用教程",
+      "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md"
+    },
+    {
+      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
+      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "技术概念卡片",
       "path": "Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md"
     },
     {
       "basename": "Clion使用指南",
@@ -105,16 +113,12 @@
       "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
     },
     {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa",
-      "path": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
+      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
     },
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt",
-      "path": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png"
+      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png"
     },
     {
       "basename": "2026-01-27-笔记到系统的obsidian实践",
@@ -195,10 +199,6 @@
     {
       "basename": "@flomo-2026-02-01",
       "path": "0.Inbox/@flomo-2026-02-01.md"
-    },
-    {
-      "basename": "日期对象",
-      "path": "2.Areas/Frontend/日期对象.md"
     }
   ],
   "omittedPaths": [],

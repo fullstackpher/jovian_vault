@@ -9555,7 +9555,7 @@
       ]
     },
     {
-      "path": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png",
+      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -9565,7 +9565,7 @@
       ]
     },
     {
-      "path": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
+      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -9575,28 +9575,47 @@
       ]
     },
     {
-      "path": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
+      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770355958086
         },
         {
           "timestampMillis": 1770356060666
+        },
+        {
+          "timestampMillis": 1770373928929
         }
       ]
     },
     {
-      "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md",
+      "path": "0.Inbox/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
         },
         {
           "timestampMillis": 1770357516847
+        },
+        {
+          "timestampMillis": 1770373926012
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770373973343
+        },
+        {
+          "timestampMillis": 1770374027705
         }
       ]
     }
