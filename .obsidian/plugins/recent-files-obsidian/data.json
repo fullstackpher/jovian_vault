@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "日报模版",
+      "path": "Templates/日报模版.md"
+    },
+    {
+      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
+      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
+    },
+    {
+      "basename": "@flomo-2026-02-01",
+      "path": "0.Inbox/@flomo-2026-02-01.md"
+    },
+    {
+      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
+      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
+    },
+    {
       "basename": "omisearch使用指南",
       "path": "3.Resources/omisearch使用指南.md"
     },
@@ -67,14 +87,6 @@
     {
       "basename": "Obsidian ReadItLater 插件使用教程",
       "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
     },
     {
       "basename": "2026-02-06",
@@ -153,10 +165,6 @@
       "path": "3.Resources/QuickAdd使用指南.md"
     },
     {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa",
       "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Calendar使用指南",
       "path": "3.Resources/Calendar使用指南.md"
-    },
-    {
-      "basename": "专注个人提升的obsidian标签体系",
-      "path": "3.Resources/专注个人提升的obsidian标签体系.md"
-    },
-    {
-      "basename": "开发工具汇总",
-      "path": "3.Resources/开发工具汇总.md"
     }
   ],
   "omittedPaths": [],

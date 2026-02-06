@@ -3711,8 +3711,8 @@
     },
     {
       "path": "Templates/日报模版.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 37,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 38,
       "openLogs": [
         {
           "timestampMillis": 1768649138880
@@ -3824,6 +3824,9 @@
         },
         {
           "timestampMillis": 1770210450582
+        },
+        {
+          "timestampMillis": 1770380789014
         }
       ]
     },
@@ -8414,7 +8417,7 @@
     {
       "path": "0.Inbox/@flomo-2026-02-01.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1769927167532
@@ -8430,13 +8433,19 @@
         },
         {
           "timestampMillis": 1770355296622
+        },
+        {
+          "timestampMillis": 1770380526355
+        },
+        {
+          "timestampMillis": 1770380530016
         }
       ]
     },
     {
       "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769927558491
@@ -8473,6 +8482,18 @@
         },
         {
           "timestampMillis": 1770356148331
+        },
+        {
+          "timestampMillis": 1770380563472
+        },
+        {
+          "timestampMillis": 1770380642695
+        },
+        {
+          "timestampMillis": 1770380663644
+        },
+        {
+          "timestampMillis": 1770380774701
         }
       ]
     },
@@ -9646,7 +9667,7 @@
     {
       "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770355958086
@@ -9656,13 +9677,16 @@
         },
         {
           "timestampMillis": 1770373928929
+        },
+        {
+          "timestampMillis": 1770380523154
         }
       ]
     },
     {
       "path": "0.Inbox/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -9672,6 +9696,9 @@
         },
         {
           "timestampMillis": 1770373926012
+        },
+        {
+          "timestampMillis": 1770380520017
         }
       ]
     },
