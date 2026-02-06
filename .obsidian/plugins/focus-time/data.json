@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 21690000,
-      "openCount": 331
+      "openCount": 332
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1569,8 +1569,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 5220000,
-      "openCount": 111
+      "duration": 5226000,
+      "openCount": 112
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -1797,8 +1797,8 @@
     "7.Daily/每日日志/2026-02-06.md": {
       "fileId": "1770350570264",
       "filePath": "7.Daily/每日日志/2026-02-06.md",
-      "duration": 534000,
-      "openCount": 4
+      "duration": 618000,
+      "openCount": 5
     }
   }
 }

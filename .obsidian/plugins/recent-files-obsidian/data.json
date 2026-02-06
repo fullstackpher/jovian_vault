@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-02-05",
@@ -31,10 +35,6 @@
     {
       "basename": "待处理区",
       "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "2026-01-12",
