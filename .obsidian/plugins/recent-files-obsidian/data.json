@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard使用指南",
+      "path": "8.Info/Dashboard使用指南.md"
+    },
+    {
+      "basename": "obsidian标签",
+      "path": "2.Areas/Knowledge Management/obsidian标签.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "2026-02-05",
+      "path": "7.Daily/每日日志/2026-02-05.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily/每日日志/2026-02-02.md"
     },
     {
       "basename": "Article 2026-02-06 13-43-47",
@@ -157,18 +173,6 @@
       "path": "2.Areas/Frontend/日期对象.md"
     },
     {
-      "basename": "obsidian标签",
-      "path": "2.Areas/Knowledge Management/obsidian标签.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "7.Daily/每日日志/2026-02-05.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "7.Daily/每日日志/2026-02-02.md"
-    },
-    {
       "basename": "obsidian收藏",
       "path": "2.Areas/Knowledge Management/obsidian收藏.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "2026-02-03",
       "path": "7.Daily/每日日志/2026-02-03.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "7.Daily/每日日志/2026-02-04.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
     }
   ],
   "omittedPaths": [],

@@ -5975,15 +5975,15 @@
     "expandedKeys": []
   },
   "8.Info/Dashboard使用指南.md": {
-    "scroll": 0,
+    "scroll": 52.49346108530082,
     "cursor": {
       "from": {
-        "line": 71,
-        "ch": 26
+        "line": 65,
+        "ch": 30
       },
       "to": {
-        "line": 71,
-        "ch": 26
+        "line": 65,
+        "ch": 30
       }
     },
     "expandedKeys": []
@@ -6303,15 +6303,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-02.md": {
-    "scroll": 0,
+    "scroll": 8.993464002422257,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 10
+        "line": 24,
+        "ch": 0
       },
       "to": {
-        "line": 25,
-        "ch": 10
+        "line": 24,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6387,7 +6387,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 0,
+    "scroll": 11.86354128519694,
     "cursor": {
       "from": {
         "line": 25,
@@ -6415,15 +6415,15 @@
     "expandedKeys": []
   },
   "2.Areas/Knowledge Management/obsidian标签.md": {
-    "scroll": 112.83333196559875,
+    "scroll": 159.82393631280638,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 6
+        "line": 128,
+        "ch": 20
       },
       "to": {
-        "line": 8,
-        "ch": 6
+        "line": 128,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -6802,6 +6802,20 @@
       "to": {
         "line": 4,
         "ch": 27
+      }
+    },
+    "expandedKeys": []
+  },
+  "未命名看板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

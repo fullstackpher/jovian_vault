@@ -1263,8 +1263,8 @@
     "2.Areas/Knowledge Management/obsidian标签.md": {
       "fileId": "1770035360574",
       "filePath": "2.Areas/Knowledge Management/obsidian标签.md",
-      "duration": 804000,
-      "openCount": 18
+      "duration": 864000,
+      "openCount": 19
     },
     "2.Areas/Knowledge Management/obsidian双链.md": {
       "fileId": "1769753034906",
@@ -1545,8 +1545,8 @@
     "8.Info/Dashboard使用指南.md": {
       "fileId": "1769757226341",
       "filePath": "8.Info/Dashboard使用指南.md",
-      "duration": 180000,
-      "openCount": 6
+      "duration": 252000,
+      "openCount": 8
     },
     "8.Info/QuickAdd配置指南.md": {
       "fileId": "1769757280345",
@@ -1743,8 +1743,8 @@
     "7.Daily/每日日志/2026-02-02.md": {
       "fileId": "1770005264827",
       "filePath": "7.Daily/每日日志/2026-02-02.md",
-      "duration": 2412000,
-      "openCount": 41
+      "duration": 2424000,
+      "openCount": 42
     },
     "7.Daily/每日日志/2026-02-03.md": {
       "fileId": "1770049604326",
@@ -1761,8 +1761,8 @@
     "7.Daily/每日日志/2026-02-05.md": {
       "fileId": "1770303739423",
       "filePath": "7.Daily/每日日志/2026-02-05.md",
-      "duration": 1338000,
-      "openCount": 14
+      "duration": 1356000,
+      "openCount": 15
     },
     "7.Daily/每日日志/未命名.md": {
       "fileId": "1770304591428",
@@ -1797,8 +1797,8 @@
     "7.Daily/每日日志/2026-02-06.md": {
       "fileId": "1770350570264",
       "filePath": "7.Daily/每日日志/2026-02-06.md",
-      "duration": 1776000,
-      "openCount": 14
+      "duration": 1818000,
+      "openCount": 17
     },
     "3.Resources/专注个人提升的obsidian标签体系.md": {
       "fileId": "1770354280291",
@@ -1876,6 +1876,12 @@
       "fileId": "1770356644295",
       "filePath": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md",
       "duration": 18000,
+      "openCount": 2
+    },
+    "未命名看板.md": {
+      "fileId": "1770357010292",
+      "filePath": "未命名看板.md",
+      "duration": 6000,
       "openCount": 2
     }
   }
