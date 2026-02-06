@@ -3,6 +3,18 @@
   "title": "优化这篇笔记",
   "titleGenerationStatus": "failed",
   "createdAt": 1770381708603,
-  "updatedAt": 1770381722253,
-  "sessionId": null
+  "updatedAt": 1770381867576,
+  "lastResponseAt": 1770381867576,
+  "sessionId": "fbe10ce4-a895-45bc-8df8-88b4d11b6e05",
+  "sdkSessionId": "fbe10ce4-a895-45bc-8df8-88b4d11b6e05",
+  "currentNote": "2.Areas/Frontend/现代 CSS 新特性.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }

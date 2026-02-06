@@ -6821,7 +6821,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/现代 CSS 新特性.md": {
-    "scroll": 0,
+    "scroll": 652.2170976056439,
     "cursor": {
       "from": {
         "line": 11,
@@ -7130,6 +7130,48 @@
   },
   "2.Areas/Frontend/CSS高级特性与新特性.md": {
     "scroll": 47.57965566597733,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/响应式布局.md": {
+    "scroll": 337.82668266354494,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/响应式单位.md": {
+    "scroll": 82.07482668962811,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/响应式图片.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 11,

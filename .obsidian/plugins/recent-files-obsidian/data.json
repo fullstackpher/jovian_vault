@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "响应式图片",
+      "path": "2.Areas/Frontend/响应式图片.md"
+    },
+    {
+      "basename": "响应式单位",
+      "path": "2.Areas/Frontend/响应式单位.md"
+    },
+    {
+      "basename": "响应式布局",
+      "path": "2.Areas/Frontend/响应式布局.md"
+    },
+    {
       "basename": "现代 CSS 新特性",
       "path": "2.Areas/Frontend/现代 CSS 新特性.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
-    },
-    {
-      "basename": "Obsidian ReadItLater 插件使用教程",
-      "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
-    },
-    {
-      "basename": "2026-01-13",
-      "path": "7.Daily/每日日志/2026-01-13.md"
     }
   ],
   "omittedPaths": [],
