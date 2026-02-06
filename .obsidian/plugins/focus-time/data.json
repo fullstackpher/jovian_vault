@@ -1617,8 +1617,8 @@
     "8.Info/2026-01-27-笔记到系统的obsidian实践.md": {
       "fileId": "1769496079528",
       "filePath": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
-      "duration": 240000,
-      "openCount": 14
+      "duration": 402000,
+      "openCount": 15
     },
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
@@ -1853,6 +1853,24 @@
       "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "duration": 12000,
       "openCount": 2
+    },
+    "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png": {
+      "fileId": "1770355942308",
+      "filePath": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png": {
+      "fileId": "1770355954283",
+      "filePath": "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
+      "fileId": "1770355960286",
+      "filePath": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
+      "duration": 54000,
+      "openCount": 1
     }
   }
 }

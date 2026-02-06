@@ -6740,11 +6740,25 @@
     "scroll": 5.625,
     "cursor": {
       "from": {
-        "line": 9,
+        "line": 13,
+        "ch": 20
+      },
+      "to": {
+        "line": 13,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
+    "scroll": 226.80999550699187,
+    "cursor": {
+      "from": {
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 9,
+        "line": 4,
         "ch": 0
       }
     },
