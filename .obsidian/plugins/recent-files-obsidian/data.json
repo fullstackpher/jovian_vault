@@ -5,6 +5,10 @@
       "path": "2.Areas/Frontend/CSS响应式设计.md"
     },
     {
+      "basename": "CSS基础概念",
+      "path": "2.Areas/Frontend/CSS基础概念.md"
+    },
+    {
       "basename": "CSS视觉与表现",
       "path": "2.Areas/Frontend/CSS视觉与表现.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "CSS选择器",
       "path": "2.Areas/Frontend/CSS选择器.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "2.Areas/Frontend/CSS基础概念.md"
     },
     {
       "basename": "CSS工程化",

@@ -3,6 +3,18 @@
   "title": "优化笔记",
   "titleGenerationStatus": "failed",
   "createdAt": 1770382946821,
-  "updatedAt": 1770382951980,
-  "sessionId": null
+  "updatedAt": 1770383116750,
+  "lastResponseAt": 1770383116750,
+  "sessionId": "39233c65-b37c-4af5-992c-15ea121e0e23",
+  "sdkSessionId": "39233c65-b37c-4af5-992c-15ea121e0e23",
+  "currentNote": "2.Areas/Frontend/CSS响应式设计.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }
