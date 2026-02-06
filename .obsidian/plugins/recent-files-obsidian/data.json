@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian双链",
       "path": "2.Areas/Knowledge Management/obsidian双链.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     }
   ],
   "omittedPaths": [],
