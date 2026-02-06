@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 21750000,
-      "openCount": 336
+      "openCount": 337
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1317,8 +1317,8 @@
     "3.Resources/QuickAdd使用指南.md": {
       "fileId": "1769341648177",
       "filePath": "3.Resources/QuickAdd使用指南.md",
-      "duration": 696000,
-      "openCount": 13
+      "duration": 762000,
+      "openCount": 14
     },
     "3.Resources/Calendar使用指南.md": {
       "fileId": "1769341690176",
@@ -1797,7 +1797,7 @@
     "7.Daily/每日日志/2026-02-06.md": {
       "fileId": "1770350570264",
       "filePath": "7.Daily/每日日志/2026-02-06.md",
-      "duration": 1698000,
+      "duration": 1704000,
       "openCount": 13
     },
     "3.Resources/专注个人提升的obsidian标签体系.md": {
@@ -1833,8 +1833,8 @@
     "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
       "fileId": "1770355486293",
       "filePath": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 78000,
+      "openCount": 3
     },
     "3.Resources/SublimeText使用指南.md": {
       "fileId": "1770355498296",
@@ -1852,7 +1852,7 @@
       "fileId": "1770355594291",
       "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "duration": 12000,
-      "openCount": 2
+      "openCount": 3
     },
     "ReadItLater Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png": {
       "fileId": "1770355942308",
@@ -1869,8 +1869,8 @@
     "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
       "fileId": "1770355960286",
       "filePath": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
-      "duration": 54000,
-      "openCount": 1
+      "duration": 114000,
+      "openCount": 2
     }
   }
 }

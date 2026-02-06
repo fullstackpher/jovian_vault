@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiView",
+      "OcRead24",
+      "SiReaddotcv",
       "BoBxBookReader",
-      "TiTemplate",
-      "LiTemplaterIcon",
-      "TiBrandJavascript",
-      "RiJavascriptLine"
+      "TiTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,5 @@
   "5.Zattchments": "RiAttachment2",
   "7.Daily": "LiCalendarDays",
   "8.Info": "LiInfo",
-  "ReadItLater Inbox": "BoBxBookReader"
+  "ReadItLater Inbox": "LiView"
 }

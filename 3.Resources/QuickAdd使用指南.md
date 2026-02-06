@@ -1,9 +1,9 @@
 ---
 创建时间: 2026-01-25T19:47
-更新时间: 2026-02-05T23:28
+更新时间: 2026-02-06T13:36
 tags:
   - obsidian/plugin
-  - obsidian/工作流
+  - obsidian/workflow
 ---
 
 # Obsidian QuickAdd 插件使用指南

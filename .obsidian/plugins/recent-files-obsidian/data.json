@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "QuickAdd使用指南",
+      "path": "3.Resources/QuickAdd使用指南.md"
+    },
+    {
+      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
+      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian任务管理教程索引",
+      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
+    },
+    {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
       "path": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
     },
@@ -21,14 +41,6 @@
       "path": "Templates/问题解决方案.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程索引",
-      "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
-    },
-    {
       "basename": "盒模型",
       "path": "2.Areas/Frontend/盒模型.md"
     },
@@ -45,10 +57,6 @@
       "path": "3.Resources/Clion使用指南.md"
     },
     {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
-    },
-    {
       "basename": "SublimeText使用指南",
       "path": "3.Resources/SublimeText使用指南.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "专注个人提升的obsidian标签体系",
       "path": "3.Resources/专注个人提升的obsidian标签体系.md"
-    },
-    {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
     },
     {
       "basename": "开发工具汇总",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-02-屏幕截图",
       "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
-    },
-    {
-      "basename": "List Callout使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/List Callout使用指南-2026-02.md"
     }
   ],
   "omittedPaths": [],

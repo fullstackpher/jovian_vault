@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 195.75408367082184,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 91,
@@ -6751,15 +6751,15 @@
     "expandedKeys": []
   },
   "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-    "scroll": 226.80999550699187,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 240,
+        "ch": 20
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 240,
+        "ch": 20
       }
     },
     "expandedKeys": []

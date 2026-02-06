@@ -728,7 +728,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 21,
-      "totalTimesOpened": 473,
+      "totalTimesOpened": 475,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2148,6 +2148,12 @@
         },
         {
           "timestampMillis": 1770355604427
+        },
+        {
+          "timestampMillis": 1770356075964
+        },
+        {
+          "timestampMillis": 1770356076618
         }
       ]
     },
@@ -5436,8 +5442,8 @@
     },
     {
       "path": "3.Resources/QuickAdd使用指南.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1769341643576
@@ -5480,6 +5486,9 @@
         },
         {
           "timestampMillis": 1770213287211
+        },
+        {
+          "timestampMillis": 1770356171470
         }
       ]
     },
@@ -8274,7 +8283,7 @@
     {
       "path": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1769927558491
@@ -8299,6 +8308,18 @@
         },
         {
           "timestampMillis": 1770355484623
+        },
+        {
+          "timestampMillis": 1770356098684
+        },
+        {
+          "timestampMillis": 1770356119837
+        },
+        {
+          "timestampMillis": 1770356144853
+        },
+        {
+          "timestampMillis": 1770356148331
         }
       ]
     },
@@ -9191,7 +9212,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 27,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9273,6 +9294,9 @@
         },
         {
           "timestampMillis": 1770355521967
+        },
+        {
+          "timestampMillis": 1770356240077
         }
       ]
     },
@@ -9337,10 +9361,13 @@
     {
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770355589823
+        },
+        {
+          "timestampMillis": 1770356075149
         }
       ]
     },
@@ -9367,10 +9394,13 @@
     {
       "path": "ReadItLater Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770355958086
+        },
+        {
+          "timestampMillis": 1770356060666
         }
       ]
     }
