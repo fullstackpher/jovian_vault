@@ -3136,8 +3136,8 @@
     },
     {
       "path": "Templates/技术概念卡片.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1768556030530
@@ -3156,6 +3156,9 @@
         },
         {
           "timestampMillis": 1770210421018
+        },
+        {
+          "timestampMillis": 1770357528589
         }
       ]
     },
@@ -3341,8 +3344,8 @@
     },
     {
       "path": "2.Areas/Frontend/现代 CSS 新特性.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1768556313749
@@ -3370,6 +3373,12 @@
         },
         {
           "timestampMillis": 1769863059800
+        },
+        {
+          "timestampMillis": 1770357530999
+        },
+        {
+          "timestampMillis": 1770357549851
         }
       ]
     },
@@ -8386,7 +8395,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-02.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 46,
+      "totalTimesOpened": 48,
       "openLogs": [
         {
           "timestampMillis": 1770005261231
@@ -8525,6 +8534,12 @@
         },
         {
           "timestampMillis": 1770356899228
+        },
+        {
+          "timestampMillis": 1770357450915
+        },
+        {
+          "timestampMillis": 1770357510522
         }
       ]
     },
@@ -9284,7 +9299,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 35,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9390,6 +9405,12 @@
         },
         {
           "timestampMillis": 1770357346452
+        },
+        {
+          "timestampMillis": 1770357516208
+        },
+        {
+          "timestampMillis": 1770357518704
         }
       ]
     },
@@ -9444,13 +9465,16 @@
     {
       "path": "3.Resources/Clion使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770355535768
         },
         {
           "timestampMillis": 1770357260865
+        },
+        {
+          "timestampMillis": 1770357443400
         }
       ]
     },
@@ -9509,10 +9533,13 @@
     {
       "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
+        },
+        {
+          "timestampMillis": 1770357516847
         }
       ]
     }

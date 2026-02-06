@@ -6303,15 +6303,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-02.md": {
-    "scroll": 8.993464002422257,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 0
+        "line": 8,
+        "ch": 14
       },
       "to": {
-        "line": 24,
-        "ch": 0
+        "line": 8,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -6387,7 +6387,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 14.048611061245788,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 24,
@@ -6815,6 +6815,20 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/现代 CSS 新特性.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
         "ch": 0
       }
     },

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "现代 CSS 新特性",
+      "path": "2.Areas/Frontend/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "技术概念卡片",
+      "path": "Templates/技术概念卡片.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily/每日日志/2026-02-02.md"
     },
     {
       "basename": "Clion使用指南",
@@ -27,14 +43,6 @@
     {
       "basename": "2026-02-05",
       "path": "7.Daily/每日日志/2026-02-05.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "7.Daily/每日日志/2026-02-02.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "ReadItLater Inbox/Article 2026-02-06 13-43-47.md"
     },
     {
       "basename": "Obsidian任务管理教程索引",
@@ -191,10 +199,6 @@
     {
       "basename": "2026-02-01",
       "path": "7.Daily/每日日志/2026-02-01.md"
-    },
-    {
-      "basename": "2026-02-03",
-      "path": "7.Daily/每日日志/2026-02-03.md"
     }
   ],
   "omittedPaths": [],
