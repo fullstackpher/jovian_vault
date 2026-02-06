@@ -4220,8 +4220,8 @@
     },
     {
       "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1768708072202
@@ -4231,6 +4231,9 @@
         },
         {
           "timestampMillis": 1769059036896
+        },
+        {
+          "timestampMillis": 1770381792177
         }
       ]
     },
@@ -4642,8 +4645,8 @@
     },
     {
       "path": "2.Areas/Frontend/CSS动画.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768820429387
@@ -4680,6 +4683,9 @@
         },
         {
           "timestampMillis": 1769059040832
+        },
+        {
+          "timestampMillis": 1770381796587
         }
       ]
     },
@@ -9798,6 +9804,16 @@
         },
         {
           "timestampMillis": 1770381730142
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/Frontend/CSS高级特性与新特性.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770381813592
         }
       ]
     }

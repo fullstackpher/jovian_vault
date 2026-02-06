@@ -7087,7 +7087,49 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/CSS布局系统.md": {
-    "scroll": 0,
+    "scroll": 27.21691109152401,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/CSS层叠、继承、值计算.md": {
+    "scroll": 61.074696260340076,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/CSS动画.md": {
+    "scroll": 275.8403315183495,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/CSS高级特性与新特性.md": {
+    "scroll": 47.57965566597733,
     "cursor": {
       "from": {
         "line": 11,

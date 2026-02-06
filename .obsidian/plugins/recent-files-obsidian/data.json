@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "现代 CSS 新特性",
+      "path": "2.Areas/Frontend/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "CSS高级特性与新特性",
+      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
+    },
+    {
+      "basename": "CSS动画",
+      "path": "2.Areas/Frontend/CSS动画.md"
+    },
+    {
+      "basename": "CSS层叠、继承、值计算",
+      "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
+    },
+    {
       "basename": "CSS布局系统",
       "path": "2.Areas/Frontend/CSS布局系统.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "文本与字体",
       "path": "2.Areas/Frontend/文本与字体.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "2.Areas/Frontend/现代 CSS 新特性.md"
     },
     {
       "basename": "数学对象",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-01-13",
       "path": "7.Daily/每日日志/2026-01-13.md"
-    },
-    {
-      "basename": "2026-01-12",
-      "path": "7.Daily/每日日志/2026-01-12.md"
-    },
-    {
-      "basename": "Claudian使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     }
   ],
   "omittedPaths": [],
