@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 198.40631186036566,
+    "scroll": 195.75408367082184,
     "cursor": {
       "from": {
         "line": 91,
@@ -4541,7 +4541,7 @@
     "expandedKeys": []
   },
   "Templates/问题解决方案.md": {
-    "scroll": 23.343530896983612,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 6,
@@ -6731,6 +6731,20 @@
       },
       "to": {
         "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/2026-01-27-笔记到系统的obsidian实践.md": {
+    "scroll": 5.625,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
         "ch": 0
       }
     },

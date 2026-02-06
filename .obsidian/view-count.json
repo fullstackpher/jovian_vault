@@ -2721,8 +2721,8 @@
     },
     {
       "path": "Templates/问题解决方案.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 16,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1768555996455
@@ -2771,6 +2771,12 @@
         },
         {
           "timestampMillis": 1770188518863
+        },
+        {
+          "timestampMillis": 1770355669394
+        },
+        {
+          "timestampMillis": 1770355730863
         }
       ]
     },
@@ -5797,8 +5803,8 @@
     },
     {
       "path": "8.Info/2026-01-27-笔记到系统的obsidian实践.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 25,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 27,
       "openLogs": [
         {
           "timestampMillis": 1769425094441
@@ -5874,6 +5880,12 @@
         },
         {
           "timestampMillis": 1770187365147
+        },
+        {
+          "timestampMillis": 1770355628055
+        },
+        {
+          "timestampMillis": 1770355731946
         }
       ]
     },
