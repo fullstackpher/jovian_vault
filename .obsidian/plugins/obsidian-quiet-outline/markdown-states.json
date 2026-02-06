@@ -6401,28 +6401,28 @@
     "expandedKeys": []
   },
   "2.Areas/Knowledge Management/obsidian双链.md": {
-    "scroll": 0,
+    "scroll": 36.12481357864387,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 50,
+        "ch": 8
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 50,
+        "ch": 8
       }
     },
     "expandedKeys": []
   },
   "2.Areas/Knowledge Management/obsidian标签.md": {
-    "scroll": 0,
+    "scroll": 17.93296728247983,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 30,
+        "ch": 6
       },
       "to": {
-        "line": 7,
+        "line": 30,
         "ch": 0
       }
     },
@@ -6437,6 +6437,20 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Knowledge Management/obsidian收藏.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },

@@ -3,18 +3,18 @@
   "title": "Complete Note Entry",
   "titleGenerationStatus": "success",
   "createdAt": 1770352839475,
-  "updatedAt": 1770352859818,
-  "lastResponseAt": 1770352859818,
+  "updatedAt": 1770352936699,
+  "lastResponseAt": 1770352936699,
   "sessionId": "fbd70057-0536-45f8-9257-50e3bc230ff4",
   "sdkSessionId": "fbd70057-0536-45f8-9257-50e3bc230ff4",
   "currentNote": "2.Areas/Knowledge Management/obsidian收藏.md",
   "usage": {
     "model": "MiniMax-M2.1",
-    "inputTokens": 89,
-    "cacheCreationInputTokens": 218,
-    "cacheReadInputTokens": 14121,
+    "inputTokens": 337,
+    "cacheCreationInputTokens": 1570,
+    "cacheReadInputTokens": 14344,
     "contextWindow": 200000,
-    "contextTokens": 14428,
-    "percentage": 7
+    "contextTokens": 16251,
+    "percentage": 8
   }
 }
