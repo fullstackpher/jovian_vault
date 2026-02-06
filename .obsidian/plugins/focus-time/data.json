@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 22272000,
-      "openCount": 339
+      "duration": 22452000,
+      "openCount": 340
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1887,6 +1887,12 @@
     "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
       "fileId": "1770373976449",
       "filePath": "3.Resources/Obsidian ReadItLater 插件使用教程.md",
+      "duration": 96000,
+      "openCount": 2
+    },
+    "3.Resources/omisearch使用指南.md": {
+      "fileId": "1770375416454",
+      "filePath": "3.Resources/omisearch使用指南.md",
       "duration": 78000,
       "openCount": 1
     }

@@ -746,7 +746,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 21,
-      "totalTimesOpened": 484,
+      "totalTimesOpened": 485,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2199,6 +2199,9 @@
         },
         {
           "timestampMillis": 1770359110527
+        },
+        {
+          "timestampMillis": 1770374192900
         }
       ]
     },
@@ -9616,6 +9619,16 @@
         },
         {
           "timestampMillis": 1770374027705
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/omisearch使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770375411883
         }
       ]
     }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "omisearch使用指南",
+      "path": "3.Resources/omisearch使用指南.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "Obsidian ReadItLater 插件使用教程",
       "path": "3.Resources/Obsidian ReadItLater 插件使用教程.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Claudian使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "日记模版",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "0.Inbox/README.md"
-    },
-    {
-      "basename": "@flomo-2026-02-01",
-      "path": "0.Inbox/@flomo-2026-02-01.md"
     }
   ],
   "omittedPaths": [],

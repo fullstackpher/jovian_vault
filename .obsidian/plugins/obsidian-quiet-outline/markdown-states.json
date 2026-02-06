@@ -6460,12 +6460,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 104
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 4,
-        "ch": 104
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6905,15 +6905,15 @@
     "expandedKeys": []
   },
   "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
-    "scroll": 5.60629909245048,
+    "scroll": 55.60843344568125,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 14,
+        "ch": 54
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 14,
+        "ch": 54
       }
     },
     "expandedKeys": []
