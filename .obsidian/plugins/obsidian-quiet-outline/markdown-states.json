@@ -5894,12 +5894,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 181,
-        "ch": 12
+        "line": 184,
+        "ch": 6
       },
       "to": {
-        "line": 181,
-        "ch": 12
+        "line": 184,
+        "ch": 6
       }
     },
     "expandedKeys": []

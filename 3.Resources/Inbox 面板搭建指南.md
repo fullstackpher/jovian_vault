@@ -4,9 +4,7 @@ category: Obsidian/工作流
 created: 2026-01-30
 tags:
   - obsidian
-  - inbox
-  - quick-capture
-  - dataview
+  - "#obsidian/workflow"
 创建时间: 2026-01-30T17:34
 更新时间: 2026-02-06T20:30
 ---
