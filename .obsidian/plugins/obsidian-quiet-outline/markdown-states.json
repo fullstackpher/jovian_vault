@@ -6275,15 +6275,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-05.md": {
-    "scroll": 0,
+    "scroll": 23.415440877278645,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 52
+        "line": 24,
+        "ch": 14
       },
       "to": {
-        "line": 22,
-        "ch": 52
+        "line": 24,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -6391,11 +6391,11 @@
     "cursor": {
       "from": {
         "line": 21,
-        "ch": 18
+        "ch": 8
       },
       "to": {
         "line": 21,
-        "ch": 18
+        "ch": 16
       }
     },
     "expandedKeys": []

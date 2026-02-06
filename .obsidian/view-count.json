@@ -8952,27 +8952,87 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-05.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1770306195583
         },
         {
           "timestampMillis": 1770306798262
+        },
+        {
+          "timestampMillis": 1770350984825
+        },
+        {
+          "timestampMillis": 1770350988589
+        },
+        {
+          "timestampMillis": 1770350992381
+        },
+        {
+          "timestampMillis": 1770350993649
+        },
+        {
+          "timestampMillis": 1770350994177
+        },
+        {
+          "timestampMillis": 1770350996186
+        },
+        {
+          "timestampMillis": 1770350996685
+        },
+        {
+          "timestampMillis": 1770350997238
+        },
+        {
+          "timestampMillis": 1770351000864
+        },
+        {
+          "timestampMillis": 1770351001952
+        },
+        {
+          "timestampMillis": 1770351005407
+        },
+        {
+          "timestampMillis": 1770351007349
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
         },
         {
           "timestampMillis": 1770350785869
+        },
+        {
+          "timestampMillis": 1770350821086
+        },
+        {
+          "timestampMillis": 1770350822079
+        },
+        {
+          "timestampMillis": 1770350822710
+        },
+        {
+          "timestampMillis": 1770350825300
+        },
+        {
+          "timestampMillis": 1770350827462
+        },
+        {
+          "timestampMillis": 1770350828358
+        },
+        {
+          "timestampMillis": 1770351030113
+        },
+        {
+          "timestampMillis": 1770351061326
         }
       ]
     }
