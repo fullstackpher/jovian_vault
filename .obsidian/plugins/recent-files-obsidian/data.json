@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS布局系统",
+      "path": "2.Areas/Frontend/CSS布局系统.md"
+    },
+    {
+      "basename": "包装类型",
+      "path": "2.Areas/Frontend/包装类型.md"
+    },
+    {
+      "basename": "背景",
+      "path": "2.Areas/Frontend/背景.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "2.Areas/Frontend/闭包.md"
+    },
+    {
+      "basename": "边框与圆角",
+      "path": "2.Areas/Frontend/边框与圆角.md"
+    },
+    {
+      "basename": "变化与过渡",
+      "path": "2.Areas/Frontend/变化与过渡.md"
+    },
+    {
+      "basename": "变量和数据类型",
+      "path": "2.Areas/Frontend/变量和数据类型.md"
+    },
+    {
+      "basename": "函数",
+      "path": "2.Areas/Frontend/函数.md"
+    },
+    {
+      "basename": "盒模型",
+      "path": "2.Areas/Frontend/盒模型.md"
+    },
+    {
+      "basename": "流程控制语句",
+      "path": "2.Areas/Frontend/流程控制语句.md"
+    },
+    {
+      "basename": "面向对象",
+      "path": "2.Areas/Frontend/面向对象.md"
+    },
+    {
+      "basename": "媒体查询",
+      "path": "2.Areas/Frontend/媒体查询.md"
+    },
+    {
+      "basename": "数组",
+      "path": "2.Areas/Frontend/数组.md"
+    },
+    {
+      "basename": "文本与字体",
+      "path": "2.Areas/Frontend/文本与字体.md"
+    },
+    {
+      "basename": "现代 CSS 新特性",
+      "path": "2.Areas/Frontend/现代 CSS 新特性.md"
+    },
+    {
+      "basename": "数学对象",
+      "path": "2.Areas/Frontend/数学对象.md"
+    },
+    {
+      "basename": "日期对象",
+      "path": "2.Areas/Frontend/日期对象.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "复盘模板",
+      "path": "Templates/复盘模板.md"
+    },
+    {
       "basename": "2026-01月汇总",
       "path": "7.Daily/2026-01月汇总.md"
     },
@@ -25,10 +101,6 @@
       "path": "2.Areas/Frontend/HTML标签.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "Obsidian任务管理教程索引",
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md"
     },
@@ -51,10 +123,6 @@
     {
       "basename": "omisearch使用指南",
       "path": "3.Resources/omisearch使用指南.md"
-    },
-    {
-      "basename": "包装类型",
-      "path": "2.Areas/Frontend/包装类型.md"
     },
     {
       "basename": "obsidian双链",
@@ -131,74 +199,6 @@
     {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "2026-02-02",
-      "path": "7.Daily/每日日志/2026-02-02.md"
-    },
-    {
-      "basename": "现代 CSS 新特性",
-      "path": "2.Areas/Frontend/现代 CSS 新特性.md"
-    },
-    {
-      "basename": "技术概念卡片",
-      "path": "Templates/技术概念卡片.md"
-    },
-    {
-      "basename": "Clion使用指南",
-      "path": "3.Resources/Clion使用指南.md"
-    },
-    {
-      "basename": "Dashboard使用指南",
-      "path": "8.Info/Dashboard使用指南.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "7.Daily/每日日志/2026-02-05.md"
-    },
-    {
-      "basename": "obsidian图床搭建指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/obsidian图床搭建指南-2026-02.md"
-    },
-    {
-      "basename": "Excalidraw插件使用指南",
-      "path": "3.Resources/Excalidraw插件使用指南.md"
-    },
-    {
-      "basename": "原型构造函数对象之间的关系图",
-      "path": "Excalidraw/原型构造函数对象之间的关系图.md"
-    },
-    {
-      "basename": "QuickAdd使用指南",
-      "path": "3.Resources/QuickAdd使用指南.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa",
-      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt",
-      "path": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png"
-    },
-    {
-      "basename": "问题解决方案",
-      "path": "Templates/问题解决方案.md"
-    },
-    {
-      "basename": "盒模型",
-      "path": "2.Areas/Frontend/盒模型.md"
-    },
-    {
-      "basename": "实用代码片段",
-      "path": "Templates/实用代码片段.md"
-    },
-    {
-      "basename": "2026-01-16",
-      "path": "7.Daily/每日日志/2026-01-16.md"
-    },
-    {
-      "basename": "SublimeText使用指南",
-      "path": "3.Resources/SublimeText使用指南.md"
     }
   ],
   "omittedPaths": [],
