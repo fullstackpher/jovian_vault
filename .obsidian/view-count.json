@@ -294,7 +294,7 @@
     {
       "path": "2.Areas/Knowledge Management/obsidian标签.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 30,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1768478610880
@@ -385,6 +385,12 @@
         },
         {
           "timestampMillis": 1770353918402
+        },
+        {
+          "timestampMillis": 1770354346484
+        },
+        {
+          "timestampMillis": 1770354355021
         }
       ]
     },
@@ -9074,7 +9080,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9147,6 +9153,28 @@
         },
         {
           "timestampMillis": 1770353978008
+        },
+        {
+          "timestampMillis": 1770354358098
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/专注个人提升的obsidian标签体系.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1770354279367
+        },
+        {
+          "timestampMillis": 1770354336296
+        },
+        {
+          "timestampMillis": 1770354347713
+        },
+        {
+          "timestampMillis": 1770354362323
         }
       ]
     }

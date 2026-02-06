@@ -6387,7 +6387,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 1.309090909090909,
+    "scroll": 7.098039215686274,
     "cursor": {
       "from": {
         "line": 25,
@@ -6452,6 +6452,34 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 104
+      },
+      "to": {
+        "line": 4,
+        "ch": 104
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/专注个人提升的obsidian标签体系.md": {
+    "scroll": 37.60447474131366,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 56
+      },
+      "to": {
+        "line": 56,
+        "ch": 56
       }
     },
     "expandedKeys": []

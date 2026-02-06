@@ -1264,7 +1264,7 @@
       "fileId": "1770035360574",
       "filePath": "2.Areas/Knowledge Management/obsidian标签.md",
       "duration": 804000,
-      "openCount": 16
+      "openCount": 18
     },
     "2.Areas/Knowledge Management/obsidian双链.md": {
       "fileId": "1769753034906",
@@ -1797,8 +1797,14 @@
     "7.Daily/每日日志/2026-02-06.md": {
       "fileId": "1770350570264",
       "filePath": "7.Daily/每日日志/2026-02-06.md",
-      "duration": 1650000,
-      "openCount": 9
+      "duration": 1668000,
+      "openCount": 11
+    },
+    "3.Resources/专注个人提升的obsidian标签体系.md": {
+      "fileId": "1770354280291",
+      "filePath": "3.Resources/专注个人提升的obsidian标签体系.md",
+      "duration": 162000,
+      "openCount": 3
     }
   }
 }

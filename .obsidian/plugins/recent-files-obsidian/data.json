@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "专注个人提升的obsidian标签体系",
+      "path": "3.Resources/专注个人提升的obsidian标签体系.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
+    },
+    {
+      "basename": "obsidian标签",
+      "path": "2.Areas/Knowledge Management/obsidian标签.md"
     },
     {
       "basename": "2026-02-05",
@@ -11,10 +19,6 @@
     {
       "basename": "2026-02-02",
       "path": "7.Daily/每日日志/2026-02-02.md"
-    },
-    {
-      "basename": "obsidian标签",
-      "path": "2.Areas/Knowledge Management/obsidian标签.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "5.Zattchments/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "4.Archives/README.md"
     }
   ],
   "omittedPaths": [],
