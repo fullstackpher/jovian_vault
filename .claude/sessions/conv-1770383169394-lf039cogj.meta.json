@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770383169394-lf039cogj",
+  "title": "优化这个笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1770383169394,
+  "updatedAt": 1770383274416,
+  "lastResponseAt": 1770383274416,
+  "sessionId": "9ad4534f-292a-419a-abb3-5dff8f2d74b4",
+  "sdkSessionId": "9ad4534f-292a-419a-abb3-5dff8f2d74b4",
+  "currentNote": "2.Areas/Frontend/CSS基础概念.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
