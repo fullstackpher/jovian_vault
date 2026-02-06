@@ -6387,15 +6387,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-06.md": {
-    "scroll": 10.707986068725585,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 23,
-        "ch": 6
+        "ch": 56
       },
       "to": {
         "line": 23,
-        "ch": 6
+        "ch": 56
       }
     },
     "expandedKeys": []
@@ -6415,15 +6415,15 @@
     "expandedKeys": []
   },
   "2.Areas/Knowledge Management/obsidian标签.md": {
-    "scroll": 103.1358529740021,
+    "scroll": 102.93510236125701,
     "cursor": {
       "from": {
-        "line": 150,
-        "ch": 25
+        "line": 125,
+        "ch": 17
       },
       "to": {
-        "line": 150,
-        "ch": 25
+        "line": 125,
+        "ch": 17
       }
     },
     "expandedKeys": []
