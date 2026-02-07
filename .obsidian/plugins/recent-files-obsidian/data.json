@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
       "basename": "日期对象",
       "path": "2.Areas/Frontend/日期对象.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "CSS布局系统",
       "path": "2.Areas/Frontend/CSS布局系统.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "作用域",
