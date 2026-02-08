@@ -1569,8 +1569,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6528000,
-      "openCount": 117
+      "duration": 6540000,
+      "openCount": 119
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -1809,8 +1809,8 @@
     "2.Areas/Frontend/日期对象.md": {
       "fileId": "1770354592290",
       "filePath": "2.Areas/Frontend/日期对象.md",
-      "duration": 732000,
-      "openCount": 3
+      "duration": 774000,
+      "openCount": 5
     },
     "2.Areas/Frontend/包装类型.md": {
       "fileId": "1770355360285",
@@ -2062,6 +2062,18 @@
       "fileId": "1770382627914",
       "filePath": "2.Areas/Frontend/Window对象.md",
       "duration": 0,
+      "openCount": 1
+    },
+    "7.Daily/每日日志/2026-02-07.md": {
+      "fileId": "1770481953401",
+      "filePath": "7.Daily/每日日志/2026-02-07.md",
+      "duration": 108000,
+      "openCount": 3
+    },
+    "7.Daily/每日日志/2026-02-08.md": {
+      "fileId": "1770481965488",
+      "filePath": "7.Daily/每日日志/2026-02-08.md",
+      "duration": 42000,
       "openCount": 1
     }
   }

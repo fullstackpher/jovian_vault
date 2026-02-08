@@ -5,6 +5,14 @@
       "path": "8.Info/0-Inbox.md"
     },
     {
+      "basename": "2026-02-08",
+      "path": "7.Daily/每日日志/2026-02-08.md"
+    },
+    {
+      "basename": "2026-02-07",
+      "path": "7.Daily/每日日志/2026-02-07.md"
+    },
+    {
       "basename": "日期对象",
       "path": "2.Areas/Frontend/日期对象.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "数组",
       "path": "2.Areas/Frontend/数组.md"
-    },
-    {
-      "basename": "文本与字体",
-      "path": "2.Areas/Frontend/文本与字体.md"
-    },
-    {
-      "basename": "数学对象",
-      "path": "2.Areas/Frontend/数学对象.md"
     }
   ],
   "omittedPaths": [],
