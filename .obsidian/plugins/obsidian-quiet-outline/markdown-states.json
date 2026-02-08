@@ -7521,7 +7521,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-08.md": {
-    "scroll": 0,
+    "scroll": 25.35038914901135,
     "cursor": {
       "from": {
         "line": 21,
@@ -7530,6 +7530,34 @@
       "to": {
         "line": 21,
         "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/季度总结/2026-w6.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 2
+      },
+      "to": {
+        "line": 9,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-w6.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 26
+      },
+      "to": {
+        "line": 9,
+        "ch": 26
       }
     },
     "expandedKeys": []
