@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Periodic Notes插件使用指南",
+      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md"
+    },
+    {
       "basename": "2026-02-09",
       "path": "7.Daily/每日日志/2026-02-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "变量和数据类型",
       "path": "2.Areas/Frontend/变量和数据类型.md"
-    },
-    {
-      "basename": "函数",
-      "path": "2.Areas/Frontend/函数.md"
     }
   ],
   "omittedPaths": [],

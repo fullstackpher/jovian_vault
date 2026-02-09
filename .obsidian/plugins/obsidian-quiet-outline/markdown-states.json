@@ -7563,15 +7563,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-09.md": {
-    "scroll": 9.597997759066123,
+    "scroll": 21.902780734486324,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 0
+        "line": 25,
+        "ch": 14
       },
       "to": {
-        "line": 24,
-        "ch": 0
+        "line": 25,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -7655,6 +7655,20 @@
       },
       "to": {
         "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
         "ch": 0
       }
     },

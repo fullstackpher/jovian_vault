@@ -10282,6 +10282,19 @@
           "timestampMillis": 1770624230431
         }
       ]
+    },
+    {
+      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770624860173
+        },
+        {
+          "timestampMillis": 1770624892948
+        }
+      ]
     }
   ]
 }

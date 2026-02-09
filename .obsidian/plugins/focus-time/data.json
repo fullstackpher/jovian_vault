@@ -2073,8 +2073,8 @@
     "7.Daily/每日日志/2026-02-09.md": {
       "fileId": "1770614864210",
       "filePath": "7.Daily/每日日志/2026-02-09.md",
-      "duration": 462000,
-      "openCount": 5
+      "duration": 486000,
+      "openCount": 6
     },
     "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md": {
       "fileId": "1770624122361",
@@ -2099,6 +2099,12 @@
       "filePath": "7.Daily/月度复盘/2026-01.md",
       "duration": 3174000,
       "openCount": 35
+    },
+    "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md": {
+      "fileId": "1770624860359",
+      "filePath": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md",
+      "duration": 48000,
+      "openCount": 1
     }
   }
 }
