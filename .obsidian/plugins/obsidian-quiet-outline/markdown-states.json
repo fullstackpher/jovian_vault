@@ -7591,15 +7591,71 @@
     "expandedKeys": []
   },
   "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md": {
-    "scroll": 158.78974432573727,
+    "scroll": 68.37109817703958,
     "cursor": {
       "from": {
-        "line": 173,
-        "ch": 26
+        "line": 180,
+        "ch": 14
       },
       "to": {
-        "line": 173,
-        "ch": 26
+        "line": 180,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-W07.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-w06.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/月度复盘/2026-01月汇总.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/月度复盘/2026-01.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
       }
     },
     "expandedKeys": []

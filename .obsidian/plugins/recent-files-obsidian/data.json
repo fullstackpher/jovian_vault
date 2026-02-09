@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Checkbox Sound使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "2026-01",
+      "path": "7.Daily/月度复盘/2026-01.md"
+    },
+    {
+      "basename": "2026-w06",
+      "path": "7.Daily/每周复盘/2026-w06.md"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
+    },
+    {
+      "basename": "Checkbox Sound使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md"
     },
     {
       "basename": "QuickAdd使用指南",
@@ -23,10 +31,6 @@
     {
       "basename": "2026-02-08",
       "path": "7.Daily/每日日志/2026-02-08.md"
-    },
-    {
-      "basename": "2026-w6",
-      "path": "7.Daily/每周复盘/2026-w6.md"
     },
     {
       "basename": "2026-02-07",
@@ -195,10 +199,6 @@
     {
       "basename": "函数",
       "path": "2.Areas/Frontend/函数.md"
-    },
-    {
-      "basename": "盒模型",
-      "path": "2.Areas/Frontend/盒模型.md"
     }
   ],
   "omittedPaths": [],

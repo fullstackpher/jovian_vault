@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "Templates/日记模版.md",
+    "folder": "7.Daily/每日日志",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Templates/复盘模板.md",
+    "folder": "7.Daily/每周复盘",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Templates/复盘模板.md",
+    "folder": "7.Daily/月度复盘",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Templates/复盘模板.md",
+    "folder": "7.Daily/季度总结",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "Templates/复盘模板.md",
+    "folder": "7.Daily/年度回顾",
+    "enabled": true
+  }
+}
