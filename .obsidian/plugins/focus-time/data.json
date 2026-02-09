@@ -1521,8 +1521,8 @@
     "3.Resources/README.md": {
       "fileId": "1770188345908",
       "filePath": "3.Resources/README.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 162000,
+      "openCount": 4
     },
     "5.Zattchments/README.md": {
       "fileId": "1770188357912",
@@ -1563,8 +1563,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6654000,
-      "openCount": 125
+      "duration": 6660000,
+      "openCount": 126
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2105,6 +2105,24 @@
       "filePath": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南-2026-02.md",
       "duration": 288000,
       "openCount": 3
+    },
+    "3.Resources/速查手册/Git命令速查.md": {
+      "fileId": "1770633368786",
+      "filePath": "3.Resources/速查手册/Git命令速查.md",
+      "duration": 42000,
+      "openCount": 5
+    },
+    "3.Resources/速查手册/Linux命令速查.md": {
+      "fileId": "1770633404775",
+      "filePath": "3.Resources/速查手册/Linux命令速查.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "3.Resources/速查手册/Docker命令速查.md": {
+      "fileId": "1770633434780",
+      "filePath": "3.Resources/速查手册/Docker命令速查.md",
+      "duration": 84000,
+      "openCount": 2
     }
   }
 }

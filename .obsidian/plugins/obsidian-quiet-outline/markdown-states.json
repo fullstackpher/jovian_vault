@@ -5751,15 +5751,15 @@
     "expandedKeys": []
   },
   "3.Resources/README.md": {
-    "scroll": 0,
+    "scroll": 75.34599304199219,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 8,
+        "ch": 8
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 8,
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -7683,6 +7683,76 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/Git命令.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/Linux命令速查.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/Git命令速查.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/Docker命令速查.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker命令速查",
+      "path": "3.Resources/速查手册/Docker命令速查.md"
+    },
+    {
+      "basename": "Git命令速查",
+      "path": "3.Resources/速查手册/Git命令速查.md"
+    },
+    {
+      "basename": "Linux命令速查",
+      "path": "3.Resources/速查手册/Linux命令速查.md"
+    },
+    {
+      "basename": "README",
+      "path": "3.Resources/README.md"
+    },
+    {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "包装类型",
       "path": "2.Areas/Frontend/包装类型.md"
-    },
-    {
-      "basename": "背景",
-      "path": "2.Areas/Frontend/背景.md"
-    },
-    {
-      "basename": "闭包",
-      "path": "2.Areas/Frontend/闭包.md"
-    },
-    {
-      "basename": "边框与圆角",
-      "path": "2.Areas/Frontend/边框与圆角.md"
-    },
-    {
-      "basename": "变化与过渡",
-      "path": "2.Areas/Frontend/变化与过渡.md"
     }
   ],
   "omittedPaths": [],
