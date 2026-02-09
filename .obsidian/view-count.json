@@ -10325,7 +10325,7 @@
     {
       "path": "3.Resources/速查手册/Git命令速查.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770633363266
@@ -10338,19 +10338,25 @@
         },
         {
           "timestampMillis": 1770633457793
+        },
+        {
+          "timestampMillis": 1770633951688
         }
       ]
     },
     {
       "path": "3.Resources/速查手册/Linux命令速查.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770633399636
         },
         {
           "timestampMillis": 1770633455385
+        },
+        {
+          "timestampMillis": 1770633879514
         }
       ]
     },

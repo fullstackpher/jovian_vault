@@ -2115,14 +2115,14 @@
     "3.Resources/速查手册/Linux命令速查.md": {
       "fileId": "1770633404775",
       "filePath": "3.Resources/速查手册/Linux命令速查.md",
-      "duration": 24000,
-      "openCount": 3
+      "duration": 96000,
+      "openCount": 4
     },
     "3.Resources/速查手册/Docker命令速查.md": {
       "fileId": "1770633434780",
       "filePath": "3.Resources/速查手册/Docker命令速查.md",
-      "duration": 204000,
-      "openCount": 2
+      "duration": 216000,
+      "openCount": 3
     }
   }
 }

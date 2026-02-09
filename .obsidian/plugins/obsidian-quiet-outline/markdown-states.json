@@ -7720,25 +7720,25 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 7,
+        "ch": 7
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 7,
+        "ch": 7
       }
     },
     "expandedKeys": []
   },
   "3.Resources/速查手册/Git命令速查.md": {
-    "scroll": 0,
+    "scroll": 14.192343490130428,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 3,
+        "line": 4,
         "ch": 0
       }
     },
