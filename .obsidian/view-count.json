@@ -10286,13 +10286,16 @@
     {
       "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770624860173
         },
         {
           "timestampMillis": 1770624892948
+        },
+        {
+          "timestampMillis": 1770625010594
         }
       ]
     }

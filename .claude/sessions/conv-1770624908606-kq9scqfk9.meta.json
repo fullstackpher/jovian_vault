@@ -3,6 +3,18 @@
   "title": "补全这个笔记",
   "titleGenerationStatus": "failed",
   "createdAt": 1770624908606,
-  "updatedAt": 1770624911423,
-  "sessionId": null
+  "updatedAt": 1770625052617,
+  "lastResponseAt": 1770625052617,
+  "sessionId": "47042e71-2d78-493d-920b-bd1ecce570fa",
+  "sdkSessionId": "47042e71-2d78-493d-920b-bd1ecce570fa",
+  "currentNote": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }
