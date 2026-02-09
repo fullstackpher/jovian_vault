@@ -21,3 +21,25 @@
 *password*
 *credential*
 *auth*
+
+# 忽略视频文件（通常很大）
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# 忽略大文件类型（根据需要调整）
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# 忽略大文件目录
+3.Resources/书籍/千门/
+
+# 如果需要，可以忽略整个附件文件夹（根据实际情况）
+# Zattchments/
