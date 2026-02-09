@@ -1317,7 +1317,7 @@
     "3.Resources/QuickAdd使用指南.md": {
       "fileId": "1769341648177",
       "filePath": "3.Resources/QuickAdd使用指南.md",
-      "duration": 762000,
+      "duration": 786000,
       "openCount": 14
     },
     "3.Resources/Calendar使用指南.md": {
@@ -1569,8 +1569,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6558000,
-      "openCount": 121
+      "duration": 6612000,
+      "openCount": 122
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2085,8 +2085,8 @@
     "7.Daily/每日日志/2026-02-09.md": {
       "fileId": "1770614864210",
       "filePath": "7.Daily/每日日志/2026-02-09.md",
-      "duration": 144000,
-      "openCount": 1
+      "duration": 186000,
+      "openCount": 2
     }
   }
 }

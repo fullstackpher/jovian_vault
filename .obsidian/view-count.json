@@ -5862,8 +5862,8 @@
     },
     {
       "path": "3.Resources/QuickAdd使用指南.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 15,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769341643576
@@ -5909,6 +5909,9 @@
         },
         {
           "timestampMillis": 1770356171470
+        },
+        {
+          "timestampMillis": 1770623548108
         }
       ]
     },
@@ -10218,10 +10221,13 @@
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
+        },
+        {
+          "timestampMillis": 1770623502176
         }
       ]
     }
