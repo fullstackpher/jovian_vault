@@ -767,7 +767,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 23,
-      "totalTimesOpened": 497,
+      "totalTimesOpened": 499,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2259,6 +2259,12 @@
         },
         {
           "timestampMillis": 1770624756413
+        },
+        {
+          "timestampMillis": 1770625106409
+        },
+        {
+          "timestampMillis": 1770625162269
         }
       ]
     },
@@ -5821,8 +5827,8 @@
     },
     {
       "path": "4.Archives/03-资源-2026-02/Paste url into selection使用指南-2026-02.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769340480647
@@ -5847,6 +5853,9 @@
         },
         {
           "timestampMillis": 1770036332101
+        },
+        {
+          "timestampMillis": 1770625149692
         }
       ]
     },
@@ -7287,7 +7296,7 @@
     {
       "path": "8.Info/0-Inbox.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 160,
+      "totalTimesOpened": 161,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7768,6 +7777,9 @@
         },
         {
           "timestampMillis": 1770624028842
+        },
+        {
+          "timestampMillis": 1770633132208
         }
       ]
     },
@@ -10242,7 +10254,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
@@ -10264,13 +10276,16 @@
         },
         {
           "timestampMillis": 1770624766613
+        },
+        {
+          "timestampMillis": 1770625109762
         }
       ]
     },
     {
       "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770624117988
@@ -10280,13 +10295,16 @@
         },
         {
           "timestampMillis": 1770624230431
+        },
+        {
+          "timestampMillis": 1770625153737
         }
       ]
     },
     {
-      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md",
+      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南-2026-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770624860173
@@ -10296,6 +10314,9 @@
         },
         {
           "timestampMillis": 1770625010594
+        },
+        {
+          "timestampMillis": 1770625116344
         }
       ]
     }

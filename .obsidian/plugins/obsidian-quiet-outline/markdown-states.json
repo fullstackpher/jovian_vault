@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 150.99322986277417,
+    "scroll": 276.98233600718584,
     "cursor": {
       "from": {
         "line": 91,
@@ -7563,7 +7563,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-09.md": {
-    "scroll": 21.902780734486324,
+    "scroll": 33.87474512185881,
     "cursor": {
       "from": {
         "line": 25,
@@ -7591,7 +7591,7 @@
     "expandedKeys": []
   },
   "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md": {
-    "scroll": 68.37109817703958,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 180,
@@ -7661,15 +7661,29 @@
     "expandedKeys": []
   },
   "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md": {
-    "scroll": 66.81054556856898,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 81,
-        "ch": 16
+        "line": 7,
+        "ch": 19
       },
       "to": {
-        "line": 81,
-        "ch": 16
+        "line": 7,
+        "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/Paste url into selection使用指南-2026-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []

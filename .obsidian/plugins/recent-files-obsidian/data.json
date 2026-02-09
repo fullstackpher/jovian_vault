@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Periodic Notes插件使用指南",
-      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
+      "basename": "Checkbox Sound使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md"
+    },
+    {
+      "basename": "Paste url into selection使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/Paste url into selection使用指南-2026-02.md"
+    },
+    {
+      "basename": "Periodic Notes插件使用指南-2026-02",
+      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南-2026-02.md"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
     },
     {
       "basename": "2026-01",
@@ -23,10 +31,6 @@
     {
       "basename": "2026-w06",
       "path": "7.Daily/每周复盘/2026-w06.md"
-    },
-    {
-      "basename": "Checkbox Sound使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md"
     },
     {
       "basename": "QuickAdd使用指南",
@@ -195,10 +199,6 @@
     {
       "basename": "变化与过渡",
       "path": "2.Areas/Frontend/变化与过渡.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "2.Areas/Frontend/变量和数据类型.md"
     }
   ],
   "omittedPaths": [],
