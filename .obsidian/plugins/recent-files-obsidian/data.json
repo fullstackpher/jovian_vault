@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
+    },
+    {
       "basename": "Docker命令速查",
       "path": "3.Resources/速查手册/Docker命令速查.md"
     },
@@ -21,10 +29,6 @@
       "path": "3.Resources/README.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "Checkbox Sound使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Periodic Notes插件使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南-2026-02.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
     },
     {
       "basename": "2026-01",
