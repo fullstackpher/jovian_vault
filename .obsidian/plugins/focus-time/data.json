@@ -1569,8 +1569,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6618000,
-      "openCount": 123
+      "duration": 6648000,
+      "openCount": 124
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2085,8 +2085,14 @@
     "7.Daily/每日日志/2026-02-09.md": {
       "fileId": "1770614864210",
       "filePath": "7.Daily/每日日志/2026-02-09.md",
-      "duration": 342000,
-      "openCount": 2
+      "duration": 396000,
+      "openCount": 3
+    },
+    "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md": {
+      "fileId": "1770624122361",
+      "filePath": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md",
+      "duration": 198000,
+      "openCount": 1
     }
   }
 }

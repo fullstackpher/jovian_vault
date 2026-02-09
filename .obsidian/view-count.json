@@ -10227,7 +10227,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
@@ -10237,6 +10237,25 @@
         },
         {
           "timestampMillis": 1770623871704
+        },
+        {
+          "timestampMillis": 1770624065863
+        }
+      ]
+    },
+    {
+      "path": "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1770624117988
+        },
+        {
+          "timestampMillis": 1770624150491
+        },
+        {
+          "timestampMillis": 1770624230431
         }
       ]
     }

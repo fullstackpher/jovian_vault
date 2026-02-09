@@ -7563,7 +7563,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-09.md": {
-    "scroll": 15.487071665868065,
+    "scroll": 3.167420814479638,
     "cursor": {
       "from": {
         "line": 23,
@@ -7572,6 +7572,34 @@
       "to": {
         "line": 23,
         "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/Checkbox Sound使用指南-2026-02.md": {
+    "scroll": 158.78974432573727,
+    "cursor": {
+      "from": {
+        "line": 173,
+        "ch": 26
+      },
+      "to": {
+        "line": 173,
+        "ch": 26
       }
     },
     "expandedKeys": []
