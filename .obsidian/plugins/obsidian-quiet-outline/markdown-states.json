@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 226.51015873258012,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 196,
@@ -6064,12 +6064,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 8
+        "line": 4,
+        "ch": 15
       },
       "to": {
-        "line": 0,
-        "ch": 8
+        "line": 4,
+        "ch": 15
       }
     },
     "expandedKeys": []
@@ -6877,7 +6877,7 @@
     "expandedKeys": []
   },
   "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-    "scroll": 329.2002650669643,
+    "scroll": 327.74369713705795,
     "cursor": {
       "from": {
         "line": 8,
@@ -7754,6 +7754,20 @@
       "to": {
         "line": 238,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
+    "scroll": 117.14280323921403,
+    "cursor": {
+      "from": {
+        "line": 78,
+        "ch": 20
+      },
+      "to": {
+        "line": 78,
+        "ch": 20
       }
     },
     "expandedKeys": []

@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 22890000,
-      "openCount": 352
+      "duration": 23034000,
+      "openCount": 353
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1563,8 +1563,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6666000,
-      "openCount": 127
+      "duration": 6732000,
+      "openCount": 131
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -1870,13 +1870,13 @@
       "fileId": "1770355960286",
       "filePath": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
       "duration": 138000,
-      "openCount": 4
+      "openCount": 5
     },
     "0.Inbox/Article 2026-02-06 13-43-47.md": {
       "fileId": "1770356644295",
       "filePath": "0.Inbox/Article 2026-02-06 13-43-47.md",
-      "duration": 42000,
-      "openCount": 6
+      "duration": 78000,
+      "openCount": 8
     },
     "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
       "fileId": "1770373976449",
@@ -2123,6 +2123,30 @@
       "filePath": "3.Resources/速查手册/Docker命令速查.md",
       "duration": 240000,
       "openCount": 4
+    },
+    "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
+      "fileId": "1770636939699",
+      "filePath": "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md",
+      "duration": 54000,
+      "openCount": 2
+    },
+    "3.Resources/书籍/子弹笔记.pdf": {
+      "fileId": "1770641709757",
+      "filePath": "3.Resources/书籍/子弹笔记.pdf",
+      "duration": 162000,
+      "openCount": 2
+    },
+    "3.Resources/书籍/大脑减压的子弹笔记术.pdf": {
+      "fileId": "1770641901689",
+      "filePath": "3.Resources/书籍/大脑减压的子弹笔记术.pdf",
+      "duration": 78000,
+      "openCount": 2
+    },
+    "5.Zattchments/图片/截图/局部截取_20260209_212117.png": {
+      "fileId": "1770643289922",
+      "filePath": "5.Zattchments/图片/截图/局部截取_20260209_212117.png",
+      "duration": 318000,
+      "openCount": 1
     }
   }
 }

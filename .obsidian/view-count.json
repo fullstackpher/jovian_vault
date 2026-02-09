@@ -767,7 +767,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 23,
-      "totalTimesOpened": 501,
+      "totalTimesOpened": 503,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2271,6 +2271,12 @@
         },
         {
           "timestampMillis": 1770634118104
+        },
+        {
+          "timestampMillis": 1770643217862
+        },
+        {
+          "timestampMillis": 1770643627631
         }
       ]
     },
@@ -7317,7 +7323,7 @@
     {
       "path": "8.Info/0-Inbox.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 162,
+      "totalTimesOpened": 167,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7804,6 +7810,21 @@
         },
         {
           "timestampMillis": 1770634002516
+        },
+        {
+          "timestampMillis": 1770641947599
+        },
+        {
+          "timestampMillis": 1770643207389
+        },
+        {
+          "timestampMillis": 1770643257962
+        },
+        {
+          "timestampMillis": 1770643625224
+        },
+        {
+          "timestampMillis": 1770643762654
         }
       ]
     },
@@ -10033,8 +10054,8 @@
     },
     {
       "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770355958086
@@ -10047,13 +10068,16 @@
         },
         {
           "timestampMillis": 1770380523154
+        },
+        {
+          "timestampMillis": 1770636991327
         }
       ]
     },
     {
       "path": "0.Inbox/Article 2026-02-06 13-43-47.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -10069,6 +10093,15 @@
         },
         {
           "timestampMillis": 1770381106169
+        },
+        {
+          "timestampMillis": 1770636987928
+        },
+        {
+          "timestampMillis": 1770636992223
+        },
+        {
+          "timestampMillis": 1770636993485
         }
       ]
     },
@@ -10391,6 +10424,55 @@
         },
         {
           "timestampMillis": 1770634008390
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770636936871
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/子弹笔记.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770641707756
+        },
+        {
+          "timestampMillis": 1770641708606
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/大脑减压的子弹笔记术.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1770641897115
+        },
+        {
+          "timestampMillis": 1770641897581
+        },
+        {
+          "timestampMillis": 1770641976570
+        }
+      ]
+    },
+    {
+      "path": "5.Zattchments/图片/截图/局部截取_20260209_212117.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770643289129
         }
       ]
     }
