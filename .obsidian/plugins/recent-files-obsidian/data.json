@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker命令速查",
+      "path": "3.Resources/速查手册/Docker命令速查.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
       "basename": "Git命令速查",
       "path": "3.Resources/速查手册/Git命令速查.md"
     },
@@ -9,16 +17,8 @@
       "path": "3.Resources/速查手册/Linux命令速查.md"
     },
     {
-      "basename": "Docker命令速查",
-      "path": "3.Resources/速查手册/Docker命令速查.md"
-    },
-    {
       "basename": "README",
       "path": "3.Resources/README.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "Dashboard",

@@ -1563,8 +1563,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6660000,
-      "openCount": 126
+      "duration": 6666000,
+      "openCount": 127
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2109,8 +2109,8 @@
     "3.Resources/速查手册/Git命令速查.md": {
       "fileId": "1770633368786",
       "filePath": "3.Resources/速查手册/Git命令速查.md",
-      "duration": 42000,
-      "openCount": 5
+      "duration": 48000,
+      "openCount": 6
     },
     "3.Resources/速查手册/Linux命令速查.md": {
       "fileId": "1770633404775",
@@ -2121,7 +2121,7 @@
     "3.Resources/速查手册/Docker命令速查.md": {
       "fileId": "1770633434780",
       "filePath": "3.Resources/速查手册/Docker命令速查.md",
-      "duration": 216000,
+      "duration": 222000,
       "openCount": 3
     }
   }

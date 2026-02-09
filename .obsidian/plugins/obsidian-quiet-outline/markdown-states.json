@@ -7731,7 +7731,7 @@
     "expandedKeys": []
   },
   "3.Resources/速查手册/Git命令速查.md": {
-    "scroll": 14.192343490130428,
+    "scroll": 65.9407112698595,
     "cursor": {
       "from": {
         "line": 4,
@@ -7745,14 +7745,14 @@
     "expandedKeys": []
   },
   "3.Resources/速查手册/Docker命令速查.md": {
-    "scroll": 0,
+    "scroll": 222.49186627974677,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 238,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 238,
         "ch": 0
       }
     },
