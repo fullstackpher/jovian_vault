@@ -766,8 +766,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 23,
-      "totalTimesOpened": 503,
+      "uniqueDaysOpened": 24,
+      "totalTimesOpened": 507,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2277,6 +2277,18 @@
         },
         {
           "timestampMillis": 1770643627631
+        },
+        {
+          "timestampMillis": 1770643826501
+        },
+        {
+          "timestampMillis": 1770643903703
+        },
+        {
+          "timestampMillis": 1770643931451
+        },
+        {
+          "timestampMillis": 1770711235046
         }
       ]
     },
@@ -7323,7 +7335,7 @@
     {
       "path": "8.Info/0-Inbox.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 167,
+      "totalTimesOpened": 168,
       "openLogs": [
         {
           "timestampMillis": 1769776782092
@@ -7825,6 +7837,9 @@
         },
         {
           "timestampMillis": 1770643762654
+        },
+        {
+          "timestampMillis": 1770643903294
         }
       ]
     },
@@ -9549,8 +9564,8 @@
     },
     {
       "path": "Dashboards/待处理区.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 15,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1770198755024
@@ -9596,6 +9611,12 @@
         },
         {
           "timestampMillis": 1770306577477
+        },
+        {
+          "timestampMillis": 1770643928912
+        },
+        {
+          "timestampMillis": 1770711228154
         }
       ]
     },
@@ -10298,7 +10319,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
@@ -10326,6 +10347,9 @@
         },
         {
           "timestampMillis": 1770634083883
+        },
+        {
+          "timestampMillis": 1770643827672
         }
       ]
     },
@@ -10473,6 +10497,45 @@
       "openLogs": [
         {
           "timestampMillis": 1770643289129
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/强者思维.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770643856667
+        },
+        {
+          "timestampMillis": 1770643857243
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/纳瓦尔宝典.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770643866666
+        },
+        {
+          "timestampMillis": 1770643867135
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/关键20小时，快速学会任何技能！.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1770643885416
+        },
+        {
+          "timestampMillis": 1770643885863
         }
       ]
     }

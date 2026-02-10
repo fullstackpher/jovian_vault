@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
+      "basename": "关键20小时，快速学会任何技能！",
+      "path": "3.Resources/书籍/关键20小时，快速学会任何技能！.pdf"
+    },
+    {
+      "basename": "纳瓦尔宝典",
+      "path": "3.Resources/书籍/纳瓦尔宝典.pdf"
+    },
+    {
+      "basename": "强者思维",
+      "path": "3.Resources/书籍/强者思维.pdf"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
     },
     {
       "basename": "局部截取_20260209_212117",
@@ -31,10 +51,6 @@
     {
       "basename": "PARA 信息组织法 — 如何整理我的数字信息-Pkmer",
       "path": "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
     },
     {
       "basename": "Docker命令速查",
@@ -183,22 +199,6 @@
     {
       "basename": "作用域",
       "path": "2.Areas/Frontend/作用域.md"
-    },
-    {
-      "basename": "值类型和引用类型",
-      "path": "2.Areas/Frontend/值类型和引用类型.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "2.Areas/Frontend/运算符.md"
-    },
-    {
-      "basename": "原型与原型链",
-      "path": "2.Areas/Frontend/原型与原型链.md"
-    },
-    {
-      "basename": "行内元素与块元素",
-      "path": "2.Areas/Frontend/行内元素与块元素.md"
     }
   ],
   "omittedPaths": [],
