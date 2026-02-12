@@ -6279,11 +6279,11 @@
     "cursor": {
       "from": {
         "line": 23,
-        "ch": 0
+        "ch": 6
       },
       "to": {
         "line": 23,
-        "ch": 0
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -7524,12 +7524,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 0
+        "line": 20,
+        "ch": 34
       },
       "to": {
-        "line": 21,
-        "ch": 0
+        "line": 20,
+        "ch": 34
       }
     },
     "expandedKeys": []
@@ -7563,15 +7563,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-09.md": {
-    "scroll": 3.167420814479638,
+    "scroll": 6.334841628959276,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 29
+        "line": 23,
+        "ch": 57
       },
       "to": {
-        "line": 22,
-        "ch": 29
+        "line": 23,
+        "ch": 57
       }
     },
     "expandedKeys": []

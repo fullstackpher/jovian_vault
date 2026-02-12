@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
+      "basename": "2026-02-05",
+      "path": "7.Daily/每日日志/2026-02-05.md"
     },
     {
-      "basename": "2026-02-08",
-      "path": "7.Daily/每日日志/2026-02-08.md"
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
     },
     {
       "basename": "2026-02-07",
       "path": "7.Daily/每日日志/2026-02-07.md"
     },
     {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
+      "basename": "2026-02-08",
+      "path": "7.Daily/每日日志/2026-02-08.md"
+    },
+    {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
     },
     {
       "basename": "2026-02-10",
@@ -195,10 +199,6 @@
     {
       "basename": "Sass预处理器",
       "path": "2.Areas/Frontend/Sass预处理器.md"
-    },
-    {
-      "basename": "HTML标签",
-      "path": "2.Areas/Frontend/HTML标签.md"
     }
   ],
   "omittedPaths": [],
