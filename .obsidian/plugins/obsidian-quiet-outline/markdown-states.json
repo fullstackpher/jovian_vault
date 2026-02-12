@@ -7843,15 +7843,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-12.md": {
-    "scroll": 17.792213467649237,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 0
+        "line": 29,
+        "ch": 14
       },
       "to": {
-        "line": 32,
-        "ch": 0
+        "line": 29,
+        "ch": 14
       }
     },
     "expandedKeys": []
