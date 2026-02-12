@@ -5,6 +5,30 @@
       "path": "7.Daily/每日日志/2026-02-05.md"
     },
     {
+      "basename": "2026-02-04",
+      "path": "7.Daily/每日日志/2026-02-04.md"
+    },
+    {
+      "basename": "2026-02-03",
+      "path": "7.Daily/每日日志/2026-02-03.md"
+    },
+    {
+      "basename": "2026-02-02",
+      "path": "7.Daily/每日日志/2026-02-02.md"
+    },
+    {
+      "basename": "2026-02-01",
+      "path": "7.Daily/每日日志/2026-02-01.md"
+    },
+    {
+      "basename": "2026-01-30",
+      "path": "7.Daily/每日日志/2026-01-30.md"
+    },
+    {
+      "basename": "2026-01-31",
+      "path": "7.Daily/每日日志/2026-01-31.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
     },
@@ -47,10 +71,6 @@
     {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "2026-02-01",
-      "path": "7.Daily/每日日志/2026-02-01.md"
     },
     {
       "basename": "Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili",
@@ -179,26 +199,6 @@
     {
       "basename": "CSS视觉与表现",
       "path": "2.Areas/Frontend/CSS视觉与表现.md"
-    },
-    {
-      "basename": "CSS高级特性与新特性",
-      "path": "2.Areas/Frontend/CSS高级特性与新特性.md"
-    },
-    {
-      "basename": "Window对象",
-      "path": "2.Areas/Frontend/Window对象.md"
-    },
-    {
-      "basename": "This指向",
-      "path": "2.Areas/Frontend/This指向.md"
-    },
-    {
-      "basename": "table表格布局",
-      "path": "2.Areas/Frontend/table表格布局.md"
-    },
-    {
-      "basename": "Sass预处理器",
-      "path": "2.Areas/Frontend/Sass预处理器.md"
     }
   ],
   "omittedPaths": [],
