@@ -7773,7 +7773,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-11.md": {
-    "scroll": 0,
+    "scroll": 9.597997759066123,
     "cursor": {
       "from": {
         "line": 19,
@@ -7846,12 +7846,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 14
+        "line": 17,
+        "ch": 10
       },
       "to": {
-        "line": 29,
-        "ch": 14
+        "line": 17,
+        "ch": 10
       }
     },
     "expandedKeys": []
