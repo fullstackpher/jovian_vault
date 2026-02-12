@@ -776,7 +776,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 26,
-      "totalTimesOpened": 512,
+      "totalTimesOpened": 514,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2313,6 +2313,12 @@
         },
         {
           "timestampMillis": 1770877967548
+        },
+        {
+          "timestampMillis": 1770907923032
+        },
+        {
+          "timestampMillis": 1770907951404
         }
       ]
     },
@@ -2489,8 +2495,8 @@
     },
     {
       "path": "1.Projects/项目看板.md",
-      "uniqueDaysOpened": 15,
-      "totalTimesOpened": 45,
+      "uniqueDaysOpened": 16,
+      "totalTimesOpened": 46,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -2626,6 +2632,9 @@
         },
         {
           "timestampMillis": 1770355349211
+        },
+        {
+          "timestampMillis": 1770907907128
         }
       ]
     },
@@ -9824,31 +9833,6 @@
       ]
     },
     {
-      "path": "1.Projects/02-知识管理/整理obsidian.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
-      "openLogs": [
-        {
-          "timestampMillis": 1770305811431
-        },
-        {
-          "timestampMillis": 1770355314970
-        },
-        {
-          "timestampMillis": 1770380405793
-        },
-        {
-          "timestampMillis": 1770906958623
-        },
-        {
-          "timestampMillis": 1770906971888
-        },
-        {
-          "timestampMillis": 1770906993126
-        }
-      ]
-    },
-    {
       "path": "7.Daily/每日日志/2026-02-05.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 24,
@@ -9930,7 +9914,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 46,
+      "totalTimesOpened": 47,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -10069,6 +10053,9 @@
         },
         {
           "timestampMillis": 1770882017319
+        },
+        {
+          "timestampMillis": 1770907948878
         }
       ]
     },
@@ -10904,7 +10891,7 @@
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1770906954060
@@ -10923,6 +10910,9 @@
         },
         {
           "timestampMillis": 1770907560737
+        },
+        {
+          "timestampMillis": 1770907784917
         }
       ]
     }
