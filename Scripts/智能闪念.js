@@ -83,11 +83,38 @@ module.exports = async (params) => {
         const thoughtsPattern = new RegExp(`^${thoughtsHeader}.*$`, 'm');
 
         if (thoughtsPattern.test(diaryContent)) {
-            // 找到 Thoughts 标题，在其后追加内容
-            diaryContent = diaryContent.replace(
-                thoughtsPattern,
-                match => `${match}\n${result}`
-            );
+            // 找到 Thoughts 标题的位置
+            const titleMatch = diaryContent.match(thoughtsPattern);
+            const titleEndIndex = diaryContent.indexOf(titleMatch[0]) + titleMatch[0].length;
+
+            // 提取标题后的内容
+            const beforeTitle = diaryContent.substring(0, titleEndIndex);
+            const afterTitle = diaryContent.substring(titleEndIndex);
+
+            // 分析标题后的内容
+            const trimmedAfter = afterTitle.trimStart();
+
+            if (trimmedAfter === '') {
+                // 标题后没有内容，直接添加
+                diaryContent = beforeTitle + '\n\n' + result;
+            } else if (trimmedAfter.startsWith('-')) {
+                // 标题后紧接着是列表项，插入到第一行前面
+                const firstLineEnd = afterTitle.indexOf('\n');
+                const firstLine = afterTitle.substring(0, firstLineEnd);
+                const restOfContent = afterTitle.substring(firstLineEnd);
+                diaryContent = beforeTitle + '\n' + result + restOfContent;
+            } else {
+                // 标题后是其他内容（如空行），追加到第一个有效位置
+                const firstLineEnd = afterTitle.indexOf('\n');
+                if (firstLineEnd !== -1) {
+                    const firstLine = afterTitle.substring(0, firstLineEnd);
+                    const restOfContent = afterTitle.substring(firstLineEnd);
+                    diaryContent = beforeTitle + firstLine + '\n' + result + restOfContent;
+                } else {
+                    // 只有第一行且没有换行
+                    diaryContent = beforeTitle + '\n' + result + '\n' + afterTitle;
+                }
+            }
         } else {
             // 没找到 Thoughts 标题，在最后一个 ## 二级标题后追加
             const lastHeaderMatch = diaryContent.match(/^## .+$/m);

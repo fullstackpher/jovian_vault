@@ -7846,12 +7846,12 @@
     "scroll": 13.9907115778306,
     "cursor": {
       "from": {
-        "line": 33,
-        "ch": 25
+        "line": 31,
+        "ch": 14
       },
       "to": {
-        "line": 33,
-        "ch": 25
+        "line": 31,
+        "ch": 14
       }
     },
     "expandedKeys": []

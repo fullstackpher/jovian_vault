@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770878234181-jh6zfwmyf",
+  "title": "给我优化下这个记录闪念的JS脚本，添加闪念到Thought标题后给我改成添加到标题后的下一行，不是第...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1770878234192,
+  "updatedAt": 1770878317170,
+  "lastResponseAt": 1770878317170,
+  "sessionId": "4b81766b-8f01-4360-9023-58cbcad98955",
+  "sdkSessionId": "4b81766b-8f01-4360-9023-58cbcad98955",
+  "currentNote": "7.Daily/每日日志/2026-02-12.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
