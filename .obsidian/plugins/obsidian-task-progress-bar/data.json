@@ -6,7 +6,7 @@
   "progressBarDisplayMode": "both",
   "supportHoverToShowProgressInfo": false,
   "addProgressBarToNonTaskBullet": false,
-  "addTaskProgressBarToHeading": false,
+  "addTaskProgressBarToHeading": true,
   "addProgressBarToProjectsView": false,
   "enableProgressbarInReadingMode": false,
   "notifications": {
@@ -23,8 +23,8 @@
   "desktopIntegration": {
     "enableTray": false
   },
-  "countSubLevel": false,
-  "displayMode": "bracketFraction",
+  "countSubLevel": true,
+  "displayMode": "percentage",
   "customFormat": "[{{COMPLETED}}/{{TOTAL}}]",
   "showPercentage": false,
   "customizeProgressRanges": false,
