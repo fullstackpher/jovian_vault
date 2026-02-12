@@ -1107,8 +1107,8 @@
     "1.Projects/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
       "filePath": "1.Projects/02-知识管理/学习Obsidian.md",
-      "duration": 390000,
-      "openCount": 14
+      "duration": 414000,
+      "openCount": 17
     },
     "1.Projects/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
@@ -1779,8 +1779,8 @@
     "1.Projects/02-知识管理/整理obsidian.md": {
       "fileId": "1770305812637",
       "filePath": "1.Projects/02-知识管理/整理obsidian.md",
-      "duration": 138000,
-      "openCount": 4
+      "duration": 264000,
+      "openCount": 7
     },
     "7.Daily/每日日志/2026-02-04.md": {
       "fileId": "1770188685477",
@@ -2199,14 +2199,26 @@
     "7.Daily/每日日志/2026-02-12.md": {
       "fileId": "1770873558291",
       "filePath": "7.Daily/每日日志/2026-02-12.md",
-      "duration": 2388000,
-      "openCount": 7
+      "duration": 2442000,
+      "openCount": 9
     },
     "QuickCapture.md": {
       "fileId": "1770875293764",
       "filePath": "QuickCapture.md",
       "duration": 264000,
       "openCount": 2
+    },
+    "未命名.md": {
+      "fileId": "1770906913807",
+      "filePath": "未命名.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "1.Projects/02-知识管理/打造第二大脑.md": {
+      "fileId": "1770906955787",
+      "filePath": "1.Projects/02-知识管理/打造第二大脑.md",
+      "duration": 510000,
+      "openCount": 3
     }
   }
 }

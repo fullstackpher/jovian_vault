@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "打造第二大脑",
+      "path": "1.Projects/02-知识管理/打造第二大脑.md"
+    },
+    {
+      "basename": "整理obsidian",
+      "path": "1.Projects/02-知识管理/整理obsidian.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
       "basename": "2026-02-12",
       "path": "7.Daily/每日日志/2026-02-12.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "PostCSS",
       "path": "2.Areas/Frontend/PostCSS.md"
-    },
-    {
-      "basename": "CSS基础概念",
-      "path": "2.Areas/Frontend/CSS基础概念.md"
-    },
-    {
-      "basename": "CSS响应式设计",
-      "path": "2.Areas/Frontend/CSS响应式设计.md"
-    },
-    {
-      "basename": "CSS视觉与表现",
-      "path": "2.Areas/Frontend/CSS视觉与表现.md"
     }
   ],
   "omittedPaths": [],
