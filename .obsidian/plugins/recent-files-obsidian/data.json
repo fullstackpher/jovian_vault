@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
     {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
+    },
+    {
+      "basename": "2026-02-11",
+      "path": "7.Daily/每日日志/2026-02-11.md"
+    },
+    {
+      "basename": "2026-02-10",
+      "path": "7.Daily/每日日志/2026-02-10.md"
+    },
+    {
+      "basename": "Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili",
+      "path": "0.Inbox/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md"
+    },
+    {
+      "basename": "Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili",
+      "path": "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
+    },
+    {
+      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
+      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
     },
     {
       "basename": "0-Inbox",
@@ -25,10 +53,6 @@
       "path": "3.Resources/书籍/强者思维.pdf"
     },
     {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
-    },
-    {
       "basename": "局部截取_20260209_212117",
       "path": "5.Zattchments/图片/截图/局部截取_20260209_212117.png"
     },
@@ -39,14 +63,6 @@
     {
       "basename": "子弹笔记",
       "path": "3.Resources/书籍/子弹笔记.pdf"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
     },
     {
       "basename": "PARA 信息组织法 — 如何整理我的数字信息-Pkmer",
@@ -183,22 +199,6 @@
     {
       "basename": "CSS工程化",
       "path": "2.Areas/Frontend/CSS工程化.md"
-    },
-    {
-      "basename": "CSS动画",
-      "path": "2.Areas/Frontend/CSS动画.md"
-    },
-    {
-      "basename": "CSS层叠、继承、值计算",
-      "path": "2.Areas/Frontend/CSS层叠、继承、值计算.md"
-    },
-    {
-      "basename": "CSS布局系统",
-      "path": "2.Areas/Frontend/CSS布局系统.md"
-    },
-    {
-      "basename": "作用域",
-      "path": "2.Areas/Frontend/作用域.md"
     }
   ],
   "omittedPaths": [],

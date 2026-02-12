@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 195.6388878915824,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 196,
@@ -6877,7 +6877,7 @@
     "expandedKeys": []
   },
   "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-    "scroll": 327.74369713705795,
+    "scroll": 325.72877241717,
     "cursor": {
       "from": {
         "line": 8,
@@ -7563,15 +7563,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-09.md": {
-    "scroll": 42.06631147674044,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 0
+        "line": 19,
+        "ch": 6
       },
       "to": {
-        "line": 24,
-        "ch": 0
+        "line": 19,
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -7768,6 +7768,76 @@
       "to": {
         "line": 78,
         "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-11.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 6
+      },
+      "to": {
+        "line": 19,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Note 2026-02-11 19-36-59.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 31
+      },
+      "to": {
+        "line": 4,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-10.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 0
+      },
+      "to": {
+        "line": 26,
+        "ch": 0
       }
     },
     "expandedKeys": []

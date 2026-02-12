@@ -766,8 +766,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 24,
-      "totalTimesOpened": 507,
+      "uniqueDaysOpened": 25,
+      "totalTimesOpened": 509,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2289,6 +2289,12 @@
         },
         {
           "timestampMillis": 1770711235046
+        },
+        {
+          "timestampMillis": 1770809918396
+        },
+        {
+          "timestampMillis": 1770810028489
         }
       ]
     },
@@ -9564,8 +9570,8 @@
     },
     {
       "path": "Dashboards/待处理区.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1770198755024
@@ -9617,6 +9623,9 @@
         },
         {
           "timestampMillis": 1770711228154
+        },
+        {
+          "timestampMillis": 1770872488314
         }
       ]
     },
@@ -10075,8 +10084,8 @@
     },
     {
       "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770355958086
@@ -10092,13 +10101,16 @@
         },
         {
           "timestampMillis": 1770636991327
+        },
+        {
+          "timestampMillis": 1770809887275
         }
       ]
     },
     {
       "path": "0.Inbox/Article 2026-02-06 13-43-47.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -10123,6 +10135,9 @@
         },
         {
           "timestampMillis": 1770636993485
+        },
+        {
+          "timestampMillis": 1770809885027
         }
       ]
     },
@@ -10318,8 +10333,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
@@ -10350,6 +10365,18 @@
         },
         {
           "timestampMillis": 1770643827672
+        },
+        {
+          "timestampMillis": 1770809925761
+        },
+        {
+          "timestampMillis": 1770809973974
+        },
+        {
+          "timestampMillis": 1770809991773
+        },
+        {
+          "timestampMillis": 1770810008668
         }
       ]
     },
@@ -10536,6 +10563,58 @@
         },
         {
           "timestampMillis": 1770643885863
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-11.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1770809719598
+        },
+        {
+          "timestampMillis": 1770809919412
+        },
+        {
+          "timestampMillis": 1770809997340
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1770809855399
+        },
+        {
+          "timestampMillis": 1770809867667
+        },
+        {
+          "timestampMillis": 1770809892893
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770809895357
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770809993458
         }
       ]
     }
