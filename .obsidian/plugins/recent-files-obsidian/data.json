@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-01",
+      "path": "7.Daily/每日日志/2026-02-01.md"
+    },
+    {
+      "basename": "2026-02-08",
+      "path": "7.Daily/每日日志/2026-02-08.md"
+    },
+    {
+      "basename": "2026-02-12",
+      "path": "7.Daily/每日日志/2026-02-12.md"
+    },
+    {
       "basename": "待处理区",
       "path": "Dashboards/待处理区.md"
     },
@@ -109,10 +121,6 @@
       "path": "3.Resources/QuickAdd使用指南.md"
     },
     {
-      "basename": "2026-02-08",
-      "path": "7.Daily/每日日志/2026-02-08.md"
-    },
-    {
       "basename": "2026-02-07",
       "path": "7.Daily/每日日志/2026-02-07.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CSS引入方式",
       "path": "2.Areas/Frontend/CSS引入方式.md"
-    },
-    {
-      "basename": "CSS选择器",
-      "path": "2.Areas/Frontend/CSS选择器.md"
-    },
-    {
-      "basename": "CSS工程化",
-      "path": "2.Areas/Frontend/CSS工程化.md"
     }
   ],
   "omittedPaths": [],
