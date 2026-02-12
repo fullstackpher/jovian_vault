@@ -54,16 +54,16 @@ var UrlSettingsTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     const instructions = containerEl.createEl("div");
-    instructions.createEl("p", { text: "URL需要是远程资源，并且还不支持本地文件（或者至少在我的计算机上不支持）。" });
-    instructions.createEl("p", { text: "其他一些设置，如不透明度、模糊度和输入对比度，是调整体验的助手。" });
-    instructions.createEl("a", { href: "https://github.com/shmolf/obsidian-editor-background/issues", text: "提交问题" });
-    new import_obsidian.Setting(containerEl).setName("背景图像URL").setDesc("要加载的背景图像的URL。").addText(
+    instructions.createEl("p", { text: "The URL needs to be a remote resource, and does not yet (or at least not on my machine) support local files." });
+    instructions.createEl("p", { text: "Some of the other settings, like opacity, bluriness, and input contrast, are helpers to tweak your experience." });
+    instructions.createEl("a", { href: "https://github.com/shmolf/obsidian-editor-background/issues", text: "Submit an issue" });
+    new import_obsidian.Setting(containerEl).setName("Background Image URL").setDesc("URL for the background image to load.").addText(
       (text) => text.setPlaceholder("https://example.com/image.png").setValue(this.plugin.settings.imageUrl).onChange(async (value) => {
         this.plugin.settings.imageUrl = value;
         await this.plugin.saveSettings();
       })
     );
-    new import_obsidian.Setting(containerEl).setName("背景不透明度").setDesc("背景图像的不透明度应在0%和100%之间。").addText(
+    new import_obsidian.Setting(containerEl).setName("Background Opacity").setDesc("Opacity of the background image should be between 0% and 100%.").addText(
       (text) => text.setPlaceholder(`${(DEFAULT_SETTINGS.opacity || 1) * 100}`).setValue(`${this.floatToPercent(this.plugin.settings.opacity)}`).onChange(
         async (value) => {
           this.plugin.settings.opacity = this.percentToFloat(Number(value));
@@ -71,14 +71,14 @@ var UrlSettingsTab = class extends import_obsidian.PluginSettingTab {
         }
       )
     );
-    new import_obsidian.Setting(containerEl).setName("图像模糊").setDesc("增加模糊度有助于使文本更清晰。").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Image Bluriness").setDesc("Increasing the blur can help make the text more legible.").addDropdown((dropdown) => {
       dropdown.addOption(blurLevels.off, "Off").addOption(blurLevels.low, "Low").addOption(blurLevels.high, "High").setValue(this.plugin.settings.bluriness).onChange(async (value) => {
         this.plugin.settings.bluriness = value;
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian.Setting(containerEl).setName("输入区域对比度背景").setDesc("这为输入区域添加了半透明背景，以帮助提高易读性。").addToggle((toggle) => {
-      toggle.setTooltip("启用以增加输入区域的对比度。").setValue(this.plugin.settings.inputContrast).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Input Area Contrast Background").setDesc("This adds a translucent background for the input area, to help improve legibility.").addToggle((toggle) => {
+      toggle.setTooltip("Enable to increase the contrast of the input area.").setValue(this.plugin.settings.inputContrast).onChange(async (value) => {
         this.plugin.settings.inputContrast = value;
         await this.plugin.saveSettings();
       });

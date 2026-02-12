@@ -18,12 +18,13 @@
   "dataviewSource": "",
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 60,
+  "minimalDurationMinutes": 10,
   "showTimestampInTaskBlock": true,
   "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.20.4",
+  "pluginVersion": "0.28.0",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [],
@@ -59,7 +60,15 @@
       "color": "#d3c4fd"
     }
   ],
+  "releaseNotes": true,
+  "taskStatusOnCreation": " ",
+  "eventFormatOnCreation": "task",
+  "sortTasksInPlanAfterEdit": false,
+  "firstDayOfWeek": "monday",
+  "multiDayRange": "3-days",
+  "showTimeTracker": false,
+  "showActiveClocks": false,
   "editMode": "simple",
   "copyOnDrag": false,
-  "releaseNotes": true
+  "rawIcals": []
 }
