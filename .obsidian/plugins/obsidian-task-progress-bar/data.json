@@ -803,7 +803,7 @@
     }
   },
   "taskTimer": {
-    "enabled": false,
+    "enabled": true,
     "metadataDetection": {
       "frontmatter": "task-timer",
       "folders": [],
