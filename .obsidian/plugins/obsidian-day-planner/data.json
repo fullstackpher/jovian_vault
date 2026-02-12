@@ -1,41 +1,65 @@
 {
-  "snapStepMinutes": 10,
-  "progressIndicator": "mini-timeline",
+  "snapStepMinutes": 5,
+  "progressIndicator": "bar",
   "showTaskNotification": false,
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
-  "startHour": 6,
+  "startHour": 0,
   "timelineDateFormat": "YYYY-MM-DD",
-  "centerNeedle": false,
-  "plannerHeading": "Day planner",
-  "plannerHeadingLevel": 1,
+  "centerNeedle": true,
+  "plannerHeading": "🗓 今日日志",
+  "plannerHeadingLevel": 2,
   "timelineColored": false,
-  "timelineStartColor": "#006466",
-  "timelineEndColor": "#4d194d",
+  "timelineStartColor": "#e6e93a",
+  "timelineEndColor": "#9e2bd4",
   "timestampFormat": "HH:mm",
   "hourFormat": "H",
   "dataviewSource": "",
   "extendDurationUntilNext": false,
-  "defaultDurationMinutes": 30,
-  "minimalDurationMinutes": 10,
-  "showTimestampInTaskBlock": false,
+  "defaultDurationMinutes": 60,
+  "showTimestampInTaskBlock": true,
   "showUncheduledTasks": true,
-  "showUnscheduledNestedTasks": true,
+  "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.28.0",
+  "pluginVersion": "0.20.4",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [],
-  "colorOverrides": [],
-  "releaseNotes": true,
-  "taskStatusOnCreation": " ",
-  "eventFormatOnCreation": "task",
-  "sortTasksInPlanAfterEdit": false,
-  "firstDayOfWeek": "monday",
-  "multiDayRange": "3-days",
-  "showTimeTracker": false,
-  "showActiveClocks": false,
-  "rawIcals": []
+  "colorOverrides": [
+    {
+      "text": "#red",
+      "darkModeColor": "#9a364e",
+      "color": "#f9d7dc"
+    },
+    {
+      "text": "#blue",
+      "darkModeColor": "#2960aa",
+      "color": "#8bb6ee"
+    },
+    {
+      "text": "#orange",
+      "darkModeColor": "#bc6c10",
+      "color": "#f0d20f"
+    },
+    {
+      "text": "#green",
+      "darkModeColor": "#5f9956",
+      "color": "#bce2b6"
+    },
+    {
+      "text": "#grey",
+      "darkModeColor": "#4c5467",
+      "color": "#dedede"
+    },
+    {
+      "text": "#purple",
+      "darkModeColor": "#522c81",
+      "color": "#d3c4fd"
+    }
+  ],
+  "editMode": "simple",
+  "copyOnDrag": false,
+  "releaseNotes": true
 }

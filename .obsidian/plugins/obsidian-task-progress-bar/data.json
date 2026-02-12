@@ -371,6 +371,28 @@
   "globalFilterRules": {},
   "viewConfiguration": [
     {
+      "id": "today",
+      "name": "今天",
+      "icon": "calendar-days",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
+      "id": "upcoming",
+      "name": "Upcoming",
+      "icon": "calendar",
+      "type": "default",
+      "visible": true,
+      "region": "top",
+      "hideCompletedAndAbandonedTasks": true,
+      "filterBlanks": false,
+      "filterRules": {}
+    },
+    {
       "id": "inbox",
       "name": "收件箱",
       "icon": "inbox",
@@ -378,7 +400,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "working-on",
@@ -432,7 +455,8 @@
       "visible": true,
       "hideCompletedAndAbandonedTasks": true,
       "filterRules": {},
-      "filterBlanks": false
+      "filterBlanks": false,
+      "region": "top"
     },
     {
       "id": "review",
@@ -939,8 +963,37 @@
       "ws_1770874906591_c7qebxs6e": {
         "id": "ws_1770874906591_c7qebxs6e",
         "name": "Default",
-        "updatedAt": 1770874906591,
-        "settings": {}
+        "updatedAt": 1770875912733,
+        "settings": {
+          "fluentFilterState": {
+            "working-on": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "projects": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "forecast": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "tags": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "calendar": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            }
+          },
+          "fluentActiveViewId": "calendar"
+        }
       }
     }
   }

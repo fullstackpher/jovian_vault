@@ -19,7 +19,6 @@
   "obsidian-quiet-outline",
   "i18n",
   "calendar",
-  "obsidian-day-planner",
   "homepage",
   "mantou-ai",
   "obsidian-emoji-toolbar",
@@ -36,5 +35,6 @@
   "obsidian-read-it-later",
   "checkbox-sounds",
   "periodic-notes",
-  "obsidian-task-progress-bar"
+  "obsidian-task-progress-bar",
+  "obsidian-day-planner"
 ]
