@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
       "basename": "2026-02-12",
       "path": "7.Daily/每日日志/2026-02-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HTML标签",
       "path": "2.Areas/Frontend/HTML标签.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
     }
   ],
   "omittedPaths": [],
