@@ -3,11 +3,10 @@
   "title": "请将图中的问题解决，在",
   "titleGenerationStatus": "failed",
   "createdAt": 1770643362940,
-  "updatedAt": 1770643719692,
+  "updatedAt": 1770878128759,
   "lastResponseAt": 1770643719692,
   "sessionId": "9c813dbb-a608-4a94-8415-b8c2ae39f30f",
   "sdkSessionId": "9c813dbb-a608-4a94-8415-b8c2ae39f30f",
-  "currentNote": "5.Zattchments/图片/截图/局部截取_20260209_212117.png",
   "usage": {
     "model": "glm-4.7",
     "inputTokens": 0,
