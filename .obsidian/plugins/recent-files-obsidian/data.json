@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-09",
+      "path": "7.Daily/每日日志/2026-02-09.md"
+    },
+    {
       "basename": "2026-02-08",
       "path": "7.Daily/每日日志/2026-02-08.md"
     },
     {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
+      "basename": "2026-02-07",
+      "path": "7.Daily/每日日志/2026-02-07.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
     },
     {
       "basename": "2026-02-10",
@@ -123,10 +131,6 @@
     {
       "basename": "QuickAdd使用指南",
       "path": "3.Resources/QuickAdd使用指南.md"
-    },
-    {
-      "basename": "2026-02-07",
-      "path": "7.Daily/每日日志/2026-02-07.md"
     },
     {
       "basename": "日期对象",

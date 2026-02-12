@@ -9866,8 +9866,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 41,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 44,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9991,6 +9991,15 @@
         },
         {
           "timestampMillis": 1770373444039
+        },
+        {
+          "timestampMillis": 1770880515300
+        },
+        {
+          "timestampMillis": 1770880871701
+        },
+        {
+          "timestampMillis": 1770880965069
         }
       ]
     },
@@ -10321,21 +10330,45 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-07.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1770481948876
         },
         {
           "timestampMillis": 1770481965564
+        },
+        {
+          "timestampMillis": 1770880315494
+        },
+        {
+          "timestampMillis": 1770880394166
+        },
+        {
+          "timestampMillis": 1770880588550
+        },
+        {
+          "timestampMillis": 1770880590768
+        },
+        {
+          "timestampMillis": 1770880783004
+        },
+        {
+          "timestampMillis": 1770880870922
+        },
+        {
+          "timestampMillis": 1770880930087
+        },
+        {
+          "timestampMillis": 1770880967976
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-02-08.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1770481960084
@@ -10357,6 +10390,21 @@
         },
         {
           "timestampMillis": 1770879917255
+        },
+        {
+          "timestampMillis": 1770880324438
+        },
+        {
+          "timestampMillis": 1770880778353
+        },
+        {
+          "timestampMillis": 1770880859225
+        },
+        {
+          "timestampMillis": 1770880869962
+        },
+        {
+          "timestampMillis": 1770880968940
         }
       ]
     },
@@ -10379,7 +10427,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-09.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1770614860346
@@ -10428,6 +10476,15 @@
         },
         {
           "timestampMillis": 1770879867224
+        },
+        {
+          "timestampMillis": 1770880863116
+        },
+        {
+          "timestampMillis": 1770880868827
+        },
+        {
+          "timestampMillis": 1770880974587
         }
       ]
     },
@@ -10620,7 +10677,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-11.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1770809719598
@@ -10636,6 +10693,12 @@
         },
         {
           "timestampMillis": 1770879857342
+        },
+        {
+          "timestampMillis": 1770880865750
+        },
+        {
+          "timestampMillis": 1770880868147
         }
       ]
     },
@@ -10668,7 +10731,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-10.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770809993458
@@ -10681,13 +10744,19 @@
         },
         {
           "timestampMillis": 1770879861786
+        },
+        {
+          "timestampMillis": 1770880864439
+        },
+        {
+          "timestampMillis": 1770880868502
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-02-12.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1770873553242
@@ -10718,6 +10787,9 @@
         },
         {
           "timestampMillis": 1770878874646
+        },
+        {
+          "timestampMillis": 1770880867025
         }
       ]
     }
