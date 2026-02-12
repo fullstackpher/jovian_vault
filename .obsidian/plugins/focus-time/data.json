@@ -1629,8 +1629,8 @@
     "Dashboards/待处理区.md": {
       "fileId": "1770198755807",
       "filePath": "Dashboards/待处理区.md",
-      "duration": 792000,
-      "openCount": 18
+      "duration": 1152000,
+      "openCount": 19
     },
     "1.Projects/01-学习Java/学习JavaEE.md": {
       "fileId": "1770199475815",
@@ -2199,8 +2199,14 @@
     "7.Daily/每日日志/2026-02-12.md": {
       "fileId": "1770873558291",
       "filePath": "7.Daily/每日日志/2026-02-12.md",
-      "duration": 258000,
-      "openCount": 2
+      "duration": 462000,
+      "openCount": 3
+    },
+    "QuickCapture.md": {
+      "fileId": "1770875293764",
+      "filePath": "QuickCapture.md",
+      "duration": 78000,
+      "openCount": 1
     }
   }
 }
