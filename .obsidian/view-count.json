@@ -10990,6 +10990,16 @@
           "timestampMillis": 1770908096634
         }
       ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-13.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1770958153923
+        }
+      ]
     }
   ]
 }
