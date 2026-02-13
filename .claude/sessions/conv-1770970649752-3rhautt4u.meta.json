@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770970649752-3rhautt4u",
+  "title": "优化这个笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1770970649753,
+  "updatedAt": 1770982190927,
+  "lastResponseAt": 1770970706855,
+  "sessionId": "bfe2b9cb-bce0-44de-8f2f-9e0b5f91d21b",
+  "sdkSessionId": "bfe2b9cb-bce0-44de-8f2f-9e0b5f91d21b",
+  "currentNote": "1.Projects/03-学习前端/学习HTML.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
