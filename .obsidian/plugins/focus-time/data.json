@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 23640000,
-      "openCount": 369
+      "openCount": 370
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1107,14 +1107,14 @@
     "1.Projects/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
       "filePath": "1.Projects/02-知识管理/学习Obsidian.md",
-      "duration": 426000,
-      "openCount": 21
+      "duration": 474000,
+      "openCount": 23
     },
     "1.Projects/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
       "filePath": "1.Projects/03-学习前端/学习CSS.md",
-      "duration": 222000,
-      "openCount": 13
+      "duration": 246000,
+      "openCount": 14
     },
     "1.Projects/03-学习前端/学习HTML.md": {
       "fileId": "1769866488025",
@@ -1125,8 +1125,8 @@
     "1.Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects/03-学习前端/学习JavaScript.md",
-      "duration": 2478000,
-      "openCount": 47
+      "duration": 2610000,
+      "openCount": 48
     },
     "1.Projects/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
@@ -1143,8 +1143,8 @@
     "1.Projects/项目看板.md": {
       "fileId": "1769756608307",
       "filePath": "1.Projects/项目看板.md",
-      "duration": 210000,
-      "openCount": 29
+      "duration": 216000,
+      "openCount": 30
     },
     "2.Areas/Frontend/背景.md": {
       "fileId": "1768805305769",
@@ -2223,12 +2223,12 @@
     "7.Daily/每日日志/2026-02-13.md": {
       "fileId": "1770957975021",
       "filePath": "7.Daily/每日日志/2026-02-13.md",
-      "duration": 372000,
+      "duration": 402000,
       "openCount": 7
     },
-    "4.Archives/03-资源-2026-02/学习HTML-2026-02.md": {
+    "4.Archives/01-项目-2026-02/学习HTML-2026-02.md": {
       "fileId": "1770982509664",
-      "filePath": "4.Archives/03-资源-2026-02/学习HTML-2026-02.md",
+      "filePath": "4.Archives/01-项目-2026-02/学习HTML-2026-02.md",
       "duration": 24000,
       "openCount": 1
     }

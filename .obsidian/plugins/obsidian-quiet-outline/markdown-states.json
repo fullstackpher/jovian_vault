@@ -6135,15 +6135,15 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 92.62778387297976,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 79,
-        "ch": 0
+        "line": 50,
+        "ch": 30
       },
       "to": {
-        "line": 79,
-        "ch": 0
+        "line": 50,
+        "ch": 30
       }
     },
     "expandedKeys": []
@@ -6233,7 +6233,7 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 5.466666521344866,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 87,
@@ -7902,12 +7902,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 25
+        "line": 8,
+        "ch": 0
       },
       "to": {
-        "line": 28,
-        "ch": 25
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []

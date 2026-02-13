@@ -549,7 +549,7 @@
     {
       "path": "1.Projects/02-知识管理/学习Obsidian.md",
       "uniqueDaysOpened": 11,
-      "totalTimesOpened": 41,
+      "totalTimesOpened": 43,
       "openLogs": [
         {
           "timestampMillis": 1768478789164
@@ -673,6 +673,12 @@
         },
         {
           "timestampMillis": 1770982719992
+        },
+        {
+          "timestampMillis": 1770982810857
+        },
+        {
+          "timestampMillis": 1770982994514
         }
       ]
     },
@@ -806,7 +812,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 27,
-      "totalTimesOpened": 527,
+      "totalTimesOpened": 528,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2388,6 +2394,9 @@
         },
         {
           "timestampMillis": 1770981952327
+        },
+        {
+          "timestampMillis": 1770982995934
         }
       ]
     },
@@ -2477,7 +2486,7 @@
     {
       "path": "1.Projects/项目看板.md",
       "uniqueDaysOpened": 16,
-      "totalTimesOpened": 50,
+      "totalTimesOpened": 51,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -2628,6 +2637,9 @@
         },
         {
           "timestampMillis": 1770982495937
+        },
+        {
+          "timestampMillis": 1770982855450
         }
       ]
     },
@@ -3651,244 +3663,6 @@
         },
         {
           "timestampMillis": 1770381842398
-        }
-      ]
-    },
-    {
-      "path": "1.Projects/03-学习前端/学习CSS.md",
-      "uniqueDaysOpened": 11,
-      "totalTimesOpened": 77,
-      "openLogs": [
-        {
-          "timestampMillis": 1768559266453
-        },
-        {
-          "timestampMillis": 1768559341711
-        },
-        {
-          "timestampMillis": 1768624229805
-        },
-        {
-          "timestampMillis": 1768638216519
-        },
-        {
-          "timestampMillis": 1768644536392
-        },
-        {
-          "timestampMillis": 1768645204623
-        },
-        {
-          "timestampMillis": 1768645246243
-        },
-        {
-          "timestampMillis": 1768645247578
-        },
-        {
-          "timestampMillis": 1768645318769
-        },
-        {
-          "timestampMillis": 1768645362811
-        },
-        {
-          "timestampMillis": 1768645375375
-        },
-        {
-          "timestampMillis": 1768645867263
-        },
-        {
-          "timestampMillis": 1768647050135
-        },
-        {
-          "timestampMillis": 1768647367063
-        },
-        {
-          "timestampMillis": 1768648231365
-        },
-        {
-          "timestampMillis": 1768652407143
-        },
-        {
-          "timestampMillis": 1768652421089
-        },
-        {
-          "timestampMillis": 1768652421378
-        },
-        {
-          "timestampMillis": 1768653341535
-        },
-        {
-          "timestampMillis": 1768653727209
-        },
-        {
-          "timestampMillis": 1768654851685
-        },
-        {
-          "timestampMillis": 1768654854663
-        },
-        {
-          "timestampMillis": 1768655041943
-        },
-        {
-          "timestampMillis": 1768706566669
-        },
-        {
-          "timestampMillis": 1768725972242
-        },
-        {
-          "timestampMillis": 1768726217618
-        },
-        {
-          "timestampMillis": 1768797637626
-        },
-        {
-          "timestampMillis": 1768820353007
-        },
-        {
-          "timestampMillis": 1768882956476
-        },
-        {
-          "timestampMillis": 1768886040052
-        },
-        {
-          "timestampMillis": 1768886082505
-        },
-        {
-          "timestampMillis": 1768886087921
-        },
-        {
-          "timestampMillis": 1768886113263
-        },
-        {
-          "timestampMillis": 1768886219232
-        },
-        {
-          "timestampMillis": 1768917128523
-        },
-        {
-          "timestampMillis": 1768970647125
-        },
-        {
-          "timestampMillis": 1768974288312
-        },
-        {
-          "timestampMillis": 1768975624085
-        },
-        {
-          "timestampMillis": 1768975624396
-        },
-        {
-          "timestampMillis": 1768975762126
-        },
-        {
-          "timestampMillis": 1768975783530
-        },
-        {
-          "timestampMillis": 1768998855142
-        },
-        {
-          "timestampMillis": 1768998894035
-        },
-        {
-          "timestampMillis": 1769055047730
-        },
-        {
-          "timestampMillis": 1769058484477
-        },
-        {
-          "timestampMillis": 1769066274811
-        },
-        {
-          "timestampMillis": 1769066304548
-        },
-        {
-          "timestampMillis": 1769066333239
-        },
-        {
-          "timestampMillis": 1769688607016
-        },
-        {
-          "timestampMillis": 1769863052211
-        },
-        {
-          "timestampMillis": 1769863062587
-        },
-        {
-          "timestampMillis": 1769863068616
-        },
-        {
-          "timestampMillis": 1769863073946
-        },
-        {
-          "timestampMillis": 1769863078786
-        },
-        {
-          "timestampMillis": 1769863083502
-        },
-        {
-          "timestampMillis": 1769866482895
-        },
-        {
-          "timestampMillis": 1770355326480
-        },
-        {
-          "timestampMillis": 1770357217993
-        },
-        {
-          "timestampMillis": 1770380408623
-        },
-        {
-          "timestampMillis": 1770969708137
-        },
-        {
-          "timestampMillis": 1770969802273
-        },
-        {
-          "timestampMillis": 1770970690879
-        },
-        {
-          "timestampMillis": 1770970729014
-        },
-        {
-          "timestampMillis": 1770978427372
-        },
-        {
-          "timestampMillis": 1770978450889
-        },
-        {
-          "timestampMillis": 1770981421476
-        },
-        {
-          "timestampMillis": 1770981442619
-        },
-        {
-          "timestampMillis": 1770981462842
-        },
-        {
-          "timestampMillis": 1770981520165
-        },
-        {
-          "timestampMillis": 1770981638013
-        },
-        {
-          "timestampMillis": 1770981667331
-        },
-        {
-          "timestampMillis": 1770981760615
-        },
-        {
-          "timestampMillis": 1770981793185
-        },
-        {
-          "timestampMillis": 1770981913468
-        },
-        {
-          "timestampMillis": 1770981966252
-        },
-        {
-          "timestampMillis": 1770982527894
-        },
-        {
-          "timestampMillis": 1770982728651
         }
       ]
     },
@@ -5233,7 +5007,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 14,
-      "totalTimesOpened": 46,
+      "totalTimesOpened": 47,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -5372,6 +5146,9 @@
         },
         {
           "timestampMillis": 1770982637435
+        },
+        {
+          "timestampMillis": 1770982860100
         }
       ]
     },
@@ -10950,7 +10727,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-13.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1770968702463
@@ -10969,11 +10746,14 @@
         },
         {
           "timestampMillis": 1770968927918
+        },
+        {
+          "timestampMillis": 1770982998717
         }
       ]
     },
     {
-      "path": "4.Archives/03-资源-2026-02/学习HTML-2026-02.md",
+      "path": "4.Archives/01-项目-2026-02/学习HTML-2026-02.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [

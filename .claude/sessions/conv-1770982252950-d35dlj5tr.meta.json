@@ -3,11 +3,10 @@
   "title": "强制推送到远程，保证远程跟现在本地的一致",
   "titleGenerationStatus": "failed",
   "createdAt": 1770982252950,
-  "updatedAt": 1770982410049,
+  "updatedAt": 1770983027920,
   "lastResponseAt": 1770982410049,
   "sessionId": "1f3469ee-e3db-44ee-98ef-5cbb27947fd6",
   "sdkSessionId": "1f3469ee-e3db-44ee-98ef-5cbb27947fd6",
-  "currentNote": "1.Projects/03-学习前端/学习HTML.md",
   "usage": {
     "model": "glm-4.7",
     "inputTokens": 0,
