@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-02-12",
       "path": "7.Daily/每日日志/2026-02-12.md"
     },
     {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "学习JavaScript",
@@ -195,10 +195,6 @@
     {
       "basename": "日期对象",
       "path": "2.Areas/Frontend/日期对象.md"
-    },
-    {
-      "basename": "inline-block布局",
-      "path": "2.Areas/Frontend/inline-block布局.md"
     }
   ],
   "omittedPaths": [],

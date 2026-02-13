@@ -7911,5 +7911,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-13.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 14
+      },
+      "to": {
+        "line": 25,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
   }
 }
