@@ -12,7 +12,7 @@ tags:
 ---
 > [!quote] 项目描述
 
-> 👉在这里你的项目描述，或者可以写下你对项目的愿景
+> 本项目旨在系统性地学习并掌握CSS技术栈，构建完整的CSS知识图谱。通过从基础概念到高级特性的全面学习，深入理解CSS的布局系统、视觉表现、响应式设计以及工程化实践。目标不仅是掌握CSS语法，更重要的是理解其底层原理、最佳实践以及现代开发中的应用场景，为构建美观、可维护的前端界面打下坚实基础。
 
   
 
@@ -50,18 +50,54 @@ limit 100
 
   
 
-> [!summary]-   项目资源
+> [!summary]- 项目资源
 
-- [CSS官方文档](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS官方文档](https://developer.mozilla.org/en-US/docs/Web/CSS) - MDN Web Docs 提供最权威的CSS参考文档
+- [Can I Use](https://caniuse.com/) - 查询CSS特性在各浏览器的兼容性支持情况
+- [CSS-Tricks](https://css-tricks.com/) - 实用CSS技巧和教程
+- [Flexbox Froggy](https://flexboxfroggy.com/) - 通过游戏学习Flexbox布局
+- [Grid Garden](https://cssgridgarden.com/) - 通过游戏学习CSS Grid布局
+- [Flexbox与Grid的终极指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Secrets](https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635) - Lea Verou的经典CSS进阶书籍
+- [CSS Guidelines](https://cssguidelin.es/) - 可扩展、可维护的CSS代码风格指南
 
 
 > [!danger]- 项目灵感
 
--  
+- 在实际开发中发现许多前端项目存在CSS代码混乱、维护困难的问题
+- 看到优秀的网站设计，想要了解其背后的CSS实现原理
+- 需要构建响应式布局以适应不同设备屏幕
+- 希望通过CSS动画和过渡效果提升用户体验
+- 向往实现美观的UI界面和流畅的交互效果
+- 计划深入学习前端技术栈，CSS是不可或缺的核心部分
+- 观察到现代前端框架（如React、Vue）中的组件样式管理需求
 
 
 > [!example] 成就
 
 #### 🏆里程碑
 
-1.
+1. **2026-01-17 - 🎯 启动项目**
+   - 确定CSS学习目标和范围
+   - 制定7天学习计划
+   - 创建项目笔记和任务清单
+
+2. **2026-01-18 - 📚 基础知识突破**
+   - 掌握CSS基础概念（选择器、层叠、继承）
+   - 理解盒模型和工作原理
+   - 完成布局系统学习任务
+
+3. **2026-01-21 - 🎨 视觉表现进阶**
+   - 深入理解CSS视觉与表现特性
+   - 掌握颜色、字体、边框等视觉属性
+   - 完成响应式设计学习，理解媒体查询
+
+4. **2026-01-23 - ⚙️ 工程化实践**
+   - 学习CSS预处理器和模块化方案
+   - 掌握CSS高级特性（动画、过渡、变换）
+   - 了解现代CSS新特性
+
+5. **2026-01-24 - ✅ 项目完成**
+   - 完成全部学习任务
+   - 构建完整的CSS知识图谱
+   - 标记项目状态为"已完成"

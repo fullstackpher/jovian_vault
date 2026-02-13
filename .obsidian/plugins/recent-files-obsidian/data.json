@@ -1,38 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "2026-02-13",
-      "path": "7.Daily/每日日志/2026-02-13.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "7.Daily/每日日志/2026-02-12.md"
-    },
-    {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "学习HTML",
-      "path": "1.Projects/03-学习前端/学习HTML.md"
-    },
-    {
       "basename": "学习CSS",
       "path": "1.Projects/03-学习前端/学习CSS.md"
     },
@@ -55,6 +23,38 @@
     {
       "basename": "学习JavaEE",
       "path": "1.Projects/01-学习Java/学习JavaEE.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习HTML-2026-02",
+      "path": "4.Archives/03-资源-2026-02/学习HTML-2026-02.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "2026-02-13",
+      "path": "7.Daily/每日日志/2026-02-13.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-02-12",
+      "path": "7.Daily/每日日志/2026-02-12.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "2026-02-06",

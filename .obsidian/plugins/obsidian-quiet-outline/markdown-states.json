@@ -6047,7 +6047,7 @@
     "expandedKeys": []
   },
   "1.Projects/01-学习Java/学习JavaEE.md": {
-    "scroll": 0,
+    "scroll": 18.76813559322034,
     "cursor": {
       "from": {
         "line": 45,
@@ -6135,15 +6135,15 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 0,
+    "scroll": 92.62778387297976,
     "cursor": {
       "from": {
-        "line": 74,
-        "ch": 145
+        "line": 79,
+        "ch": 0
       },
       "to": {
-        "line": 74,
-        "ch": 145
+        "line": 79,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6233,15 +6233,15 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 159.31389377298595,
+    "scroll": 5.466666521344866,
     "cursor": {
       "from": {
-        "line": 86,
-        "ch": 18
+        "line": 87,
+        "ch": 17
       },
       "to": {
-        "line": 86,
-        "ch": 18
+        "line": 87,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -6527,7 +6527,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习CSS.md": {
-    "scroll": 14.862745098039216,
+    "scroll": 53.99836394366096,
     "cursor": {
       "from": {
         "line": 12,
@@ -6933,7 +6933,7 @@
     "expandedKeys": []
   },
   "1.Projects/01-学习Java/学习JavaSE.md": {
-    "scroll": 0,
+    "scroll": 88.25556971849235,
     "cursor": {
       "from": {
         "line": 12,
@@ -6947,7 +6947,7 @@
     "expandedKeys": []
   },
   "1.Projects/01-学习Java/学习Spring全家桶.md": {
-    "scroll": 0,
+    "scroll": 10.597402597402597,
     "cursor": {
       "from": {
         "line": 12,
@@ -7921,6 +7921,34 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-02/学习HTML-2026-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/02-知识管理/打造第二大脑.md": {
+    "scroll": 337.18722179635165,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
         "ch": 0
       }
     },
