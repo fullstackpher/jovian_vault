@@ -2,14 +2,14 @@
   "tabManagerState": {
     "openTabs": [
       {
-        "tabId": "tab-1770982192052-phgju0c",
-        "conversationId": "conv-1770982252950-d35dlj5tr"
-      },
-      {
         "tabId": "tab-1770982533062-t13qwrx",
         "conversationId": "conv-1770982560061-qabnje1o1"
+      },
+      {
+        "tabId": "tab-1770983029151-yf4nud2",
+        "conversationId": null
       }
     ],
-    "activeTabId": "tab-1770982192052-phgju0c"
+    "activeTabId": "tab-1770983029151-yf4nud2"
   }
 }
