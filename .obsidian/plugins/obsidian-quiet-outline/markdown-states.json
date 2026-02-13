@@ -7916,11 +7916,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 18,
+        "line": 10,
         "ch": 0
       }
     },
