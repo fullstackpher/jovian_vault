@@ -4057,11 +4057,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 44,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 44,
         "ch": 0
       }
     },
@@ -7913,15 +7913,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-13.md": {
-    "scroll": 0,
+    "scroll": 45.67050650578527,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 0
+        "line": 27,
+        "ch": 3
       },
       "to": {
-        "line": 16,
-        "ch": 0
+        "line": 27,
+        "ch": 3
       }
     },
     "expandedKeys": []

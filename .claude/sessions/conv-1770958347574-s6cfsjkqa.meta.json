@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770958347574-s6cfsjkqa",
+  "title": "检查一下该日记出现模板解析错误，看下是哪里出现的问题，先不解决，先给出问题出现在哪，然后再解决",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1770958347574,
+  "updatedAt": 1770958368497,
+  "lastResponseAt": 1770958368497,
+  "sessionId": "b838adf8-d9ec-49cb-8a59-3cdb5f82c964",
+  "sdkSessionId": "b838adf8-d9ec-49cb-8a59-3cdb5f82c964",
+  "currentNote": "7.Daily/每日日志/2026-02-13.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

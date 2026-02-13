@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
       "basename": "2026-02-13",
       "path": "7.Daily/每日日志/2026-02-13.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "待处理区",
       "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili",
