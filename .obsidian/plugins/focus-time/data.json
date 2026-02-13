@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 23556000,
-      "openCount": 361
+      "duration": 23562000,
+      "openCount": 363
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1107,32 +1107,32 @@
     "1.Projects/02-知识管理/学习Obsidian.md": {
       "fileId": "1769688618118",
       "filePath": "1.Projects/02-知识管理/学习Obsidian.md",
-      "duration": 414000,
-      "openCount": 17
+      "duration": 420000,
+      "openCount": 20
     },
     "1.Projects/03-学习前端/学习CSS.md": {
       "fileId": "1769863052720",
       "filePath": "1.Projects/03-学习前端/学习CSS.md",
       "duration": 54000,
-      "openCount": 11
+      "openCount": 12
     },
     "1.Projects/03-学习前端/学习HTML.md": {
       "fileId": "1769866488025",
       "filePath": "1.Projects/03-学习前端/学习HTML.md",
       "duration": 6000,
-      "openCount": 3
+      "openCount": 4
     },
     "1.Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects/03-学习前端/学习JavaScript.md",
-      "duration": 2292000,
-      "openCount": 43
+      "duration": 2448000,
+      "openCount": 46
     },
     "1.Projects/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
       "filePath": "1.Projects/01-学习Java/学习JavaSE.md",
       "duration": 72000,
-      "openCount": 16
+      "openCount": 17
     },
     "1.Projects/README.md": {
       "fileId": "1769495637567",
@@ -1143,8 +1143,8 @@
     "1.Projects/项目看板.md": {
       "fileId": "1769756608307",
       "filePath": "1.Projects/项目看板.md",
-      "duration": 150000,
-      "openCount": 26
+      "duration": 198000,
+      "openCount": 28
     },
     "2.Areas/Frontend/背景.md": {
       "fileId": "1768805305769",
@@ -1563,7 +1563,7 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6828000,
+      "duration": 6834000,
       "openCount": 136
     },
     "8.Info/常用服务API.md": {
@@ -1636,7 +1636,7 @@
       "fileId": "1770199475815",
       "filePath": "1.Projects/01-学习Java/学习JavaEE.md",
       "duration": 12000,
-      "openCount": 3
+      "openCount": 4
     },
     "5.Zattchments/图片/截图/局部截取_20260204_192605.png": {
       "fileId": "1770204407268",
@@ -1893,8 +1893,8 @@
     "1.Projects/01-学习Java/学习Spring全家桶.md": {
       "fileId": "1770380396407",
       "filePath": "1.Projects/01-学习Java/学习Spring全家桶.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 6000,
+      "openCount": 2
     },
     "2.Areas/Frontend/HTML标签.md": {
       "fileId": "1770380978448",
@@ -2199,7 +2199,7 @@
     "7.Daily/每日日志/2026-02-12.md": {
       "fileId": "1770873558291",
       "filePath": "7.Daily/每日日志/2026-02-12.md",
-      "duration": 2442000,
+      "duration": 2472000,
       "openCount": 9
     },
     "QuickCapture.md": {
@@ -2217,8 +2217,8 @@
     "1.Projects/02-知识管理/打造第二大脑.md": {
       "fileId": "1770906955787",
       "filePath": "1.Projects/02-知识管理/打造第二大脑.md",
-      "duration": 750000,
-      "openCount": 4
+      "duration": 762000,
+      "openCount": 7
     }
   }
 }

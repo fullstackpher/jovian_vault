@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "7.Daily/每日日志/2026-02-06.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "打造第二大脑",
-      "path": "1.Projects/02-知识管理/打造第二大脑.md"
-    },
-    {
-      "basename": "学习Obsidian",
-      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
     },
     {
       "basename": "2026-02-12",
       "path": "7.Daily/每日日志/2026-02-12.md"
     },
     {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "学习HTML",
+      "path": "1.Projects/03-学习前端/学习HTML.md"
+    },
+    {
+      "basename": "学习CSS",
+      "path": "1.Projects/03-学习前端/学习CSS.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "打造第二大脑",
+      "path": "1.Projects/02-知识管理/打造第二大脑.md"
+    },
+    {
+      "basename": "学习Spring全家桶",
+      "path": "1.Projects/01-学习Java/学习Spring全家桶.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "1.Projects/01-学习Java/学习JavaSE.md"
+    },
+    {
+      "basename": "学习JavaEE",
+      "path": "1.Projects/01-学习Java/学习JavaEE.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "7.Daily/每日日志/2026-02-06.md"
     },
     {
       "basename": "2026-02-11",
@@ -175,30 +199,6 @@
     {
       "basename": "inline-block布局",
       "path": "2.Areas/Frontend/inline-block布局.md"
-    },
-    {
-      "basename": "flexbox布局",
-      "path": "2.Areas/Frontend/flexbox布局.md"
-    },
-    {
-      "basename": "float浮动+margin布局",
-      "path": "2.Areas/Frontend/float浮动+margin布局.md"
-    },
-    {
-      "basename": "JavaScript基础",
-      "path": "2.Areas/Frontend/JavaScript基础.md"
-    },
-    {
-      "basename": "JavaScript基础概念",
-      "path": "2.Areas/Frontend/JavaScript基础概念.md"
-    },
-    {
-      "basename": "Less预处理器",
-      "path": "2.Areas/Frontend/Less预处理器.md"
-    },
-    {
-      "basename": "PostCSS",
-      "path": "2.Areas/Frontend/PostCSS.md"
     }
   ],
   "omittedPaths": [],

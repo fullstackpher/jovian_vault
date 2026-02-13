@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 265.740966796875,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 94,
@@ -6138,12 +6138,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 61,
-        "ch": 145
+        "line": 67,
+        "ch": 11
       },
       "to": {
-        "line": 61,
-        "ch": 145
+        "line": 67,
+        "ch": 11
       }
     },
     "expandedKeys": []
@@ -6233,15 +6233,15 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 24.31842982119689,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 49,
-        "ch": 21
+        "line": 54,
+        "ch": 12
       },
       "to": {
-        "line": 49,
-        "ch": 21
+        "line": 54,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -7843,15 +7843,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-12.md": {
-    "scroll": 15.487071665868065,
+    "scroll": 34.06463459509683,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 35
+        "line": 34,
+        "ch": 38
       },
       "to": {
-        "line": 29,
-        "ch": 35
+        "line": 34,
+        "ch": 38
       }
     },
     "expandedKeys": []
