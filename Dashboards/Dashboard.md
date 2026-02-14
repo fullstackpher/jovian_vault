@@ -92,7 +92,6 @@ actions:
 `BUTTON[dark]` `BUTTON[light]` `BUTTON[todo-list]`  `BUTTON[kanban]` `BUTTON[daily]` `BUTTON[review]`
 
 ---
-
 ## 📥 Inbox 待处理任务
 
 > 快速捕获的任务将显示在这里，定期整理清空
@@ -104,16 +103,7 @@ WHERE !completed
 SORT file.cday DESC
 ```
 
-### 📊 Inbox 统计
-```dataview
-TABLE length(rows) AS "待处理任务数"
-FROM "8.Info/0-Inbox.md"
-WHERE !completed AND !is_task
-GROUP BY true
-```
-
 ---
-
 ## ✅ 今日待办
 
 ### 日常任务
@@ -132,7 +122,6 @@ short mode
 ```
 
 ---
-
 ## 📁 项目进度看板
 
 ```dataviewjs
@@ -207,7 +196,6 @@ SORT 截止时间
 ```
 
 ---
-
 ## 🎓 学习进度追踪
 
 ### 技术栈掌握度

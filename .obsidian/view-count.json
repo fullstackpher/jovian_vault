@@ -812,7 +812,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 28,
-      "totalTimesOpened": 533,
+      "totalTimesOpened": 534,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2412,6 +2412,9 @@
         },
         {
           "timestampMillis": 1771044143558
+        },
+        {
+          "timestampMillis": 1771044251196
         }
       ]
     },
@@ -9806,8 +9809,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-06.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 45,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 46,
       "openLogs": [
         {
           "timestampMillis": 1770350564855
@@ -9943,6 +9946,9 @@
         },
         {
           "timestampMillis": 1770881562804
+        },
+        {
+          "timestampMillis": 1771044209214
         }
       ]
     },
@@ -10784,10 +10790,16 @@
     {
       "path": "7.Daily/每日日志/2026-02-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771038004706
+        },
+        {
+          "timestampMillis": 1771044199329
+        },
+        {
+          "timestampMillis": 1771044225972
         }
       ]
     }
