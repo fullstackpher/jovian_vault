@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DOM",
+      "path": "2.Areas/Frontend/DOM.md"
+    },
+    {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "DOM",
-      "path": "2.Areas/Frontend/DOM.md"
     },
     {
       "basename": "学习JavaScript",

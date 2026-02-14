@@ -4054,15 +4054,15 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 36.65767938950483,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 45,
-        "ch": 2
+        "line": 53,
+        "ch": 0
       },
       "to": {
-        "line": 45,
-        "ch": 2
+        "line": 53,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -7969,7 +7969,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/DOM.md": {
-    "scroll": 16.90931282791437,
+    "scroll": 108.57983483920913,
     "cursor": {
       "from": {
         "line": 40,
