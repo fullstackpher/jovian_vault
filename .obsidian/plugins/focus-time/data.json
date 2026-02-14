@@ -1809,8 +1809,8 @@
     "2.Areas/Frontend/包装类型.md": {
       "fileId": "1770355360285",
       "filePath": "2.Areas/Frontend/包装类型.md",
-      "duration": 48000,
-      "openCount": 6
+      "duration": 54000,
+      "openCount": 7
     },
     "2.Areas/Frontend/闭包.md": {
       "fileId": "1770355417335",
@@ -2241,8 +2241,8 @@
     "2.Areas/Frontend/DOM.md": {
       "fileId": "1771057178132",
       "filePath": "2.Areas/Frontend/DOM.md",
-      "duration": 54000,
-      "openCount": 2
+      "duration": 180000,
+      "openCount": 3
     }
   }
 }
