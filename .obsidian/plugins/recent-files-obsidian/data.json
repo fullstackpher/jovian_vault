@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
       "basename": "Obsidian任务管理教程1-任务管理全流程",
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
     },
@@ -9,20 +17,12 @@
       "path": "7.Daily/每日日志/2026-02-14.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "2026-02-13",
       "path": "7.Daily/每日日志/2026-02-13.md"
     },
     {
       "basename": "学习Obsidian",
       "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "项目看板",
