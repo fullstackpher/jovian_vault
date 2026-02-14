@@ -1125,8 +1125,8 @@
     "1.Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects/03-学习前端/学习JavaScript.md",
-      "duration": 2736000,
-      "openCount": 49
+      "duration": 2754000,
+      "openCount": 50
     },
     "1.Projects/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
@@ -2241,8 +2241,14 @@
     "2.Areas/Frontend/DOM.md": {
       "fileId": "1771057178132",
       "filePath": "2.Areas/Frontend/DOM.md",
-      "duration": 750000,
-      "openCount": 4
+      "duration": 846000,
+      "openCount": 5
+    },
+    "8.Info/坚果云obsidian密码.md": {
+      "fileId": "1771063226130",
+      "filePath": "8.Info/坚果云obsidian密码.md",
+      "duration": 24000,
+      "openCount": 1
     }
   }
 }

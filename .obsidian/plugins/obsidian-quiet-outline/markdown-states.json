@@ -6135,7 +6135,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 0,
+    "scroll": 18.854915254237287,
     "cursor": {
       "from": {
         "line": 50,
@@ -7969,15 +7969,43 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/DOM.md": {
-    "scroll": 209.21895345052084,
+    "scroll": 16.90931282791437,
     "cursor": {
       "from": {
-        "line": 189,
-        "ch": 29
+        "line": 40,
+        "ch": 0
       },
       "to": {
-        "line": 189,
-        "ch": 29
+        "line": 40,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/坚果云obsidian密码.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 16
+      },
+      "to": {
+        "line": 1,
+        "ch": 16
       }
     },
     "expandedKeys": []
