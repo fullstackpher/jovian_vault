@@ -812,7 +812,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 28,
-      "totalTimesOpened": 537,
+      "totalTimesOpened": 538,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2424,6 +2424,9 @@
         },
         {
           "timestampMillis": 1771063523553
+        },
+        {
+          "timestampMillis": 1771068750273
         }
       ]
     },
@@ -10861,16 +10864,6 @@
         },
         {
           "timestampMillis": 1771059988122
-        }
-      ]
-    },
-    {
-      "path": "8.Info/坚果云obsidian密码.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1771063221930
         }
       ]
     }
