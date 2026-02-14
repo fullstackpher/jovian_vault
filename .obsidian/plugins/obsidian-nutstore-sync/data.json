@@ -1,7 +1,7 @@
 {
   "account": "zle77893@gmail.com",
   "credential": "auyp3uwx3sd6vj63",
-  "remoteDir": "",
+  "remoteDir": "/jovian_vault/",
   "remoteCacheDir": "",
   "useGitStyle": true,
   "conflictStrategy": "diff-match-patch",
