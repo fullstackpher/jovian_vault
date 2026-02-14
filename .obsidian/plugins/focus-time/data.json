@@ -1305,7 +1305,7 @@
     "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
       "fileId": "1770098714549",
       "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
-      "duration": 594000,
+      "duration": 600000,
       "openCount": 3
     },
     "3.Resources/Editing Toolbar使用指南.md": {
@@ -2235,8 +2235,8 @@
     "7.Daily/每日日志/2026-02-14.md": {
       "fileId": "1771038009320",
       "filePath": "7.Daily/每日日志/2026-02-14.md",
-      "duration": 60000,
-      "openCount": 1
+      "duration": 360000,
+      "openCount": 2
     }
   }
 }

@@ -9479,8 +9479,8 @@
     },
     {
       "path": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770098710827
@@ -9493,6 +9493,9 @@
         },
         {
           "timestampMillis": 1770198728197
+        },
+        {
+          "timestampMillis": 1771043473110
         }
       ]
     },
