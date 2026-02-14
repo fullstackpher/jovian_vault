@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-14",
-      "path": "7.Daily/每日日志/2026-02-14.md"
+      "basename": "DOM",
+      "path": "2.Areas/Frontend/DOM.md"
+    },
+    {
+      "basename": "数组",
+      "path": "2.Areas/Frontend/数组.md"
+    },
+    {
+      "basename": "盒模型",
+      "path": "2.Areas/Frontend/盒模型.md"
+    },
+    {
+      "basename": "函数",
+      "path": "2.Areas/Frontend/函数.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "7.Daily/每日日志/2026-02-14.md"
     },
     {
       "basename": "2026-02-06",
@@ -183,22 +199,6 @@
     {
       "basename": "Paste url into selection使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Paste url into selection使用指南-2026-02.md"
-    },
-    {
-      "basename": "Periodic Notes插件使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/Periodic Notes插件使用指南-2026-02.md"
-    },
-    {
-      "basename": "2026-01",
-      "path": "7.Daily/月度复盘/2026-01.md"
-    },
-    {
-      "basename": "2026-w06",
-      "path": "7.Daily/每周复盘/2026-w06.md"
-    },
-    {
-      "basename": "QuickAdd使用指南",
-      "path": "3.Resources/QuickAdd使用指南.md"
     }
   ],
   "omittedPaths": [],

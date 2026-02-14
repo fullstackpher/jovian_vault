@@ -812,7 +812,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 28,
-      "totalTimesOpened": 534,
+      "totalTimesOpened": 535,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2415,6 +2415,9 @@
         },
         {
           "timestampMillis": 1771044251196
+        },
+        {
+          "timestampMillis": 1771057165900
         }
       ]
     },
@@ -4363,8 +4366,8 @@
     },
     {
       "path": "2.Areas/Frontend/盒模型.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1768708128811
@@ -4401,6 +4404,9 @@
         },
         {
           "timestampMillis": 1770381738647
+        },
+        {
+          "timestampMillis": 1771057226037
         }
       ]
     },
@@ -5529,8 +5535,8 @@
     },
     {
       "path": "2.Areas/Frontend/函数.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 25,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1769316182436
@@ -5606,6 +5612,9 @@
         },
         {
           "timestampMillis": 1770381761589
+        },
+        {
+          "timestampMillis": 1771057223368
         }
       ]
     },
@@ -10176,14 +10185,17 @@
     },
     {
       "path": "2.Areas/Frontend/数组.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770381670949
         },
         {
           "timestampMillis": 1770381730142
+        },
+        {
+          "timestampMillis": 1771057239444
         }
       ]
     },
@@ -10790,7 +10802,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771038004706
@@ -10803,6 +10815,22 @@
         },
         {
           "timestampMillis": 1771044541343
+        },
+        {
+          "timestampMillis": 1771057086555
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/Frontend/DOM.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771057178108
+        },
+        {
+          "timestampMillis": 1771057248893
         }
       ]
     }

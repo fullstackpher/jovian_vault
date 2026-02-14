@@ -7955,15 +7955,29 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-14.md": {
-    "scroll": 7.065359676585478,
+    "scroll": 12.855902735392252,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 23
+        "line": 19,
+        "ch": 31
       },
       "to": {
-        "line": 28,
-        "ch": 23
+        "line": 19,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/DOM.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 3
+      },
+      "to": {
+        "line": 7,
+        "ch": 3
       }
     },
     "expandedKeys": []
