@@ -6138,12 +6138,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 108,
-        "ch": 24
+        "line": 50,
+        "ch": 30
       },
       "to": {
-        "line": 108,
-        "ch": 24
+        "line": 50,
+        "ch": 30
       }
     },
     "expandedKeys": []
@@ -7969,15 +7969,15 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/DOM.md": {
-    "scroll": 186.12324844488577,
+    "scroll": 209.21895345052084,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 0
+        "line": 189,
+        "ch": 29
       },
       "to": {
-        "line": 2,
-        "ch": 0
+        "line": 189,
+        "ch": 29
       }
     },
     "expandedKeys": []

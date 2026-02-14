@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "DOM",
       "path": "2.Areas/Frontend/DOM.md"
     },
@@ -21,20 +33,12 @@
       "path": "2.Areas/Frontend/函数.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
       "basename": "2026-02-14",
       "path": "7.Daily/每日日志/2026-02-14.md"
     },
     {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "Obsidian任务管理教程1-任务管理全流程",
@@ -47,10 +51,6 @@
     {
       "basename": "学习Obsidian",
       "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
     },
     {
       "basename": "打造第二大脑",
