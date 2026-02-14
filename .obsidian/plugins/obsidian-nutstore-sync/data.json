@@ -1,9 +1,9 @@
 {
   "account": "zle77893@gmail.com",
-  "credential": "",
+  "credential": "auyp3uwx3sd6vj63",
   "remoteDir": "",
   "remoteCacheDir": "",
-  "useGitStyle": false,
+  "useGitStyle": true,
   "conflictStrategy": "diff-match-patch",
   "oauthResponseText": "",
   "loginMode": "manual",
