@@ -1,0 +1,20 @@
+{
+  "id": "conv-1771058490767-du06yo3kv",
+  "title": "给我补充该笔记",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1771058490767,
+  "updatedAt": 1771058533854,
+  "lastResponseAt": 1771058533854,
+  "sessionId": "f1454378-517c-4b1a-971e-94f8e43c5d89",
+  "sdkSessionId": "f1454378-517c-4b1a-971e-94f8e43c5d89",
+  "currentNote": "2.Areas/Frontend/DOM.md",
+  "usage": {
+    "model": "glm-4.7",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
