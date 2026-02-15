@@ -2103,8 +2103,8 @@
     "7.Daily/每日日志/2026-02-15.md": {
       "fileId": "1771115696279",
       "filePath": "7.Daily/每日日志/2026-02-15.md",
-      "duration": 426000,
-      "openCount": 7
+      "duration": 708000,
+      "openCount": 9
     },
     "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
       "fileId": "1770355486293",
@@ -2285,6 +2285,18 @@
       "filePath": "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
       "duration": 36000,
       "openCount": 3
+    },
+    "0.Inbox/Note 2026-02-15 19-37-05.md": {
+      "fileId": "1771155433585",
+      "filePath": "0.Inbox/Note 2026-02-15 19-37-05.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "3.Resources/最佳实践/第二大脑系统设计方案.md": {
+      "fileId": "1771155481592",
+      "filePath": "3.Resources/最佳实践/第二大脑系统设计方案.md",
+      "duration": 606000,
+      "openCount": 1
     }
   }
 }

@@ -8163,5 +8163,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "0.Inbox/Note 2026-02-15 19-37-05.md": {
+    "scroll": 258.3254065628208,
+    "cursor": {
+      "from": {
+        "line": 272,
+        "ch": 20
+      },
+      "to": {
+        "line": 272,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 201,
+        "ch": 12
+      },
+      "to": {
+        "line": 201,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
   }
 }
