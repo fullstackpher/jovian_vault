@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "3.Resources/README.md"
+    },
+    {
+      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
+      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
+    },
+    {
+      "basename": "2026-W07",
+      "path": "7.Daily/每周复盘/2026-W07.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-02-15",
       "path": "7.Daily/每日日志/2026-02-15.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "示例 3：日常记录",
       "path": "8.Info/示例 3：日常记录.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "2026-W07",
-      "path": "7.Daily/每周复盘/2026-W07.md"
     },
     {
       "basename": "学习JavaScript",
@@ -169,10 +177,6 @@
       "path": "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
     },
     {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
       "basename": "Article 2026-02-06 13-43-47",
       "path": "0.Inbox/Article 2026-02-06 13-43-47.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大脑减压的子弹笔记术",
       "path": "3.Resources/书籍/大脑减压的子弹笔记术.pdf"
-    },
-    {
-      "basename": "子弹笔记",
-      "path": "3.Resources/书籍/子弹笔记.pdf"
     }
   ],
   "omittedPaths": [],

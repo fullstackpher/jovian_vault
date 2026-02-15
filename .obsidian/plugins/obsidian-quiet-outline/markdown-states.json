@@ -3628,12 +3628,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 94,
-        "ch": 17
+        "line": 96,
+        "ch": 22
       },
       "to": {
-        "line": 94,
-        "ch": 17
+        "line": 96,
+        "ch": 22
       }
     },
     "expandedKeys": [
@@ -6877,7 +6877,7 @@
     "expandedKeys": []
   },
   "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-    "scroll": 325.72877241717,
+    "scroll": 389.2158889770508,
     "cursor": {
       "from": {
         "line": 8,
@@ -7605,15 +7605,15 @@
     "expandedKeys": []
   },
   "7.Daily/每周复盘/2026-W07.md": {
-    "scroll": 0,
+    "scroll": 6.290441176470588,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 2
+        "line": 13,
+        "ch": 3
       },
       "to": {
-        "line": 7,
-        "ch": 2
+        "line": 13,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -8011,7 +8011,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-15.md": {
-    "scroll": 0,
+    "scroll": 9.597997759066123,
     "cursor": {
       "from": {
         "line": 25,
