@@ -8011,15 +8011,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-15.md": {
-    "scroll": 2.7873303167420813,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 2
+        "line": 19,
+        "ch": 17
       },
       "to": {
-        "line": 27,
-        "ch": 2
+        "line": 19,
+        "ch": 17
       }
     },
     "expandedKeys": []
