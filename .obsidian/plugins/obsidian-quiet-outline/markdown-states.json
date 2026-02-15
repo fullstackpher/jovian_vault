@@ -7609,11 +7609,11 @@
     "cursor": {
       "from": {
         "line": 11,
-        "ch": 8
+        "ch": 10
       },
       "to": {
         "line": 11,
-        "ch": 8
+        "ch": 10
       }
     },
     "expandedKeys": []
