@@ -2965,8 +2965,8 @@
     },
     {
       "path": "Templates/项目开发记录.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1768555992674
@@ -2991,6 +2991,9 @@
         },
         {
           "timestampMillis": 1770188519610
+        },
+        {
+          "timestampMillis": 1771137555739
         }
       ]
     },
@@ -9582,8 +9585,8 @@
     },
     {
       "path": "Templates/模板-视频收藏.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770182983976
@@ -9599,6 +9602,9 @@
         },
         {
           "timestampMillis": 1770210432946
+        },
+        {
+          "timestampMillis": 1771130142748
         }
       ]
     },
@@ -10934,7 +10940,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-15.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1771115690367
@@ -10962,6 +10968,18 @@
         },
         {
           "timestampMillis": 1771130131458
+        },
+        {
+          "timestampMillis": 1771130172715
+        },
+        {
+          "timestampMillis": 1771137553070
+        },
+        {
+          "timestampMillis": 1771137556149
+        },
+        {
+          "timestampMillis": 1771137558179
         }
       ]
     },

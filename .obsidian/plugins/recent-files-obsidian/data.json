@@ -5,6 +5,14 @@
       "path": "7.Daily/每日日志/2026-02-15.md"
     },
     {
+      "basename": "项目开发记录",
+      "path": "Templates/项目开发记录.md"
+    },
+    {
+      "basename": "模板-视频收藏",
+      "path": "Templates/模板-视频收藏.md"
+    },
+    {
       "basename": "示例 3：日常记录",
       "path": "8.Info/示例 3：日常记录.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "子弹笔记",
       "path": "3.Resources/书籍/子弹笔记.pdf"
-    },
-    {
-      "basename": "PARA 信息组织法 — 如何整理我的数字信息-Pkmer",
-      "path": "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md"
-    },
-    {
-      "basename": "Docker命令速查",
-      "path": "3.Resources/速查手册/Docker命令速查.md"
     }
   ],
   "omittedPaths": [],

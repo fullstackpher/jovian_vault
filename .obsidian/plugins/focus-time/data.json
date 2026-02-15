@@ -753,7 +753,7 @@
     "Templates/项目开发记录.md": {
       "fileId": "1768469659419",
       "filePath": "Templates/项目开发记录.md",
-      "duration": 24000,
+      "duration": 30000,
       "openCount": 9
     },
     "Templates/项目模版.md": {
@@ -1617,8 +1617,8 @@
     "Templates/模板-视频收藏.md": {
       "fileId": "1770182987903",
       "filePath": "Templates/模板-视频收藏.md",
-      "duration": 126000,
-      "openCount": 4
+      "duration": 156000,
+      "openCount": 5
     },
     "5.Zattchments/图片/截图/局部截取_20260204_151441.png": {
       "fileId": "1770189319654",
@@ -2259,8 +2259,8 @@
     "7.Daily/每日日志/2026-02-15.md": {
       "fileId": "1771115696279",
       "filePath": "7.Daily/每日日志/2026-02-15.md",
-      "duration": 390000,
-      "openCount": 6
+      "duration": 420000,
+      "openCount": 7
     }
   }
 }
