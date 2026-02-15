@@ -6149,15 +6149,15 @@
     "expandedKeys": []
   },
   "3.Resources/Inbox 面板搭建指南.md": {
-    "scroll": 255.74571078431373,
+    "scroll": 251.53577439589617,
     "cursor": {
       "from": {
-        "line": 271,
-        "ch": 9
+        "line": 273,
+        "ch": 7
       },
       "to": {
-        "line": 271,
-        "ch": 9
+        "line": 273,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -6261,7 +6261,7 @@
     "expandedKeys": []
   },
   "3.Resources/QuickAdd使用指南.md": {
-    "scroll": 280.8664839715183,
+    "scroll": 278.4528398273372,
     "cursor": {
       "from": {
         "line": 14,
@@ -6471,7 +6471,7 @@
     "expandedKeys": []
   },
   "3.Resources/专注个人提升的obsidian标签体系.md": {
-    "scroll": 0,
+    "scroll": 24.45016018701912,
     "cursor": {
       "from": {
         "line": 56,
@@ -6639,7 +6639,7 @@
     "expandedKeys": []
   },
   "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
-    "scroll": 14.463643391927084,
+    "scroll": 5.511811023622047,
     "cursor": {
       "from": {
         "line": 25,
@@ -6765,7 +6765,7 @@
     "expandedKeys": []
   },
   "3.Resources/Excalidraw插件使用指南.md": {
-    "scroll": 343.9604483240801,
+    "scroll": 345.56700433469285,
     "cursor": {
       "from": {
         "line": 360,
@@ -6877,7 +6877,7 @@
     "expandedKeys": []
   },
   "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-    "scroll": 389.2158889770508,
+    "scroll": 209.3972850343252,
     "cursor": {
       "from": {
         "line": 8,
@@ -6905,15 +6905,15 @@
     "expandedKeys": []
   },
   "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
-    "scroll": 55.60843344568125,
+    "scroll": 34.240429148954505,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 54
+        "line": 67,
+        "ch": 69
       },
       "to": {
-        "line": 14,
-        "ch": 54
+        "line": 67,
+        "ch": 69
       }
     },
     "expandedKeys": []
@@ -7759,7 +7759,7 @@
     "expandedKeys": []
   },
   "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
-    "scroll": 117.14280323921403,
+    "scroll": 215.95498081470137,
     "cursor": {
       "from": {
         "line": 78,
@@ -8020,6 +8020,146 @@
       "to": {
         "line": 25,
         "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/IntelliJIDEA使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Obsidian任务管理教程整体脉络.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Pycharm使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/开发工具/开发工具汇总.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/VSCode使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/WebStorm使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
+    "scroll": 298.68908845276394,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 32
+      },
+      "to": {
+        "line": 8,
+        "ch": 32
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Article 2026-02-06 13-43-47.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
+    "scroll": 210.10055090901193,
+    "cursor": {
+      "from": {
+        "line": 78,
+        "ch": 20
+      },
+      "to": {
+        "line": 78,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []

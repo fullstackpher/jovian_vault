@@ -1278,72 +1278,6 @@
       "duration": 270000,
       "openCount": 14
     },
-    "3.Resources/markdown使用指南.md": {
-      "fileId": "1769929156569",
-      "filePath": "3.Resources/markdown使用指南.md",
-      "duration": 84000,
-      "openCount": 7
-    },
-    "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
-      "fileId": "1770097988551",
-      "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
-      "duration": 246000,
-      "openCount": 4
-    },
-    "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md": {
-      "fileId": "1770098246549",
-      "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
-      "duration": 132000,
-      "openCount": 3
-    },
-    "3.Resources/Obsidian任务管理教程/析径任务管理系统介绍.md": {
-      "fileId": "1770098540560",
-      "filePath": "3.Resources/Obsidian任务管理教程/析径任务管理系统介绍.md",
-      "duration": 48000,
-      "openCount": 2
-    },
-    "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
-      "fileId": "1770098714549",
-      "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
-      "duration": 642000,
-      "openCount": 4
-    },
-    "3.Resources/Editing Toolbar使用指南.md": {
-      "fileId": "1769339428267",
-      "filePath": "3.Resources/Editing Toolbar使用指南.md",
-      "duration": 1194000,
-      "openCount": 14
-    },
-    "3.Resources/QuickAdd使用指南.md": {
-      "fileId": "1769341648177",
-      "filePath": "3.Resources/QuickAdd使用指南.md",
-      "duration": 1080000,
-      "openCount": 15
-    },
-    "3.Resources/Calendar使用指南.md": {
-      "fileId": "1769341690176",
-      "filePath": "3.Resources/Calendar使用指南.md",
-      "duration": 360000,
-      "openCount": 14
-    },
-    "3.Resources/Excalidraw插件使用指南.md": {
-      "fileId": "1770034700577",
-      "filePath": "3.Resources/Excalidraw插件使用指南.md",
-      "duration": 222000,
-      "openCount": 8
-    },
-    "3.Resources/Obsidian任务管理教程整体脉络.md": {
-      "fileId": "1770097922551",
-      "filePath": "3.Resources/Obsidian任务管理教程整体脉络.md",
-      "duration": 192000,
-      "openCount": 3
-    },
-    "3.Resources/Inbox 面板搭建指南.md": {
-      "fileId": "1770188291913",
-      "filePath": "3.Resources/Inbox 面板搭建指南.md",
-      "duration": 426000,
-      "openCount": 8
-    },
     "4.Archives/README.md": {
       "fileId": "1769495799568",
       "filePath": "4.Archives/README.md",
@@ -1521,8 +1455,8 @@
     "3.Resources/README.md": {
       "fileId": "1770188345908",
       "filePath": "3.Resources/README.md",
-      "duration": 222000,
-      "openCount": 4
+      "duration": 270000,
+      "openCount": 6
     },
     "5.Zattchments/README.md": {
       "fileId": "1770188357912",
@@ -1794,12 +1728,6 @@
       "duration": 2550000,
       "openCount": 29
     },
-    "3.Resources/专注个人提升的obsidian标签体系.md": {
-      "fileId": "1770354280291",
-      "filePath": "3.Resources/专注个人提升的obsidian标签体系.md",
-      "duration": 180000,
-      "openCount": 7
-    },
     "2.Areas/Frontend/日期对象.md": {
       "fileId": "1770354592290",
       "filePath": "2.Areas/Frontend/日期对象.md",
@@ -1818,77 +1746,11 @@
       "duration": 6000,
       "openCount": 4
     },
-    "3.Resources/开发工具汇总.md": {
-      "fileId": "1770355484546",
-      "filePath": "3.Resources/开发工具汇总.md",
-      "duration": 0,
-      "openCount": 1
-    },
-    "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
-      "fileId": "1770355486293",
-      "filePath": "3.Resources/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
-      "duration": 306000,
-      "openCount": 4
-    },
-    "3.Resources/SublimeText使用指南.md": {
-      "fileId": "1770355498296",
-      "filePath": "3.Resources/SublimeText使用指南.md",
-      "duration": 24000,
-      "openCount": 2
-    },
-    "3.Resources/Clion使用指南.md": {
-      "fileId": "1770355540287",
-      "filePath": "3.Resources/Clion使用指南.md",
-      "duration": 114000,
-      "openCount": 4
-    },
-    "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
-      "fileId": "1770355594291",
-      "filePath": "3.Resources/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
-      "duration": 132000,
-      "openCount": 6
-    },
     "未命名看板.md": {
       "fileId": "1770357010292",
       "filePath": "未命名看板.md",
       "duration": 6000,
       "openCount": 2
-    },
-    "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png": {
-      "fileId": "1770355942308",
-      "filePath": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png",
-      "duration": 12000,
-      "openCount": 2
-    },
-    "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png": {
-      "fileId": "1770355954283",
-      "filePath": "0.Inbox/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
-      "duration": 6000,
-      "openCount": 2
-    },
-    "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
-      "fileId": "1770355960286",
-      "filePath": "0.Inbox/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
-      "duration": 180000,
-      "openCount": 7
-    },
-    "0.Inbox/Article 2026-02-06 13-43-47.md": {
-      "fileId": "1770356644295",
-      "filePath": "0.Inbox/Article 2026-02-06 13-43-47.md",
-      "duration": 84000,
-      "openCount": 9
-    },
-    "3.Resources/Obsidian ReadItLater 插件使用教程.md": {
-      "fileId": "1770373976449",
-      "filePath": "3.Resources/Obsidian ReadItLater 插件使用教程.md",
-      "duration": 96000,
-      "openCount": 2
-    },
-    "3.Resources/omisearch使用指南.md": {
-      "fileId": "1770375416454",
-      "filePath": "3.Resources/omisearch使用指南.md",
-      "duration": 474000,
-      "openCount": 3
     },
     "1.Projects/01-学习Java/学习Spring全家桶.md": {
       "fileId": "1770380396407",
@@ -2124,12 +1986,6 @@
       "duration": 240000,
       "openCount": 4
     },
-    "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
-      "fileId": "1770636939699",
-      "filePath": "0.Inbox/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md",
-      "duration": 54000,
-      "openCount": 2
-    },
     "3.Resources/书籍/子弹笔记.pdf": {
       "fileId": "1770641709757",
       "filePath": "3.Resources/书籍/子弹笔记.pdf",
@@ -2177,18 +2033,6 @@
       "filePath": "0.Inbox/Note 2026-02-11 19-36-59.md",
       "duration": 30000,
       "openCount": 3
-    },
-    "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
-      "fileId": "1770809855510",
-      "filePath": "0.Inbox/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
-      "duration": 12000,
-      "openCount": 4
-    },
-    "0.Inbox/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md": {
-      "fileId": "1770809897514",
-      "filePath": "0.Inbox/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md",
-      "duration": 6000,
-      "openCount": 2
     },
     "7.Daily/每日日志/2026-02-10.md": {
       "fileId": "1770809975506",
@@ -2261,6 +2105,186 @@
       "filePath": "7.Daily/每日日志/2026-02-15.md",
       "duration": 420000,
       "openCount": 7
+    },
+    "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
+      "fileId": "1770355486293",
+      "filePath": "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md",
+      "duration": 330000,
+      "openCount": 6
+    },
+    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
+      "fileId": "1770097988551",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
+      "duration": 246000,
+      "openCount": 4
+    },
+    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md": {
+      "fileId": "1770098246549",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
+      "duration": 132000,
+      "openCount": 3
+    },
+    "3.Resources/教程/Obsidian任务管理教程/析径任务管理系统介绍.md": {
+      "fileId": "1770098540560",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程/析径任务管理系统介绍.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
+      "fileId": "1770098714549",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
+      "duration": 642000,
+      "openCount": 4
+    },
+    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
+      "fileId": "1770355594291",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
+      "duration": 132000,
+      "openCount": 6
+    },
+    "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": {
+      "fileId": "1770354280291",
+      "filePath": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md",
+      "duration": 228000,
+      "openCount": 8
+    },
+    "3.Resources/效率工具/Calendar使用指南.md": {
+      "fileId": "1769341690176",
+      "filePath": "3.Resources/效率工具/Calendar使用指南.md",
+      "duration": 360000,
+      "openCount": 14
+    },
+    "3.Resources/开发工具/开发工具汇总.md": {
+      "fileId": "1770355484546",
+      "filePath": "3.Resources/开发工具/开发工具汇总.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "3.Resources/开发工具/Clion使用指南.md": {
+      "fileId": "1770355540287",
+      "filePath": "3.Resources/开发工具/Clion使用指南.md",
+      "duration": 114000,
+      "openCount": 4
+    },
+    "3.Resources/效率工具/Editing Toolbar使用指南.md": {
+      "fileId": "1769339428267",
+      "filePath": "3.Resources/效率工具/Editing Toolbar使用指南.md",
+      "duration": 1194000,
+      "openCount": 14
+    },
+    "3.Resources/效率工具/Excalidraw插件使用指南.md": {
+      "fileId": "1770034700577",
+      "filePath": "3.Resources/效率工具/Excalidraw插件使用指南.md",
+      "duration": 234000,
+      "openCount": 9
+    },
+    "8.Info/Inbox 面板搭建指南.md": {
+      "fileId": "1770188291913",
+      "filePath": "8.Info/Inbox 面板搭建指南.md",
+      "duration": 438000,
+      "openCount": 9
+    },
+    "3.Resources/开发工具/IntelliJIDEA使用指南.md": {
+      "fileId": "1771153656047",
+      "filePath": "3.Resources/开发工具/IntelliJIDEA使用指南.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "4.Archives/03-资源-2026-02/markdown使用指南-2026-02.md": {
+      "fileId": "1769929156569",
+      "filePath": "4.Archives/03-资源-2026-02/markdown使用指南-2026-02.md",
+      "duration": 126000,
+      "openCount": 8
+    },
+    "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md": {
+      "fileId": "1770373976449",
+      "filePath": "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md",
+      "duration": 114000,
+      "openCount": 3
+    },
+    "3.Resources/教程/Obsidian任务管理教程整体脉络.md": {
+      "fileId": "1770097922551",
+      "filePath": "3.Resources/教程/Obsidian任务管理教程整体脉络.md",
+      "duration": 198000,
+      "openCount": 4
+    },
+    "3.Resources/效率工具/omisearch使用指南.md": {
+      "fileId": "1770375416454",
+      "filePath": "3.Resources/效率工具/omisearch使用指南.md",
+      "duration": 480000,
+      "openCount": 4
+    },
+    "3.Resources/开发工具/Pycharm使用指南.md": {
+      "fileId": "1771153740054",
+      "filePath": "3.Resources/开发工具/Pycharm使用指南.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/效率工具/QuickAdd使用指南.md": {
+      "fileId": "1769341648177",
+      "filePath": "3.Resources/效率工具/QuickAdd使用指南.md",
+      "duration": 1086000,
+      "openCount": 16
+    },
+    "3.Resources/开发工具/SublimeText使用指南.md": {
+      "fileId": "1770355498296",
+      "filePath": "3.Resources/开发工具/SublimeText使用指南.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "3.Resources/开发工具/VSCode使用指南.md": {
+      "fileId": "1771153776061",
+      "filePath": "3.Resources/开发工具/VSCode使用指南.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/开发工具/WebStorm使用指南.md": {
+      "fileId": "1771153782055",
+      "filePath": "3.Resources/开发工具/WebStorm使用指南.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
+      "fileId": "1770355960286",
+      "filePath": "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md",
+      "duration": 210000,
+      "openCount": 9
+    },
+    "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md": {
+      "fileId": "1770809897514",
+      "filePath": "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "3.Resources/Article 2026-02-06 13-43-47.md": {
+      "fileId": "1770356644295",
+      "filePath": "3.Resources/Article 2026-02-06 13-43-47.md",
+      "duration": 150000,
+      "openCount": 13
+    },
+    "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
+      "fileId": "1770809855510",
+      "filePath": "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
+      "duration": 24000,
+      "openCount": 5
+    },
+    "3.Resources/最佳实践/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
+      "fileId": "1770636939699",
+      "filePath": "3.Resources/最佳实践/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md",
+      "duration": 72000,
+      "openCount": 4
+    },
+    "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png": {
+      "fileId": "1770355942308",
+      "filePath": "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-EZ35grhELt.png",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png": {
+      "fileId": "1770355954283",
+      "filePath": "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png",
+      "duration": 36000,
+      "openCount": 3
     }
   }
 }

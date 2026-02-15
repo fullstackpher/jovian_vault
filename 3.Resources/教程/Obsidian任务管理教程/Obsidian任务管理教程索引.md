@@ -2,7 +2,7 @@
 aliases:
   - Obsidian任务管理教程
 创建时间: 2026-02-03
-更新时间: 2026-02-06T20:28
+更新时间: 2026-02-15T19:06
 tags:
   - obsidian
   - 教程
@@ -114,7 +114,7 @@ tags:
 
 ## 🔗 相关资源
 
-- **整体脉络**：[[3.Resources/Obsidian任务管理教程/Obsidian任务管理教程整体脉络]] - 教程系列的完整框架和知识点关联
+- **整体脉络**：[[3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程整体脉络]] - 教程系列的完整框架和知识点关联
 - **视频文件夹**：`5.Zattchments 附件/媒体/OB任务管理教程/`
 - **工具文档**：[[QuickAdd使用指南]], [[Calendar使用指南]]
 - **知识管理**：[[在obsidian使用GTD+PARA方法论实践个人知识管理]]

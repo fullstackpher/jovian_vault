@@ -58,7 +58,7 @@ limit 100
 - [Obsidian官方文档](https://help.obsidian.md/) - Obsidian官方帮助文档
 - [Obsidian插件市场](https://obsidian.md/plugins) - 浏览和安装社区插件
 - [Obsidian中文教程](https://publish.obsidian.md/chinesehelp) - 中文用户维护的教程站
-- [[markdown使用指南]] - 项目中的Markdown学习笔记
+- [[markdown使用指南-2026-02]] - 项目中的Markdown学习笔记
 - [Excalidraw文档](https://github.com/zsviczian/obsidian-excalidraw-plugin) - 手绘风格绘图插件
 - [Templater文档](https://silentvoid13.github.io/Templater/) - 强大的模板插件
 - [Dataview文档](https://blacksmithgu.github.io/obsidian-dataview/) - 数据库查询插件
