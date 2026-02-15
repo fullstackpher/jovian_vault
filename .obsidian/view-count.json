@@ -811,8 +811,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 28,
-      "totalTimesOpened": 538,
+      "uniqueDaysOpened": 29,
+      "totalTimesOpened": 541,
       "openLogs": [
         {
           "timestampMillis": 1768479034142
@@ -2427,6 +2427,15 @@
         },
         {
           "timestampMillis": 1771068750273
+        },
+        {
+          "timestampMillis": 1771074240645
+        },
+        {
+          "timestampMillis": 1771074286758
+        },
+        {
+          "timestampMillis": 1771115687070
         }
       ]
     },
@@ -2516,7 +2525,7 @@
     {
       "path": "1.Projects/项目看板.md",
       "uniqueDaysOpened": 17,
-      "totalTimesOpened": 52,
+      "totalTimesOpened": 53,
       "openLogs": [
         {
           "timestampMillis": 1768538769257
@@ -2673,6 +2682,9 @@
         },
         {
           "timestampMillis": 1771059741481
+        },
+        {
+          "timestampMillis": 1771074300657
         }
       ]
     },
@@ -5045,8 +5057,8 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 15,
-      "totalTimesOpened": 50,
+      "uniqueDaysOpened": 16,
+      "totalTimesOpened": 53,
       "openLogs": [
         {
           "timestampMillis": 1769066484341
@@ -5197,6 +5209,15 @@
         },
         {
           "timestampMillis": 1771059743281
+        },
+        {
+          "timestampMillis": 1771074303572
+        },
+        {
+          "timestampMillis": 1771115680950
+        },
+        {
+          "timestampMillis": 1771115685231
         }
       ]
     },
@@ -10823,7 +10844,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771038004706
@@ -10845,6 +10866,9 @@
         },
         {
           "timestampMillis": 1771069332126
+        },
+        {
+          "timestampMillis": 1771074243762
         }
       ]
     },
@@ -10876,6 +10900,19 @@
         },
         {
           "timestampMillis": 1771069352440
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/书籍/上头Obsidian：手把手教你用AI做好知识管理_Shiki实验室著-202509.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771069409251
+        },
+        {
+          "timestampMillis": 1771069409722
         }
       ]
     }
