@@ -7608,12 +7608,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 2
+        "line": 11,
+        "ch": 8
       },
       "to": {
-        "line": 7,
-        "ch": 2
+        "line": 11,
+        "ch": 8
       }
     },
     "expandedKeys": []
