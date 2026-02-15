@@ -9165,8 +9165,8 @@
     },
     {
       "path": "8.Info/示例 3：日常记录.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 22,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1770022454886
@@ -9233,6 +9233,12 @@
         },
         {
           "timestampMillis": 1770033491354
+        },
+        {
+          "timestampMillis": 1771120600689
+        },
+        {
+          "timestampMillis": 1771120898433
         }
       ]
     },
@@ -10925,7 +10931,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-15.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771115690367
@@ -10935,6 +10941,12 @@
         },
         {
           "timestampMillis": 1771119398274
+        },
+        {
+          "timestampMillis": 1771120598314
+        },
+        {
+          "timestampMillis": 1771120759993
         }
       ]
     },

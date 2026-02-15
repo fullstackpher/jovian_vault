@@ -8014,12 +8014,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 26,
+        "ch": 27
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 26,
+        "ch": 27
       }
     },
     "expandedKeys": []
