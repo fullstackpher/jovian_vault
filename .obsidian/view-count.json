@@ -814,27 +814,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 29,
-      "totalTimesOpened": 546,
+      "uniqueDaysOpened": 30,
+      "totalTimesOpened": 547,
       "openLogs": [
-        {
-          "timestampMillis": 1768479034142
-        },
-        {
-          "timestampMillis": 1768479341153
-        },
-        {
-          "timestampMillis": 1768479411976
-        },
-        {
-          "timestampMillis": 1768479441313
-        },
-        {
-          "timestampMillis": 1768479845990
-        },
-        {
-          "timestampMillis": 1768480804824
-        },
         {
           "timestampMillis": 1768644304091
         },
@@ -2454,6 +2436,9 @@
         },
         {
           "timestampMillis": 1771154240992
+        },
+        {
+          "timestampMillis": 1771204838331
         }
       ]
     },
@@ -11059,8 +11044,8 @@
     },
     {
       "path": "7.Daily/每周复盘/2026-W07.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771115712072
@@ -11082,6 +11067,9 @@
         },
         {
           "timestampMillis": 1771155104591
+        },
+        {
+          "timestampMillis": 1771204836606
         }
       ]
     },
@@ -11127,11 +11115,17 @@
     },
     {
       "path": "3.Resources/最佳实践/第二大脑系统设计方案.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771155478275
+        },
+        {
+          "timestampMillis": 1771156198483
+        },
+        {
+          "timestampMillis": 1771204830901
         }
       ]
     }
