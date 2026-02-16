@@ -5,6 +5,14 @@
       "path": "7.Daily/每日日志/2026-02-16.md"
     },
     {
+      "basename": "2026-02-15",
+      "path": "7.Daily/每日日志/2026-02-15.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "7.Daily/每日日志/2026-02-14.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "第二大脑系统设计方案",
       "path": "3.Resources/最佳实践/第二大脑系统设计方案.md"
-    },
-    {
-      "basename": "2026-02-15",
-      "path": "7.Daily/每日日志/2026-02-15.md"
     },
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
@@ -127,10 +131,6 @@
     {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "2026-02-14",
-      "path": "7.Daily/每日日志/2026-02-14.md"
     },
     {
       "basename": "上头Obsidian：手把手教你用AI做好知识管理_Shiki实验室著-202509",

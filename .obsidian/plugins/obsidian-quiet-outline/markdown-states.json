@@ -7958,11 +7958,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
+        "line": 16,
         "ch": 0
       },
       "to": {
-        "line": 18,
+        "line": 16,
         "ch": 0
       }
     },
@@ -8011,7 +8011,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-15.md": {
-    "scroll": 9.597997759066123,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 25,
@@ -8207,15 +8207,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-16.md": {
-    "scroll": 6.334841628959276,
+    "scroll": 35.25476096926488,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 18
+        "line": 21,
+        "ch": 22
       },
       "to": {
-        "line": 24,
-        "ch": 18
+        "line": 21,
+        "ch": 22
       }
     },
     "expandedKeys": []
