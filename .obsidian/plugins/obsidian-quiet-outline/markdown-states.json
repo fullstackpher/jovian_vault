@@ -8280,12 +8280,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 15
+        "line": 14,
+        "ch": 0
       },
       "to": {
-        "line": 17,
-        "ch": 15
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/教程/openclaw操作指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
