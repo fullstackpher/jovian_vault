@@ -6065,11 +6065,11 @@
     "cursor": {
       "from": {
         "line": 5,
-        "ch": 68
+        "ch": 0
       },
       "to": {
         "line": 5,
-        "ch": 68
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8230,6 +8230,34 @@
       "to": {
         "line": 19,
         "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Note 2026-02-17 07-11-08.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 23
+      },
+      "to": {
+        "line": 6,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "Textsnippet.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

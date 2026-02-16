@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Textsnippet",
+      "path": "Textsnippet.md"
+    },
+    {
       "basename": "0-Inbox",
       "path": "8.Info/0-Inbox.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "打造第二大脑",
       "path": "1.Projects/02-知识管理/打造第二大脑.md"
-    },
-    {
-      "basename": "学习Spring全家桶",
-      "path": "1.Projects/01-学习Java/学习Spring全家桶.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1.Projects/01-学习Java/学习JavaSE.md"
     }
   ],
   "omittedPaths": [],
