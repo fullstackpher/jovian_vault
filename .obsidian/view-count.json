@@ -11182,26 +11182,16 @@
     {
       "path": "3.Resources/教程/openclaw操作指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771282911301
         },
         {
           "timestampMillis": 1771284381421
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1771284202982
         },
         {
-          "timestampMillis": 1771284347266
+          "timestampMillis": 1771284476931
         }
       ]
     }
