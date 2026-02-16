@@ -814,8 +814,8 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 30,
-      "totalTimesOpened": 547,
+      "uniqueDaysOpened": 31,
+      "totalTimesOpened": 548,
       "openLogs": [
         {
           "timestampMillis": 1768644304091
@@ -2439,6 +2439,9 @@
         },
         {
           "timestampMillis": 1771204838331
+        },
+        {
+          "timestampMillis": 1771284719827
         }
       ]
     },
@@ -11182,7 +11185,7 @@
     {
       "path": "3.Resources/教程/openclaw操作指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771282911301
@@ -11192,6 +11195,12 @@
         },
         {
           "timestampMillis": 1771284476931
+        },
+        {
+          "timestampMillis": 1771284716524
+        },
+        {
+          "timestampMillis": 1771284723273
         }
       ]
     }
