@@ -1497,8 +1497,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6960000,
-      "openCount": 138
+      "duration": 6966000,
+      "openCount": 139
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2319,13 +2319,25 @@
     "0.Inbox/Note 2026-02-17 07-11-08.md": {
       "fileId": "1771283472197",
       "filePath": "0.Inbox/Note 2026-02-17 07-11-08.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 12000,
+      "openCount": 4
     },
     "Textsnippet.md": {
       "fileId": "1771283478197",
       "filePath": "Textsnippet.md",
-      "duration": 60000,
+      "duration": 66000,
+      "openCount": 4
+    },
+    "Clippings/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md": {
+      "fileId": "1771284048195",
+      "filePath": "Clippings/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md": {
+      "fileId": "1771284114205",
+      "filePath": "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md",
+      "duration": 24000,
       "openCount": 1
     }
   }
