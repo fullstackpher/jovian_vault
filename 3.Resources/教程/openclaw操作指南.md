@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-17T07:01
-更新时间: 2026-02-17T07:34
+更新时间: 2026-02-17T07:40
 tags:
   - 教程
   - AI
@@ -1438,6 +1438,8 @@ Skill 加载优先级（从高到低）：
 - 通信工具：Slack、iMessage、Twitter/X、Discord
 - 智能家居：Philips Hue、Sonos、Eight Sleep
 - 开发工具：GitHub CLI、Claude Code 子进程、Whisper 转录
+
+
 
 ### **Channels 系统：多平台消息集成**
 
