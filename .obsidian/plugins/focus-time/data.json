@@ -1497,8 +1497,8 @@
     "8.Info/0-Inbox.md": {
       "fileId": "1769776786581",
       "filePath": "8.Info/0-Inbox.md",
-      "duration": 6966000,
-      "openCount": 139
+      "duration": 6972000,
+      "openCount": 140
     },
     "8.Info/常用服务API.md": {
       "fileId": "1769834660986",
@@ -2337,8 +2337,8 @@
     "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md": {
       "fileId": "1771284114205",
       "filePath": "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md",
-      "duration": 24000,
-      "openCount": 1
+      "duration": 72000,
+      "openCount": 2
     }
   }
 }
