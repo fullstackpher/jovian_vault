@@ -11185,7 +11185,7 @@
     {
       "path": "3.Resources/教程/openclaw操作指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1771282911301
@@ -11222,6 +11222,9 @@
         },
         {
           "timestampMillis": 1771285483788
+        },
+        {
+          "timestampMillis": 1771285703176
         }
       ]
     }
