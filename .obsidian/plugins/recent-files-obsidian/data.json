@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
       "basename": "openclaw操作指南",
       "path": "3.Resources/教程/openclaw操作指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习JavaSE",
       "path": "1.Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1.Projects/01-学习Java/学习JavaEE.md"
     }
   ],
   "omittedPaths": [],
