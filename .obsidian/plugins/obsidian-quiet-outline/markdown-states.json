@@ -8205,5 +8205,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-16.md": {
+    "scroll": 6.334841628959276,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 18
+      },
+      "to": {
+        "line": 24,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
   }
 }
