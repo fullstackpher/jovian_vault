@@ -2302,7 +2302,19 @@
       "fileId": "1771204846118",
       "filePath": "7.Daily/每日日志/2026-02-16.md",
       "duration": 624000,
+      "openCount": 3
+    },
+    "7.Daily/每日日志/2026-02-17.md": {
+      "fileId": "1771282878199",
+      "filePath": "7.Daily/每日日志/2026-02-17.md",
+      "duration": 36000,
       "openCount": 2
+    },
+    "3.Resources/教程/openclaw操作指南.md": {
+      "fileId": "1771282914207",
+      "filePath": "3.Resources/教程/openclaw操作指南.md",
+      "duration": 78000,
+      "openCount": 1
     }
   }
 }

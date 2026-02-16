@@ -11156,6 +11156,26 @@
           "timestampMillis": 1771282869611
         }
       ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-17.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771282878030
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/教程/openclaw操作指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771282911301
+        }
+      ]
     }
   ]
 }
