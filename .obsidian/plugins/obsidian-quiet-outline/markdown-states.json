@@ -8291,15 +8291,29 @@
     "expandedKeys": []
   },
   "3.Resources/教程/openclaw操作指南.md": {
-    "scroll": 0,
+    "scroll": 500.36552604440215,
     "cursor": {
       "from": {
-        "line": 1134,
+        "line": 480,
         "ch": 0
       },
       "to": {
-        "line": 1134,
+        "line": 480,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/随手记.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 3
+      },
+      "to": {
+        "line": 2,
+        "ch": 3
       }
     },
     "expandedKeys": []

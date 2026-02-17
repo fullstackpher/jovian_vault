@@ -2313,8 +2313,8 @@
     "3.Resources/教程/openclaw操作指南.md": {
       "fileId": "1771282914207",
       "filePath": "3.Resources/教程/openclaw操作指南.md",
-      "duration": 1362000,
-      "openCount": 3
+      "duration": 1506000,
+      "openCount": 4
     },
     "0.Inbox/Note 2026-02-17 07-11-08.md": {
       "fileId": "1771283472197",
@@ -2339,6 +2339,12 @@
       "filePath": "0.Inbox/一文读懂：openClaw 分析与教程+免费大模型（Moltbot、Clawdbot）— 2更.md",
       "duration": 120000,
       "openCount": 3
+    },
+    "8.Info/随手记.md": {
+      "fileId": "1771306806192",
+      "filePath": "8.Info/随手记.md",
+      "duration": 54000,
+      "openCount": 1
     }
   }
 }

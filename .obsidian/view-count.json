@@ -11185,7 +11185,7 @@
     {
       "path": "3.Resources/教程/openclaw操作指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1771282911301
@@ -11225,6 +11225,31 @@
         },
         {
           "timestampMillis": 1771285703176
+        },
+        {
+          "timestampMillis": 1771285822349
+        },
+        {
+          "timestampMillis": 1771285887804
+        },
+        {
+          "timestampMillis": 1771285910663
+        },
+        {
+          "timestampMillis": 1771288275434
+        }
+      ]
+    },
+    {
+      "path": "8.Info/随手记.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771306801382
+        },
+        {
+          "timestampMillis": 1771306808905
         }
       ]
     }
