@@ -8224,12 +8224,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 18
+        "line": 22,
+        "ch": 0
       },
       "to": {
-        "line": 19,
-        "ch": 18
+        "line": 22,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8291,15 +8291,15 @@
     "expandedKeys": []
   },
   "3.Resources/教程/openclaw操作指南.md": {
-    "scroll": 500.36552604440215,
+    "scroll": 1128.3712897207222,
     "cursor": {
       "from": {
-        "line": 480,
-        "ch": 0
+        "line": 1031,
+        "ch": 30
       },
       "to": {
-        "line": 480,
-        "ch": 0
+        "line": 1031,
+        "ch": 30
       }
     },
     "expandedKeys": []
