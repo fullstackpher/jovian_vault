@@ -2994,7 +2994,7 @@
     {
       "path": "Templates/日记模版.md",
       "uniqueDaysOpened": 15,
-      "totalTimesOpened": 98,
+      "totalTimesOpened": 100,
       "openLogs": [
         {
           "timestampMillis": 1768706340389
@@ -3280,6 +3280,12 @@
         },
         {
           "timestampMillis": 1771379481758
+        },
+        {
+          "timestampMillis": 1771379753194
+        },
+        {
+          "timestampMillis": 1771379759832
         }
       ]
     },
@@ -11179,7 +11185,7 @@
     {
       "path": "3.Resources/openclaw常用技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771374983042
@@ -11201,6 +11207,29 @@
         },
         {
           "timestampMillis": 1771376267847
+        },
+        {
+          "timestampMillis": 1771386798697
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-18.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771379768236
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/windows开机启动openclaw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771386807396
         }
       ]
     }

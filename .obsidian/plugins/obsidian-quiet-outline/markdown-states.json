@@ -6460,12 +6460,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 4,
-        "ch": 10
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8319,21 +8319,21 @@
     "expandedKeys": []
   },
   "3.Resources/openclaw常用技能.md": {
-    "scroll": 0,
+    "scroll": 93.45693948543675,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 82
+        "line": 103,
+        "ch": 3
       },
       "to": {
-        "line": 22,
-        "ch": 82
+        "line": 103,
+        "ch": 3
       }
     },
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-18.md": {
-    "scroll": 0,
+    "scroll": 28.342319862515318,
     "cursor": {
       "from": {
         "line": 16,
@@ -8342,6 +8342,20 @@
       "to": {
         "line": 16,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/windows开机启动openclaw.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 10
+      },
+      "to": {
+        "line": 9,
+        "ch": 10
       }
     },
     "expandedKeys": []
