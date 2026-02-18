@@ -3,9 +3,21 @@
   "title": "请优化这个笔记",
   "titleGenerationStatus": "failed",
   "createdAt": 1771375411760,
-  "updatedAt": 1771375427641,
-  "lastResponseAt": 1771375427641,
-  "sessionId": null,
-  "sdkSessionId": "3eb77e33-9772-4f3f-8773-1fd939eaf37b",
-  "currentNote": "3.Resources/openclaw常用技能.md"
+  "updatedAt": 1771375666556,
+  "lastResponseAt": 1771375666555,
+  "sessionId": "3a7003eb-1c03-4a11-a36f-ea12a2732e45",
+  "sdkSessionId": "3a7003eb-1c03-4a11-a36f-ea12a2732e45",
+  "previousSdkSessionIds": [
+    "3eb77e33-9772-4f3f-8773-1fd939eaf37b"
+  ],
+  "currentNote": "3.Resources/openclaw常用技能.md",
+  "usage": {
+    "model": "glm-4.7-flash",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }
