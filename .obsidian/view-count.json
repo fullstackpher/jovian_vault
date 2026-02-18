@@ -11226,13 +11226,16 @@
     {
       "path": "3.Resources/windows开机启动openclaw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771386807396
         },
         {
           "timestampMillis": 1771387149963
+        },
+        {
+          "timestampMillis": 1771392088328
         }
       ]
     }
