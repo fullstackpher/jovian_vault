@@ -11251,8 +11251,8 @@
     },
     {
       "path": "8.Info/随手记.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771306801382
@@ -11262,6 +11262,12 @@
         },
         {
           "timestampMillis": 1771318765435
+        },
+        {
+          "timestampMillis": 1771374948287
+        },
+        {
+          "timestampMillis": 1771374951915
         }
       ]
     },

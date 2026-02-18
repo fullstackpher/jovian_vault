@@ -8308,12 +8308,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 5,
-        "ch": 88
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
