@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-18",
-      "path": "7.Daily/每日日志/2026-02-18.md"
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
     },
     {
       "basename": "2026-02-15",
@@ -167,10 +167,6 @@
     {
       "basename": "DOM",
       "path": "2.Areas/Frontend/DOM.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     },
     {
       "basename": "包装类型",
