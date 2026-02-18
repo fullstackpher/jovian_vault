@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "随手记",
+      "path": "8.Info/随手记.md"
+    },
+    {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "2026-02-17",
       "path": "7.Daily/每日日志/2026-02-17.md"
-    },
-    {
-      "basename": "随手记",
-      "path": "8.Info/随手记.md"
     },
     {
       "basename": "openclaw配置飞书",
