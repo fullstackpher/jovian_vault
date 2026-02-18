@@ -9,6 +9,10 @@
       "path": "7.Daily/每日日志/2026-02-15.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-02-17",
       "path": "7.Daily/每日日志/2026-02-17.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "openclaw操作指南",
       "path": "3.Resources/教程/openclaw操作指南.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "0-Inbox",

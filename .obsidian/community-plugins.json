@@ -22,7 +22,6 @@
   "homepage",
   "mantou-ai",
   "obsidian-emoji-toolbar",
-  "claudian",
   "obsidian-better-command-palette",
   "cmdr",
   "obsidian-list-callouts",
@@ -38,5 +37,6 @@
   "obsidian-task-progress-bar",
   "obsidian-day-planner",
   "nutstore-sync",
-  "obsidian-memos"
+  "obsidian-memos",
+  "claudian"
 ]

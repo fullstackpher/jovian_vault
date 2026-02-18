@@ -8336,12 +8336,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 8
+        "line": 16,
+        "ch": 0
       },
       "to": {
-        "line": 19,
-        "ch": 8
+        "line": 16,
+        "ch": 0
       }
     },
     "expandedKeys": []
