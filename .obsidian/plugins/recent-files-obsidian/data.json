@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Docker命令速查",
+      "path": "3.Resources/速查手册/Docker命令速查.md"
+    },
+    {
       "basename": "随手记",
       "path": "8.Info/随手记.md"
     },
     {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "openclaw常用技能",
