@@ -8322,12 +8322,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 27
+        "line": 9,
+        "ch": 82
       },
       "to": {
-        "line": 8,
-        "ch": 27
+        "line": 9,
+        "ch": 82
       }
     },
     "expandedKeys": []
