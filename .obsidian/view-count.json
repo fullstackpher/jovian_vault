@@ -11252,7 +11252,7 @@
     {
       "path": "8.Info/随手记.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771306801382
@@ -11268,6 +11268,9 @@
         },
         {
           "timestampMillis": 1771374951915
+        },
+        {
+          "timestampMillis": 1771375013977
         }
       ]
     },
@@ -11278,6 +11281,22 @@
       "openLogs": [
         {
           "timestampMillis": 1771314442533
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/openclaw常用技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1771374983042
+        },
+        {
+          "timestampMillis": 1771375002797
+        },
+        {
+          "timestampMillis": 1771375019842
         }
       ]
     }
