@@ -815,7 +815,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 32,
-      "totalTimesOpened": 553,
+      "totalTimesOpened": 555,
       "openLogs": [
         {
           "timestampMillis": 1768706559799
@@ -2313,6 +2313,12 @@
         },
         {
           "timestampMillis": 1771379079783
+        },
+        {
+          "timestampMillis": 1771392132018
+        },
+        {
+          "timestampMillis": 1771392141142
         }
       ]
     },
@@ -2401,48 +2407,9 @@
     },
     {
       "path": "1.Projects/项目看板.md",
-      "uniqueDaysOpened": 17,
-      "totalTimesOpened": 53,
+      "uniqueDaysOpened": 18,
+      "totalTimesOpened": 54,
       "openLogs": [
-        {
-          "timestampMillis": 1768538769257
-        },
-        {
-          "timestampMillis": 1768538959433
-        },
-        {
-          "timestampMillis": 1768559188948
-        },
-        {
-          "timestampMillis": 1768559261979
-        },
-        {
-          "timestampMillis": 1768559471033
-        },
-        {
-          "timestampMillis": 1768624047138
-        },
-        {
-          "timestampMillis": 1768643745019
-        },
-        {
-          "timestampMillis": 1768652038243
-        },
-        {
-          "timestampMillis": 1768652221165
-        },
-        {
-          "timestampMillis": 1768653277668
-        },
-        {
-          "timestampMillis": 1768653666498
-        },
-        {
-          "timestampMillis": 1768653769900
-        },
-        {
-          "timestampMillis": 1768654824021
-        },
         {
           "timestampMillis": 1768726428061
         },
@@ -2562,6 +2529,9 @@
         },
         {
           "timestampMillis": 1771074300657
+        },
+        {
+          "timestampMillis": 1771392141290
         }
       ]
     },
@@ -11220,22 +11190,6 @@
       "openLogs": [
         {
           "timestampMillis": 1771379768236
-        }
-      ]
-    },
-    {
-      "path": "3.Resources/windows开机启动openclaw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1771386807396
-        },
-        {
-          "timestampMillis": 1771387149963
-        },
-        {
-          "timestampMillis": 1771392088328
         }
       ]
     }
