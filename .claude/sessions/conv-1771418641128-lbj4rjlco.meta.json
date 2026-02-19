@@ -1,0 +1,19 @@
+{
+  "id": "conv-1771418641128-lbj4rjlco",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1771418641129,
+  "updatedAt": 1771418757506,
+  "lastResponseAt": 1771418757506,
+  "sessionId": "eb9b30f4-00b9-4093-a140-ce2ea018db51",
+  "sdkSessionId": "eb9b30f4-00b9-4093-a140-ce2ea018db51",
+  "usage": {
+    "model": "glm-4.7-flash",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
