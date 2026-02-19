@@ -8361,15 +8361,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-19.md": {
-    "scroll": 6.334841628959276,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 1
+        "line": 21,
+        "ch": 10
       },
       "to": {
-        "line": 27,
-        "ch": 1
+        "line": 21,
+        "ch": 10
       }
     },
     "expandedKeys": []
