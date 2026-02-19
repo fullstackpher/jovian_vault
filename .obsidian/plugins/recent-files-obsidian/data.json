@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-18",
+      "path": "7.Daily/每日日志/2026-02-18.md"
+    },
+    {
+      "basename": "2026-02-19",
+      "path": "7.Daily/每日日志/2026-02-19.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "openclaw常用技能",
       "path": "3.Resources/openclaw常用技能.md"
-    },
-    {
-      "basename": "2026-02-18",
-      "path": "7.Daily/每日日志/2026-02-18.md"
     },
     {
       "basename": "日记模版",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-06",
       "path": "7.Daily/每日日志/2026-02-06.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程1-任务管理全流程",
-      "path": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md"
     }
   ],
   "omittedPaths": [],

@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 24252000,
-      "openCount": 395
+      "openCount": 396
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -2361,13 +2361,19 @@
     "7.Daily/每日日志/2026-02-18.md": {
       "fileId": "1771378707256",
       "filePath": "7.Daily/每日日志/2026-02-18.md",
-      "duration": 414000,
+      "duration": 480000,
       "openCount": 14
     },
     "3.Resources/windows开机启动openclaw.md": {
       "fileId": "1771386831302",
       "filePath": "3.Resources/windows开机启动openclaw.md",
       "duration": 282000,
+      "openCount": 2
+    },
+    "7.Daily/每日日志/2026-02-19.md": {
+      "fileId": "1771460453099",
+      "filePath": "7.Daily/每日日志/2026-02-19.md",
+      "duration": 6000,
       "openCount": 2
     }
   }
