@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-02-20T15:37
+更新时间: 2026-02-20T22:36
 tags:
   - "#obsidian/plugin"
 ---
@@ -63,7 +63,7 @@ ANTHROPIC_MODEL=glm-4.7
 ```
 ANTHROPIC_API_KEY=ollama
 ANTHROPIC_BASE_URL=http://localhost:11434
-ANTHROPIC_MODEL=minimax-m2.5:cloud
+ANTHROPIC_MODEL=qwen3:8b
 ```
 
 
