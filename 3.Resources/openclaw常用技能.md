@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-18T08:36
-更新时间: 2026-02-18T08:58
+更新时间: 2026-02-20T19:55
 tags:
   - OpenCLAW
   - CLI工具
@@ -90,15 +90,15 @@ npx clawhub@latest uninstall <skill-name>
 
 ## 📊 技能快速参考表
 
-| 技能名称 | 分类 | 主要功能 | 系统要求 |
-|---------|------|---------|---------|
-| `markdown-formatter` | 基础工具 | 格式化Markdown | 低 |
-| `obsidian` | 基础工具 | Obsidian集成 | 低 |
-| `brave-search` | 搜索查询 | Brave搜索引擎 | 中 |
-| `agent-browser` | 浏览器自动化 | 网页操作 | 高 |
-| `personal-assistant` | 个人助手 | 智能助手 | 低 |
-| `ship-learn-next` | 学习工具 | 技能学习 | 中 |
-| `summarize` | 内容处理 | 文本摘要 | 低 |
-| `diagram-generator` | 可视化 | 图表生成 | 中 |
+| 技能名称                 | 分类     | 主要功能        | 系统要求 |
+| -------------------- | ------ | ----------- | ---- |
+| `markdown-formatter` | 基础工具   | 格式化Markdown | 低    |
+| `obsidian`           | 基础工具   | Obsidian集成  | 低    |
+| `brave-search`       | 搜索查询   | Brave搜索引擎   | 中    |
+| `agent-browser`      | 浏览器自动化 | 网页操作        | 高    |
+| `personal-assistant` | 个人助手   | 智能助手        | 低    |
+| `ship-learn-next`    | 学习工具   | 技能学习        | 中    |
+| `summarize`          | 内容处理   | 文本摘要        | 低    |
+| `diagram-generator`  | 可视化    | 图表生成        | 中    |
 
 ---
