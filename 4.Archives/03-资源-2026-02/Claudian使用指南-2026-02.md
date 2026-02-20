@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-02-06T17:43
+更新时间: 2026-02-20T15:37
 tags:
   - "#obsidian/plugin"
 ---
@@ -58,6 +58,14 @@ ANTHROPIC_API_KEY=7b414188395b4322bf831c1bb896fae7.IdTV2K5a67NiLzhn
 ANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic
 ANTHROPIC_MODEL=glm-4.7
 ```
+
+- Ollama本地模型
+```
+ANTHROPIC_API_KEY=ollama
+ANTHROPIC_BASE_URL=http://localhost:11434
+ANTHROPIC_MODEL=minimax-m2.5:cloud
+```
+
 
 配置路径（必须配置）
 

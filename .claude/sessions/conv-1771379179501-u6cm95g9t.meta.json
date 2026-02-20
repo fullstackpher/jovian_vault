@@ -5,7 +5,7 @@
   "createdAt": 1771379179502,
   "updatedAt": 1771379765975,
   "lastResponseAt": 1771379753084,
-  "sessionId": "d086109e-0075-4705-a4b8-0b1a704fff2c",
+  "sessionId": null,
   "sdkSessionId": "d086109e-0075-4705-a4b8-0b1a704fff2c",
   "usage": {
     "model": "glm-4.7-flash",
