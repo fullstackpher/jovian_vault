@@ -1,0 +1,20 @@
+{
+  "id": "conv-1771573096925-vr8dhk9kx",
+  "title": "你好，你用的是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1771573096925,
+  "updatedAt": 1771573289597,
+  "lastResponseAt": 1771573116707,
+  "sessionId": "443ca09c-bfff-4a6b-9b83-13e94e15e583",
+  "sdkSessionId": "443ca09c-bfff-4a6b-9b83-13e94e15e583",
+  "currentNote": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md",
+  "usage": {
+    "model": "minimax-m2.5:cloud",
+    "inputTokens": 14849,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 14849,
+    "percentage": 7
+  }
+}
