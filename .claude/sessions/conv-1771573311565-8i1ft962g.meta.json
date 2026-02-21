@@ -3,21 +3,22 @@
   "title": "今日一言模块没有加载出来，什么原因，然后给我一个解决方案",
   "titleGenerationStatus": "failed",
   "createdAt": 1771573311565,
-  "updatedAt": 1771662978167,
-  "lastResponseAt": 1771662978167,
-  "sessionId": null,
-  "sdkSessionId": "527e717a-7c18-4caf-add0-60ef957eb516",
+  "updatedAt": 1771663284747,
+  "lastResponseAt": 1771663284747,
+  "sessionId": "e5f76ba2-a12e-4475-8268-828640d99429",
+  "sdkSessionId": "e5f76ba2-a12e-4475-8268-828640d99429",
   "previousSdkSessionIds": [
-    "16aa0ce9-333c-48b0-838d-78e3131e7816"
+    "16aa0ce9-333c-48b0-838d-78e3131e7816",
+    "527e717a-7c18-4caf-add0-60ef957eb516"
   ],
   "currentNote": "7.Daily/每日日志/2026-02-20.md",
   "usage": {
-    "model": "qwen3:8b",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "model": "MiniMax-M2.5",
+    "inputTokens": 125,
+    "cacheCreationInputTokens": 2787,
+    "cacheReadInputTokens": 25769,
     "contextWindow": 200000,
-    "contextTokens": 0,
-    "percentage": 0
+    "contextTokens": 28681,
+    "percentage": 14
   }
 }
