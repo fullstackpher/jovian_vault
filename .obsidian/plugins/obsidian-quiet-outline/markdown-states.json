@@ -8361,29 +8361,29 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-19.md": {
-    "scroll": 22.42361165962967,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 33,
-        "ch": 31
+        "line": 29,
+        "ch": 14
       },
       "to": {
-        "line": 33,
-        "ch": 31
+        "line": 29,
+        "ch": 14
       }
     },
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-20.md": {
-    "scroll": 18.81045696782131,
+    "scroll": 22.17156832825904,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 14
+        "line": 26,
+        "ch": 25
       },
       "to": {
-        "line": 31,
-        "ch": 14
+        "line": 26,
+        "ch": 25
       }
     },
     "expandedKeys": []

@@ -3,8 +3,8 @@
   "title": "今日一言模块没有加载出来，什么原因，然后给我一个解决方案",
   "titleGenerationStatus": "failed",
   "createdAt": 1771573311565,
-  "updatedAt": 1771663284747,
-  "lastResponseAt": 1771663284747,
+  "updatedAt": 1771664895558,
+  "lastResponseAt": 1771664895558,
   "sessionId": "e5f76ba2-a12e-4475-8268-828640d99429",
   "sdkSessionId": "e5f76ba2-a12e-4475-8268-828640d99429",
   "previousSdkSessionIds": [
@@ -15,10 +15,10 @@
   "usage": {
     "model": "MiniMax-M2.5",
     "inputTokens": 125,
-    "cacheCreationInputTokens": 2787,
-    "cacheReadInputTokens": 25769,
+    "cacheCreationInputTokens": 3743,
+    "cacheReadInputTokens": 35238,
     "contextWindow": 200000,
-    "contextTokens": 28681,
-    "percentage": 14
+    "contextTokens": 39106,
+    "percentage": 20
   }
 }
