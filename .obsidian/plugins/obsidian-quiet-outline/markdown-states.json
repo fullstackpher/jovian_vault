@@ -7987,11 +7987,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 141
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 141
       }
     },
     "expandedKeys": []
@@ -8392,12 +8392,26 @@
     "scroll": 20.723856009689033,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 2
+        "line": 28,
+        "ch": 12
       },
       "to": {
-        "line": 24,
-        "ch": 127
+        "line": 28,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/Minimax订阅信息.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
       }
     },
     "expandedKeys": []
