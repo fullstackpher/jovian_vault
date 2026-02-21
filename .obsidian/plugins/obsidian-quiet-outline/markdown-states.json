@@ -6838,12 +6838,12 @@
     "scroll": 38.70194541362491,
     "cursor": {
       "from": {
-        "line": 48,
-        "ch": 18
+        "line": 46,
+        "ch": 14
       },
       "to": {
-        "line": 48,
-        "ch": 143
+        "line": 46,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -8389,7 +8389,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-21.md": {
-    "scroll": 8.450980392156863,
+    "scroll": 20.723856009689033,
     "cursor": {
       "from": {
         "line": 24,

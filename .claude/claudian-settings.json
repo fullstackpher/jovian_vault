@@ -39,7 +39,7 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "qwen3:8b",
+  "model": "MiniMax-M2.5",
   "thinkingBudget": "xhigh",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "MiniMax-M2.1",
@@ -52,7 +52,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ANTHROPIC_API_KEY=ollama\nANTHROPIC_BASE_URL=http://localhost:11434\nANTHROPIC_MODEL=qwen3:8b",
+  "environmentVariables": "ANTHROPIC_API_KEY=sk-cp-Xj5m7tDTo_EjDzPdBIH77a51tXUaaTgjFJzwYEqcShuxw1kurlcWcc9pFSOb-i-t8BNwhLjCjc99TIWbTBtiszaxHvQCxXbm0cCToH_DjNEDpKxsomeyTXw\nANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_MODEL=MiniMax-M2.5",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -68,7 +68,7 @@
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "MiniMax-M2.1",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=http://localhost:11434|ANTHROPIC_MODEL=qwen3:8b",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.5",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
