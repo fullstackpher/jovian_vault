@@ -6025,8 +6025,8 @@
     },
     {
       "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 36,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1769409161685
@@ -6135,6 +6135,9 @@
         },
         {
           "timestampMillis": 1771600623160
+        },
+        {
+          "timestampMillis": 1771635388468
         }
       ]
     },

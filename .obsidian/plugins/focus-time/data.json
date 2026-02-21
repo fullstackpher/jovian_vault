@@ -1305,7 +1305,7 @@
     "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md": {
       "fileId": "1769409161602",
       "filePath": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md",
-      "duration": 2280000,
+      "duration": 2298000,
       "openCount": 33
     },
     "4.Archives/03-资源-2026-02/Emoji Toolbar使用指南-2026-02.md": {
@@ -2381,6 +2381,12 @@
       "filePath": "7.Daily/每日日志/2026-02-20.md",
       "duration": 864000,
       "openCount": 7
+    },
+    "7.Daily/每日日志/2026-02-21.md": {
+      "fileId": "1771635316879",
+      "filePath": "7.Daily/每日日志/2026-02-21.md",
+      "duration": 42000,
+      "openCount": 2
     }
   }
 }
