@@ -11448,10 +11448,13 @@
     {
       "path": "8.Info/Minimax订阅信息.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771663171289
+        },
+        {
+          "timestampMillis": 1771663338236
         }
       ]
     }
