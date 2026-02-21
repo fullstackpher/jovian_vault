@@ -814,45 +814,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 33,
-      "totalTimesOpened": 557,
+      "uniqueDaysOpened": 34,
+      "totalTimesOpened": 558,
       "openLogs": [
-        {
-          "timestampMillis": 1768882951898
-        },
-        {
-          "timestampMillis": 1768906460505
-        },
-        {
-          "timestampMillis": 1768918374641
-        },
-        {
-          "timestampMillis": 1768918432948
-        },
-        {
-          "timestampMillis": 1768918500155
-        },
-        {
-          "timestampMillis": 1768918511551
-        },
-        {
-          "timestampMillis": 1768918512991
-        },
-        {
-          "timestampMillis": 1768918533193
-        },
-        {
-          "timestampMillis": 1768918538713
-        },
-        {
-          "timestampMillis": 1768918551420
-        },
-        {
-          "timestampMillis": 1768918561989
-        },
-        {
-          "timestampMillis": 1768918570462
-        },
         {
           "timestampMillis": 1768970642084
         },
@@ -2316,6 +2280,9 @@
         },
         {
           "timestampMillis": 1771460449993
+        },
+        {
+          "timestampMillis": 1771663233441
         }
       ]
     },

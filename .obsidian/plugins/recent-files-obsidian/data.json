@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "Minimax订阅信息",
       "path": "8.Info/Minimax订阅信息.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "2026-02-11",
       "path": "7.Daily/每日日志/2026-02-11.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "Docker命令速查",
