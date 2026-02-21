@@ -6026,7 +6026,7 @@
     {
       "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md",
       "uniqueDaysOpened": 6,
-      "totalTimesOpened": 38,
+      "totalTimesOpened": 39,
       "openLogs": [
         {
           "timestampMillis": 1769409161685
@@ -6141,6 +6141,9 @@
         },
         {
           "timestampMillis": 1771635812054
+        },
+        {
+          "timestampMillis": 1771662839505
         }
       ]
     },
@@ -11438,7 +11441,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-21.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771635313432
@@ -11460,6 +11463,9 @@
         },
         {
           "timestampMillis": 1771661516030
+        },
+        {
+          "timestampMillis": 1771662632081
         }
       ]
     }

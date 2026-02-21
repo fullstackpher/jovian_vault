@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-01-26T14:32
-更新时间: 2026-02-20T22:36
+更新时间: 2026-02-21T16:34
 tags:
   - "#obsidian/plugin"
 ---
@@ -46,7 +46,7 @@ claude --version
 
 - MiniMax-M2.1
 ```
-ANTHROPIC_API_KEY=sk-api-9MtsiOZnytU8wGTDvCgjgZq8k8bdVa8ZLveoFxe8TEnQcZSzR7HFYmnRbX0P-nIH6XXxK3vUcbeq8dxzlZegN7q_HX_K7aB71o-n-1LqlOVwq90a-KTFgdo
+ANTHROPIC_API_KEY=sk-cp-Xj5m7tDTo_EjDzPdBIH77a51tXUaaTgjFJzwYEqcShuxw1kurlcWcc9pFSOb-i-t8BNwhLjCjc99TIWbTBtiszaxHvQCxXbm0cCToH_DjNEDpKxsomeyTXw
 ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic
 ANTHROPIC_MODEL=MiniMax-M2.1
 ```
