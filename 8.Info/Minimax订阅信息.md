@@ -5,6 +5,6 @@ sk-cp-Xj5m7tDTo_EjDzPdBIH77a51tXUaaTgjFJzwYEqcShuxw1kurlcWcc9pFSOb-i-t8BNwhLjCjc
 
 API地址：
 ```
-
+https://api.minimaxi.com/anthropic
 ```
 
