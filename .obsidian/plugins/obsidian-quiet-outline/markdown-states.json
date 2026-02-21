@@ -8392,12 +8392,12 @@
     "scroll": 10.882761786965762,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 2
+        "line": 28,
+        "ch": 13
       },
       "to": {
-        "line": 26,
-        "ch": 2
+        "line": 28,
+        "ch": 13
       }
     },
     "expandedKeys": []
