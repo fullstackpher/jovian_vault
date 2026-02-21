@@ -11327,8 +11327,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-19.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1771460452663
@@ -11356,6 +11356,12 @@
         },
         {
           "timestampMillis": 1771573864829
+        },
+        {
+          "timestampMillis": 1771600637998
+        },
+        {
+          "timestampMillis": 1771635307909
         }
       ]
     },
@@ -11420,6 +11426,16 @@
         },
         {
           "timestampMillis": 1771600630251
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-21.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771635313432
         }
       ]
     }
