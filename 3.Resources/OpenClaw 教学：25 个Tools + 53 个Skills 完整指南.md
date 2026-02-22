@@ -9,27 +9,14 @@ date: 2026-02-17
 source: 外部收集
 paracategory: Resources
 创建时间: 2026-02-22T23:01
+更新时间: 2026-02-22T23:43
+---
 更新时间: 2026-02-22T23:31
----
 
 ---
-title: OpenClaw 教學：25 個 Tools + 53 個 Skills 完整指南
-source: https://yu-wenhao.com/zh-TW/blog/openclaw-tools-skills-tutorial/
-author:
-  - "[[WenHao Yu]]"
-published: 2026-02-05
-created: 2026-02-22
-description: OpenClaw 裝完了不知道怎麼設定？這篇研究筆記整理了 25 個 Tools 和 53 個官方 Skills 的功能、風險和配置建議。附完整清單和可直接複製的 JSON 設定檔。
-tags:
-  - clippings
-创建时间: 2026-02-22T23:01
-更新时间: 2026-02-22T23:31
----
-🌐
+> 🌐 这篇文章也有英文版本 [Read in English →](https://yu-wenhao.com/en/blog/openclaw-tools-skills-tutorial/)
 
-这篇文章也有英文版本 [Read in English →](https://yu-wenhao.com/en/blog/openclaw-tools-skills-tutorial/)
-
-![OpenClaw 教学：25 个Tools + 53 个Skills 完整指南](https://yu-wenhao.com/images/blog/openclaw-tools-skills-tutorial.webp)
+![](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/openclaw-tools-skills-tutorial.webp)
 
 OpenClaw 装完了，然后呢？
 

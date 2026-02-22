@@ -8417,7 +8417,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-22.md": {
-    "scroll": 33.19771261776195,
+    "scroll": 93.05857355954433,
     "cursor": {
       "from": {
         "line": 98,
@@ -8916,6 +8916,34 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/OpenClaw教程.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 2
+      },
+      "to": {
+        "line": 15,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
+    "scroll": 501.7068720370543,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 30
+      },
+      "to": {
+        "line": 22,
+        "ch": 30
       }
     },
     "expandedKeys": []

@@ -11477,6 +11477,22 @@
           "timestampMillis": 1771774281783
         }
       ]
+    },
+    {
+      "path": "3.Resources/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1771774415220
+        },
+        {
+          "timestampMillis": 1771774817919
+        },
+        {
+          "timestampMillis": 1771774965334
+        }
+      ]
     }
   ]
 }
