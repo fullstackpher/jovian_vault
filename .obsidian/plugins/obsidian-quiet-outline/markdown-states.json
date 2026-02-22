@@ -8406,11 +8406,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 10,
+        "line": 9,
         "ch": 0
       }
     },

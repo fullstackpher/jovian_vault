@@ -8,3 +8,7 @@ API地址：
 https://api.minimaxi.com/anthropic
 ```
 
+模型名称：
+```
+MiniMax-M2.5
+```
