@@ -3625,14 +3625,14 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 160.01683248007706,
+    "scroll": 115.7212850620334,
     "cursor": {
       "from": {
-        "line": 186,
+        "line": 156,
         "ch": 0
       },
       "to": {
-        "line": 186,
+        "line": 156,
         "ch": 0
       }
     },
@@ -6233,7 +6233,7 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 0,
+    "scroll": 14.623774509803921,
     "cursor": {
       "from": {
         "line": 87,
@@ -7941,15 +7941,15 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/打造第二大脑.md": {
-    "scroll": 337.18722179635165,
+    "scroll": 204.83065239303582,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 218,
+        "ch": 22
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 218,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -8635,6 +8635,20 @@
       },
       "to": {
         "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/文献笔记模板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

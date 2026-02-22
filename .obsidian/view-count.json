@@ -551,66 +551,9 @@
     },
     {
       "path": "1.Projects/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 11,
-      "totalTimesOpened": 43,
+      "uniqueDaysOpened": 12,
+      "totalTimesOpened": 44,
       "openLogs": [
-        {
-          "timestampMillis": 1768478789164
-        },
-        {
-          "timestampMillis": 1768481221311
-        },
-        {
-          "timestampMillis": 1768483295417
-        },
-        {
-          "timestampMillis": 1768643765052
-        },
-        {
-          "timestampMillis": 1768644249416
-        },
-        {
-          "timestampMillis": 1768644293400
-        },
-        {
-          "timestampMillis": 1768644295424
-        },
-        {
-          "timestampMillis": 1768644295878
-        },
-        {
-          "timestampMillis": 1768644298906
-        },
-        {
-          "timestampMillis": 1768645373149
-        },
-        {
-          "timestampMillis": 1768651853947
-        },
-        {
-          "timestampMillis": 1768652405437
-        },
-        {
-          "timestampMillis": 1768652405731
-        },
-        {
-          "timestampMillis": 1768652422659
-        },
-        {
-          "timestampMillis": 1768653280473
-        },
-        {
-          "timestampMillis": 1768653321258
-        },
-        {
-          "timestampMillis": 1768654026857
-        },
-        {
-          "timestampMillis": 1768654849509
-        },
-        {
-          "timestampMillis": 1768886536129
-        },
         {
           "timestampMillis": 1769688615614
         },
@@ -682,6 +625,9 @@
         },
         {
           "timestampMillis": 1770982994514
+        },
+        {
+          "timestampMillis": 1771759777110
         }
       ]
     },
@@ -815,7 +761,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 35,
-      "totalTimesOpened": 563,
+      "totalTimesOpened": 564,
       "openLogs": [
         {
           "timestampMillis": 1769054986448
@@ -2274,6 +2220,9 @@
         },
         {
           "timestampMillis": 1771759765421
+        },
+        {
+          "timestampMillis": 1771759796242
         }
       ]
     },
@@ -10488,11 +10437,17 @@
     },
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
+        },
+        {
+          "timestampMillis": 1771759798689
+        },
+        {
+          "timestampMillis": 1771759995657
         }
       ]
     },
@@ -11258,6 +11213,22 @@
         },
         {
           "timestampMillis": 1771754280418
+        }
+      ]
+    },
+    {
+      "path": "Templates/文献笔记模板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1771759943243
+        },
+        {
+          "timestampMillis": 1771759948655
+        },
+        {
+          "timestampMillis": 1771759983625
         }
       ]
     }
