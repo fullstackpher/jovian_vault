@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "打造第二大脑",
+      "path": "1.Projects/02-知识管理/打造第二大脑.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习JavaSE",
+      "path": "1.Projects/01-学习Java/学习JavaSE.md"
+    },
+    {
+      "basename": "学习JavaEE",
+      "path": "1.Projects/01-学习Java/学习JavaEE.md"
+    },
+    {
       "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
       "path": "3.Resources/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "示例 2：图书追踪",
       "path": "8.Info/示例 2：图书追踪.md"
-    },
-    {
-      "basename": "打造第二大脑",
-      "path": "1.Projects/02-知识管理/打造第二大脑.md"
     },
     {
       "basename": "Dashboard",
@@ -85,16 +105,8 @@
       "path": "Templates/项目模版.md"
     },
     {
-      "basename": "学习Obsidian",
-      "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
       "basename": "Frontend知识体系总览",
       "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "2026-02-16",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-02-13",
       "path": "7.Daily/每日日志/2026-02-13.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "7.Daily/每日日志/2026-02-12.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "7.Daily/每日日志/2026-02-11.md"
-    },
-    {
-      "basename": "Docker命令速查",
-      "path": "3.Resources/速查手册/Docker命令速查.md"
     }
   ],
   "omittedPaths": [],

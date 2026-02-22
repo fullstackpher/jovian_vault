@@ -198,42 +198,9 @@
     },
     {
       "path": "1.Projects/01-学习Java/学习JavaEE.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 18,
       "openLogs": [
-        {
-          "timestampMillis": 1768478527335
-        },
-        {
-          "timestampMillis": 1768483298513
-        },
-        {
-          "timestampMillis": 1768483300177
-        },
-        {
-          "timestampMillis": 1768645334320
-        },
-        {
-          "timestampMillis": 1768645368587
-        },
-        {
-          "timestampMillis": 1768645886363
-        },
-        {
-          "timestampMillis": 1768652385330
-        },
-        {
-          "timestampMillis": 1768652425712
-        },
-        {
-          "timestampMillis": 1768652452555
-        },
-        {
-          "timestampMillis": 1768654812991
-        },
-        {
-          "timestampMillis": 1768654832089
-        },
         {
           "timestampMillis": 1769688620948
         },
@@ -251,53 +218,17 @@
         },
         {
           "timestampMillis": 1770982691259
+        },
+        {
+          "timestampMillis": 1771776557571
         }
       ]
     },
     {
       "path": "1.Projects/01-学习Java/学习JavaSE.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 19,
       "openLogs": [
-        {
-          "timestampMillis": 1768478597879
-        },
-        {
-          "timestampMillis": 1768483299570
-        },
-        {
-          "timestampMillis": 1768483301426
-        },
-        {
-          "timestampMillis": 1768538735962
-        },
-        {
-          "timestampMillis": 1768645322140
-        },
-        {
-          "timestampMillis": 1768645349068
-        },
-        {
-          "timestampMillis": 1768645349909
-        },
-        {
-          "timestampMillis": 1768645370311
-        },
-        {
-          "timestampMillis": 1768645904387
-        },
-        {
-          "timestampMillis": 1768652397505
-        },
-        {
-          "timestampMillis": 1768652425035
-        },
-        {
-          "timestampMillis": 1768654194379
-        },
-        {
-          "timestampMillis": 1768654834468
-        },
         {
           "timestampMillis": 1769688623111
         },
@@ -312,6 +243,9 @@
         },
         {
           "timestampMillis": 1770982692810
+        },
+        {
+          "timestampMillis": 1771776571864
         }
       ]
     },
@@ -551,8 +485,8 @@
     },
     {
       "path": "1.Projects/02-知识管理/学习Obsidian.md",
-      "uniqueDaysOpened": 12,
-      "totalTimesOpened": 44,
+      "uniqueDaysOpened": 13,
+      "totalTimesOpened": 45,
       "openLogs": [
         {
           "timestampMillis": 1769688615614
@@ -628,6 +562,9 @@
         },
         {
           "timestampMillis": 1771759777110
+        },
+        {
+          "timestampMillis": 1771776647324
         }
       ]
     },
@@ -2329,24 +2266,9 @@
     },
     {
       "path": "1.Projects/项目看板.md",
-      "uniqueDaysOpened": 18,
-      "totalTimesOpened": 55,
+      "uniqueDaysOpened": 19,
+      "totalTimesOpened": 57,
       "openLogs": [
-        {
-          "timestampMillis": 1768726428061
-        },
-        {
-          "timestampMillis": 1768756200892
-        },
-        {
-          "timestampMillis": 1769066361390
-        },
-        {
-          "timestampMillis": 1769066520337
-        },
-        {
-          "timestampMillis": 1769066537907
-        },
         {
           "timestampMillis": 1769235020474
         },
@@ -2457,6 +2379,12 @@
         },
         {
           "timestampMillis": 1771396535267
+        },
+        {
+          "timestampMillis": 1771776642802
+        },
+        {
+          "timestampMillis": 1771776649803
         }
       ]
     },
@@ -4838,15 +4766,9 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 17,
-      "totalTimesOpened": 55,
+      "uniqueDaysOpened": 18,
+      "totalTimesOpened": 56,
       "openLogs": [
-        {
-          "timestampMillis": 1769066484341
-        },
-        {
-          "timestampMillis": 1769066552834
-        },
         {
           "timestampMillis": 1769140825686
         },
@@ -5005,6 +4927,9 @@
         },
         {
           "timestampMillis": 1771759676738
+        },
+        {
+          "timestampMillis": 1771776592242
         }
       ]
     },
@@ -10464,8 +10389,8 @@
     },
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -10496,6 +10421,12 @@
         },
         {
           "timestampMillis": 1771774229200
+        },
+        {
+          "timestampMillis": 1771776588265
+        },
+        {
+          "timestampMillis": 1771776651775
         }
       ]
     },
