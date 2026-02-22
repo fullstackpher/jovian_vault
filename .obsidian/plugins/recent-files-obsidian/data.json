@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "永久笔记模板",
+      "path": "Templates/永久笔记模板.md"
+    },
+    {
+      "basename": "文献笔记模板",
+      "path": "Templates/文献笔记模板.md"
+    },
+    {
       "basename": "打造第二大脑",
       "path": "1.Projects/02-知识管理/打造第二大脑.md"
     },
     {
       "basename": "项目模版",
       "path": "Templates/项目模版.md"
-    },
-    {
-      "basename": "文献笔记模板",
-      "path": "Templates/文献笔记模板.md"
     },
     {
       "basename": "Dashboard",

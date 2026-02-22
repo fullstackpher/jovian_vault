@@ -10429,7 +10429,7 @@
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -10451,6 +10451,9 @@
         },
         {
           "timestampMillis": 1771760089586
+        },
+        {
+          "timestampMillis": 1771760127349
         }
       ]
     },
@@ -11222,7 +11225,7 @@
     {
       "path": "Templates/文献笔记模板.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771759943243
@@ -11232,6 +11235,22 @@
         },
         {
           "timestampMillis": 1771759983625
+        },
+        {
+          "timestampMillis": 1771760146604
+        }
+      ]
+    },
+    {
+      "path": "Templates/永久笔记模板.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771760123681
+        },
+        {
+          "timestampMillis": 1771760171278
         }
       ]
     }
