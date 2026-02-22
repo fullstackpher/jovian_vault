@@ -10429,7 +10429,7 @@
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -10445,6 +10445,12 @@
         },
         {
           "timestampMillis": 1771760059888
+        },
+        {
+          "timestampMillis": 1771760074984
+        },
+        {
+          "timestampMillis": 1771760089586
         }
       ]
     },

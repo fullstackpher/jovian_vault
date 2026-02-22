@@ -2061,8 +2061,8 @@
     "1.Projects/02-知识管理/打造第二大脑.md": {
       "fileId": "1770906955787",
       "filePath": "1.Projects/02-知识管理/打造第二大脑.md",
-      "duration": 1008000,
-      "openCount": 10
+      "duration": 1056000,
+      "openCount": 11
     },
     "7.Daily/每日日志/2026-02-13.md": {
       "fileId": "1770957975021",
@@ -2446,6 +2446,12 @@
       "fileId": "1771759948879",
       "filePath": "Templates/文献笔记模板.md",
       "duration": 48000,
+      "openCount": 2
+    },
+    "Templates/日记模板.md": {
+      "fileId": "1771760086882",
+      "filePath": "Templates/日记模板.md",
+      "duration": 6000,
       "openCount": 2
     }
   }

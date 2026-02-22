@@ -7941,15 +7941,15 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/打造第二大脑.md": {
-    "scroll": 207.0947307526709,
+    "scroll": 209.2020243896808,
     "cursor": {
       "from": {
-        "line": 219,
-        "ch": 4
+        "line": 218,
+        "ch": 22
       },
       "to": {
-        "line": 219,
-        "ch": 4
+        "line": 218,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -8641,6 +8641,20 @@
     "expandedKeys": []
   },
   "Templates/文献笔记模板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Templates/日记模板.md": {
     "scroll": 0,
     "cursor": {
       "from": {
