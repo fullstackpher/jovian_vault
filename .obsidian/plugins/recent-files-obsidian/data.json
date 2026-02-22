@@ -2,23 +2,67 @@
   "recentFiles": [
     {
       "basename": "Obsidian让AI来",
-      "path": "0.Inbox/Obsidian让AI来.md"
-    },
-    {
-      "basename": "效率提升",
-      "path": "8.Info/效率提升.md"
-    },
-    {
-      "basename": "知识管理",
-      "path": "8.Info/知识管理.md"
-    },
-    {
-      "basename": "AI工具",
-      "path": "8.Info/AI工具.md"
+      "path": "3.Resources/Obsidian让AI来.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "3.Resources/Article 2026-02-06 13-43-47.md"
+    },
+    {
+      "basename": "QuickAdd配置指南",
+      "path": "8.Info/QuickAdd配置指南.md"
+    },
+    {
+      "basename": "Minimax订阅信息",
+      "path": "8.Info/Minimax订阅信息.md"
+    },
+    {
+      "basename": "Inbox 面板搭建指南",
+      "path": "8.Info/Inbox 面板搭建指南.md"
+    },
+    {
+      "basename": "Dashboard使用指南",
+      "path": "8.Info/Dashboard使用指南.md"
+    },
+    {
+      "basename": "制作obsidian主页",
+      "path": "8.Info/制作obsidian主页.md"
+    },
+    {
+      "basename": "添加快速任务",
+      "path": "8.Info/添加快速任务.md"
+    },
+    {
+      "basename": "示例 3：日常记录",
+      "path": "8.Info/示例 3：日常记录.md"
+    },
+    {
+      "basename": "示例 2：图书追踪",
+      "path": "8.Info/示例 2：图书追踪.md"
+    },
+    {
+      "basename": "示例 1：项目跟踪",
+      "path": "8.Info/示例 1：项目跟踪.md"
+    },
+    {
+      "basename": "0-Inbox",
+      "path": "8.Info/0-Inbox.md"
+    },
+    {
+      "basename": "2026-01-31-参考B站博主的日记模版",
+      "path": "8.Info/2026-01-31-参考B站博主的日记模版.md"
+    },
+    {
+      "basename": "常用服务API",
+      "path": "8.Info/常用服务API.md"
+    },
+    {
+      "basename": "openclaw常用技能",
+      "path": "3.Resources/openclaw常用技能.md"
     },
     {
       "basename": "2026-W08",
@@ -27,10 +71,6 @@
     {
       "basename": "2026-02-22",
       "path": "7.Daily/每日日志/2026-02-22.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/openclaw常用技能.md"
     },
     {
       "basename": "2026-02-21",
@@ -47,10 +87,6 @@
     {
       "basename": "2026-02-18",
       "path": "7.Daily/每日日志/2026-02-18.md"
-    },
-    {
-      "basename": "Minimax订阅信息",
-      "path": "8.Info/Minimax订阅信息.md"
     },
     {
       "basename": "Claudian使用指南-2026-02",
@@ -89,10 +125,6 @@
       "path": "3.Resources/速查手册/Docker命令速查.md"
     },
     {
-      "basename": "随手记",
-      "path": "8.Info/随手记.md"
-    },
-    {
       "basename": "项目看板",
       "path": "1.Projects/项目看板.md"
     },
@@ -109,10 +141,6 @@
       "path": "3.Resources/教程/openclaw操作指南.md"
     },
     {
-      "basename": "0-Inbox",
-      "path": "8.Info/0-Inbox.md"
-    },
-    {
       "basename": "2026-W07",
       "path": "7.Daily/每周复盘/2026-W07.md"
     },
@@ -123,10 +151,6 @@
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
       "path": "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/Article 2026-02-06 13-43-47.md"
     },
     {
       "basename": "PARA 信息组织法 — 如何整理我的数字信息-Pkmer",
@@ -175,30 +199,6 @@
     {
       "basename": "omisearch使用指南",
       "path": "3.Resources/效率工具/omisearch使用指南.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程整体脉络",
-      "path": "3.Resources/教程/Obsidian任务管理教程整体脉络.md"
-    },
-    {
-      "basename": "Obsidian ReadItLater 插件使用教程",
-      "path": "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md"
-    },
-    {
-      "basename": "markdown使用指南-2026-02",
-      "path": "4.Archives/03-资源-2026-02/markdown使用指南-2026-02.md"
-    },
-    {
-      "basename": "IntelliJIDEA使用指南",
-      "path": "3.Resources/开发工具/IntelliJIDEA使用指南.md"
-    },
-    {
-      "basename": "Inbox 面板搭建指南",
-      "path": "8.Info/Inbox 面板搭建指南.md"
-    },
-    {
-      "basename": "Excalidraw插件使用指南",
-      "path": "3.Resources/效率工具/Excalidraw插件使用指南.md"
     }
   ],
   "omittedPaths": [],

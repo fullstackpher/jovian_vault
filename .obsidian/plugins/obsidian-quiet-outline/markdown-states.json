@@ -5824,12 +5824,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 6
+        "line": 12,
+        "ch": 3
       },
       "to": {
-        "line": 9,
-        "ch": 6
+        "line": 12,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -8305,7 +8305,7 @@
     "expandedKeys": []
   },
   "8.Info/随手记.md": {
-    "scroll": 11.15406162464986,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 13,
@@ -8319,7 +8319,7 @@
     "expandedKeys": []
   },
   "3.Resources/openclaw常用技能.md": {
-    "scroll": 27.82725308790739,
+    "scroll": 42.70191570550353,
     "cursor": {
       "from": {
         "line": 103,
@@ -8459,7 +8459,7 @@
     "expandedKeys": []
   },
   "0.Inbox/Obsidian让AI来.md": {
-    "scroll": 0,
+    "scroll": 44.30349131507403,
     "cursor": {
       "from": {
         "line": 19,
@@ -8509,6 +8509,132 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Obsidian让AI来.md": {
+    "scroll": 40.469910508226484,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI工具.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/常用服务API.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/2026-01-31-参考B站博主的日记模版.md": {
+    "scroll": 3.6199095022624435,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/示例 1：项目跟踪.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/示例 2：图书追踪.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/示例 3：日常记录.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/添加快速任务.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/Inbox 面板搭建指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
         "ch": 0
       }
     },
