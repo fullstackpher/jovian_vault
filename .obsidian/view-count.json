@@ -11508,7 +11508,7 @@
     {
       "path": "0.Inbox/Obsidian让AI来.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771753829271
@@ -11524,6 +11524,9 @@
         },
         {
           "timestampMillis": 1771753901222
+        },
+        {
+          "timestampMillis": 1771753954762
         }
       ]
     },

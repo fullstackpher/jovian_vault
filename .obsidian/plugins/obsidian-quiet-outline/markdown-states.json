@@ -8459,15 +8459,15 @@
     "expandedKeys": []
   },
   "0.Inbox/Obsidian让AI来.md": {
-    "scroll": 49.04531737712991,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 64,
-        "ch": 2
+        "line": 19,
+        "ch": 22
       },
       "to": {
-        "line": 64,
-        "ch": 2
+        "line": 19,
+        "ch": 22
       }
     },
     "expandedKeys": []
