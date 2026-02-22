@@ -1,7 +1,7 @@
 ---
 title: List Callout 使用指南
 创建时间: 2026-01-31T15:50
-更新时间: 2026-02-06T20:31
+更新时间: 2026-02-23T03:12
 tags:
   - obsidian/plugin
 description: List Callout 插件使用说明，通过特殊符号快速创建带样式的列表项
