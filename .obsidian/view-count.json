@@ -761,7 +761,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 35,
-      "totalTimesOpened": 568,
+      "totalTimesOpened": 569,
       "openLogs": [
         {
           "timestampMillis": 1769054986448
@@ -2235,6 +2235,9 @@
         },
         {
           "timestampMillis": 1771764710007
+        },
+        {
+          "timestampMillis": 1771773480967
         }
       ]
     },
@@ -10456,7 +10459,7 @@
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -10481,6 +10484,9 @@
         },
         {
           "timestampMillis": 1771760127349
+        },
+        {
+          "timestampMillis": 1771773501455
         }
       ]
     },
