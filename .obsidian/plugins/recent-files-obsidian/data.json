@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "永久笔记模板",
-      "path": "Templates/永久笔记模板.md"
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "文献笔记模板",
       "path": "Templates/文献笔记模板.md"
+    },
+    {
+      "basename": "永久笔记模板",
+      "path": "Templates/永久笔记模板.md"
     },
     {
       "basename": "打造第二大脑",
@@ -15,10 +19,6 @@
     {
       "basename": "项目模版",
       "path": "Templates/项目模版.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "学习Obsidian",

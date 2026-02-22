@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 24360000,
-      "openCount": 402
+      "duration": 24438000,
+      "openCount": 403
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -2445,8 +2445,8 @@
     "Templates/文献笔记模板.md": {
       "fileId": "1771759948879",
       "filePath": "Templates/文献笔记模板.md",
-      "duration": 78000,
-      "openCount": 3
+      "duration": 102000,
+      "openCount": 5
     },
     "Templates/日记模板.md": {
       "fileId": "1771760086882",
@@ -2457,8 +2457,8 @@
     "Templates/永久笔记模板.md": {
       "fileId": "1771760127278",
       "filePath": "Templates/永久笔记模板.md",
-      "duration": 48000,
-      "openCount": 1
+      "duration": 72000,
+      "openCount": 2
     }
   }
 }
