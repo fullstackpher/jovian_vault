@@ -5,16 +5,20 @@
       "path": "7.Daily/每日日志/2026-02-23.md"
     },
     {
+      "basename": "2026-02-22",
+      "path": "7.Daily/每日日志/2026-02-22.md"
+    },
+    {
+      "basename": "2026-01",
+      "path": "7.Daily/月度复盘/2026-01.md"
+    },
+    {
       "basename": "README",
       "path": "7.Daily/README.md"
     },
     {
       "basename": "README",
       "path": "5.Zattchments/README.md"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "7.Daily/每日日志/2026-02-22.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "文献笔记模板",
       "path": "Templates/文献笔记模板.md"
-    },
-    {
-      "basename": "永久笔记模板",
-      "path": "Templates/永久笔记模板.md"
     }
   ],
   "omittedPaths": [],
