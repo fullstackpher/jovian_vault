@@ -2397,7 +2397,13 @@
     "7.Daily/每日日志/2026-02-22.md": {
       "fileId": "1771742320965",
       "filePath": "7.Daily/每日日志/2026-02-22.md",
-      "duration": 258000,
+      "duration": 342000,
+      "openCount": 2
+    },
+    "7.Daily/每周复盘/2026-W08.md": {
+      "fileId": "1771753474911",
+      "filePath": "7.Daily/每周复盘/2026-W08.md",
+      "duration": 12000,
       "openCount": 1
     }
   }
