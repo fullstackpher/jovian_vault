@@ -11281,10 +11281,49 @@
     {
       "path": "3.Resources/思考致富.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
+        },
+        {
+          "timestampMillis": 1771765068500
+        },
+        {
+          "timestampMillis": 1771765073969
+        },
+        {
+          "timestampMillis": 1771765090396
+        }
+      ]
+    },
+    {
+      "path": "8.Info/认知提升.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771765065988
+        }
+      ]
+    },
+    {
+      "path": "8.Info/财富思维.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771765072007
+        }
+      ]
+    },
+    {
+      "path": "8.Info/必读经典.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771765075453
         }
       ]
     }

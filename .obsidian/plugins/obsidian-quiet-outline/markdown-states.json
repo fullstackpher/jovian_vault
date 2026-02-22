@@ -8683,15 +8683,57 @@
     "expandedKeys": []
   },
   "3.Resources/思考致富.md": {
+    "scroll": 11.764705882352942,
+    "cursor": {
+      "from": {
+        "line": 105,
+        "ch": 15
+      },
+      "to": {
+        "line": 105,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/认知提升.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 21
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 17,
-        "ch": 21
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/财富思维.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/必读经典.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

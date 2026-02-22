@@ -2463,8 +2463,26 @@
     "3.Resources/思考致富.md": {
       "fileId": "1771765048224",
       "filePath": "3.Resources/思考致富.md",
-      "duration": 12000,
-      "openCount": 1
+      "duration": 78000,
+      "openCount": 4
+    },
+    "8.Info/认知提升.md": {
+      "fileId": "1771765066221",
+      "filePath": "8.Info/认知提升.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "8.Info/财富思维.md": {
+      "fileId": "1771765072223",
+      "filePath": "8.Info/财富思维.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "8.Info/必读经典.md": {
+      "fileId": "1771765078222",
+      "filePath": "8.Info/必读经典.md",
+      "duration": 18000,
+      "openCount": 2
     }
   }
 }

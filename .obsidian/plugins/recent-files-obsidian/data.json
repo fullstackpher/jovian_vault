@@ -5,6 +5,18 @@
       "path": "3.Resources/思考致富.md"
     },
     {
+      "basename": "必读经典",
+      "path": "8.Info/必读经典.md"
+    },
+    {
+      "basename": "财富思维",
+      "path": "8.Info/财富思维.md"
+    },
+    {
+      "basename": "认知提升",
+      "path": "8.Info/认知提升.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
       "path": "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
-    },
-    {
-      "basename": "PARA 信息组织法 — 如何整理我的数字信息-Pkmer",
-      "path": "3.Resources/最佳实践/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md"
-    },
-    {
-      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
-      "path": "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa",
-      "path": "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
     }
   ],
   "omittedPaths": [],
