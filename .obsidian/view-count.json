@@ -9724,7 +9724,7 @@
     {
       "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -9773,6 +9773,9 @@
         },
         {
           "timestampMillis": 1771765588367
+        },
+        {
+          "timestampMillis": 1771766290476
         }
       ]
     },
@@ -11242,7 +11245,7 @@
     {
       "path": "3.Resources/链接收藏/Obsidian让AI来.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771754125973
@@ -11255,6 +11258,9 @@
         },
         {
           "timestampMillis": 1771765572898
+        },
+        {
+          "timestampMillis": 1771766296343
         }
       ]
     },
@@ -11305,7 +11311,7 @@
     {
       "path": "3.Resources/链接收藏/思考致富.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
@@ -11324,6 +11330,12 @@
         },
         {
           "timestampMillis": 1771765429053
+        },
+        {
+          "timestampMillis": 1771766255149
+        },
+        {
+          "timestampMillis": 1771766275798
         }
       ]
     },
@@ -11340,10 +11352,13 @@
     {
       "path": "8.Info/财富思维.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771765072007
+        },
+        {
+          "timestampMillis": 1771766222054
         }
       ]
     },
@@ -11360,7 +11375,7 @@
     {
       "path": "3.Resources/效率工具/两周内学会任何东西.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771765253829
@@ -11370,19 +11385,47 @@
         },
         {
           "timestampMillis": 1771765612559
+        },
+        {
+          "timestampMillis": 1771766331702
         }
       ]
     },
     {
       "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771765602786
         },
         {
           "timestampMillis": 1771765605961
+        },
+        {
+          "timestampMillis": 1771766340037
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/土豆变黄金.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1771766194282
+        },
+        {
+          "timestampMillis": 1771766229478
+        },
+        {
+          "timestampMillis": 1771766271517
+        },
+        {
+          "timestampMillis": 1771766277763
+        },
+        {
+          "timestampMillis": 1771766294895
         }
       ]
     }
