@@ -5751,7 +5751,7 @@
     "expandedKeys": []
   },
   "3.Resources/README.md": {
-    "scroll": 75.34599304199219,
+    "scroll": 12.561683355593214,
     "cursor": {
       "from": {
         "line": 8,
@@ -8683,15 +8683,15 @@
     "expandedKeys": []
   },
   "3.Resources/思考致富.md": {
-    "scroll": 11.764705882352942,
+    "scroll": 7.8431372549019605,
     "cursor": {
       "from": {
-        "line": 105,
-        "ch": 15
+        "line": 16,
+        "ch": 0
       },
       "to": {
-        "line": 105,
-        "ch": 15
+        "line": 16,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8733,6 +8733,48 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/两周内学会任何东西.md": {
+    "scroll": 43.98365813610601,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/个人管理-目标指标项目任务关系.md": {
+    "scroll": 71.36437816245883,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/openclaw常用技能.md": {
+    "scroll": 12.594771142099418,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 0
+      },
+      "to": {
+        "line": 30,
         "ch": 0
       }
     },

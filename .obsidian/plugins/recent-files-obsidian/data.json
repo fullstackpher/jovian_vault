@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "3.Resources/README.md"
+    },
+    {
       "basename": "思考致富",
       "path": "3.Resources/思考致富.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "3.Resources/Article 2026-02-06 13-43-47.md"
+    },
+    {
+      "basename": "两周内学会任何东西",
+      "path": "3.Resources/效率工具/两周内学会任何东西.md"
+    },
+    {
+      "basename": "openclaw常用技能",
+      "path": "3.Resources/速查手册/openclaw常用技能.md"
+    },
+    {
+      "basename": "个人管理-目标指标项目任务关系 1",
+      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md"
     },
     {
       "basename": "必读经典",
@@ -73,10 +93,6 @@
       "path": "3.Resources/Obsidian让AI来.md"
     },
     {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/Article 2026-02-06 13-43-47.md"
-    },
-    {
       "basename": "QuickAdd配置指南",
       "path": "8.Info/QuickAdd配置指南.md"
     },
@@ -123,10 +139,6 @@
     {
       "basename": "常用服务API",
       "path": "8.Info/常用服务API.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/openclaw常用技能.md"
     },
     {
       "basename": "2026-02-21",
@@ -187,18 +199,6 @@
     {
       "basename": "openclaw配置飞书",
       "path": "3.Resources/教程/openclaw配置飞书.md"
-    },
-    {
-      "basename": "openclaw操作指南",
-      "path": "3.Resources/教程/openclaw操作指南.md"
-    },
-    {
-      "basename": "第二大脑系统设计方案",
-      "path": "3.Resources/最佳实践/第二大脑系统设计方案.md"
-    },
-    {
-      "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客",
-      "path": "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md"
     }
   ],
   "omittedPaths": [],

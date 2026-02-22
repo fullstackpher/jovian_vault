@@ -6236,8 +6236,8 @@
     },
     {
       "path": "3.Resources/README.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 15,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
@@ -6283,6 +6283,9 @@
         },
         {
           "timestampMillis": 1771153584046
+        },
+        {
+          "timestampMillis": 1771765440559
         }
       ]
     },
@@ -9718,7 +9721,7 @@
     {
       "path": "3.Resources/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -9761,6 +9764,9 @@
         },
         {
           "timestampMillis": 1771754264210
+        },
+        {
+          "timestampMillis": 1771765407545
         }
       ]
     },
@@ -10902,9 +10908,9 @@
       ]
     },
     {
-      "path": "3.Resources/openclaw常用技能.md",
+      "path": "3.Resources/速查手册/openclaw常用技能.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1771374983042
@@ -10947,6 +10953,12 @@
         },
         {
           "timestampMillis": 1771754155505
+        },
+        {
+          "timestampMillis": 1771765348807
+        },
+        {
+          "timestampMillis": 1771765361858
         }
       ]
     },
@@ -11281,7 +11293,7 @@
     {
       "path": "3.Resources/思考致富.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
@@ -11294,6 +11306,12 @@
         },
         {
           "timestampMillis": 1771765090396
+        },
+        {
+          "timestampMillis": 1771765422229
+        },
+        {
+          "timestampMillis": 1771765429053
         }
       ]
     },
@@ -11324,6 +11342,29 @@
       "openLogs": [
         {
           "timestampMillis": 1771765075453
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/两周内学会任何东西.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771765253829
+        },
+        {
+          "timestampMillis": 1771765400393
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771765331088
         }
       ]
     }

@@ -1455,7 +1455,7 @@
     "3.Resources/README.md": {
       "fileId": "1770188345908",
       "filePath": "3.Resources/README.md",
-      "duration": 270000,
+      "duration": 294000,
       "openCount": 6
     },
     "5.Zattchments/README.md": {
@@ -2259,8 +2259,8 @@
     "3.Resources/Article 2026-02-06 13-43-47.md": {
       "fileId": "1770356644295",
       "filePath": "3.Resources/Article 2026-02-06 13-43-47.md",
-      "duration": 156000,
-      "openCount": 14
+      "duration": 168000,
+      "openCount": 15
     },
     "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
       "fileId": "1770809855510",
@@ -2351,12 +2351,6 @@
       "filePath": "3.Resources/教程/openclaw配置飞书.md",
       "duration": 30000,
       "openCount": 2
-    },
-    "3.Resources/openclaw常用技能.md": {
-      "fileId": "1771374987473",
-      "filePath": "3.Resources/openclaw常用技能.md",
-      "duration": 3132000,
-      "openCount": 8
     },
     "7.Daily/每日日志/2026-02-18.md": {
       "fileId": "1771378707256",
@@ -2463,8 +2457,8 @@
     "3.Resources/思考致富.md": {
       "fileId": "1771765048224",
       "filePath": "3.Resources/思考致富.md",
-      "duration": 78000,
-      "openCount": 4
+      "duration": 144000,
+      "openCount": 6
     },
     "8.Info/认知提升.md": {
       "fileId": "1771765066221",
@@ -2483,6 +2477,24 @@
       "filePath": "8.Info/必读经典.md",
       "duration": 18000,
       "openCount": 2
+    },
+    "3.Resources/速查手册/openclaw常用技能.md": {
+      "fileId": "1771374987473",
+      "filePath": "3.Resources/速查手册/openclaw常用技能.md",
+      "duration": 3180000,
+      "openCount": 9
+    },
+    "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md": {
+      "fileId": "1771765336223",
+      "filePath": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "3.Resources/效率工具/两周内学会任何东西.md": {
+      "fileId": "1771765258223",
+      "filePath": "3.Resources/效率工具/两周内学会任何东西.md",
+      "duration": 84000,
+      "openCount": 3
     }
   }
 }
