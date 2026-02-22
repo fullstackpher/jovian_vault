@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "2026-02-16",
+      "path": "7.Daily/每日日志/2026-02-16.md"
+    },
+    {
       "basename": "2026-W08",
       "path": "7.Daily/每周复盘/2026-W08.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Obsidian让AI来",
       "path": "3.Resources/Obsidian让AI来.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "Article 2026-02-06 13-43-47",
@@ -103,10 +115,6 @@
     {
       "basename": "2026-02-17",
       "path": "7.Daily/每日日志/2026-02-17.md"
-    },
-    {
-      "basename": "2026-02-16",
-      "path": "7.Daily/每日日志/2026-02-16.md"
     },
     {
       "basename": "2026-02-15",
@@ -191,14 +199,6 @@
     {
       "basename": "SublimeText使用指南",
       "path": "3.Resources/开发工具/SublimeText使用指南.md"
-    },
-    {
-      "basename": "QuickAdd使用指南",
-      "path": "3.Resources/效率工具/QuickAdd使用指南.md"
-    },
-    {
-      "basename": "Pycharm使用指南",
-      "path": "3.Resources/开发工具/Pycharm使用指南.md"
     }
   ],
   "omittedPaths": [],
