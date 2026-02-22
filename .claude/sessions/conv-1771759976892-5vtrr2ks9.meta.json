@@ -3,6 +3,18 @@
   "title": "Design universal literature note template",
   "titleGenerationStatus": "success",
   "createdAt": 1771759976892,
-  "updatedAt": 1771759981275,
-  "sessionId": null
+  "updatedAt": 1771760012374,
+  "lastResponseAt": 1771760012374,
+  "sessionId": "63d129c3-8995-48a7-bc0e-4605c07b1d92",
+  "sdkSessionId": "63d129c3-8995-48a7-bc0e-4605c07b1d92",
+  "currentNote": "Templates/文献笔记模板.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 117,
+    "cacheCreationInputTokens": 835,
+    "cacheReadInputTokens": 14745,
+    "contextWindow": 200000,
+    "contextTokens": 15697,
+    "percentage": 8
+  }
 }

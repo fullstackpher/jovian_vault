@@ -5,6 +5,10 @@
       "path": "1.Projects/02-知识管理/打造第二大脑.md"
     },
     {
+      "basename": "项目模版",
+      "path": "Templates/项目模版.md"
+    },
+    {
       "basename": "文献笔记模板",
       "path": "Templates/文献笔记模板.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili",
       "path": "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md"
-    },
-    {
-      "basename": "WebStorm使用指南",
-      "path": "3.Resources/开发工具/WebStorm使用指南.md"
     }
   ],
   "omittedPaths": [],
