@@ -11410,7 +11410,7 @@
     {
       "path": "3.Resources/链接收藏/土豆变黄金.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771766194282
@@ -11426,6 +11426,9 @@
         },
         {
           "timestampMillis": 1771766294895
+        },
+        {
+          "timestampMillis": 1771766461780
         }
       ]
     }
