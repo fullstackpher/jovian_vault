@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "思考致富",
+      "path": "3.Resources/思考致富.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa",
       "path": "5.Zattchments/图片/assets/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客-BH8QmbgzOa.png"
-    },
-    {
-      "basename": "Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili",
-      "path": "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
     }
   ],
   "omittedPaths": [],
