@@ -14,7 +14,7 @@ source: 小红书
 author: 职场懒人姐
 url: https://www.xiaohongshu.com/discovery/item/69845877000000001a024ec9
 创建时间: 2026-02-22T17:49
-更新时间: 2026-02-22T17:54
+更新时间: 2026-02-22T17:58
 paracategory: Resources
 ---
 
@@ -65,9 +65,6 @@ AI 时代，手动整理就是在浪费生命。
 
 ## 相关笔记
 
-- [[AI工具]]
-- [[知识管理]]
-- [[效率提升]]
 - [[Claudian使用指南-2026-02]]
 
 ## 参考来源
