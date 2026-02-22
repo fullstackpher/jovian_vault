@@ -814,33 +814,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 34,
-      "totalTimesOpened": 558,
+      "uniqueDaysOpened": 35,
+      "totalTimesOpened": 559,
       "openLogs": [
-        {
-          "timestampMillis": 1768970642084
-        },
-        {
-          "timestampMillis": 1768970643502
-        },
-        {
-          "timestampMillis": 1768971586973
-        },
-        {
-          "timestampMillis": 1768972776422
-        },
-        {
-          "timestampMillis": 1768972780058
-        },
-        {
-          "timestampMillis": 1768990010729
-        },
-        {
-          "timestampMillis": 1768998811868
-        },
-        {
-          "timestampMillis": 1768998813556
-        },
         {
           "timestampMillis": 1769054986448
         },
@@ -2283,6 +2259,9 @@
         },
         {
           "timestampMillis": 1771663233441
+        },
+        {
+          "timestampMillis": 1771753815795
         }
       ]
     },
@@ -11516,10 +11495,65 @@
     {
       "path": "7.Daily/每周复盘/2026-W08.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771753472622
+        },
+        {
+          "timestampMillis": 1771753799345
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/Obsidian让AI来.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1771753829271
+        },
+        {
+          "timestampMillis": 1771753865321
+        },
+        {
+          "timestampMillis": 1771753894011
+        },
+        {
+          "timestampMillis": 1771753897914
+        },
+        {
+          "timestampMillis": 1771753901222
+        }
+      ]
+    },
+    {
+      "path": "8.Info/AI工具.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771753882894
+        }
+      ]
+    },
+    {
+      "path": "8.Info/知识管理.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771753895660
+        }
+      ]
+    },
+    {
+      "path": "8.Info/效率提升.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771753899268
         }
       ]
     }

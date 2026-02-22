@@ -8431,7 +8431,7 @@
     "expandedKeys": []
   },
   "7.Daily/每周复盘/2026-W08.md": {
-    "scroll": 0,
+    "scroll": 13.115155921917628,
     "cursor": {
       "from": {
         "line": 7,
@@ -8440,6 +8440,76 @@
       "to": {
         "line": 7,
         "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Inbox/Obsidian让AI来.md": {
+    "scroll": 57.692401063208486,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Obsidian让AI来.md": {
+    "scroll": 49.04531737712991,
+    "cursor": {
+      "from": {
+        "line": 64,
+        "ch": 2
+      },
+      "to": {
+        "line": 64,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/AI工具.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 22
+      },
+      "to": {
+        "line": 12,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/知识管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/效率提升.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

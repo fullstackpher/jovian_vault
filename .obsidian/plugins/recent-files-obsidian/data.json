@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian让AI来",
+      "path": "0.Inbox/Obsidian让AI来.md"
+    },
+    {
+      "basename": "效率提升",
+      "path": "8.Info/效率提升.md"
+    },
+    {
+      "basename": "知识管理",
+      "path": "8.Info/知识管理.md"
+    },
+    {
+      "basename": "AI工具",
+      "path": "8.Info/AI工具.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-W08",
       "path": "7.Daily/每周复盘/2026-W08.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "Claudian使用指南-2026-02",
       "path": "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-02-17",
@@ -183,22 +199,6 @@
     {
       "basename": "Excalidraw插件使用指南",
       "path": "3.Resources/效率工具/Excalidraw插件使用指南.md"
-    },
-    {
-      "basename": "README",
-      "path": "3.Resources/README.md"
-    },
-    {
-      "basename": "专注个人提升的obsidian标签体系",
-      "path": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md"
-    },
-    {
-      "basename": "项目开发记录",
-      "path": "Templates/项目开发记录.md"
-    },
-    {
-      "basename": "模板-视频收藏",
-      "path": "Templates/模板-视频收藏.md"
     }
   ],
   "omittedPaths": [],
