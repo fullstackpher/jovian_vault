@@ -64,8 +64,12 @@ module.exports = async (params) => {
 
     // ===== 4. 追加到今日日记的 Thoughts 标题下 =====
     // 获取今日日期，构造日记路径
+    // 注意：必须使用本地日期，不能用 toISOString()（它返回 UTC 时间）
     const today = new Date();
-    const dateStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
+    const year = today.getFullYear();
+    const month = String(today.getMonth() + 1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    const dateStr = `${year}-${month}-${day}`; // YYYY-MM-DD 本地日期
     const diaryPath = `7.Daily/每日日志/${dateStr}.md`;
 
     try {

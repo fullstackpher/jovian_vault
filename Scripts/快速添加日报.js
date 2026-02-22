@@ -26,7 +26,7 @@ module.exports = async (params) => {
 
     // 6. 生成文件名
     const fileName = `${today} 学习日报.md`;
-    const filePath = `7.Daily 日周记/${fileName}`;
+    const filePath = `7.Daily/${fileName}`;
 
     // 7. 构建内容
     const content = `---
@@ -72,11 +72,11 @@ ${tomorrow ? tomorrow.split(',').map(item => `- ${item.trim()}`).join('\n') : '-
 `;
 
     // 8. 创建文件
-    await app.vault.createFolder(`7.Daily 日周记`);
+    await app.vault.createFolder(`7.Daily`);
     await app.vault.create(filePath, content);
 
     // 9. 打开新创建的文件
-    await app.workspace.openLinkText(fileName, `7.Daily 日周记`);
+    await app.workspace.openLinkText(fileName, `7.Daily`);
 
     new Notice(`✅ 日报已创建：${fileName}`);
 };

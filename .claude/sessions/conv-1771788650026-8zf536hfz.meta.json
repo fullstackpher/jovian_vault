@@ -1,8 +1,20 @@
 {
   "id": "conv-1771788650026-8zf536hfz",
-  "title": "刚才测试了一下智能闪念脚本，发现闪念内容没有加到当天日记中，而是加到了昨天的日记里，这明显是不对的",
-  "titleGenerationStatus": "pending",
+  "title": "修复闪念脚本日期错误写入昨天日记",
+  "titleGenerationStatus": "success",
   "createdAt": 1771788650026,
-  "updatedAt": 1771788650034,
-  "sessionId": null
+  "updatedAt": 1771788694103,
+  "lastResponseAt": 1771788694103,
+  "sessionId": "3293c65d-ca1e-44fe-98c2-3cd543c42414",
+  "sdkSessionId": "3293c65d-ca1e-44fe-98c2-3cd543c42414",
+  "currentNote": "7.Daily/每日日志/2026-02-23.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 417,
+    "cacheCreationInputTokens": 928,
+    "cacheReadInputTokens": 15989,
+    "contextWindow": 200000,
+    "contextTokens": 17334,
+    "percentage": 9
+  }
 }
