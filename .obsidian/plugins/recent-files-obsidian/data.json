@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "局部截取_20260218_094508",
+      "path": "5.Zattchments/图片/截图/局部截取_20260218_094508.png"
+    },
+    {
+      "basename": "局部截取_20260213_125355",
+      "path": "5.Zattchments/图片/截图/局部截取_20260213_125355.png"
+    },
+    {
+      "basename": "局部截取_20260209_184051",
+      "path": "5.Zattchments/图片/截图/局部截取_20260209_184051.png"
+    },
+    {
+      "basename": "局部截取_20260209_212117",
+      "path": "5.Zattchments/图片/截图/局部截取_20260209_212117.png"
+    },
+    {
+      "basename": "2026-02-02-屏幕截图",
+      "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
+    },
+    {
+      "basename": "ClawX.exe_20260222_211421",
+      "path": "5.Zattchments/图片/截图/ClawX.exe_20260222_211421.png"
+    },
+    {
+      "basename": "ClawX.exe_20260222_213721",
+      "path": "5.Zattchments/图片/截图/ClawX.exe_20260222_213721.png"
+    },
+    {
+      "basename": "ClawX.exe_20260222_235706",
+      "path": "5.Zattchments/图片/截图/ClawX.exe_20260222_235706.png"
+    },
+    {
+      "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
+      "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
       "basename": "2026-02-23",
       "path": "7.Daily/每日日志/2026-02-23.md"
     },
@@ -19,10 +63,6 @@
     {
       "basename": "README",
       "path": "5.Zattchments/README.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "待处理区",
@@ -117,10 +157,6 @@
       "path": "1.Projects/02-知识管理/打造第二大脑.md"
     },
     {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
-    },
-    {
       "basename": "学习Obsidian",
       "path": "1.Projects/02-知识管理/学习Obsidian.md"
     },
@@ -135,10 +171,6 @@
     {
       "basename": "学习JavaEE",
       "path": "1.Projects/01-学习Java/学习JavaEE.md"
-    },
-    {
-      "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
-      "path": "3.Resources/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
     },
     {
       "basename": "PARA方法",
@@ -167,38 +199,6 @@
     {
       "basename": "Article 2026-02-06 13-43-47",
       "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "思考致富",
-      "path": "3.Resources/链接收藏/思考致富.md"
-    },
-    {
-      "basename": "财富思维",
-      "path": "8.Info/财富思维.md"
-    },
-    {
-      "basename": "Minimax订阅信息",
-      "path": "8.Info/Minimax订阅信息.md"
-    },
-    {
-      "basename": "README",
-      "path": "3.Resources/README.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/速查手册/openclaw常用技能.md"
-    },
-    {
-      "basename": "必读经典",
-      "path": "8.Info/必读经典.md"
-    },
-    {
-      "basename": "认知提升",
-      "path": "8.Info/认知提升.md"
-    },
-    {
-      "basename": "文献笔记模板",
-      "path": "Templates/文献笔记模板.md"
     }
   ],
   "omittedPaths": [],

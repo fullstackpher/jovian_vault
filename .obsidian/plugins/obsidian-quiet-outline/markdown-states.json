@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 96.30718904383042,
     "cursor": {
       "from": {
         "line": 156,
@@ -8935,7 +8935,7 @@
     "expandedKeys": []
   },
   "3.Resources/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
-    "scroll": 501.7068720370543,
+    "scroll": 501.7692910774813,
     "cursor": {
       "from": {
         "line": 22,
@@ -8949,15 +8949,29 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-23.md": {
-    "scroll": 39.257881575037686,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 0
+        "line": 19,
+        "ch": 12
       },
       "to": {
-        "line": 29,
-        "ch": 0
+        "line": 19,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
+    "scroll": 501.7692910774813,
+    "cursor": {
+      "from": {
+        "line": 509,
+        "ch": 40
+      },
+      "to": {
+        "line": 509,
+        "ch": 40
       }
     },
     "expandedKeys": []
