@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 121.99692330468635,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 156,
@@ -5779,7 +5779,7 @@
     "expandedKeys": []
   },
   "5.Zattchments/README.md": {
-    "scroll": 0,
+    "scroll": 6.136846355363434,
     "cursor": {
       "from": {
         "line": 4,
@@ -5793,7 +5793,7 @@
     "expandedKeys": []
   },
   "7.Daily/README.md": {
-    "scroll": 76.14075630252101,
+    "scroll": 224.24962076356064,
     "cursor": {
       "from": {
         "line": 73,
@@ -8417,15 +8417,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-22.md": {
-    "scroll": 93.05857355954433,
+    "scroll": 34.89671741832387,
     "cursor": {
       "from": {
-        "line": 98,
-        "ch": 0
+        "line": 30,
+        "ch": 14
       },
       "to": {
-        "line": 98,
-        "ch": 0
+        "line": 30,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -8944,6 +8944,20 @@
       "to": {
         "line": 22,
         "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-23.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []

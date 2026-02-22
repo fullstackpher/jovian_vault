@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-23",
+      "path": "7.Daily/每日日志/2026-02-23.md"
+    },
+    {
+      "basename": "README",
+      "path": "7.Daily/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "5.Zattchments/README.md"
+    },
+    {
+      "basename": "2026-02-22",
+      "path": "7.Daily/每日日志/2026-02-22.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "库全览-v2",
       "path": "Dashboards/库全览-v2.canvas"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "7.Daily/每日日志/2026-02-22.md"
     },
     {
       "basename": "obsidian双链",
@@ -187,10 +199,6 @@
     {
       "basename": "永久笔记模板",
       "path": "Templates/永久笔记模板.md"
-    },
-    {
-      "basename": "项目模版",
-      "path": "Templates/项目模版.md"
     }
   ],
   "omittedPaths": [],
