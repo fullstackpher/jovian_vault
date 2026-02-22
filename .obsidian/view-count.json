@@ -10036,8 +10036,8 @@
     },
     {
       "path": "7.Daily/每周复盘/2026-w06.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1770548863791
@@ -10047,6 +10047,9 @@
         },
         {
           "timestampMillis": 1770624685061
+        },
+        {
+          "timestampMillis": 1771759627804
         }
       ]
     },
@@ -10668,8 +10671,8 @@
     },
     {
       "path": "7.Daily/每周复盘/2026-W07.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1771115712072
@@ -10694,6 +10697,15 @@
         },
         {
           "timestampMillis": 1771204836606
+        },
+        {
+          "timestampMillis": 1771759521195
+        },
+        {
+          "timestampMillis": 1771759566833
+        },
+        {
+          "timestampMillis": 1771759613607
         }
       ]
     },
@@ -11180,23 +11192,38 @@
     {
       "path": "7.Daily/每日日志/2026-02-22.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771742319847
+        },
+        {
+          "timestampMillis": 1771759471493
         }
       ]
     },
     {
       "path": "7.Daily/每周复盘/2026-W08.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771753472622
         },
         {
           "timestampMillis": 1771753799345
+        },
+        {
+          "timestampMillis": 1771759474257
+        },
+        {
+          "timestampMillis": 1771759535000
+        },
+        {
+          "timestampMillis": 1771759577923
+        },
+        {
+          "timestampMillis": 1771759647566
         }
       ]
     },

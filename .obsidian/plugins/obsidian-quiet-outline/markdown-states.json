@@ -7608,12 +7608,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 10
+        "line": 19,
+        "ch": 17
       },
       "to": {
-        "line": 11,
-        "ch": 10
+        "line": 19,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -7622,12 +7622,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 0
+        "line": 9,
+        "ch": 26
       },
       "to": {
-        "line": 6,
-        "ch": 0
+        "line": 9,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -8431,15 +8431,15 @@
     "expandedKeys": []
   },
   "7.Daily/每周复盘/2026-W08.md": {
-    "scroll": 13.115155921917628,
+    "scroll": 32.89581836765095,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 2
+        "line": 31,
+        "ch": 0
       },
       "to": {
-        "line": 7,
-        "ch": 2
+        "line": 31,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8515,7 +8515,7 @@
     "expandedKeys": []
   },
   "3.Resources/Obsidian让AI来.md": {
-    "scroll": 61.47712483125574,
+    "scroll": 51.531204312909004,
     "cursor": {
       "from": {
         "line": 41,

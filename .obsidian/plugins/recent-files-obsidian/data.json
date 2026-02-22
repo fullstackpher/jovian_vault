@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-W08",
+      "path": "7.Daily/每周复盘/2026-W08.md"
+    },
+    {
+      "basename": "2026-w06",
+      "path": "7.Daily/每周复盘/2026-w06.md"
+    },
+    {
+      "basename": "2026-W07",
+      "path": "7.Daily/每周复盘/2026-W07.md"
+    },
+    {
+      "basename": "2026-02-22",
+      "path": "7.Daily/每日日志/2026-02-22.md"
+    },
+    {
       "basename": "Obsidian让AI来",
       "path": "3.Resources/Obsidian让AI来.md"
     },
@@ -63,14 +79,6 @@
     {
       "basename": "openclaw常用技能",
       "path": "3.Resources/openclaw常用技能.md"
-    },
-    {
-      "basename": "2026-W08",
-      "path": "7.Daily/每周复盘/2026-W08.md"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "7.Daily/每日日志/2026-02-22.md"
     },
     {
       "basename": "2026-02-21",
@@ -141,10 +149,6 @@
       "path": "3.Resources/教程/openclaw操作指南.md"
     },
     {
-      "basename": "2026-W07",
-      "path": "7.Daily/每周复盘/2026-W07.md"
-    },
-    {
       "basename": "第二大脑系统设计方案",
       "path": "3.Resources/最佳实践/第二大脑系统设计方案.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pycharm使用指南",
       "path": "3.Resources/开发工具/Pycharm使用指南.md"
-    },
-    {
-      "basename": "omisearch使用指南",
-      "path": "3.Resources/效率工具/omisearch使用指南.md"
     }
   ],
   "omittedPaths": [],
