@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
@@ -39,5 +38,6 @@
   "nutstore-sync",
   "obsidian-memos",
   "claudian",
-  "obsidian-to-notion"
+  "obsidian-to-notion",
+  "obsidian-git"
 ]
