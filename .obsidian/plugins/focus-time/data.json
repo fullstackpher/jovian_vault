@@ -1455,8 +1455,8 @@
     "3.Resources/README.md": {
       "fileId": "1770188345908",
       "filePath": "3.Resources/README.md",
-      "duration": 294000,
-      "openCount": 6
+      "duration": 402000,
+      "openCount": 7
     },
     "5.Zattchments/README.md": {
       "fileId": "1770188357912",
@@ -2112,36 +2112,6 @@
       "duration": 330000,
       "openCount": 6
     },
-    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
-      "fileId": "1770097988551",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
-      "duration": 246000,
-      "openCount": 4
-    },
-    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md": {
-      "fileId": "1770098246549",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
-      "duration": 132000,
-      "openCount": 3
-    },
-    "3.Resources/教程/Obsidian任务管理教程/析径任务管理系统介绍.md": {
-      "fileId": "1770098540560",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程/析径任务管理系统介绍.md",
-      "duration": 48000,
-      "openCount": 2
-    },
-    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
-      "fileId": "1770098714549",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
-      "duration": 642000,
-      "openCount": 4
-    },
-    "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
-      "fileId": "1770355594291",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
-      "duration": 132000,
-      "openCount": 6
-    },
     "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": {
       "fileId": "1770354280291",
       "filePath": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md",
@@ -2153,18 +2123,6 @@
       "filePath": "3.Resources/效率工具/Calendar使用指南.md",
       "duration": 360000,
       "openCount": 14
-    },
-    "3.Resources/开发工具/开发工具汇总.md": {
-      "fileId": "1770355484546",
-      "filePath": "3.Resources/开发工具/开发工具汇总.md",
-      "duration": 18000,
-      "openCount": 2
-    },
-    "3.Resources/开发工具/Clion使用指南.md": {
-      "fileId": "1770355540287",
-      "filePath": "3.Resources/开发工具/Clion使用指南.md",
-      "duration": 114000,
-      "openCount": 4
     },
     "3.Resources/效率工具/Editing Toolbar使用指南.md": {
       "fileId": "1769339428267",
@@ -2184,12 +2142,6 @@
       "duration": 444000,
       "openCount": 10
     },
-    "3.Resources/开发工具/IntelliJIDEA使用指南.md": {
-      "fileId": "1771153656047",
-      "filePath": "3.Resources/开发工具/IntelliJIDEA使用指南.md",
-      "duration": 12000,
-      "openCount": 2
-    },
     "4.Archives/03-资源-2026-02/markdown使用指南-2026-02.md": {
       "fileId": "1769929156569",
       "filePath": "4.Archives/03-资源-2026-02/markdown使用指南-2026-02.md",
@@ -2202,47 +2154,17 @@
       "duration": 114000,
       "openCount": 3
     },
-    "3.Resources/教程/Obsidian任务管理教程整体脉络.md": {
-      "fileId": "1770097922551",
-      "filePath": "3.Resources/教程/Obsidian任务管理教程整体脉络.md",
-      "duration": 198000,
-      "openCount": 4
-    },
     "3.Resources/效率工具/omisearch使用指南.md": {
       "fileId": "1770375416454",
       "filePath": "3.Resources/效率工具/omisearch使用指南.md",
       "duration": 480000,
       "openCount": 4
     },
-    "3.Resources/开发工具/Pycharm使用指南.md": {
-      "fileId": "1771153740054",
-      "filePath": "3.Resources/开发工具/Pycharm使用指南.md",
-      "duration": 6000,
-      "openCount": 2
-    },
     "3.Resources/效率工具/QuickAdd使用指南.md": {
       "fileId": "1769341648177",
       "filePath": "3.Resources/效率工具/QuickAdd使用指南.md",
       "duration": 1086000,
       "openCount": 16
-    },
-    "3.Resources/开发工具/SublimeText使用指南.md": {
-      "fileId": "1770355498296",
-      "filePath": "3.Resources/开发工具/SublimeText使用指南.md",
-      "duration": 30000,
-      "openCount": 3
-    },
-    "3.Resources/开发工具/VSCode使用指南.md": {
-      "fileId": "1771153776061",
-      "filePath": "3.Resources/开发工具/VSCode使用指南.md",
-      "duration": 6000,
-      "openCount": 2
-    },
-    "3.Resources/开发工具/WebStorm使用指南.md": {
-      "fileId": "1771153782055",
-      "filePath": "3.Resources/开发工具/WebStorm使用指南.md",
-      "duration": 36000,
-      "openCount": 2
     },
     "3.Resources/最佳实践/从笔记到系统，手把手教你用Obsidian+Claude Code搭建个人知识管理系统 - 苏米客.md": {
       "fileId": "1770355960286",
@@ -2255,18 +2177,6 @@
       "filePath": "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md",
       "duration": 30000,
       "openCount": 3
-    },
-    "3.Resources/Article 2026-02-06 13-43-47.md": {
-      "fileId": "1770356644295",
-      "filePath": "3.Resources/Article 2026-02-06 13-43-47.md",
-      "duration": 168000,
-      "openCount": 15
-    },
-    "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
-      "fileId": "1770809855510",
-      "filePath": "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
-      "duration": 24000,
-      "openCount": 5
     },
     "3.Resources/最佳实践/PARA 信息组织法 — 如何整理我的数字信息-Pkmer.md": {
       "fileId": "1770636939699",
@@ -2310,12 +2220,6 @@
       "duration": 288000,
       "openCount": 10
     },
-    "3.Resources/教程/openclaw操作指南.md": {
-      "fileId": "1771282914207",
-      "filePath": "3.Resources/教程/openclaw操作指南.md",
-      "duration": 1752000,
-      "openCount": 5
-    },
     "0.Inbox/Note 2026-02-17 07-11-08.md": {
       "fileId": "1771283472197",
       "filePath": "0.Inbox/Note 2026-02-17 07-11-08.md",
@@ -2345,12 +2249,6 @@
       "filePath": "8.Info/随手记.md",
       "duration": 504000,
       "openCount": 6
-    },
-    "3.Resources/教程/openclaw配置飞书.md": {
-      "fileId": "1771314444197",
-      "filePath": "3.Resources/教程/openclaw配置飞书.md",
-      "duration": 30000,
-      "openCount": 2
     },
     "7.Daily/每日日志/2026-02-18.md": {
       "fileId": "1771378707256",
@@ -2424,12 +2322,6 @@
       "duration": 6000,
       "openCount": 2
     },
-    "3.Resources/Obsidian让AI来.md": {
-      "fileId": "1771754128918",
-      "filePath": "3.Resources/Obsidian让AI来.md",
-      "duration": 114000,
-      "openCount": 4
-    },
     "AI工具.md": {
       "fileId": "1771754140356",
       "filePath": "AI工具.md",
@@ -2453,12 +2345,6 @@
       "filePath": "Templates/永久笔记模板.md",
       "duration": 72000,
       "openCount": 2
-    },
-    "3.Resources/思考致富.md": {
-      "fileId": "1771765048224",
-      "filePath": "3.Resources/思考致富.md",
-      "duration": 144000,
-      "openCount": 6
     },
     "8.Info/认知提升.md": {
       "fileId": "1771765066221",
@@ -2488,13 +2374,133 @@
       "fileId": "1771765336223",
       "filePath": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md",
       "duration": 18000,
-      "openCount": 2
+      "openCount": 4
     },
     "3.Resources/效率工具/两周内学会任何东西.md": {
       "fileId": "1771765258223",
       "filePath": "3.Resources/效率工具/两周内学会任何东西.md",
-      "duration": 84000,
+      "duration": 90000,
       "openCount": 3
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
+      "fileId": "1770097988551",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
+      "duration": 246000,
+      "openCount": 4
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md": {
+      "fileId": "1770098246549",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
+      "duration": 132000,
+      "openCount": 3
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程/析径任务管理系统介绍.md": {
+      "fileId": "1770098540560",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程/析径任务管理系统介绍.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md": {
+      "fileId": "1770098714549",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
+      "duration": 642000,
+      "openCount": 4
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md": {
+      "fileId": "1770355594291",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
+      "duration": 132000,
+      "openCount": 6
+    },
+    "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md": {
+      "fileId": "1770097922551",
+      "filePath": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
+      "duration": 198000,
+      "openCount": 4
+    },
+    "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
+      "fileId": "1770809855510",
+      "filePath": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
+      "duration": 24000,
+      "openCount": 5
+    },
+    "3.Resources/工具教程/openclaw操作指南.md": {
+      "fileId": "1771282914207",
+      "filePath": "3.Resources/工具教程/openclaw操作指南.md",
+      "duration": 1752000,
+      "openCount": 5
+    },
+    "3.Resources/工具教程/openclaw配置飞书.md": {
+      "fileId": "1771314444197",
+      "filePath": "3.Resources/工具教程/openclaw配置飞书.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/开发工具/开发工具汇总.md": {
+      "fileId": "1770355484546",
+      "filePath": "3.Resources/工具教程/开发工具/开发工具汇总.md",
+      "duration": 18000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/开发工具/Clion使用指南.md": {
+      "fileId": "1770355540287",
+      "filePath": "3.Resources/工具教程/开发工具/Clion使用指南.md",
+      "duration": 114000,
+      "openCount": 4
+    },
+    "3.Resources/工具教程/开发工具/IntelliJIDEA使用指南.md": {
+      "fileId": "1771153656047",
+      "filePath": "3.Resources/工具教程/开发工具/IntelliJIDEA使用指南.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/开发工具/Pycharm使用指南.md": {
+      "fileId": "1771153740054",
+      "filePath": "3.Resources/工具教程/开发工具/Pycharm使用指南.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/开发工具/SublimeText使用指南.md": {
+      "fileId": "1770355498296",
+      "filePath": "3.Resources/工具教程/开发工具/SublimeText使用指南.md",
+      "duration": 30000,
+      "openCount": 3
+    },
+    "3.Resources/工具教程/开发工具/VSCode使用指南.md": {
+      "fileId": "1771153776061",
+      "filePath": "3.Resources/工具教程/开发工具/VSCode使用指南.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/开发工具/WebStorm使用指南.md": {
+      "fileId": "1771153782055",
+      "filePath": "3.Resources/工具教程/开发工具/WebStorm使用指南.md",
+      "duration": 36000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/Obsidian让AI来.md": {
+      "fileId": "1771754128918",
+      "filePath": "3.Resources/链接收藏/Obsidian让AI来.md",
+      "duration": 132000,
+      "openCount": 5
+    },
+    "3.Resources/链接收藏/思考致富.md": {
+      "fileId": "1771765048224",
+      "filePath": "3.Resources/链接收藏/思考致富.md",
+      "duration": 144000,
+      "openCount": 6
+    },
+    "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md": {
+      "fileId": "1770356644295",
+      "filePath": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
+      "duration": 180000,
+      "openCount": 16
+    },
+    "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md": {
+      "fileId": "1771765604004",
+      "filePath": "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md",
+      "duration": 12000,
+      "openCount": 2
     }
   }
 }

@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "两周内学会任何东西",
+      "path": "3.Resources/效率工具/两周内学会任何东西.md"
+    },
+    {
+      "basename": "个人管理-目标指标项目任务关系",
+      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md"
+    },
+    {
+      "basename": "Article 2026-02-06 13-43-47",
+      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
+    },
+    {
+      "basename": "Obsidian让AI来",
+      "path": "3.Resources/链接收藏/Obsidian让AI来.md"
+    },
+    {
       "basename": "README",
       "path": "3.Resources/README.md"
     },
     {
       "basename": "思考致富",
-      "path": "3.Resources/思考致富.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "两周内学会任何东西",
-      "path": "3.Resources/效率工具/两周内学会任何东西.md"
+      "path": "3.Resources/链接收藏/思考致富.md"
     },
     {
       "basename": "openclaw常用技能",
       "path": "3.Resources/速查手册/openclaw常用技能.md"
-    },
-    {
-      "basename": "个人管理-目标指标项目任务关系 1",
-      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md"
     },
     {
       "basename": "必读经典",
@@ -87,10 +91,6 @@
     {
       "basename": "2026-02-22",
       "path": "7.Daily/每日日志/2026-02-22.md"
-    },
-    {
-      "basename": "Obsidian让AI来",
-      "path": "3.Resources/Obsidian让AI来.md"
     },
     {
       "basename": "QuickAdd配置指南",
@@ -195,10 +195,6 @@
     {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "openclaw配置飞书",
-      "path": "3.Resources/教程/openclaw配置飞书.md"
     }
   ],
   "omittedPaths": [],

@@ -4631,7 +4631,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/开发工具汇总.md",
+      "path": "3.Resources/工具教程/开发工具/开发工具汇总.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 13,
       "openLogs": [
@@ -6237,7 +6237,7 @@
     {
       "path": "3.Resources/README.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
@@ -6286,6 +6286,9 @@
         },
         {
           "timestampMillis": 1771765440559
+        },
+        {
+          "timestampMillis": 1771765534996
         }
       ]
     },
@@ -9019,7 +9022,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程整体脉络.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -9038,7 +9041,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -9054,7 +9057,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程3-如何拆解目标计划.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -9070,7 +9073,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程/析径任务管理系统介绍.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程/析径任务管理系统介绍.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -9080,7 +9083,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程1-任务管理全流程.md",
       "uniqueDaysOpened": 3,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -9599,7 +9602,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/SublimeText使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/SublimeText使用指南.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -9612,7 +9615,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/Clion使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/Clion使用指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -9628,7 +9631,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程索引.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 8,
       "openLogs": [
@@ -9719,9 +9722,9 @@
       ]
     },
     {
-      "path": "3.Resources/Article 2026-02-06 13-43-47.md",
+      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1770356640168
@@ -9767,6 +9770,9 @@
         },
         {
           "timestampMillis": 1771765407545
+        },
+        {
+          "timestampMillis": 1771765588367
         }
       ]
     },
@@ -10326,7 +10332,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
+      "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -10704,7 +10710,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/IntelliJIDEA使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/IntelliJIDEA使用指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -10714,7 +10720,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/Pycharm使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/Pycharm使用指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -10724,7 +10730,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/VSCode使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/VSCode使用指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -10734,7 +10740,7 @@
       ]
     },
     {
-      "path": "3.Resources/开发工具/WebStorm使用指南.md",
+      "path": "3.Resources/工具教程/开发工具/WebStorm使用指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -10834,7 +10840,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/openclaw操作指南.md",
+      "path": "3.Resources/工具教程/openclaw操作指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 19,
       "openLogs": [
@@ -10898,7 +10904,7 @@
       ]
     },
     {
-      "path": "3.Resources/教程/openclaw配置飞书.md",
+      "path": "3.Resources/工具教程/openclaw配置飞书.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -11231,9 +11237,9 @@
       ]
     },
     {
-      "path": "3.Resources/Obsidian让AI来.md",
+      "path": "3.Resources/链接收藏/Obsidian让AI来.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771754125973
@@ -11243,6 +11249,9 @@
         },
         {
           "timestampMillis": 1771754280418
+        },
+        {
+          "timestampMillis": 1771765572898
         }
       ]
     },
@@ -11291,7 +11300,7 @@
       ]
     },
     {
-      "path": "3.Resources/思考致富.md",
+      "path": "3.Resources/链接收藏/思考致富.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -11348,23 +11357,29 @@
     {
       "path": "3.Resources/效率工具/两周内学会任何东西.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771765253829
         },
         {
           "timestampMillis": 1771765400393
+        },
+        {
+          "timestampMillis": 1771765612559
         }
       ]
     },
     {
-      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md",
+      "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
-          "timestampMillis": 1771765331088
+          "timestampMillis": 1771765602786
+        },
+        {
+          "timestampMillis": 1771765605961
         }
       ]
     }

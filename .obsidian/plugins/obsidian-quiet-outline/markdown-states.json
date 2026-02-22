@@ -5754,12 +5754,12 @@
     "scroll": 12.561683355593214,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 8
+        "line": 21,
+        "ch": 20
       },
       "to": {
-        "line": 8,
-        "ch": 8
+        "line": 21,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -8515,7 +8515,7 @@
     "expandedKeys": []
   },
   "3.Resources/Obsidian让AI来.md": {
-    "scroll": 51.531204312909004,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 41,
@@ -8775,6 +8775,48 @@
       },
       "to": {
         "line": 30,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/两周内学会任何东西.md": {
+    "scroll": 51.16192378842734,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
         "ch": 0
       }
     },
