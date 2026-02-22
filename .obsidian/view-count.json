@@ -761,7 +761,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 35,
-      "totalTimesOpened": 569,
+      "totalTimesOpened": 570,
       "openLogs": [
         {
           "timestampMillis": 1769054986448
@@ -2238,6 +2238,9 @@
         },
         {
           "timestampMillis": 1771773480967
+        },
+        {
+          "timestampMillis": 1771774226960
         }
       ]
     },
@@ -8623,7 +8626,7 @@
     {
       "path": "8.Info/示例 2：图书追踪.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1770021693194
@@ -8681,6 +8684,9 @@
         },
         {
           "timestampMillis": 1771754190677
+        },
+        {
+          "timestampMillis": 1771774256950
         }
       ]
     },
@@ -10459,7 +10465,7 @@
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -10487,6 +10493,9 @@
         },
         {
           "timestampMillis": 1771773501455
+        },
+        {
+          "timestampMillis": 1771774229200
         }
       ]
     },
@@ -11213,7 +11222,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-22.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1771742319847
@@ -11223,6 +11232,24 @@
         },
         {
           "timestampMillis": 1771773719250
+        },
+        {
+          "timestampMillis": 1771774253031
+        },
+        {
+          "timestampMillis": 1771774265648
+        },
+        {
+          "timestampMillis": 1771774270694
+        },
+        {
+          "timestampMillis": 1771774282665
+        },
+        {
+          "timestampMillis": 1771774341308
+        },
+        {
+          "timestampMillis": 1771774345639
         }
       ]
     },
@@ -11442,12 +11469,12 @@
       ]
     },
     {
-      "path": "0.Inbox/OpenClaw 教學：25 個 Tools + 53 個 Skills 完整指南.md",
+      "path": "8.Info/PARA方法.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1771772496737
+          "timestampMillis": 1771774281783
         }
       ]
     }

@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 121.44257199344372,
+    "scroll": 121.99692330468635,
     "cursor": {
       "from": {
         "line": 156,
@@ -7945,11 +7945,11 @@
     "cursor": {
       "from": {
         "line": 96,
-        "ch": 0
+        "ch": 8
       },
       "to": {
         "line": 96,
-        "ch": 0
+        "ch": 8
       }
     },
     "expandedKeys": []
@@ -8417,15 +8417,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-22.md": {
-    "scroll": 94.83043301274789,
+    "scroll": 33.19771261776195,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 33
+        "line": 98,
+        "ch": 0
       },
       "to": {
-        "line": 32,
-        "ch": 33
+        "line": 98,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8588,11 +8588,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 33,
         "ch": 0
       },
       "to": {
-        "line": 8,
+        "line": 33,
         "ch": 0
       }
     },
@@ -8893,7 +8893,7 @@
     "expandedKeys": []
   },
   "0.Inbox/OpenClaw 教學：25 個 Tools + 53 個 Skills 完整指南.md": {
-    "scroll": 402.70047767464285,
+    "scroll": 354.68784059899303,
     "cursor": {
       "from": {
         "line": 13,
@@ -8901,6 +8901,20 @@
       },
       "to": {
         "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/PARA方法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
