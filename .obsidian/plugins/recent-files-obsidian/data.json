@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-22",
+      "path": "7.Daily/每日日志/2026-02-22.md"
+    },
+    {
+      "basename": "openclaw常用技能",
+      "path": "3.Resources/openclaw常用技能.md"
+    },
+    {
       "basename": "2026-02-21",
       "path": "7.Daily/每日日志/2026-02-21.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/openclaw常用技能.md"
     },
     {
       "basename": "2026-02-17",
@@ -195,10 +199,6 @@
     {
       "basename": "示例 3：日常记录",
       "path": "8.Info/示例 3：日常记录.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     }
   ],
   "omittedPaths": [],

@@ -8319,15 +8319,15 @@
     "expandedKeys": []
   },
   "3.Resources/openclaw常用技能.md": {
-    "scroll": 38.737353806851665,
+    "scroll": 27.82725308790739,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 82
+        "line": 103,
+        "ch": 3
       },
       "to": {
-        "line": 22,
-        "ch": 82
+        "line": 103,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -8412,6 +8412,20 @@
       "to": {
         "line": 10,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-22.md": {
+    "scroll": 6.334841628959276,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 29
+      },
+      "to": {
+        "line": 19,
+        "ch": 29
       }
     },
     "expandedKeys": []
