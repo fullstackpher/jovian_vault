@@ -1,8 +1,20 @@
 {
   "id": "conv-1771760194228-ybwf5qs2t",
-  "title": "请设计一套大家都在用的永久笔记模版",
-  "titleGenerationStatus": "pending",
+  "title": "Design universal permanent note template",
+  "titleGenerationStatus": "success",
   "createdAt": 1771760194228,
-  "updatedAt": 1771760194235,
-  "sessionId": null
+  "updatedAt": 1771760236533,
+  "lastResponseAt": 1771760236533,
+  "sessionId": "041e2969-d376-41e2-b980-25af5343d46e",
+  "sdkSessionId": "041e2969-d376-41e2-b980-25af5343d46e",
+  "currentNote": "Templates/永久笔记模板.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 123,
+    "cacheCreationInputTokens": 726,
+    "cacheReadInputTokens": 15200,
+    "contextWindow": 200000,
+    "contextTokens": 16049,
+    "percentage": 8
+  }
 }

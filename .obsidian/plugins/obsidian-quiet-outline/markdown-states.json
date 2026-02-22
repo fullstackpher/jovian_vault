@@ -8667,5 +8667,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "Templates/永久笔记模板.md": {
+    "scroll": 72.61874942779541,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

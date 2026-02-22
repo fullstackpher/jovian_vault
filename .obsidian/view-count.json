@@ -11244,13 +11244,19 @@
     {
       "path": "Templates/永久笔记模板.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771760123681
         },
         {
           "timestampMillis": 1771760171278
+        },
+        {
+          "timestampMillis": 1771760198857
+        },
+        {
+          "timestampMillis": 1771760200401
         }
       ]
     }
