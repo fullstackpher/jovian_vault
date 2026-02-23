@@ -6135,7 +6135,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 0,
+    "scroll": 65.89858705433512,
     "cursor": {
       "from": {
         "line": 55,
@@ -8972,6 +8972,48 @@
       "to": {
         "line": 509,
         "ch": 40
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/AI邪修搞钱法_8种方法总结.md": {
+    "scroll": 148.03471703622856,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/BOM.md": {
+    "scroll": 2.9947505860816777,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 23
+      },
+      "to": {
+        "line": 10,
+        "ch": 23
       }
     },
     "expandedKeys": []

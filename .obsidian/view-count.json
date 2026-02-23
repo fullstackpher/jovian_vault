@@ -4727,7 +4727,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 18,
-      "totalTimesOpened": 57,
+      "totalTimesOpened": 59,
       "openLogs": [
         {
           "timestampMillis": 1769140825686
@@ -4893,6 +4893,12 @@
         },
         {
           "timestampMillis": 1771814269983
+        },
+        {
+          "timestampMillis": 1771843777602
+        },
+        {
+          "timestampMillis": 1771844063460
         }
       ]
     },
@@ -11326,6 +11332,29 @@
       "openLogs": [
         {
           "timestampMillis": 1771788314764
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/AI邪修搞钱法_8种方法总结.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771843749332
+        },
+        {
+          "timestampMillis": 1771844061156
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/Frontend/BOM.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771844448225
         }
       ]
     }

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-23",
-      "path": "7.Daily/每日日志/2026-02-23.md"
+      "basename": "BOM",
+      "path": "2.Areas/Frontend/BOM.md"
     },
     {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "AI邪修搞钱法_8种方法总结",
+      "path": "0.Inbox/AI邪修搞钱法_8种方法总结.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "7.Daily/每日日志/2026-02-23.md"
     },
     {
       "basename": "Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "两周内学会任何东西",
       "path": "3.Resources/效率工具/两周内学会任何东西.md"
-    },
-    {
-      "basename": "Obsidian让AI来",
-      "path": "3.Resources/链接收藏/Obsidian让AI来.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
     }
   ],
   "omittedPaths": [],

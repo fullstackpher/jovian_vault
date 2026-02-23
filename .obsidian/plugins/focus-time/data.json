@@ -1125,8 +1125,8 @@
     "1.Projects/03-学习前端/学习JavaScript.md": {
       "fileId": "1769066485099",
       "filePath": "1.Projects/03-学习前端/学习JavaScript.md",
-      "duration": 2910000,
-      "openCount": 55
+      "duration": 3132000,
+      "openCount": 57
     },
     "1.Projects/01-学习Java/学习JavaSE.md": {
       "fileId": "1768478599635",
@@ -2523,8 +2523,8 @@
     "7.Daily/每日日志/2026-02-23.md": {
       "fileId": "1771787663701",
       "filePath": "7.Daily/每日日志/2026-02-23.md",
-      "duration": 1032000,
-      "openCount": 15
+      "duration": 1044000,
+      "openCount": 16
     },
     "3.Resources/思考致富.md": {
       "fileId": "1771788269491",
@@ -2572,6 +2572,18 @@
       "fileId": "1771788315366",
       "filePath": "5.Zattchments/图片/截图/局部截取_20260213_125355.png",
       "duration": 0,
+      "openCount": 1
+    },
+    "0.Inbox/AI邪修搞钱法_8种方法总结.md": {
+      "fileId": "1771843749267",
+      "filePath": "0.Inbox/AI邪修搞钱法_8种方法总结.md",
+      "duration": 36000,
+      "openCount": 3
+    },
+    "2.Areas/Frontend/BOM.md": {
+      "fileId": "1771844451272",
+      "filePath": "2.Areas/Frontend/BOM.md",
+      "duration": 198000,
       "openCount": 1
     }
   }
