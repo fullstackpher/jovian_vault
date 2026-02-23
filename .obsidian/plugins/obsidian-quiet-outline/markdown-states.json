@@ -8949,15 +8949,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-23.md": {
-    "scroll": 94.04410719711595,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 14
+        "line": 27,
+        "ch": 0
       },
       "to": {
-        "line": 28,
-        "ch": 14
+        "line": 27,
+        "ch": 0
       }
     },
     "expandedKeys": []
