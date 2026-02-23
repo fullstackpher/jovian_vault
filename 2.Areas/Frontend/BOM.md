@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-23T19:00
-更新时间: 2026-02-23T20:03
+更新时间: 2026-02-23T20:25
 tags:
   - 领域/前端
   - JavaScript
@@ -69,19 +69,40 @@ tags:
 - replace：打开一个新的URL，并且跳转到该URL中（不同的是不会在浏览记录中留下之前的记录）
 - reload：重新加载页面，可以传入一个Boolean类型
 
-### event
+> [!example]+ URLSearchParams常用方法如下：
 
+- get：获取搜索参数的值
+- set：设置一个搜索参数和值
+- append：追加一个搜索参数和值
+- has：判断是否有某个搜索参数
+
+```ad-tip 
+title: 中文会使用encodeURIComponent和decodeURIComponent进行编码和解码
+```
 
 ### history
+> [!note]+ history对象允许我们访问浏览器曾经的会话历史记录
 
-
+- 两个属性：
+	- `length`：会话中的记录条数
+	- `state`：当前保留的状态值
+- 五个方法：
+	- `back()`：返回上一页，等价于history.go(-1)
+	- `forward()`：前进下一页，等价于history.go(1)
+	- `go()`：加载历史的某一页
+	- `pushState()`：打开一个指定的地址
+	- `replaceState()`：打开一个新的的地址，并使用replace
+> [!tip]+ history和hash目前是Vue，react等框架实现路由的底层原理
 ### navigator
 
 
 ### screen
 
 
+### event
+
+
 ### 参考资料
 
 - [Window - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Window)
-- 
+- [URLSearchParams - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/URLSearchParams)
