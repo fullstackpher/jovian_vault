@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-23T19:00
-更新时间: 2026-02-23T19:33
+更新时间: 2026-02-23T19:44
 tags:
   - 领域/前端
   - JavaScript
@@ -40,6 +40,13 @@ tags:
 - 放在window对象上的所有属性都可以被访问
 - 使用var定义的变量会被添加到window对象中
 - window默认给我们提供了全局的函数和类：setTimeout、Math、Date、Object等
+
+> [!danger]+ window对象很重：
+
+- 包含大量的属性：localstorage，console，location，history，screenX，scrollX等等
+- 包含大量的方法：alert，close，scrollTo，open等等
+- 包含大量的事件：focus，blur，load，hashchange等等
+- 包含从EventTarget继承过来的方法，addEventListener，removeEventListener，dispatchEvent方法
 
 ### event
 
