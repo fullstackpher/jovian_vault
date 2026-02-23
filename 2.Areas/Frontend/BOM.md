@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-23T19:00
-更新时间: 2026-02-23T19:56
+更新时间: 2026-02-23T20:03
 tags:
   - 领域/前端
   - JavaScript
@@ -62,6 +62,12 @@ tags:
 - `hash`：哈希值
 - username：URL中的username（很多浏览器已禁用）
 - password：URL中的password（很多浏览器已禁用）
+
+> [!tip]+ location常用方法
+
+- assign：赋值一个新的URL，并且跳转到该URL中
+- replace：打开一个新的URL，并且跳转到该URL中（不同的是不会在浏览记录中留下之前的记录）
+- reload：重新加载页面，可以传入一个Boolean类型
 
 ### event
 
