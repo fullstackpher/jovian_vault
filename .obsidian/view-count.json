@@ -11351,10 +11351,13 @@
     {
       "path": "2.Areas/Frontend/BOM.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771844448225
+        },
+        {
+          "timestampMillis": 1771845103715
         }
       ]
     }
