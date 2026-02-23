@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-23T19:00
-更新时间: 2026-02-23T19:44
+更新时间: 2026-02-23T19:48
 tags:
   - 领域/前端
   - JavaScript
@@ -63,3 +63,7 @@ tags:
 ### screen
 
 
+### 参考资料
+
+- [Window - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Window)
+- 

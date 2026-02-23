@@ -5,20 +5,28 @@
       "path": "2.Areas/Frontend/BOM.md"
     },
     {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
       "basename": "AI邪修搞钱法_8种方法总结",
       "path": "0.Inbox/AI邪修搞钱法_8种方法总结.md"
     },
     {
-      "basename": "2026-02-23",
-      "path": "7.Daily/每日日志/2026-02-23.md"
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "1.Projects/项目看板.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "7.Daily/每日日志/2026-02-23.md"
     },
     {
       "basename": "2026-02-22",
@@ -59,10 +67,6 @@
     {
       "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
       "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
     },
     {
       "basename": "2026-01",
@@ -195,10 +199,6 @@
     {
       "basename": "个人管理-目标指标项目任务关系",
       "path": "3.Resources/最佳实践/个人管理-目标指标项目任务关系.md"
-    },
-    {
-      "basename": "两周内学会任何东西",
-      "path": "3.Resources/效率工具/两周内学会任何东西.md"
     }
   ],
   "omittedPaths": [],

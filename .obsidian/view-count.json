@@ -653,7 +653,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 36,
-      "totalTimesOpened": 592,
+      "totalTimesOpened": 594,
       "openLogs": [
         {
           "timestampMillis": 1769140721215
@@ -2184,6 +2184,12 @@
         },
         {
           "timestampMillis": 1771790429194
+        },
+        {
+          "timestampMillis": 1771847247643
+        },
+        {
+          "timestampMillis": 1771847288754
         }
       ]
     },
@@ -2273,7 +2279,7 @@
     {
       "path": "1.Projects/项目看板.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 58,
+      "totalTimesOpened": 59,
       "openLogs": [
         {
           "timestampMillis": 1769235020474
@@ -2394,6 +2400,9 @@
         },
         {
           "timestampMillis": 1771788241093
+        },
+        {
+          "timestampMillis": 1771847253379
         }
       ]
     },
@@ -4727,7 +4736,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 18,
-      "totalTimesOpened": 59,
+      "totalTimesOpened": 61,
       "openLogs": [
         {
           "timestampMillis": 1769140825686
@@ -4899,6 +4908,12 @@
         },
         {
           "timestampMillis": 1771844063460
+        },
+        {
+          "timestampMillis": 1771847254805
+        },
+        {
+          "timestampMillis": 1771847290254
         }
       ]
     },
@@ -6251,8 +6266,8 @@
     },
     {
       "path": "2.Areas/Frontend/Frontend知识体系总览.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 21,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1769665075914
@@ -6316,6 +6331,9 @@
         },
         {
           "timestampMillis": 1771759717126
+        },
+        {
+          "timestampMillis": 1771847228363
         }
       ]
     },
@@ -11338,26 +11356,32 @@
     {
       "path": "0.Inbox/AI邪修搞钱法_8种方法总结.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771843749332
         },
         {
           "timestampMillis": 1771844061156
+        },
+        {
+          "timestampMillis": 1771847290890
         }
       ]
     },
     {
       "path": "2.Areas/Frontend/BOM.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771844448225
         },
         {
           "timestampMillis": 1771845103715
+        },
+        {
+          "timestampMillis": 1771847292995
         }
       ]
     }
