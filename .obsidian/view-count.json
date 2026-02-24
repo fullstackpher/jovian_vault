@@ -10914,8 +10914,8 @@
     },
     {
       "path": "7.Daily/每周复盘/2026-W08.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771753472622
@@ -10937,6 +10937,9 @@
         },
         {
           "timestampMillis": 1771783262148
+        },
+        {
+          "timestampMillis": 1771902256557
         }
       ]
     },
@@ -11391,6 +11394,38 @@
         },
         {
           "timestampMillis": 1771851255064
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-24.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1771902253437
+        },
+        {
+          "timestampMillis": 1771902284999
+        },
+        {
+          "timestampMillis": 1771902320544
+        },
+        {
+          "timestampMillis": 1771902339725
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-02-24_如何变得强大.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771902321673
+        },
+        {
+          "timestampMillis": 1771902331954
         }
       ]
     }

@@ -8431,15 +8431,15 @@
     "expandedKeys": []
   },
   "7.Daily/每周复盘/2026-W08.md": {
-    "scroll": 26.068349418544937,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 0
+        "line": 46,
+        "ch": 2
       },
       "to": {
-        "line": 31,
-        "ch": 0
+        "line": 46,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -9028,6 +9028,62 @@
       "to": {
         "line": 26,
         "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-24.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 31
+      },
+      "to": {
+        "line": 24,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-24_截屏技能.md": {
+    "scroll": 3.937007874015748,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-24_如何变得强大.md": {
+    "scroll": 21.010387803157816,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-24_oQaIqIaAvGlgbTzwAanyNPyQOQaUiiZ3EDBIR.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
       }
     },
     "expandedKeys": []
