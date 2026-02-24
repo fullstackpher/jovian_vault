@@ -5958,8 +5958,8 @@
     },
     {
       "path": "2.Areas/README.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1769495704649
@@ -5984,6 +5984,9 @@
         },
         {
           "timestampMillis": 1770188338944
+        },
+        {
+          "timestampMillis": 1771932516985
         }
       ]
     },
@@ -11071,11 +11074,14 @@
     },
     {
       "path": "8.Info/必读经典.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1771765075453
+        },
+        {
+          "timestampMillis": 1771932535393
         }
       ]
     },

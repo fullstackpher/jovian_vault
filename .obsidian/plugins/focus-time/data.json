@@ -1449,8 +1449,8 @@
     "2.Areas/README.md": {
       "fileId": "1770188339928",
       "filePath": "2.Areas/README.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 24000,
+      "openCount": 3
     },
     "3.Resources/README.md": {
       "fileId": "1770188345908",
@@ -2619,8 +2619,8 @@
     "8.Info/目标管理.md": {
       "fileId": "1771929665548",
       "filePath": "8.Info/目标管理.md",
-      "duration": 42000,
-      "openCount": 1
+      "duration": 90000,
+      "openCount": 2
     }
   }
 }
