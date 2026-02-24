@@ -5,6 +5,22 @@
       "path": "7.Daily/每日日志/2026-02-24.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "土豆变黄金",
+      "path": "3.Resources/链接收藏/土豆变黄金.md"
+    },
+    {
+      "basename": "思考致富",
+      "path": "3.Resources/链接收藏/思考致富.md"
+    },
+    {
       "basename": "2026-02-24_如何变得强大",
       "path": "0.Inbox/2026-02-24_如何变得强大.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "项目看板",
@@ -187,14 +199,6 @@
     {
       "basename": "学习Obsidian",
       "path": "1.Projects/02-知识管理/学习Obsidian.md"
-    },
-    {
-      "basename": "学习JavaSE",
-      "path": "1.Projects/01-学习Java/学习JavaSE.md"
-    },
-    {
-      "basename": "学习JavaEE",
-      "path": "1.Projects/01-学习Java/学习JavaEE.md"
     }
   ],
   "omittedPaths": [],

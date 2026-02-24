@@ -652,15 +652,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 36,
-      "totalTimesOpened": 594,
+      "uniqueDaysOpened": 37,
+      "totalTimesOpened": 597,
       "openLogs": [
-        {
-          "timestampMillis": 1769140721215
-        },
-        {
-          "timestampMillis": 1769140782178
-        },
         {
           "timestampMillis": 1769228614622
         },
@@ -2190,6 +2184,15 @@
         },
         {
           "timestampMillis": 1771847288754
+        },
+        {
+          "timestampMillis": 1771911125828
+        },
+        {
+          "timestampMillis": 1771911214016
+        },
+        {
+          "timestampMillis": 1771929117872
         }
       ]
     },
@@ -2834,12 +2837,9 @@
     },
     {
       "path": "Templates/日记模版.md",
-      "uniqueDaysOpened": 15,
-      "totalTimesOpened": 100,
+      "uniqueDaysOpened": 16,
+      "totalTimesOpened": 101,
       "openLogs": [
-        {
-          "timestampMillis": 1768706340389
-        },
         {
           "timestampMillis": 1769690090644
         },
@@ -3127,6 +3127,9 @@
         },
         {
           "timestampMillis": 1771379759832
+        },
+        {
+          "timestampMillis": 1771911137776
         }
       ]
     },
@@ -11011,8 +11014,8 @@
     },
     {
       "path": "3.Resources/链接收藏/思考致富.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
@@ -11037,6 +11040,9 @@
         },
         {
           "timestampMillis": 1771766275798
+        },
+        {
+          "timestampMillis": 1771911099514
         }
       ]
     },
@@ -11091,8 +11097,8 @@
     },
     {
       "path": "3.Resources/链接收藏/土豆变黄金.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771766194282
@@ -11111,6 +11117,12 @@
         },
         {
           "timestampMillis": 1771766461780
+        },
+        {
+          "timestampMillis": 1771911102830
+        },
+        {
+          "timestampMillis": 1771911125216
         }
       ]
     },
@@ -11400,7 +11412,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-24.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771902253437
@@ -11413,19 +11425,37 @@
         },
         {
           "timestampMillis": 1771902339725
+        },
+        {
+          "timestampMillis": 1771911036308
+        },
+        {
+          "timestampMillis": 1771911126955
+        },
+        {
+          "timestampMillis": 1771929119498
+        },
+        {
+          "timestampMillis": 1771929119903
         }
       ]
     },
     {
       "path": "0.Inbox/2026-02-24_如何变得强大.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771902321673
         },
         {
           "timestampMillis": 1771902331954
+        },
+        {
+          "timestampMillis": 1771911056175
+        },
+        {
+          "timestampMillis": 1771911097859
         }
       ]
     }
