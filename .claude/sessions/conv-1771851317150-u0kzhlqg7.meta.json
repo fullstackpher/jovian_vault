@@ -1,0 +1,20 @@
+{
+  "id": "conv-1771851317150-u0kzhlqg7",
+  "title": "补充笔记内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1771851317160,
+  "updatedAt": 1771851361377,
+  "lastResponseAt": 1771851361377,
+  "sessionId": "514e71e9-8b8e-4ec3-9d4d-ee815427d66a",
+  "sdkSessionId": "514e71e9-8b8e-4ec3-9d4d-ee815427d66a",
+  "currentNote": "2.Areas/Frontend/JSON.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 119,
+    "cacheCreationInputTokens": 1880,
+    "cacheReadInputTokens": 14141,
+    "contextWindow": 200000,
+    "contextTokens": 16140,
+    "percentage": 8
+  }
+}

@@ -11169,7 +11169,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-23.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 26,
+      "totalTimesOpened": 28,
       "openLogs": [
         {
           "timestampMillis": 1771787662674
@@ -11248,6 +11248,12 @@
         },
         {
           "timestampMillis": 1771816620249
+        },
+        {
+          "timestampMillis": 1771851375177
+        },
+        {
+          "timestampMillis": 1771851533099
         }
       ]
     },
@@ -11354,25 +11360,9 @@
       ]
     },
     {
-      "path": "0.Inbox/AI邪修搞钱法_8种方法总结.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1771843749332
-        },
-        {
-          "timestampMillis": 1771844061156
-        },
-        {
-          "timestampMillis": 1771847290890
-        }
-      ]
-    },
-    {
       "path": "2.Areas/Frontend/BOM.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771844448225
@@ -11382,6 +11372,25 @@
         },
         {
           "timestampMillis": 1771847292995
+        },
+        {
+          "timestampMillis": 1771851234646
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/Frontend/JSON.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1771850402203
+        },
+        {
+          "timestampMillis": 1771850426478
+        },
+        {
+          "timestampMillis": 1771851255064
         }
       ]
     }

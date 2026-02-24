@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-23T19:00
-更新时间: 2026-02-23T20:25
+更新时间: 2026-02-23T20:54
 tags:
   - 领域/前端
   - JavaScript
@@ -94,15 +94,15 @@ title: 中文会使用encodeURIComponent和decodeURIComponent进行编码和解�
 	- `replaceState()`：打开一个新的的地址，并使用replace
 > [!tip]+ history和hash目前是Vue，react等框架实现路由的底层原理
 ### navigator
-
-
+> [!note]+ navigator对象表示用户代理的状态和标识等信息
 ### screen
+> [!note]+ screen主要记录的是浏览器窗口外面的客户端显示器的信息
 
-
-### event
-
+- 比如屏幕的逻辑像素：`screen.width`，`screen.height`
 
 ### 参考资料
 
 - [Window - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Window)
 - [URLSearchParams - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/URLSearchParams)
+- [Navigator - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Navigator)
+- [Screen - Web API \| MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Screen)

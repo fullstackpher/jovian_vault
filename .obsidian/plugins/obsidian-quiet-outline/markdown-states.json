@@ -8949,15 +8949,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-23.md": {
-    "scroll": 18.549019458247166,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 16
+        "line": 23,
+        "ch": 0
       },
       "to": {
-        "line": 31,
-        "ch": 16
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -9005,15 +9005,29 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/BOM.md": {
-    "scroll": 91.46433953139422,
+    "scroll": 96.46892569849047,
     "cursor": {
       "from": {
-        "line": 97,
+        "line": 101,
         "ch": 0
       },
       "to": {
-        "line": 97,
+        "line": 101,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/JSON.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 12
+      },
+      "to": {
+        "line": 26,
+        "ch": 12
       }
     },
     "expandedKeys": []
