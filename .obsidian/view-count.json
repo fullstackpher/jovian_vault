@@ -11458,6 +11458,19 @@
           "timestampMillis": 1771911097859
         }
       ]
+    },
+    {
+      "path": "8.Info/目标管理.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771929664019
+        },
+        {
+          "timestampMillis": 1771929670559
+        }
+      ]
     }
   ]
 }

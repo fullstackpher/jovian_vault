@@ -9033,15 +9033,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-24.md": {
-    "scroll": 15.487071665868065,
+    "scroll": 9.597997759066123,
     "cursor": {
       "from": {
         "line": 27,
-        "ch": 14
+        "ch": 36
       },
       "to": {
         "line": 27,
-        "ch": 14
+        "ch": 36
       }
     },
     "expandedKeys": []
@@ -9084,6 +9084,20 @@
       "to": {
         "line": 5,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/目标管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 8
+      },
+      "to": {
+        "line": 2,
+        "ch": 8
       }
     },
     "expandedKeys": []

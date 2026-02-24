@@ -2595,8 +2595,8 @@
     "7.Daily/每日日志/2026-02-24.md": {
       "fileId": "1771902254353",
       "filePath": "7.Daily/每日日志/2026-02-24.md",
-      "duration": 8688000,
-      "openCount": 6
+      "duration": 9126000,
+      "openCount": 7
     },
     "0.Inbox/2026-02-24_截屏技能.md": {
       "fileId": "1771902314365",
@@ -2614,6 +2614,12 @@
       "fileId": "1771902331879",
       "filePath": "0.Inbox/2026-02-24_oQaIqIaAvGlgbTzwAanyNPyQOQaUiiZ3EDBIR.md",
       "duration": 0,
+      "openCount": 1
+    },
+    "8.Info/目标管理.md": {
+      "fileId": "1771929665548",
+      "filePath": "8.Info/目标管理.md",
+      "duration": 42000,
       "openCount": 1
     }
   }
