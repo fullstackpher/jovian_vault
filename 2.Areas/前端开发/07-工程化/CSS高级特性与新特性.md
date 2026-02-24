@@ -233,10 +233,10 @@ tags:
 4. **性能优化**：减少不必要的样式重新计算
 
 > 📌 **相关知识**：
-> - [[2.Areas/Frontend/CSS工程化]] - CSS 工程化整体方案
-> - [[2.Areas/Frontend/现代 CSS 新特性]] - 现代 CSS 新功能（容器查询、层叠层等）
-> - [[2.Areas/Frontend/Less预处理器]] - Less 预处理器
-> - [[2.Areas/Frontend/Sass预处理器]] - Sass 预处理器
+> - [[2.Areas/前端开发/CSS工程化]] - CSS 工程化整体方案
+> - [[2.Areas/前端开发/现代 CSS 新特性]] - 现代 CSS 新功能（容器查询、层叠层等）
+> - [[2.Areas/前端开发/Less预处理器]] - Less 预处理器
+> - [[2.Areas/前端开发/Sass预处理器]] - Sass 预处理器
 
 ---
 

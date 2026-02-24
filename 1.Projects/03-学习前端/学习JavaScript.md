@@ -64,7 +64,7 @@ limit 100
 - [ES6 入门教程](https://es6.ruanyifeng.com/) - 阮一峰老师的ES6权威教程
 - [现代JavaScript教程](https://zh.javascript.info/) - 从基础到高级的完整JavaScript教程
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 深入理解JavaScript系列书籍
-- [MOC](obsidian://open?vault=jovian_vault&file=2.Areas%2FFrontend%2FFrontend%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88) #领域/Frontend - 前端知识体系总览
+- [MOC](obsidian://open?vault=jovian_vault&file=2.Areas%2F前端开发%2F前端开发%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88) #领域/前端开发 - 前端知识体系总览
 
 
 > [!danger]- 项目灵感

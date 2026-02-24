@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 251.33006271661498,
+    "scroll": 250.93637494524148,
     "cursor": {
       "from": {
         "line": 94,
@@ -6485,7 +6485,7 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/Frontend知识体系总览.md": {
-    "scroll": 43.826332241881126,
+    "scroll": 0.1286089195041206,
     "cursor": {
       "from": {
         "line": 7,
@@ -9369,6 +9369,20 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/02-概念卡片/变量和数据类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/前端开发/Frontend知识体系总览.md": {
     "scroll": 0,
     "cursor": {
       "from": {
