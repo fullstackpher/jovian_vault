@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "必读经典",
-      "path": "8.Info/必读经典.md"
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
     },
     {
-      "basename": "README",
-      "path": "2.Areas/README.md"
+      "basename": "变量和数据类型",
+      "path": "2.Areas/Frontend/02-概念卡片/变量和数据类型.md"
+    },
+    {
+      "basename": "流程控制语句",
+      "path": "2.Areas/Frontend/02-概念卡片/流程控制语句.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "2.Areas/Frontend/02-概念卡片/运算符.md"
+    },
+    {
+      "basename": "BOM",
+      "path": "2.Areas/Frontend/02-概念卡片/BOM.md"
+    },
+    {
+      "basename": "DOM",
+      "path": "2.Areas/Frontend/02-概念卡片/DOM.md"
+    },
+    {
+      "basename": "JSON",
+      "path": "2.Areas/Frontend/02-概念卡片/JSON.md"
+    },
+    {
+      "basename": "作用域",
+      "path": "2.Areas/Frontend/04-JavaScript深入/作用域.md"
+    },
+    {
+      "basename": "项目管理",
+      "path": "2.Areas/SelfImprovement/01-目标管理/项目管理.md"
     },
     {
       "basename": "目标管理",
-      "path": "8.Info/目标管理.md"
+      "path": "2.Areas/SelfImprovement/01-目标管理/目标管理.md"
+    },
+    {
+      "basename": "个人管理",
+      "path": "2.Areas/SelfImprovement/01-目标管理/个人管理.md"
+    },
+    {
+      "basename": "PARA方法",
+      "path": "2.Areas/SelfImprovement/06-认知提升/PARA方法.md"
+    },
+    {
+      "basename": "README",
+      "path": "1.Projects/README.md"
+    },
+    {
+      "basename": "私密-Minimax订阅信息",
+      "path": "8.Info/私密-Minimax订阅信息.md"
+    },
+    {
+      "basename": "私密-常用服务API",
+      "path": "8.Info/私密-常用服务API.md"
+    },
+    {
+      "basename": "草稿-Obsidian主页排版参考",
+      "path": "8.Info/草稿-Obsidian主页排版参考.md"
+    },
+    {
+      "basename": "临时待办",
+      "path": "0.Inbox/临时待办.md"
+    },
+    {
+      "basename": "2026-02-24_如何变得强大",
+      "path": "0.Inbox/2026-02-24_如何变得强大.md"
+    },
+    {
+      "basename": "OpenClaw 索引",
+      "path": "3.Resources/工具教程/OpenClaw 索引.md"
+    },
+    {
+      "basename": "OpenClaw 最热 15 个使用场景",
+      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
+    },
+    {
+      "basename": "openclaw操作指南",
+      "path": "3.Resources/工具教程/openclaw操作指南.md"
+    },
+    {
+      "basename": "openclaw配置飞书",
+      "path": "3.Resources/工具教程/openclaw配置飞书.md"
     },
     {
       "basename": "2026-02-24",
@@ -19,6 +95,14 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Areas/README.md"
     },
     {
       "basename": "日记模版",
@@ -33,10 +117,6 @@
       "path": "3.Resources/链接收藏/思考致富.md"
     },
     {
-      "basename": "2026-02-24_如何变得强大",
-      "path": "0.Inbox/2026-02-24_如何变得强大.md"
-    },
-    {
       "basename": "2026-W08",
       "path": "7.Daily/每周复盘/2026-W08.md"
     },
@@ -45,24 +125,12 @@
       "path": "7.Daily/每日日志/2026-02-23.md"
     },
     {
-      "basename": "JSON",
-      "path": "2.Areas/Frontend/JSON.md"
-    },
-    {
-      "basename": "BOM",
-      "path": "2.Areas/Frontend/BOM.md"
-    },
-    {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
     },
     {
       "basename": "项目看板",
-      "path": "1.Projects/项目看板.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
+      "path": "Dashboards/项目看板.md"
     },
     {
       "basename": "2026-02-22",
@@ -103,102 +171,6 @@
     {
       "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
       "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
-    },
-    {
-      "basename": "2026-01",
-      "path": "7.Daily/月度复盘/2026-01.md"
-    },
-    {
-      "basename": "README",
-      "path": "7.Daily/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "5.Zattchments/README.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "库全览",
-      "path": "Dashboards/库全览.canvas"
-    },
-    {
-      "basename": "库全览-v2",
-      "path": "Dashboards/库全览-v2.canvas"
-    },
-    {
-      "basename": "obsidian双链",
-      "path": "2.Areas/Knowledge Management/obsidian双链.md"
-    },
-    {
-      "basename": "obsidian属性",
-      "path": "2.Areas/Knowledge Management/obsidian属性.md"
-    },
-    {
-      "basename": "obsidian收藏",
-      "path": "2.Areas/Knowledge Management/obsidian收藏.md"
-    },
-    {
-      "basename": "obsidian标签",
-      "path": "2.Areas/Knowledge Management/obsidian标签.md"
-    },
-    {
-      "basename": "原型与原型链",
-      "path": "2.Areas/Frontend/原型与原型链.md"
-    },
-    {
-      "basename": "2026-02-21",
-      "path": "7.Daily/每日日志/2026-02-21.md"
-    },
-    {
-      "basename": "2026-02-20",
-      "path": "7.Daily/每日日志/2026-02-20.md"
-    },
-    {
-      "basename": "2026-02-19",
-      "path": "7.Daily/每日日志/2026-02-19.md"
-    },
-    {
-      "basename": "2026-02-18",
-      "path": "7.Daily/每日日志/2026-02-18.md"
-    },
-    {
-      "basename": "2026-02-17",
-      "path": "7.Daily/每日日志/2026-02-17.md"
-    },
-    {
-      "basename": "2026-02-16",
-      "path": "7.Daily/每日日志/2026-02-16.md"
-    },
-    {
-      "basename": "2026-02-15",
-      "path": "7.Daily/每日日志/2026-02-15.md"
-    },
-    {
-      "basename": "2026-02-14",
-      "path": "7.Daily/每日日志/2026-02-14.md"
-    },
-    {
-      "basename": "2026-02-13",
-      "path": "7.Daily/每日日志/2026-02-13.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "7.Daily/每日日志/2026-02-12.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "7.Daily/每日日志/2026-02-11.md"
-    },
-    {
-      "basename": "2026-02-10",
-      "path": "7.Daily/每日日志/2026-02-10.md"
-    },
-    {
-      "basename": "2026-02-09",
-      "path": "7.Daily/每日日志/2026-02-09.md"
     }
   ],
   "omittedPaths": [],

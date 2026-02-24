@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 251.33006271661498,
     "cursor": {
       "from": {
         "line": 94,
@@ -5961,7 +5961,7 @@
     "expandedKeys": []
   },
   "8.Info/QuickAdd配置指南.md": {
-    "scroll": 71.04313099041534,
+    "scroll": 99.95669421027688,
     "cursor": {
       "from": {
         "line": 87,
@@ -5975,7 +5975,7 @@
     "expandedKeys": []
   },
   "8.Info/Dashboard使用指南.md": {
-    "scroll": 87.50746723249847,
+    "scroll": 60.83766612637405,
     "cursor": {
       "from": {
         "line": 132,
@@ -6485,14 +6485,14 @@
     "expandedKeys": []
   },
   "2.Areas/Frontend/Frontend知识体系总览.md": {
-    "scroll": 339.7982859369973,
+    "scroll": 43.826332241881126,
     "cursor": {
       "from": {
-        "line": 8,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 8,
+        "line": 7,
         "ch": 0
       }
     },
@@ -8406,12 +8406,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 13,
+        "ch": 3
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 13,
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -8557,15 +8557,15 @@
     "expandedKeys": []
   },
   "8.Info/2026-01-31-参考B站博主的日记模版.md": {
-    "scroll": 3.6199095022624435,
+    "scroll": 1.8099547511312217,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 10,
+        "ch": 5
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 10,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -9033,7 +9033,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-24.md": {
-    "scroll": 9.597997759066123,
+    "scroll": 30.86926992663959,
     "cursor": {
       "from": {
         "line": 27,
@@ -9061,7 +9061,7 @@
     "expandedKeys": []
   },
   "0.Inbox/2026-02-24_如何变得强大.md": {
-    "scroll": 33.03974830481209,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 46,
@@ -9098,6 +9098,286 @@
       "to": {
         "line": 2,
         "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/时间管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 8
+      },
+      "to": {
+        "line": 2,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/私密-常用服务API.md": {
+    "scroll": 7.919808349868508,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/草稿-Obsidian主页排版参考.md": {
+    "scroll": 2.7559055118110236,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw配置飞书.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw操作指南.md": {
+    "scroll": 31.825429032488568,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 117,
+        "ch": 25
+      },
+      "to": {
+        "line": 117,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/OpenClaw 索引.md": {
+    "scroll": 72.52786216212724,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 28
+      },
+      "to": {
+        "line": 19,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/临时待办.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/私密-Minimax订阅信息.md": {
+    "scroll": 2.4803149606299213,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 14
+      },
+      "to": {
+        "line": 7,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/SelfImprovement/06-认知提升/PARA方法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/SelfImprovement/01-目标管理/个人管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/SelfImprovement/01-目标管理/目标管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/SelfImprovement/01-目标管理/项目管理.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 8
+      },
+      "to": {
+        "line": 6,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/04-JavaScript深入/作用域.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/BOM.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/DOM.md": {
+    "scroll": 410.098455095736,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/JSON.md": {
+    "scroll": 158.26619578150314,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/运算符.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/流程控制语句.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/Frontend/02-概念卡片/变量和数据类型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []
