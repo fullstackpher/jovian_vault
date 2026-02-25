@@ -2578,7 +2578,7 @@
       "fileId": "1771902254353",
       "filePath": "7.Daily/每日日志/2026-02-24.md",
       "duration": 9540000,
-      "openCount": 9
+      "openCount": 10
     },
     "0.Inbox/2026-02-24_截屏技能.md": {
       "fileId": "1771902314365",
@@ -2883,8 +2883,20 @@
     "8.Info/草稿-openclaw写日报.md": {
       "fileId": "1771994104500",
       "filePath": "8.Info/草稿-openclaw写日报.md",
-      "duration": 246000,
-      "openCount": 1
+      "duration": 258000,
+      "openCount": 2
+    },
+    "8.Info/私密-飞书配置信息.md": {
+      "fileId": "1772001105954",
+      "filePath": "8.Info/私密-飞书配置信息.md",
+      "duration": 42000,
+      "openCount": 2
+    },
+    "7.Daily/每日日志/2026-02-25.md": {
+      "fileId": "1772001195953",
+      "filePath": "7.Daily/每日日志/2026-02-25.md",
+      "duration": 162000,
+      "openCount": 2
     }
   }
 }

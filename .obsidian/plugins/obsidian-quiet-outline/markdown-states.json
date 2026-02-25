@@ -9033,7 +9033,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-24.md": {
-    "scroll": 0,
+    "scroll": 6.334841628959276,
     "cursor": {
       "from": {
         "line": 29,
@@ -9474,8 +9474,36 @@
         "ch": 80
       },
       "to": {
+        "line": 3,
+        "ch": 80
+      }
+    },
+    "expandedKeys": []
+  },
+  "8.Info/私密-飞书配置信息.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 42
+      },
+      "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-25.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 8
+      },
+      "to": {
+        "line": 19,
+        "ch": 8
       }
     },
     "expandedKeys": []
