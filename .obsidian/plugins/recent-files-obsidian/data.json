@@ -5,12 +5,68 @@
       "path": "7.Daily/每日日志/2026-02-25.md"
     },
     {
-      "basename": "Clawx安装配置指南",
-      "path": "3.Resources/效率工具/Clawx安装配置指南.md"
+      "basename": "openclaw操作指南",
+      "path": "3.Resources/工具教程/openclaw操作指南.md"
+    },
+    {
+      "basename": "OpenClaw 最热 15 个使用场景",
+      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
+    },
+    {
+      "basename": "OpenClaw 索引",
+      "path": "3.Resources/工具教程/OpenClaw 索引.md"
+    },
+    {
+      "basename": "如何变得强大",
+      "path": "3.Resources/链接收藏/如何变得强大.md"
+    },
+    {
+      "basename": "AI导演创业",
+      "path": "3.Resources/链接收藏/AI导演创业.md"
+    },
+    {
+      "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
+      "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
+    },
+    {
+      "basename": "Obsidian让AI来",
+      "path": "3.Resources/链接收藏/Obsidian让AI来.md"
+    },
+    {
+      "basename": "思考致富",
+      "path": "3.Resources/链接收藏/思考致富.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "必读经典",
+      "path": "2.Areas/自我提升/06-认知提升/必读经典.md"
+    },
+    {
+      "basename": "认知提升",
+      "path": "2.Areas/自我提升/06-认知提升/认知提升.md"
+    },
+    {
+      "basename": "稀archy效应",
+      "path": "2.Areas/自我提升/06-认知提升/稀archy效应.md"
+    },
+    {
+      "basename": "PARA方法",
+      "path": "2.Areas/自我提升/06-认知提升/PARA方法.md"
+    },
+    {
+      "basename": "在obsidian使用GTD+PARA方法论实践个人知识管理",
+      "path": "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md"
+    },
+    {
+      "basename": "第二大脑系统设计方案",
+      "path": "3.Resources/最佳实践/第二大脑系统设计方案.md"
+    },
+    {
+      "basename": "Clawx安装配置指南",
+      "path": "3.Resources/效率工具/Clawx安装配置指南.md"
     },
     {
       "basename": "私密-Minimax订阅信息",
@@ -47,10 +103,6 @@
     {
       "basename": "README",
       "path": "2.Areas/财富管理/README.md"
-    },
-    {
-      "basename": "2026-02-24_如何变得强大",
-      "path": "2.Areas/自我提升/2026-02-24_如何变得强大.md"
     },
     {
       "basename": "临时待办",
@@ -129,22 +181,6 @@
       "path": "0.Inbox/2026-02-24_如何变得强大.md"
     },
     {
-      "basename": "OpenClaw 索引",
-      "path": "3.Resources/工具教程/OpenClaw 索引.md"
-    },
-    {
-      "basename": "OpenClaw 最热 15 个使用场景",
-      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
-    },
-    {
-      "basename": "openclaw操作指南",
-      "path": "3.Resources/工具教程/openclaw操作指南.md"
-    },
-    {
-      "basename": "openclaw配置飞书",
-      "path": "3.Resources/工具教程/openclaw配置飞书.md"
-    },
-    {
       "basename": "README",
       "path": "2.Areas/README.md"
     },
@@ -157,44 +193,8 @@
       "path": "3.Resources/链接收藏/土豆变黄金.md"
     },
     {
-      "basename": "思考致富",
-      "path": "3.Resources/链接收藏/思考致富.md"
-    },
-    {
       "basename": "2026-W08",
       "path": "7.Daily/每周复盘/2026-W08.md"
-    },
-    {
-      "basename": "2026-02-23",
-      "path": "7.Daily/每日日志/2026-02-23.md"
-    },
-    {
-      "basename": "学习JavaScript",
-      "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "Dashboards/项目看板.md"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "7.Daily/每日日志/2026-02-22.md"
-    },
-    {
-      "basename": "局部截取_20260218_094508",
-      "path": "5.Zattchments/图片/截图/局部截取_20260218_094508.png"
-    },
-    {
-      "basename": "局部截取_20260213_125355",
-      "path": "5.Zattchments/图片/截图/局部截取_20260213_125355.png"
-    },
-    {
-      "basename": "局部截取_20260209_184051",
-      "path": "5.Zattchments/图片/截图/局部截取_20260209_184051.png"
-    },
-    {
-      "basename": "局部截取_20260209_212117",
-      "path": "5.Zattchments/图片/截图/局部截取_20260209_212117.png"
     }
   ],
   "omittedPaths": [],

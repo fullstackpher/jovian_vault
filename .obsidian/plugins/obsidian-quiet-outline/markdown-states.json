@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 194.6822386150455,
     "cursor": {
       "from": {
         "line": 95,
@@ -8151,15 +8151,15 @@
     "expandedKeys": []
   },
   "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
-    "scroll": 0,
+    "scroll": 5.511811023622047,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 12,
+        "ch": 84
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 12,
+        "ch": 84
       }
     },
     "expandedKeys": []
@@ -8193,7 +8193,7 @@
     "expandedKeys": []
   },
   "3.Resources/最佳实践/第二大脑系统设计方案.md": {
-    "scroll": 7.96309911191853,
+    "scroll": 293.9158399993298,
     "cursor": {
       "from": {
         "line": 5,
@@ -8963,7 +8963,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
-    "scroll": 501.7692910774813,
+    "scroll": 415.7654605634186,
     "cursor": {
       "from": {
         "line": 509,
@@ -9159,21 +9159,21 @@
     "expandedKeys": []
   },
   "3.Resources/工具教程/openclaw操作指南.md": {
-    "scroll": 31.825429032488568,
+    "scroll": 303.71567832455247,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 251,
+        "ch": 20
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 251,
+        "ch": 20
       }
     },
     "expandedKeys": []
   },
   "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md": {
-    "scroll": 0,
+    "scroll": 56.97704356207243,
     "cursor": {
       "from": {
         "line": 117,
@@ -9187,7 +9187,7 @@
     "expandedKeys": []
   },
   "3.Resources/工具教程/OpenClaw 索引.md": {
-    "scroll": 72.52786216212724,
+    "scroll": 51.88168066455348,
     "cursor": {
       "from": {
         "line": 19,
@@ -9411,14 +9411,14 @@
     "expandedKeys": []
   },
   "2.Areas/自我提升/2026-02-24_如何变得强大.md": {
-    "scroll": 0,
+    "scroll": 34.7557186051911,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 12,
         "ch": 0
       }
     },
@@ -9495,15 +9495,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-25.md": {
-    "scroll": 31.321894701789407,
+    "scroll": 12.794105700431006,
     "cursor": {
       "from": {
-        "line": 57,
-        "ch": 0
+        "line": 32,
+        "ch": 14
       },
       "to": {
-        "line": 57,
-        "ch": 0
+        "line": 32,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -9560,6 +9560,104 @@
       "to": {
         "line": 470,
         "ch": 157
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/2026-02-25_AI导演创业.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 33
+      },
+      "to": {
+        "line": 17,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/06-认知提升/稀archy效应.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/06-认知提升/PARA方法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/06-认知提升/认知提升.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/06-认知提升/必读经典.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-02-24_如何变得强大.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-02-25_AI导演创业.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []
