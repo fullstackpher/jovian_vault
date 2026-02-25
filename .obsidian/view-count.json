@@ -8029,7 +8029,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-25.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772001190946
@@ -8048,11 +8048,14 @@
         },
         {
           "timestampMillis": 1772017142524
+        },
+        {
+          "timestampMillis": 1772028034515
         }
       ]
     },
     {
-      "path": "3.Resources/效率工具/Clawx使用指南.md",
+      "path": "3.Resources/效率工具/Clawx安装配置指南.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 7,
       "openLogs": [
@@ -8076,19 +8079,6 @@
         },
         {
           "timestampMillis": 1772027268257
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1772021015422
-        },
-        {
-          "timestampMillis": 1772021052315
         }
       ]
     }

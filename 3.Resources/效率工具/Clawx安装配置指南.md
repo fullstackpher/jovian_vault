@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-25T19:00
-更新时间: 2026-02-25T21:45
+更新时间: 2026-02-25T21:58
 tags:
   - 效率工具
   - 工具使用
@@ -37,9 +37,9 @@ Clawx是一个openclaw客户端，内置openclaw运行时，基于Eletron和Reac
 
 在弹出的窗口中，请务必注意以下设置：
 
-名称：随便填，比如 Claude Code。
+名称：随便填，比如 **Claude Code**。
 
-分组：🔴 【非常重要】 为了确保模型权限正常，建议选择 “Claude Code专属” 和 “自动选择”（可同时添加）。
+分组：🔴 【**非常重要**】 为了确保模型权限正常，建议选择 “**Claude Code专属**” 和 “自动选择”（可同时添加）。
 
 额度：可以设个上限（如 $50）或者默认“无限”。
 
@@ -68,6 +68,29 @@ API 密钥：粘贴你在上面中复制的 sk- 开头的密钥。
 
 配置完成后，点击界面上的 **添加提供商** 按钮。
 
+![配置模型3_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B3_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
+![配置模型4_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B4_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
+
+配置完成后，验证连接与初次体验
+
+**测试指令：**
+
+```undefined
+你是哪个模型？请用两句话介绍一下你自己。
+```
+
+![使用1 (1).png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E4%BD%BF%E7%94%A81%20(1).png)
+
+**测试指令：**
+
+```undefined
+获取昨天的上证指数的收盘价
+```
+
+![使用2 (1).png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E4%BD%BF%E7%94%A82%20(1).png)
+
+
+通过对比一下，是非常正确的。接下来让它作为“数字员工”，在我的本地文件操作。
 
 #### 2. 配置飞书
 
@@ -289,30 +312,18 @@ API 密钥：粘贴你在上面中复制的 sk- 开头的密钥。
 ```
 
 - 第四步：在 **版本管理与发布** 页面创建版本，发布应用
-![配置模型3_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B3_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
-![配置模型4_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B4_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
+- 第五步：复制appId和appSecret到Clawx配置飞书选项，重启Gateway连接飞书
+- 第六步：在 **事件订阅** 页面：
+	1. 选择 **使用长连接接收事件**（WebSocket 模式）
+	2. 添加事件：`im.message.receive_v1`（接收消息）
+⚠️ **注意**：如果网关未启动或渠道未添加，长连接设置将保存失败。
 
-配置完成后，验证连接与初次体验
+![image.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/20260225215446.png)
 
-**测试指令：**
-
-```undefined
-你是哪个模型？请用两句话介绍一下你自己。
-```
-
-![使用1 (1).png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E4%BD%BF%E7%94%A81%20(1).png)
-
-
-**测试指令：**
-
-```undefined
-获取昨天的上证指数的收盘价
-```
-
-![使用2 (1).png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E4%BD%BF%E7%94%A82%20(1).png)
-
-
-通过对比一下，是非常正确的。接下来让它作为“数字员工”，在我的本地文件操作。
+- 最后一步：发布应用
+	1. 在 **版本管理与发布** 页面创建版本
+	2. 提交审核并发布
+	3. 等待管理员审批（企业自建应用通常自动通过）
 
 #### 3. 配置Agent
 
@@ -453,3 +464,8 @@ API 密钥：粘贴你在上面中复制的 sk- 开头的密钥。
 - 副业/变现
 - 个人成长
 ```
+
+### 参考资料
+- [【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！](https://zhuanlan.zhihu.com/p/2006110926391243042)
+- [飞书 - OpenClaw配置](https://docs.openclaw.ai/zh-CN/channels/feishu#%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%88%9B%E5%BB%BA%E9%A3%9E%E4%B9%A6%E5%BA%94%E7%94%A8)
+- [GitHub - mengjian-github/xiaomo-starter-kit: 🐈‍⬛ OpenClaw 中文 AI 助手模板 \| 5分钟拥有你的 AI 私人助手](https://github.com/mengjian-github/xiaomo-starter-kit/tree/main)

@@ -9495,15 +9495,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-25.md": {
-    "scroll": 9.597997759066123,
+    "scroll": 31.321894701789407,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 15
+        "line": 57,
+        "ch": 0
       },
       "to": {
-        "line": 19,
-        "ch": 15
+        "line": 57,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -9523,15 +9523,15 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/Clawx使用指南.md": {
-    "scroll": 310.3239494024539,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 71,
-        "ch": 0
+        "line": 470,
+        "ch": 157
       },
       "to": {
-        "line": 71,
-        "ch": 0
+        "line": 470,
+        "ch": 157
       }
     },
     "expandedKeys": []
@@ -9546,6 +9546,20 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Clawx安装配置指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 470,
+        "ch": 157
+      },
+      "to": {
+        "line": 470,
+        "ch": 157
       }
     },
     "expandedKeys": []

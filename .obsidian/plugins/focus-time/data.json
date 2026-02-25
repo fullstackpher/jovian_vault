@@ -2895,20 +2895,20 @@
     "7.Daily/每日日志/2026-02-25.md": {
       "fileId": "1772001195953",
       "filePath": "7.Daily/每日日志/2026-02-25.md",
-      "duration": 258000,
+      "duration": 396000,
       "openCount": 5
-    },
-    "3.Resources/效率工具/Clawx使用指南.md": {
-      "fileId": "1772017203757",
-      "filePath": "3.Resources/效率工具/Clawx使用指南.md",
-      "duration": 2982000,
-      "openCount": 2
     },
     "0.Inbox/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！.md": {
       "fileId": "1772021019721",
       "filePath": "0.Inbox/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！.md",
       "duration": 108000,
       "openCount": 2
+    },
+    "3.Resources/效率工具/Clawx安装配置指南.md": {
+      "fileId": "1772017203757",
+      "filePath": "3.Resources/效率工具/Clawx安装配置指南.md",
+      "duration": 3552000,
+      "openCount": 3
     }
   }
 }
