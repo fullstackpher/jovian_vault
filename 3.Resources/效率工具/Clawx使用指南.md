@@ -1,6 +1,6 @@
 ---
 创建时间: 2026-02-25T19:00
-更新时间: 2026-02-25T21:17
+更新时间: 2026-02-25T21:22
 tags:
   - 效率工具
   - 工具使用
@@ -289,11 +289,12 @@ API 密钥：粘贴你在上面中复制的 sk- 开头的密钥。
 ```
 
 - 第四步：在 **版本管理与发布** 页面创建版本，发布应用
-
-
-
+![配置模型3_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B3_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
+![配置模型4_无水印.png](https://jovian-1257905003.cos.ap-shanghai.myqcloud.com/picture/%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%9E%8B4_%E6%97%A0%E6%B0%B4%E5%8D%B0.png)
 
 配置完成后，验证连接与初次体验
+
+
 
 
 #### 3. 配置Agent
