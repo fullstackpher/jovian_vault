@@ -9465,5 +9465,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "8.Info/草稿-openclaw写日报.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 80
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
