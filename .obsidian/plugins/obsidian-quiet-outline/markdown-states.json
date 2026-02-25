@@ -9215,7 +9215,7 @@
     "expandedKeys": []
   },
   "8.Info/私密-Minimax订阅信息.md": {
-    "scroll": 2.4803149606299213,
+    "scroll": 14.6241829068053,
     "cursor": {
       "from": {
         "line": 7,
@@ -9499,11 +9499,39 @@
     "cursor": {
       "from": {
         "line": 19,
-        "ch": 8
+        "ch": 15
       },
       "to": {
         "line": 19,
-        "ch": 8
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Clawx使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
       }
     },
     "expandedKeys": []

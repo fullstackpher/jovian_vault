@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "私密-Minimax订阅信息",
-      "path": "8.Info/私密-Minimax订阅信息.md"
+      "basename": "Clawx使用指南",
+      "path": "3.Resources/效率工具/Clawx使用指南.md"
     },
     {
       "basename": "2026-02-25",
       "path": "7.Daily/每日日志/2026-02-25.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "私密-Minimax订阅信息",
+      "path": "8.Info/私密-Minimax订阅信息.md"
     },
     {
       "basename": "2026-02-24",
@@ -23,10 +31,6 @@
     {
       "basename": "待处理区",
       "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "专注个人提升的obsidian标签体系",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-02-屏幕截图",
       "path": "5.Zattchments/图片/截图/2026-02-02-屏幕截图.png"
-    },
-    {
-      "basename": "ClawX.exe_20260222_211421",
-      "path": "5.Zattchments/图片/截图/ClawX.exe_20260222_211421.png"
     }
   ],
   "omittedPaths": [],

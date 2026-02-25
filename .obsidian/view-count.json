@@ -524,21 +524,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 37,
-      "totalTimesOpened": 610,
+      "uniqueDaysOpened": 38,
+      "totalTimesOpened": 611,
       "openLogs": [
-        {
-          "timestampMillis": 1769228614622
-        },
-        {
-          "timestampMillis": 1769235018675
-        },
-        {
-          "timestampMillis": 1769248837656
-        },
-        {
-          "timestampMillis": 1769248985112
-        },
         {
           "timestampMillis": 1769315942226
         },
@@ -2104,6 +2092,9 @@
         },
         {
           "timestampMillis": 1771940361121
+        },
+        {
+          "timestampMillis": 1772017120711
         }
       ]
     },
@@ -8038,13 +8029,38 @@
     {
       "path": "7.Daily/每日日志/2026-02-25.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1772001190946
         },
         {
           "timestampMillis": 1772001351235
+        },
+        {
+          "timestampMillis": 1772017116990
+        },
+        {
+          "timestampMillis": 1772017119402
+        },
+        {
+          "timestampMillis": 1772017129819
+        },
+        {
+          "timestampMillis": 1772017142524
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Clawx使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772017201173
+        },
+        {
+          "timestampMillis": 1772017219118
         }
       ]
     }
