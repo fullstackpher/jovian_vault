@@ -8066,6 +8066,19 @@
           "timestampMillis": 1772018385488
         }
       ]
+    },
+    {
+      "path": "0.Inbox/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772021015422
+        },
+        {
+          "timestampMillis": 1772021052315
+        }
+      ]
     }
   ]
 }
