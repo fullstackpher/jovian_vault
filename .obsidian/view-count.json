@@ -8054,7 +8054,7 @@
     {
       "path": "3.Resources/效率工具/Clawx使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772017201173
@@ -8073,6 +8073,9 @@
         },
         {
           "timestampMillis": 1772023907972
+        },
+        {
+          "timestampMillis": 1772027268257
         }
       ]
     },
