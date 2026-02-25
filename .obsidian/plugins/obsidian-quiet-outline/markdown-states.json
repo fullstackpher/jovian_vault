@@ -9526,12 +9526,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 17,
+        "ch": 9
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 17,
+        "ch": 9
       }
     },
     "expandedKeys": []
