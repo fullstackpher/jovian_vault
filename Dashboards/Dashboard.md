@@ -95,10 +95,9 @@ actions:
 ## 📥 Inbox 待处理任务
 
 > 快速捕获的任务将显示在这里，定期整理清空
-
 ```dataview
 TASK
-FROM "8.Info/0-Inbox.md"
+FROM "7.Daily/临时待办.md"
 WHERE !completed
 SORT file.cday DESC
 ```

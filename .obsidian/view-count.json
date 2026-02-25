@@ -525,7 +525,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 37,
-      "totalTimesOpened": 603,
+      "totalTimesOpened": 610,
       "openLogs": [
         {
           "timestampMillis": 1769228614622
@@ -2083,6 +2083,27 @@
         },
         {
           "timestampMillis": 1771939552456
+        },
+        {
+          "timestampMillis": 1771939655812
+        },
+        {
+          "timestampMillis": 1771939685397
+        },
+        {
+          "timestampMillis": 1771939898693
+        },
+        {
+          "timestampMillis": 1771939959208
+        },
+        {
+          "timestampMillis": 1771940007788
+        },
+        {
+          "timestampMillis": 1771940231403
+        },
+        {
+          "timestampMillis": 1771940361121
         }
       ]
     },
@@ -5354,8 +5375,8 @@
     },
     {
       "path": "Dashboards/待处理区.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 26,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1770198755024
@@ -5434,6 +5455,15 @@
         },
         {
           "timestampMillis": 1771933174516
+        },
+        {
+          "timestampMillis": 1771939914580
+        },
+        {
+          "timestampMillis": 1771939995206
+        },
+        {
+          "timestampMillis": 1771994095567
         }
       ]
     },
@@ -7638,7 +7668,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-24.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1771902253437
@@ -7666,6 +7696,9 @@
         },
         {
           "timestampMillis": 1771933315722
+        },
+        {
+          "timestampMillis": 1771940042630
         }
       ]
     },
@@ -7898,6 +7931,91 @@
       "openLogs": [
         {
           "timestampMillis": 1771939554757
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/临时待办.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1771939672799
+        },
+        {
+          "timestampMillis": 1771939846578
+        },
+        {
+          "timestampMillis": 1771939909158
+        },
+        {
+          "timestampMillis": 1771939917494
+        },
+        {
+          "timestampMillis": 1771939998384
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/自我提升/2026-02-24_如何变得强大.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771940195107
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/财富管理/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771940226531
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/两周内学会任何东西.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1771940247271
+        },
+        {
+          "timestampMillis": 1771940252474
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/自我提升/02-学习方法/学习方法.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771940249459
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771940262534
+        }
+      ]
+    },
+    {
+      "path": "8.Info/未命名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1771994103273
         }
       ]
     }

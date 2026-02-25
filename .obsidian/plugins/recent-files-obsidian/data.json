@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/前端开发/Frontend知识体系总览.md"
+      "basename": "未命名",
+      "path": "8.Info/未命名.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
     },
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "专注个人提升的obsidian标签体系",
+      "path": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md"
+    },
+    {
+      "basename": "两周内学会任何东西",
+      "path": "3.Resources/效率工具/两周内学会任何东西.md"
+    },
+    {
+      "basename": "学习方法",
+      "path": "2.Areas/自我提升/02-学习方法/学习方法.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Areas/财富管理/README.md"
+    },
+    {
+      "basename": "2026-02-24_如何变得强大",
+      "path": "2.Areas/自我提升/2026-02-24_如何变得强大.md"
+    },
+    {
+      "basename": "2026-02-24",
+      "path": "7.Daily/每日日志/2026-02-24.md"
+    },
+    {
+      "basename": "临时待办",
+      "path": "7.Daily/临时待办.md"
+    },
+    {
+      "basename": "Frontend知识体系总览",
+      "path": "2.Areas/前端开发/Frontend知识体系总览.md"
     },
     {
       "basename": "Frontend知识体系总览",
@@ -97,14 +133,6 @@
       "path": "3.Resources/工具教程/openclaw配置飞书.md"
     },
     {
-      "basename": "2026-02-24",
-      "path": "7.Daily/每日日志/2026-02-24.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
-    },
-    {
       "basename": "README",
       "path": "2.Areas/README.md"
     },
@@ -171,10 +199,6 @@
     {
       "basename": "ClawX.exe_20260222_235706",
       "path": "5.Zattchments/图片/截图/ClawX.exe_20260222_235706.png"
-    },
-    {
-      "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
-      "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
     }
   ],
   "omittedPaths": [],

@@ -3625,15 +3625,15 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 250.93637494524148,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 94,
-        "ch": 17
+        "line": 95,
+        "ch": 0
       },
       "to": {
-        "line": 94,
-        "ch": 17
+        "line": 95,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -8809,7 +8809,7 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/两周内学会任何东西.md": {
-    "scroll": 51.16192378842734,
+    "scroll": 63.384394552193434,
     "cursor": {
       "from": {
         "line": 15,
@@ -9033,15 +9033,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-24.md": {
-    "scroll": 30.86926992663959,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 36
+        "line": 29,
+        "ch": 0
       },
       "to": {
-        "line": 27,
-        "ch": 36
+        "line": 29,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -9383,6 +9383,48 @@
     "expandedKeys": []
   },
   "2.Areas/前端开发/Frontend知识体系总览.md": {
+    "scroll": 346.1985361435834,
+    "cursor": {
+      "from": {
+        "line": 66,
+        "ch": 8
+      },
+      "to": {
+        "line": 66,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/临时待办.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/2026-02-24_如何变得强大.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/财富管理/README.md": {
     "scroll": 0,
     "cursor": {
       "from": {
@@ -9391,6 +9433,34 @@
       },
       "to": {
         "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/02-学习方法/学习方法.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": {
+    "scroll": 25.966315450688658,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },

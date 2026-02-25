@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 24906000,
-      "openCount": 420
+      "duration": 25182000,
+      "openCount": 426
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1557,8 +1557,8 @@
     "Dashboards/待处理区.md": {
       "fileId": "1770198755807",
       "filePath": "Dashboards/待处理区.md",
-      "duration": 1560000,
-      "openCount": 23
+      "duration": 1572000,
+      "openCount": 26
     },
     "1.Projects/01-学习Java/学习JavaEE.md": {
       "fileId": "1770199475815",
@@ -2109,8 +2109,8 @@
     "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": {
       "fileId": "1770354280291",
       "filePath": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md",
-      "duration": 228000,
-      "openCount": 8
+      "duration": 330000,
+      "openCount": 9
     },
     "3.Resources/效率工具/Calendar使用指南.md": {
       "fileId": "1769341690176",
@@ -2367,8 +2367,8 @@
     "3.Resources/效率工具/两周内学会任何东西.md": {
       "fileId": "1771765258223",
       "filePath": "3.Resources/效率工具/两周内学会任何东西.md",
-      "duration": 114000,
-      "openCount": 5
+      "duration": 120000,
+      "openCount": 7
     },
     "3.Resources/工具教程/Obsidian任务管理教程/Obsidian任务管理教程2-如何管理目标和任务.md": {
       "fileId": "1770097988551",
@@ -2577,8 +2577,8 @@
     "7.Daily/每日日志/2026-02-24.md": {
       "fileId": "1771902254353",
       "filePath": "7.Daily/每日日志/2026-02-24.md",
-      "duration": 9390000,
-      "openCount": 8
+      "duration": 9540000,
+      "openCount": 9
     },
     "0.Inbox/2026-02-24_截屏技能.md": {
       "fileId": "1771902314365",
@@ -2847,6 +2847,36 @@
     "2.Areas/Frontend/02-概念卡片/变量和数据类型.md": {
       "fileId": "1771934789124",
       "filePath": "2.Areas/Frontend/02-概念卡片/变量和数据类型.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "2.Areas/前端开发/Frontend知识体系总览.md": {
+      "fileId": "1771939556122",
+      "filePath": "2.Areas/前端开发/Frontend知识体系总览.md",
+      "duration": 102000,
+      "openCount": 2
+    },
+    "7.Daily/临时待办.md": {
+      "fileId": "1771939676119",
+      "filePath": "7.Daily/临时待办.md",
+      "duration": 126000,
+      "openCount": 6
+    },
+    "2.Areas/自我提升/2026-02-24_如何变得强大.md": {
+      "fileId": "1771940198119",
+      "filePath": "2.Areas/自我提升/2026-02-24_如何变得强大.md",
+      "duration": 30000,
+      "openCount": 2
+    },
+    "2.Areas/财富管理/README.md": {
+      "fileId": "1771940228119",
+      "filePath": "2.Areas/财富管理/README.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "2.Areas/自我提升/02-学习方法/学习方法.md": {
+      "fileId": "1771940252120",
+      "filePath": "2.Areas/自我提升/02-学习方法/学习方法.md",
       "duration": 6000,
       "openCount": 2
     }

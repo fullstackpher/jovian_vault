@@ -77,7 +77,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "8.Info/0-Inbox.md",
+      "captureTo": "7.Daily/临时待办.md",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -91,7 +91,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## inbox",
+        "after": "## 待办事项",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
