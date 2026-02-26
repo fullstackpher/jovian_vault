@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "openclaw常用技能",
+      "path": "3.Resources/速查手册/openclaw常用技能.md"
+    },
+    {
       "basename": "openclaw使用指南",
       "path": "2.Areas/人工智能/Agent/openclaw使用指南.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "私密-常用服务API",
       "path": "8.Info/私密-常用服务API.md"
-    },
-    {
-      "basename": "草稿-Obsidian主页排版参考",
-      "path": "8.Info/草稿-Obsidian主页排版参考.md"
     }
   ],
   "omittedPaths": [],

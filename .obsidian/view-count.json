@@ -6867,8 +6867,8 @@
     },
     {
       "path": "3.Resources/速查手册/openclaw常用技能.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 16,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1771374983042
@@ -6917,6 +6917,9 @@
         },
         {
           "timestampMillis": 1771765361858
+        },
+        {
+          "timestampMillis": 1772089410764
         }
       ]
     },
@@ -8168,7 +8171,7 @@
     {
       "path": "2.Areas/人工智能/Agent/openclaw使用指南.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1772080402877
@@ -8190,6 +8193,9 @@
         },
         {
           "timestampMillis": 1772087362141
+        },
+        {
+          "timestampMillis": 1772089383109
         }
       ]
     },
