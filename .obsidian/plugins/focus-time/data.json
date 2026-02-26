@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 25194000,
-      "openCount": 428
+      "duration": 25218000,
+      "openCount": 429
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1443,8 +1443,8 @@
     "2.Areas/README.md": {
       "fileId": "1770188339928",
       "filePath": "2.Areas/README.md",
-      "duration": 24000,
-      "openCount": 3
+      "duration": 66000,
+      "openCount": 4
     },
     "3.Resources/README.md": {
       "fileId": "1770188345908",
@@ -2961,8 +2961,20 @@
     "3.Resources/效率工具/openclaw深度使用攻略.md": {
       "fileId": "1772076442885",
       "filePath": "3.Resources/效率工具/openclaw深度使用攻略.md",
-      "duration": 150000,
-      "openCount": 1
+      "duration": 282000,
+      "openCount": 3
+    },
+    "1.Projects/04-学习AI/学习AI Agent.md": {
+      "fileId": "1772080360774",
+      "filePath": "1.Projects/04-学习AI/学习AI Agent.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "2.Areas/人工智能/Agent/openclaw使用指南.md": {
+      "fileId": "1772080408771",
+      "filePath": "2.Areas/人工智能/Agent/openclaw使用指南.md",
+      "duration": 672000,
+      "openCount": 3
     }
   }
 }

@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 194.6822386150455,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 95,
@@ -5737,7 +5737,7 @@
     "expandedKeys": []
   },
   "2.Areas/README.md": {
-    "scroll": 22.425704687350148,
+    "scroll": 34.03921688304228,
     "cursor": {
       "from": {
         "line": 4,
@@ -9686,6 +9686,34 @@
       "to": {
         "line": 14,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/04-学习AI/学习AI Agent.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/人工智能/Agent/openclaw使用指南.md": {
+    "scroll": 11.672733882876443,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 24
+      },
+      "to": {
+        "line": 13,
+        "ch": 24
       }
     },
     "expandedKeys": []

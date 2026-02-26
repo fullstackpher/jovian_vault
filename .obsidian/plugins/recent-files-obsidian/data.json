@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "openclaw深度使用攻略",
-      "path": "3.Resources/效率工具/openclaw深度使用攻略.md"
+      "basename": "openclaw使用指南",
+      "path": "2.Areas/人工智能/Agent/openclaw使用指南.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Areas/README.md"
+    },
+    {
+      "basename": "学习AI Agent",
+      "path": "1.Projects/04-学习AI/学习AI Agent.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-02-26",
@@ -51,10 +63,6 @@
     {
       "basename": "思考致富",
       "path": "3.Resources/链接收藏/思考致富.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "必读经典",
@@ -187,18 +195,6 @@
     {
       "basename": "草稿-Obsidian主页排版参考",
       "path": "8.Info/草稿-Obsidian主页排版参考.md"
-    },
-    {
-      "basename": "临时待办",
-      "path": "0.Inbox/临时待办.md"
-    },
-    {
-      "basename": "2026-02-24_如何变得强大",
-      "path": "0.Inbox/2026-02-24_如何变得强大.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Areas/README.md"
     }
   ],
   "omittedPaths": [],

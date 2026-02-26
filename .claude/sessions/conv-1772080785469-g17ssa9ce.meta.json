@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772080785469-g17ssa9ce",
+  "title": "补充笔记内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772080785469,
+  "updatedAt": 1772080826020,
+  "lastResponseAt": 1772080826020,
+  "sessionId": "8635e72c-75c2-45db-8250-012e2afcb418",
+  "sdkSessionId": "8635e72c-75c2-45db-8250-012e2afcb418",
+  "currentNote": "2.Areas/人工智能/Agent/openclaw使用指南.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 813,
+    "cacheCreationInputTokens": 837,
+    "cacheReadInputTokens": 15146,
+    "contextWindow": 200000,
+    "contextTokens": 16796,
+    "percentage": 8
+  }
+}

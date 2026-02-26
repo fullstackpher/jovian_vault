@@ -524,21 +524,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 38,
-      "totalTimesOpened": 612,
+      "uniqueDaysOpened": 39,
+      "totalTimesOpened": 613,
       "openLogs": [
-        {
-          "timestampMillis": 1769315942226
-        },
-        {
-          "timestampMillis": 1769315943781
-        },
-        {
-          "timestampMillis": 1769336191077
-        },
-        {
-          "timestampMillis": 1769339119494
-        },
         {
           "timestampMillis": 1769401432876
         },
@@ -2098,6 +2086,9 @@
         },
         {
           "timestampMillis": 1772028677281
+        },
+        {
+          "timestampMillis": 1772080333946
         }
       ]
     },
@@ -3682,8 +3673,8 @@
     },
     {
       "path": "2.Areas/README.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1769495704649
@@ -3711,6 +3702,9 @@
         },
         {
           "timestampMillis": 1771932516985
+        },
+        {
+          "timestampMillis": 1772080436459
         }
       ]
     },
@@ -8156,12 +8150,37 @@
       ]
     },
     {
-      "path": "3.Resources/效率工具/openclaw深度使用攻略.md",
+      "path": "1.Projects/04-学习AI/学习AI Agent.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
-          "timestampMillis": 1772076437833
+          "timestampMillis": 1772080357210
+        },
+        {
+          "timestampMillis": 1772080398432
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/人工智能/Agent/openclaw使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1772080402877
+        },
+        {
+          "timestampMillis": 1772080476504
+        },
+        {
+          "timestampMillis": 1772080533081
+        },
+        {
+          "timestampMillis": 1772080842051
+        },
+        {
+          "timestampMillis": 1772080910155
         }
       ]
     }
