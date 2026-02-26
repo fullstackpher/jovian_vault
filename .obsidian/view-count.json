@@ -3117,57 +3117,9 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 18,
-      "totalTimesOpened": 61,
+      "uniqueDaysOpened": 19,
+      "totalTimesOpened": 62,
       "openLogs": [
-        {
-          "timestampMillis": 1769140825686
-        },
-        {
-          "timestampMillis": 1769159326352
-        },
-        {
-          "timestampMillis": 1769159516897
-        },
-        {
-          "timestampMillis": 1769159585553
-        },
-        {
-          "timestampMillis": 1769168930089
-        },
-        {
-          "timestampMillis": 1769228618448
-        },
-        {
-          "timestampMillis": 1769235022239
-        },
-        {
-          "timestampMillis": 1769235080941
-        },
-        {
-          "timestampMillis": 1769238305706
-        },
-        {
-          "timestampMillis": 1769248839789
-        },
-        {
-          "timestampMillis": 1769315946596
-        },
-        {
-          "timestampMillis": 1769327747251
-        },
-        {
-          "timestampMillis": 1769327993564
-        },
-        {
-          "timestampMillis": 1769328042813
-        },
-        {
-          "timestampMillis": 1769341522141
-        },
-        {
-          "timestampMillis": 1769341522467
-        },
         {
           "timestampMillis": 1769401772899
         },
@@ -3296,6 +3248,9 @@
         },
         {
           "timestampMillis": 1771847290254
+        },
+        {
+          "timestampMillis": 1772092083658
         }
       ]
     },
