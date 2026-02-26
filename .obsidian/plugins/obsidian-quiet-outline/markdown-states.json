@@ -6135,15 +6135,15 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 31.7069037463803,
+    "scroll": 42.852898432924704,
     "cursor": {
       "from": {
-        "line": 52,
-        "ch": 26
+        "line": 54,
+        "ch": 25
       },
       "to": {
-        "line": 52,
-        "ch": 0
+        "line": 54,
+        "ch": 25
       }
     },
     "expandedKeys": []
@@ -7941,15 +7941,15 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/打造第二大脑.md": {
-    "scroll": 50.30435367013762,
+    "scroll": 345.94647426231234,
     "cursor": {
       "from": {
-        "line": 62,
+        "line": 59,
         "ch": 0
       },
       "to": {
-        "line": 62,
-        "ch": 31
+        "line": 59,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -8389,15 +8389,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-21.md": {
-    "scroll": 25.23365494687425,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 23
+        "line": 9,
+        "ch": 16
       },
       "to": {
-        "line": 34,
-        "ch": 23
+        "line": 9,
+        "ch": 16
       }
     },
     "expandedKeys": []
@@ -8417,7 +8417,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-22.md": {
-    "scroll": 0,
+    "scroll": 22.294549274189496,
     "cursor": {
       "from": {
         "line": 31,
@@ -8949,7 +8949,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-23.md": {
-    "scroll": 0,
+    "scroll": 22.40118828097846,
     "cursor": {
       "from": {
         "line": 23,
@@ -9033,7 +9033,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-24.md": {
-    "scroll": 6.334841628959276,
+    "scroll": 18.81862715178845,
     "cursor": {
       "from": {
         "line": 29,
@@ -9495,7 +9495,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-25.md": {
-    "scroll": 0,
+    "scroll": 18.81862715178845,
     "cursor": {
       "from": {
         "line": 34,
@@ -9663,15 +9663,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-26.md": {
-    "scroll": 29.745169573205114,
+    "scroll": 54.87511101499922,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 26
+        "line": 33,
+        "ch": 29
       },
       "to": {
-        "line": 21,
-        "ch": 26
+        "line": 33,
+        "ch": 29
       }
     },
     "expandedKeys": []
@@ -9691,14 +9691,14 @@
     "expandedKeys": []
   },
   "1.Projects/04-学习AI/学习AI Agent.md": {
-    "scroll": 0,
+    "scroll": 246.9599582447725,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 46,
         "ch": 0
       },
       "to": {
-        "line": 10,
+        "line": 46,
         "ch": 0
       }
     },
@@ -9728,6 +9728,34 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/自我提升/2026-02-25_星哥聊IP自媒体.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/一人公司-超级个体.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 30
+      },
+      "to": {
+        "line": 15,
+        "ch": 30
       }
     },
     "expandedKeys": []

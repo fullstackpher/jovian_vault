@@ -3118,7 +3118,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 63,
+      "totalTimesOpened": 64,
       "openLogs": [
         {
           "timestampMillis": 1769401772899
@@ -3254,6 +3254,9 @@
         },
         {
           "timestampMillis": 1772101666076
+        },
+        {
+          "timestampMillis": 1772102822190
         }
       ]
     },
@@ -6364,8 +6367,8 @@
     },
     {
       "path": "1.Projects/02-知识管理/打造第二大脑.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1770982695888
@@ -6408,6 +6411,12 @@
         },
         {
           "timestampMillis": 1771782044235
+        },
+        {
+          "timestampMillis": 1772102993922
+        },
+        {
+          "timestampMillis": 1772103171119
         }
       ]
     },
@@ -7045,8 +7054,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-21.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 16,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1771635313432
@@ -7095,13 +7104,16 @@
         },
         {
           "timestampMillis": 1771785718947
+        },
+        {
+          "timestampMillis": 1772102378557
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-02-22.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 22,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1771742319847
@@ -7168,6 +7180,9 @@
         },
         {
           "timestampMillis": 1771788761803
+        },
+        {
+          "timestampMillis": 1772102372253
         }
       ]
     },
@@ -7388,8 +7403,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-23.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 28,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1771787662674
@@ -7474,6 +7489,9 @@
         },
         {
           "timestampMillis": 1771851533099
+        },
+        {
+          "timestampMillis": 1772102365128
         }
       ]
     },
@@ -7581,8 +7599,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-24.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1771902253437
@@ -7616,6 +7634,9 @@
         },
         {
           "timestampMillis": 1772001348127
+        },
+        {
+          "timestampMillis": 1772102358582
         }
       ]
     },
@@ -7975,8 +7996,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-02-25.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1772001190946
@@ -8004,6 +8025,9 @@
         },
         {
           "timestampMillis": 1772029129879
+        },
+        {
+          "timestampMillis": 1772102349811
         }
       ]
     },
@@ -8100,7 +8124,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-26.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772076141113
@@ -8116,19 +8140,58 @@
         },
         {
           "timestampMillis": 1772101668638
+        },
+        {
+          "timestampMillis": 1772102408391
+        },
+        {
+          "timestampMillis": 1772102442769
+        },
+        {
+          "timestampMillis": 1772102467572
+        },
+        {
+          "timestampMillis": 1772102486043
         }
       ]
     },
     {
       "path": "1.Projects/04-学习AI/学习AI Agent.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1772080357210
         },
         {
           "timestampMillis": 1772080398432
+        },
+        {
+          "timestampMillis": 1772102489380
+        },
+        {
+          "timestampMillis": 1772102587394
+        },
+        {
+          "timestampMillis": 1772102665070
+        },
+        {
+          "timestampMillis": 1772102694991
+        },
+        {
+          "timestampMillis": 1772102763947
+        },
+        {
+          "timestampMillis": 1772102832578
+        },
+        {
+          "timestampMillis": 1772102934688
+        },
+        {
+          "timestampMillis": 1772103020930
+        },
+        {
+          "timestampMillis": 1772103187529
         }
       ]
     },
@@ -8170,6 +8233,26 @@
       "openLogs": [
         {
           "timestampMillis": 1772083374492
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/一人公司-超级个体.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772102448996
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772102472720
         }
       ]
     }

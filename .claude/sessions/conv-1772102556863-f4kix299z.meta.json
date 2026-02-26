@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772102556863-f4kix299z",
+  "title": "补充项目任务描述与资源",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772102556863,
+  "updatedAt": 1772103174721,
+  "lastResponseAt": 1772103174721,
+  "sessionId": "806a33a5-b7ae-4e99-a81e-b84fe458e307",
+  "sdkSessionId": "806a33a5-b7ae-4e99-a81e-b84fe458e307",
+  "currentNote": "1.Projects/04-学习AI/学习AI Agent.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 986,
+    "cacheCreationInputTokens": 1693,
+    "cacheReadInputTokens": 37016,
+    "contextWindow": 200000,
+    "contextTokens": 39695,
+    "percentage": 20
+  }
+}
