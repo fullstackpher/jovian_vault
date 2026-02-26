@@ -3118,7 +3118,7 @@
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
       "uniqueDaysOpened": 19,
-      "totalTimesOpened": 62,
+      "totalTimesOpened": 63,
       "openLogs": [
         {
           "timestampMillis": 1769401772899
@@ -3251,6 +3251,9 @@
         },
         {
           "timestampMillis": 1772092083658
+        },
+        {
+          "timestampMillis": 1772101666076
         }
       ]
     },
@@ -8097,7 +8100,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-26.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772076141113
@@ -8107,6 +8110,12 @@
         },
         {
           "timestampMillis": 1772086996179
+        },
+        {
+          "timestampMillis": 1772101668230
+        },
+        {
+          "timestampMillis": 1772101668638
         }
       ]
     },
