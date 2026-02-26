@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "openclaw深度使用攻略",
+      "path": "3.Resources/效率工具/openclaw深度使用攻略.md"
+    },
+    {
       "basename": "2026-02-26",
       "path": "7.Daily/每日日志/2026-02-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "2.Areas/README.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Templates/日记模版.md"
     }
   ],
   "omittedPaths": [],
