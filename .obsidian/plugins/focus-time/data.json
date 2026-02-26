@@ -1449,8 +1449,8 @@
     "3.Resources/README.md": {
       "fileId": "1770188345908",
       "filePath": "3.Resources/README.md",
-      "duration": 414000,
-      "openCount": 7
+      "duration": 456000,
+      "openCount": 8
     },
     "5.Zattchments/README.md": {
       "fileId": "1770188357912",
@@ -2098,7 +2098,7 @@
       "fileId": "1771115696279",
       "filePath": "7.Daily/每日日志/2026-02-15.md",
       "duration": 714000,
-      "openCount": 18
+      "openCount": 19
     },
     "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": {
       "fileId": "1770355486293",
@@ -2951,6 +2951,12 @@
       "filePath": "3.Resources/链接收藏/如何变得强大.md",
       "duration": 132000,
       "openCount": 7
+    },
+    "7.Daily/每日日志/2026-02-26.md": {
+      "fileId": "1772076142890",
+      "filePath": "7.Daily/每日日志/2026-02-26.md",
+      "duration": 144000,
+      "openCount": 2
     }
   }
 }

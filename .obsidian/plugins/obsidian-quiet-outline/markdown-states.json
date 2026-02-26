@@ -5751,7 +5751,7 @@
     "expandedKeys": []
   },
   "3.Resources/README.md": {
-    "scroll": 12.561683355593214,
+    "scroll": 77.57720214245366,
     "cursor": {
       "from": {
         "line": 21,
@@ -8011,7 +8011,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-15.md": {
-    "scroll": 12.478340215979598,
+    "scroll": 8.372549019607844,
     "cursor": {
       "from": {
         "line": 20,
@@ -9658,6 +9658,20 @@
       "to": {
         "line": 8,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-26.md": {
+    "scroll": 12.794105700431006,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 26
+      },
+      "to": {
+        "line": 21,
+        "ch": 26
       }
     },
     "expandedKeys": []

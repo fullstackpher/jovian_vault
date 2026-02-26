@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-26",
+      "path": "7.Daily/每日日志/2026-02-26.md"
+    },
+    {
+      "basename": "2026-02-15",
+      "path": "7.Daily/每日日志/2026-02-15.md"
+    },
+    {
       "basename": "README",
       "path": "3.Resources/README.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "日记模版",
       "path": "Templates/日记模版.md"
-    },
-    {
-      "basename": "土豆变黄金",
-      "path": "3.Resources/链接收藏/土豆变黄金.md"
-    },
-    {
-      "basename": "2026-W08",
-      "path": "7.Daily/每周复盘/2026-W08.md"
     }
   ],
   "omittedPaths": [],
