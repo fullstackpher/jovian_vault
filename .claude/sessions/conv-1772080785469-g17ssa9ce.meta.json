@@ -3,18 +3,18 @@
   "title": "补充笔记内容",
   "titleGenerationStatus": "success",
   "createdAt": 1772080785469,
-  "updatedAt": 1772080826020,
-  "lastResponseAt": 1772080826020,
+  "updatedAt": 1772087177760,
+  "lastResponseAt": 1772087177760,
   "sessionId": "8635e72c-75c2-45db-8250-012e2afcb418",
   "sdkSessionId": "8635e72c-75c2-45db-8250-012e2afcb418",
   "currentNote": "2.Areas/人工智能/Agent/openclaw使用指南.md",
   "usage": {
     "model": "MiniMax-M2.5",
-    "inputTokens": 813,
-    "cacheCreationInputTokens": 837,
-    "cacheReadInputTokens": 15146,
+    "inputTokens": 1056,
+    "cacheCreationInputTokens": 1302,
+    "cacheReadInputTokens": 18005,
     "contextWindow": 200000,
-    "contextTokens": 16796,
-    "percentage": 8
+    "contextTokens": 20363,
+    "percentage": 10
   }
 }
