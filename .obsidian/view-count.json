@@ -3716,8 +3716,8 @@
     },
     {
       "path": "3.Resources/README.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 9,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1769495754369
@@ -3769,6 +3769,15 @@
         },
         {
           "timestampMillis": 1771765534996
+        },
+        {
+          "timestampMillis": 1772030017594
+        },
+        {
+          "timestampMillis": 1772075888085
+        },
+        {
+          "timestampMillis": 1772075891994
         }
       ]
     },

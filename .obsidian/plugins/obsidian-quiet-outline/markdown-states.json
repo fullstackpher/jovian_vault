@@ -9495,15 +9495,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-25.md": {
-    "scroll": 12.794105700431006,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 14
+        "line": 34,
+        "ch": 30
       },
       "to": {
-        "line": 32,
-        "ch": 14
+        "line": 34,
+        "ch": 30
       }
     },
     "expandedKeys": []
