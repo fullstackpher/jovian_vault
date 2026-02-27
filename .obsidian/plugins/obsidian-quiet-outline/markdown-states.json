@@ -9474,8 +9474,8 @@
         "ch": 80
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 3,
+        "ch": 80
       }
     },
     "expandedKeys": []
@@ -9868,6 +9868,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-02-28.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 8
+      },
+      "to": {
+        "line": 19,
+        "ch": 8
       }
     },
     "expandedKeys": []

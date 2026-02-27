@@ -2877,8 +2877,8 @@
     "8.Info/草稿-openclaw写日报.md": {
       "fileId": "1771994104500",
       "filePath": "8.Info/草稿-openclaw写日报.md",
-      "duration": 264000,
-      "openCount": 2
+      "duration": 270000,
+      "openCount": 3
     },
     "8.Info/私密-飞书配置信息.md": {
       "fileId": "1772001105954",
@@ -3059,6 +3059,12 @@
       "filePath": "0.Inbox/2026-02-27_复利信徒_赚钱第一性原理.md",
       "duration": 48000,
       "openCount": 2
+    },
+    "7.Daily/每日日志/2026-02-28.md": {
+      "fileId": "1772209938713",
+      "filePath": "7.Daily/每日日志/2026-02-28.md",
+      "duration": 6000,
+      "openCount": 1
     }
   }
 }
