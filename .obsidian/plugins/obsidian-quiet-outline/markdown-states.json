@@ -9663,15 +9663,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-26.md": {
-    "scroll": 15.952000333759367,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 17
+        "line": 30,
+        "ch": 19
       },
       "to": {
-        "line": 34,
-        "ch": 17
+        "line": 30,
+        "ch": 19
       }
     },
     "expandedKeys": []
