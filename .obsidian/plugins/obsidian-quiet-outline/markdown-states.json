@@ -6033,15 +6033,15 @@
     "expandedKeys": []
   },
   "Dashboards/待处理区.md": {
-    "scroll": 0,
+    "scroll": 56.77744734676372,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 20
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 3,
-        "ch": 20
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -6233,7 +6233,7 @@
     "expandedKeys": []
   },
   "1.Projects/02-知识管理/学习Obsidian.md": {
-    "scroll": 35.88079596814077,
+    "scroll": 89.59212252013513,
     "cursor": {
       "from": {
         "line": 87,
@@ -9474,8 +9474,8 @@
         "ch": 80
       },
       "to": {
-        "line": 3,
-        "ch": 80
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -9853,6 +9853,20 @@
       },
       "to": {
         "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Dashboards/项目看板.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿-openclaw写日报",
+      "path": "8.Info/草稿-openclaw写日报.md"
+    },
+    {
+      "basename": "草稿-Obsidian主页排版参考",
+      "path": "8.Info/草稿-Obsidian主页排版参考.md"
+    },
+    {
+      "basename": "草稿-视频转笔记工作流",
+      "path": "8.Info/草稿-视频转笔记工作流.md"
+    },
+    {
+      "basename": "草稿-浏览器自动化",
+      "path": "8.Info/草稿-浏览器自动化.md"
+    },
+    {
+      "basename": "学习Obsidian",
+      "path": "1.Projects/02-知识管理/学习Obsidian.md"
+    },
+    {
+      "basename": "项目看板",
+      "path": "Dashboards/项目看板.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "2026-02-27",
       "path": "7.Daily/每日日志/2026-02-27.md"
     },
@@ -161,14 +189,6 @@
       "path": "0.Inbox/README.md"
     },
     {
-      "basename": "草稿-视频转笔记工作流",
-      "path": "8.Info/草稿-视频转笔记工作流.md"
-    },
-    {
-      "basename": "草稿-浏览器自动化",
-      "path": "8.Info/草稿-浏览器自动化.md"
-    },
-    {
       "basename": "学习AI Agent",
       "path": "1.Projects/04-学习AI/学习AI Agent.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "学习JavaScript",
       "path": "1.Projects/03-学习前端/学习JavaScript.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/速查手册/openclaw常用技能.md"
-    },
-    {
-      "basename": "利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务",
-      "path": "0.Inbox/利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Areas/README.md"
     }
   ],
   "omittedPaths": [],
