@@ -9779,11 +9779,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 29
+        "ch": 132
       },
       "to": {
         "line": 0,
-        "ch": 29
+        "ch": 0
       }
     },
     "expandedKeys": []
