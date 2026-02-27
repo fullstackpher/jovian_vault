@@ -8315,10 +8315,16 @@
     {
       "path": "3.Resources/效率工具/openclaw_knowledge_base.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772172902765
+        },
+        {
+          "timestampMillis": 1772173375380
+        },
+        {
+          "timestampMillis": 1772173379163
         }
       ]
     }

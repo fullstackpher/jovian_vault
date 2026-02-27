@@ -9789,15 +9789,15 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/openclaw_knowledge_base.md": {
-    "scroll": 219.1462433758904,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 226,
+        "ch": 3
       },
       "to": {
-        "line": 231,
-        "ch": 18
+        "line": 226,
+        "ch": 3
       }
     },
     "expandedKeys": []
