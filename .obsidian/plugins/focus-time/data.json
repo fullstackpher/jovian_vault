@@ -3003,13 +3003,19 @@
     "8.Info/草稿-浏览器自动化.md": {
       "fileId": "1772166284033",
       "filePath": "8.Info/草稿-浏览器自动化.md",
-      "duration": 588000,
-      "openCount": 2
+      "duration": 624000,
+      "openCount": 3
     },
     "3.Resources/效率工具/openclaw_knowledge_base.md": {
       "fileId": "1772172908027",
       "filePath": "3.Resources/效率工具/openclaw_knowledge_base.md",
-      "duration": 120000,
+      "duration": 132000,
+      "openCount": 2
+    },
+    "8.Info/草稿-视频转笔记工作流.md": {
+      "fileId": "1772183420567",
+      "filePath": "8.Info/草稿-视频转笔记工作流.md",
+      "duration": 210000,
       "openCount": 1
     }
   }

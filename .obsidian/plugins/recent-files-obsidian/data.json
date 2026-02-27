@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "openclaw_knowledge_base",
-      "path": "3.Resources/效率工具/openclaw_knowledge_base.md"
+      "basename": "草稿-视频转笔记工作流",
+      "path": "8.Info/草稿-视频转笔记工作流.md"
     },
     {
       "basename": "草稿-浏览器自动化",
       "path": "8.Info/草稿-浏览器自动化.md"
+    },
+    {
+      "basename": "openclaw_knowledge_base",
+      "path": "3.Resources/效率工具/openclaw_knowledge_base.md"
     },
     {
       "basename": "2026-02-27",
@@ -195,10 +199,6 @@
     {
       "basename": "流程控制语句",
       "path": "2.Areas/Frontend/02-概念卡片/流程控制语句.md"
-    },
-    {
-      "basename": "运算符",
-      "path": "2.Areas/Frontend/02-概念卡片/运算符.md"
     }
   ],
   "omittedPaths": [],
