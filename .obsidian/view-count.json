@@ -7904,8 +7904,8 @@
     },
     {
       "path": "3.Resources/效率工具/Clawx安装配置指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1772017201173
@@ -7927,6 +7927,9 @@
         },
         {
           "timestampMillis": 1772027268257
+        },
+        {
+          "timestampMillis": 1772194742620
         }
       ]
     },
@@ -7995,7 +7998,7 @@
     {
       "path": "7.Daily/每日日志/2026-02-26.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1772076141113
@@ -8053,6 +8056,9 @@
         },
         {
           "timestampMillis": 1772166203066
+        },
+        {
+          "timestampMillis": 1772194697249
         }
       ]
     },
@@ -8098,8 +8104,8 @@
     },
     {
       "path": "2.Areas/人工智能/Agent/openclaw使用指南.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772080402877
@@ -8124,6 +8130,9 @@
         },
         {
           "timestampMillis": 1772089383109
+        },
+        {
+          "timestampMillis": 1772194712982
         }
       ]
     },
@@ -8192,7 +8201,7 @@
     {
       "path": "3.Resources/效率工具/openclaw_knowledge_base.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772172902765
@@ -8202,6 +8211,9 @@
         },
         {
           "timestampMillis": 1772173379163
+        },
+        {
+          "timestampMillis": 1772194730844
         }
       ]
     },
@@ -8265,6 +8277,16 @@
       "openLogs": [
         {
           "timestampMillis": 1772193024735
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/QuickAdd配置指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772194733694
         }
       ]
     }

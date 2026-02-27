@@ -9551,15 +9551,15 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/Clawx安装配置指南.md": {
-    "scroll": 0,
+    "scroll": 301.20216066162794,
     "cursor": {
       "from": {
-        "line": 470,
-        "ch": 157
+        "line": 99,
+        "ch": 21
       },
       "to": {
-        "line": 470,
-        "ch": 157
+        "line": 99,
+        "ch": 21
       }
     },
     "expandedKeys": []
@@ -9663,7 +9663,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-26.md": {
-    "scroll": 0,
+    "scroll": 59.055702456374654,
     "cursor": {
       "from": {
         "line": 30,
@@ -9705,7 +9705,7 @@
     "expandedKeys": []
   },
   "2.Areas/人工智能/Agent/openclaw使用指南.md": {
-    "scroll": 65.30309998755361,
+    "scroll": 131.6731960820217,
     "cursor": {
       "from": {
         "line": 130,
@@ -9761,7 +9761,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-27.md": {
-    "scroll": 63.40441236308977,
+    "scroll": 56.62663478477329,
     "cursor": {
       "from": {
         "line": 21,
@@ -9826,6 +9826,20 @@
       "to": {
         "line": 15,
         "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/QuickAdd配置指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []
