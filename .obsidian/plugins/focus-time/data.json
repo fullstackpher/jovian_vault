@@ -2955,8 +2955,8 @@
     "7.Daily/每日日志/2026-02-26.md": {
       "fileId": "1772076142890",
       "filePath": "7.Daily/每日日志/2026-02-26.md",
-      "duration": 1626000,
-      "openCount": 10
+      "duration": 1632000,
+      "openCount": 11
     },
     "3.Resources/效率工具/openclaw深度使用攻略.md": {
       "fileId": "1772076442885",
@@ -2993,6 +2993,18 @@
       "filePath": "3.Resources/一人公司-超级个体.md",
       "duration": 18000,
       "openCount": 2
+    },
+    "7.Daily/每日日志/2026-02-27.md": {
+      "fileId": "1772166218028",
+      "filePath": "7.Daily/每日日志/2026-02-27.md",
+      "duration": 66000,
+      "openCount": 2
+    },
+    "8.Info/草稿-浏览器自动化.md": {
+      "fileId": "1772166284033",
+      "filePath": "8.Info/草稿-浏览器自动化.md",
+      "duration": 270000,
+      "openCount": 1
     }
   }
 }

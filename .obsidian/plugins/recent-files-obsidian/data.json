@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿-浏览器自动化",
+      "path": "8.Info/草稿-浏览器自动化.md"
+    },
+    {
+      "basename": "2026-02-27",
+      "path": "7.Daily/每日日志/2026-02-27.md"
+    },
+    {
       "basename": "2026-02-26",
       "path": "7.Daily/每日日志/2026-02-26.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "BOM",
       "path": "2.Areas/Frontend/02-概念卡片/BOM.md"
-    },
-    {
-      "basename": "DOM",
-      "path": "2.Areas/Frontend/02-概念卡片/DOM.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "2.Areas/Frontend/02-概念卡片/JSON.md"
     }
   ],
   "omittedPaths": [],

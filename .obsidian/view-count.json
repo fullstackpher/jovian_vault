@@ -8291,6 +8291,26 @@
           "timestampMillis": 1772102472720
         }
       ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-02-27.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772166212657
+        }
+      ]
+    },
+    {
+      "path": "8.Info/草稿-浏览器自动化.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772166278800
+        }
+      ]
     }
   ]
 }
