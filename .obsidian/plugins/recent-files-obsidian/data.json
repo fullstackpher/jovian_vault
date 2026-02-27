@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "openclaw_knowledge_base",
+      "path": "3.Resources/效率工具/openclaw_knowledge_base.md"
+    },
+    {
       "basename": "草稿-浏览器自动化",
       "path": "8.Info/草稿-浏览器自动化.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "运算符",
       "path": "2.Areas/Frontend/02-概念卡片/运算符.md"
-    },
-    {
-      "basename": "BOM",
-      "path": "2.Areas/Frontend/02-概念卡片/BOM.md"
     }
   ],
   "omittedPaths": [],

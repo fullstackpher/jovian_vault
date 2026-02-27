@@ -8311,6 +8311,16 @@
           "timestampMillis": 1772166278800
         }
       ]
+    },
+    {
+      "path": "3.Resources/效率工具/openclaw_knowledge_base.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772172902765
+        }
+      ]
     }
   ]
 }

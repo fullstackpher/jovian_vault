@@ -9787,5 +9787,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "3.Resources/效率工具/openclaw_knowledge_base.md": {
+    "scroll": 219.1462433758904,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 231,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
   }
 }
