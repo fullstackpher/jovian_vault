@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-27",
+      "path": "7.Daily/每日日志/2026-02-27.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Templates/日记模版.md"
+    },
+    {
+      "basename": "一人公司-超级个体",
+      "path": "3.Resources/链接收藏/一人公司-超级个体.md"
+    },
+    {
+      "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-fLaX6hw6nU",
+      "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-fLaX6hw6nU.png"
+    },
+    {
+      "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-45Yx6MzyGA",
+      "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-45Yx6MzyGA.png"
+    },
+    {
+      "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-5kN1Ynmlwy",
+      "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-5kN1Ynmlwy.png"
+    },
+    {
+      "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-3jUECcsc9o",
+      "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-3jUECcsc9o.png"
+    },
+    {
+      "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-2YvOJMDsxY",
+      "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-2YvOJMDsxY.png"
+    },
+    {
+      "basename": "README",
+      "path": "0.Inbox/README.md"
+    },
+    {
       "basename": "草稿-视频转笔记工作流",
       "path": "8.Info/草稿-视频转笔记工作流.md"
     },
@@ -13,20 +53,12 @@
       "path": "3.Resources/效率工具/openclaw_knowledge_base.md"
     },
     {
-      "basename": "2026-02-27",
-      "path": "7.Daily/每日日志/2026-02-27.md"
-    },
-    {
       "basename": "2026-02-26",
       "path": "7.Daily/每日日志/2026-02-26.md"
     },
     {
       "basename": "2026-02-25",
       "path": "7.Daily/每日日志/2026-02-25.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "学习AI Agent",
@@ -43,10 +75,6 @@
     {
       "basename": "Article 2026-02-06 13-43-47",
       "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "一人公司-超级个体",
-      "path": "3.Resources/一人公司-超级个体.md"
     },
     {
       "basename": "2026-02-21",
@@ -171,34 +199,6 @@
     {
       "basename": "两周内学会任何东西",
       "path": "3.Resources/效率工具/两周内学会任何东西.md"
-    },
-    {
-      "basename": "学习方法",
-      "path": "2.Areas/自我提升/02-学习方法/学习方法.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Areas/财富管理/README.md"
-    },
-    {
-      "basename": "临时待办",
-      "path": "7.Daily/临时待办.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/前端开发/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "Frontend知识体系总览",
-      "path": "2.Areas/Frontend/Frontend知识体系总览.md"
-    },
-    {
-      "basename": "变量和数据类型",
-      "path": "2.Areas/Frontend/02-概念卡片/变量和数据类型.md"
-    },
-    {
-      "basename": "流程控制语句",
-      "path": "2.Areas/Frontend/02-概念卡片/流程控制语句.md"
     }
   ],
   "omittedPaths": [],

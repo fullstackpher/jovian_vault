@@ -16,7 +16,7 @@
   "fileHashMap": {
     "Templates/日报模版.md": "ec94eb217d18f6748bdf3ba8936c0074ea42be1640f397c8bf1942971afc9727",
     "Dashboards/Dashboard.md": "55e23571b738bef472cfc35f2014b9ffb7dd3544826e93cdfdb28ba6c5f1e743",
-    "0.Inbox/README.md": "5c8edc7753df63fe99f3ef1e4730318458c034b78d0c819896f866d492c7f18b",
+    "0.Inbox/README.md": "6a727403797cfab804b8131aff683cda76de9fed27759c12974e956a0613176d",
     "1.Projects/README.md": "b910ecbbfd1880bac115b6b5c9e9800aaf612f266381be1187525f2c4810cd17",
     "1.Projects/03-学习前端/学习JavaScript.md": "610f67f2204ff840166f6f0e69ecdcb350c57aa92ba84fb7dfb976944e7c9f2e",
     "1.Projects/02-知识管理/学习Obsidian.md": "ddb34e27a94a31a8290dcd763ccb76daf326ca2c31796be2349be2bceb5b69ed",
@@ -180,7 +180,8 @@
     "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md": "62481b4d79c27b7f4658af66416a6d4fe6e535d593937c074d8a93bc8d8be90d",
     "2.Areas/人工智能/Agent/openclaw使用指南.md": "3bbbf27997d835aff41853050d679782d0bce35f477f771cf118aa5677439539",
     "0.Inbox/利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务.md": "07a6d61b2049064c6e46a48e70f3efd92ae3c83a30e269ee4873e8ef0424b000",
-    "3.Resources/一人公司-超级个体.md": "7ae606a5dc1fcb793712291fa332899526faa58ef3773cc6cbb50c7f2814e02a",
-    "3.Resources/效率工具/openclaw_knowledge_base.md": "83b1f27d2ff1d9db1047ad79ac4d4202a4448857c0e5634bfac734ec269d14e3"
+    "3.Resources/效率工具/openclaw_knowledge_base.md": "83b1f27d2ff1d9db1047ad79ac4d4202a4448857c0e5634bfac734ec269d14e3",
+    "3.Resources/链接收藏/一人公司-超级个体.md": "7ae606a5dc1fcb793712291fa332899526faa58ef3773cc6cbb50c7f2814e02a",
+    "0.Inbox/2026-02-27_复利信徒_赚钱第一性原理.md": "372b5157373bdaf5839c4a519acb8df1afc6b04d2feb3397a6eb00fb812aa928"
   }
 }
