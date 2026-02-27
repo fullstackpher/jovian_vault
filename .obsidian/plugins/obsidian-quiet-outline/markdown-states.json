@@ -9764,12 +9764,12 @@
     "scroll": 18.856208651673562,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 3
+        "line": 28,
+        "ch": 39
       },
       "to": {
-        "line": 27,
-        "ch": 3
+        "line": 28,
+        "ch": 39
       }
     },
     "expandedKeys": []
