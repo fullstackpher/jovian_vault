@@ -5057,8 +5057,8 @@
     },
     {
       "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770097917829
@@ -5071,6 +5071,9 @@
         },
         {
           "timestampMillis": 1771153724973
+        },
+        {
+          "timestampMillis": 1772281622276
         }
       ]
     },
@@ -6117,8 +6120,8 @@
     },
     {
       "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1770809855399
@@ -6131,6 +6134,9 @@
         },
         {
           "timestampMillis": 1771153896853
+        },
+        {
+          "timestampMillis": 1772281620319
         }
       ]
     },
@@ -6638,8 +6644,8 @@
     },
     {
       "path": "3.Resources/工具教程/openclaw操作指南.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 22,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1771282911301
@@ -6706,6 +6712,9 @@
         },
         {
           "timestampMillis": 1772028957412
+        },
+        {
+          "timestampMillis": 1772281626397
         }
       ]
     },
@@ -7117,8 +7126,8 @@
     },
     {
       "path": "3.Resources/链接收藏/Obsidian让AI来.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1771754125973
@@ -7137,6 +7146,9 @@
         },
         {
           "timestampMillis": 1772028871832
+        },
+        {
+          "timestampMillis": 1772281398926
         }
       ]
     },
@@ -7186,8 +7198,8 @@
     },
     {
       "path": "3.Resources/链接收藏/思考致富.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
@@ -7221,6 +7233,15 @@
         },
         {
           "timestampMillis": 1772028870844
+        },
+        {
+          "timestampMillis": 1772281378738
+        },
+        {
+          "timestampMillis": 1772281498973
+        },
+        {
+          "timestampMillis": 1772281516475
         }
       ]
     },
@@ -7242,8 +7263,8 @@
     },
     {
       "path": "3.Resources/链接收藏/土豆变黄金.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1771766194282
@@ -7268,13 +7289,19 @@
         },
         {
           "timestampMillis": 1771911125216
+        },
+        {
+          "timestampMillis": 1772281386963
+        },
+        {
+          "timestampMillis": 1772281499430
         }
       ]
     },
     {
       "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771774415220
@@ -7296,6 +7323,9 @@
         },
         {
           "timestampMillis": 1772028874622
+        },
+        {
+          "timestampMillis": 1772281400286
         }
       ]
     },
@@ -7609,27 +7639,33 @@
     },
     {
       "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771933728061
         },
         {
           "timestampMillis": 1772028935834
+        },
+        {
+          "timestampMillis": 1772281624997
         }
       ]
     },
     {
       "path": "3.Resources/工具教程/OpenClaw 索引.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771933749925
         },
         {
           "timestampMillis": 1772028915742
+        },
+        {
+          "timestampMillis": 1772281623946
         }
       ]
     },
@@ -7824,8 +7860,8 @@
     },
     {
       "path": "3.Resources/链接收藏/如何变得强大.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1771940195107
@@ -7847,6 +7883,9 @@
         },
         {
           "timestampMillis": 1772028901903
+        },
+        {
+          "timestampMillis": 1772281494704
         }
       ]
     },
@@ -8001,8 +8040,8 @@
     },
     {
       "path": "3.Resources/链接收藏/AI导演创业.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1772028569006
@@ -8015,49 +8054,67 @@
         },
         {
           "timestampMillis": 1772028885245
+        },
+        {
+          "timestampMillis": 1772281394813
+        },
+        {
+          "timestampMillis": 1772281500251
         }
       ]
     },
     {
       "path": "2.Areas/自我提升/06-认知提升/稀archy效应.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772028600290
         },
         {
           "timestampMillis": 1772028643066
+        },
+        {
+          "timestampMillis": 1772281450897
         }
       ]
     },
     {
       "path": "2.Areas/自我提升/06-认知提升/PARA方法.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772028642058
+        },
+        {
+          "timestampMillis": 1772281451414
         }
       ]
     },
     {
       "path": "2.Areas/自我提升/06-认知提升/认知提升.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772028643508
+        },
+        {
+          "timestampMillis": 1772281450164
         }
       ]
     },
     {
       "path": "2.Areas/自我提升/06-认知提升/必读经典.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772028643966
+        },
+        {
+          "timestampMillis": 1772281449310
         }
       ]
     },
@@ -8220,24 +8277,33 @@
     },
     {
       "path": "3.Resources/链接收藏/一人公司-超级个体.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772102448996
         },
         {
           "timestampMillis": 1772193040385
+        },
+        {
+          "timestampMillis": 1772281392280
+        },
+        {
+          "timestampMillis": 1772281499767
         }
       ]
     },
     {
       "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772102472720
+        },
+        {
+          "timestampMillis": 1772281397057
         }
       ]
     },
@@ -8474,6 +8540,62 @@
         },
         {
           "timestampMillis": 1772280825566
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1772281357980
+        },
+        {
+          "timestampMillis": 1772281488820
+        },
+        {
+          "timestampMillis": 1772281600242
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/自我提升/README.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772281455076
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/财富管理/01-财富思维/财富思维.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772281466702
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/财富管理/04-创业指南/成功学.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772281469885
+        }
+      ]
+    },
+    {
+      "path": "2.Areas/财富管理/04-创业指南/创业指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772281470254
         }
       ]
     }
