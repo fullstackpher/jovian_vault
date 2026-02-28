@@ -7650,12 +7650,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 1
+        "line": 10,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 1
+        "line": 10,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -9873,15 +9873,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-28.md": {
-    "scroll": 33.8721598359702,
+    "scroll": 74.39787292480469,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 14
+        "line": 37,
+        "ch": 52
       },
       "to": {
-        "line": 25,
-        "ch": 14
+        "line": 37,
+        "ch": 52
       }
     },
     "expandedKeys": []
@@ -9952,6 +9952,20 @@
       "to": {
         "line": 11,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/月度复盘/2026-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 14
+      },
+      "to": {
+        "line": 33,
+        "ch": 14
       }
     },
     "expandedKeys": []

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772274707820-1yvu8kgsg",
+  "title": "Complete Monthly Review Summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772274707831,
+  "updatedAt": 1772274794823,
+  "lastResponseAt": 1772274794823,
+  "sessionId": "5aadba9e-1b17-4e6c-bdfe-cd5e4c48f3fb",
+  "sdkSessionId": "5aadba9e-1b17-4e6c-bdfe-cd5e4c48f3fb",
+  "currentNote": "7.Daily/月度复盘/2026-02.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 823,
+    "cacheCreationInputTokens": 289,
+    "cacheReadInputTokens": 27084,
+    "contextWindow": 200000,
+    "contextTokens": 28196,
+    "percentage": 14
+  }
+}
