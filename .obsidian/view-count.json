@@ -8450,6 +8450,29 @@
           "timestampMillis": 1772260816973
         }
       ]
+    },
+    {
+      "path": "0.Inbox/2026-02-28_一篇2万字长文吓坏了华尔街 - 熊猫的出海攻略.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772260825968
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772260829642
+        },
+        {
+          "timestampMillis": 1772260859071
+        }
+      ]
     }
   ]
 }

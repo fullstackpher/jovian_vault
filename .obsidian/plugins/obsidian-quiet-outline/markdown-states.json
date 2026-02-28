@@ -9887,7 +9887,49 @@
     "expandedKeys": []
   },
   "0.Inbox/2026-02-28_417小时定律 - 小红书.md": {
-    "scroll": 42.75204183541092,
+    "scroll": 81.7495474052946,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-28_一篇2万字长文吓坏了华尔街 - 熊猫的出海攻略.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-02-28_智能体新时代 - 于老师搞AI.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
