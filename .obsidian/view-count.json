@@ -7964,8 +7964,8 @@
     },
     {
       "path": "3.Resources/效率工具/Clawx安装配置指南.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772017201173
@@ -7990,6 +7990,9 @@
         },
         {
           "timestampMillis": 1772194742620
+        },
+        {
+          "timestampMillis": 1772272078819
         }
       ]
     },
@@ -8420,6 +8423,29 @@
         },
         {
           "timestampMillis": 1772260859071
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/ClawX（OpenClaw）安装文档.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772272077501
+        },
+        {
+          "timestampMillis": 1772272078138
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-02-28_微观权利生存术 - 芒果猴思维破局.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772272796350
         }
       ]
     }
