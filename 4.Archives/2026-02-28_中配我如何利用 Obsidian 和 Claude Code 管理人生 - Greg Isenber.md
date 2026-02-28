@@ -5,7 +5,7 @@ tags:
 date: 2026-02-28
 source: https://b23.tv/Lfd8vrq
 创建时间: 2026-02-28T09:00
-更新时间: 2026-02-28T09:20
+更新时间: 2026-02-28T21:30
 ---
 
 # 【中配】我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenberg
