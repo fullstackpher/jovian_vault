@@ -8440,6 +8440,16 @@
           "timestampMillis": 1772209933839
         }
       ]
+    },
+    {
+      "path": "0.Inbox/2026-02-28_417小时定律 - 小红书.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772260816973
+        }
+      ]
     }
   ]
 }
