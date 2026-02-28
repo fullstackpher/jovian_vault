@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber",
       "path": "0.Inbox/2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "openclaw使用指南",
       "path": "2.Areas/人工智能/Agent/openclaw使用指南.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "日记模版",
