@@ -10487,5 +10487,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "0.Inbox/2026-03-02_.md": {
+    "scroll": 14.798662554729283,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
