@@ -8529,8 +8529,8 @@
     },
     {
       "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1772281357980
@@ -8546,6 +8546,9 @@
         },
         {
           "timestampMillis": 1772376864748
+        },
+        {
+          "timestampMillis": 1772382530796
         }
       ]
     },
@@ -8670,21 +8673,24 @@
     },
     {
       "path": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772371973602
         },
         {
           "timestampMillis": 1772372050282
+        },
+        {
+          "timestampMillis": 1772382529341
         }
       ]
     },
     {
       "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772372272777
@@ -8694,6 +8700,9 @@
         },
         {
           "timestampMillis": 1772376869729
+        },
+        {
+          "timestampMillis": 1772382536742
         }
       ]
     },
@@ -8710,7 +8719,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_24小时设计百万生意模型 - 可行创业手册.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772374566294
@@ -8735,6 +8744,9 @@
         },
         {
           "timestampMillis": 1772382002530
+        },
+        {
+          "timestampMillis": 1772382521844
         }
       ]
     }
