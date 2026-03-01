@@ -8530,7 +8530,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772281357980
@@ -8543,6 +8543,9 @@
         },
         {
           "timestampMillis": 1772372053699
+        },
+        {
+          "timestampMillis": 1772376864748
         }
       ]
     },
@@ -8681,13 +8684,16 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772372272777
         },
         {
           "timestampMillis": 1772372308090
+        },
+        {
+          "timestampMillis": 1772376869729
         }
       ]
     },
@@ -8757,7 +8763,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_24小时设计百万生意模型 - 可行创业手册.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772374566294
@@ -8767,6 +8773,19 @@
         },
         {
           "timestampMillis": 1772376853155
+        },
+        {
+          "timestampMillis": 1772376879475
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-03-01_油管疯传上亿26年一人公司3招秒掉99竞争对手 颠覆认知赚钱 ai 认知 思维 油管.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772376858657
         }
       ]
     }
