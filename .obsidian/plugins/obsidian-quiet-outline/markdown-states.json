@@ -10111,15 +10111,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-01.md": {
-    "scroll": 15.180185461369213,
+    "scroll": 21.230478004247395,
     "cursor": {
       "from": {
-        "line": 35,
-        "ch": 2
+        "line": 34,
+        "ch": 28
       },
       "to": {
-        "line": 35,
-        "ch": 2
+        "line": 34,
+        "ch": 28
       }
     },
     "expandedKeys": []
@@ -10133,6 +10133,20 @@
       },
       "to": {
         "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-W09.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },
