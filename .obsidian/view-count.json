@@ -3311,24 +3311,9 @@
     },
     {
       "path": "0.Inbox/README.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 35,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 36,
       "openLogs": [
-        {
-          "timestampMillis": 1769495519401
-        },
-        {
-          "timestampMillis": 1769496005781
-        },
-        {
-          "timestampMillis": 1769496060400
-        },
-        {
-          "timestampMillis": 1769496079575
-        },
-        {
-          "timestampMillis": 1769607381444
-        },
         {
           "timestampMillis": 1769749840032
         },
@@ -3418,6 +3403,9 @@
         },
         {
           "timestampMillis": 1772193019313
+        },
+        {
+          "timestampMillis": 1772372033709
         }
       ]
     },
@@ -8541,8 +8529,8 @@
     },
     {
       "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772281357980
@@ -8552,6 +8540,9 @@
         },
         {
           "timestampMillis": 1772281600242
+        },
+        {
+          "timestampMillis": 1772372053699
         }
       ]
     },
@@ -8648,10 +8639,16 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772371947114
+        },
+        {
+          "timestampMillis": 1772372019840
+        },
+        {
+          "timestampMillis": 1772372043874
         }
       ]
     },
@@ -8668,10 +8665,13 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772371973602
+        },
+        {
+          "timestampMillis": 1772372050282
         }
       ]
     }

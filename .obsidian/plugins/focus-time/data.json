@@ -1095,8 +1095,8 @@
     "0.Inbox/README.md": {
       "fileId": "1769495523576",
       "filePath": "0.Inbox/README.md",
-      "duration": 2262000,
-      "openCount": 30
+      "duration": 2268000,
+      "openCount": 31
     },
     "0.Inbox/@flomo-2026-02-01.md": {
       "fileId": "1769927170569",
@@ -3111,7 +3111,7 @@
     "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md": {
       "fileId": "1772281361423",
       "filePath": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
-      "duration": 48000,
+      "duration": 150000,
       "openCount": 4
     },
     "2.Areas/自我提升/README.md": {
@@ -3201,14 +3201,14 @@
     "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md": {
       "fileId": "1772371949251",
       "filePath": "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 4
     },
     "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md": {
       "fileId": "1772371979249",
       "filePath": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md",
-      "duration": 6000,
-      "openCount": 1
+      "duration": 48000,
+      "openCount": 3
     }
   }
 }
