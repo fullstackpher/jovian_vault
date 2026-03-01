@@ -530,12 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 42,
-      "totalTimesOpened": 621,
+      "uniqueDaysOpened": 43,
+      "totalTimesOpened": 623,
       "openLogs": [
-        {
-          "timestampMillis": 1769662853128
-        },
         {
           "timestampMillis": 1769748668350
         },
@@ -1906,6 +1903,12 @@
         },
         {
           "timestampMillis": 1772371932292
+        },
+        {
+          "timestampMillis": 1772384267244
+        },
+        {
+          "timestampMillis": 1772384401275
         }
       ]
     },
@@ -3311,8 +3314,8 @@
     },
     {
       "path": "0.Inbox/README.md",
-      "uniqueDaysOpened": 10,
-      "totalTimesOpened": 36,
+      "uniqueDaysOpened": 11,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1769749840032
@@ -3406,6 +3409,9 @@
         },
         {
           "timestampMillis": 1772372033709
+        },
+        {
+          "timestampMillis": 1772383331712
         }
       ]
     },
@@ -8530,7 +8536,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772281357980
@@ -8549,6 +8555,9 @@
         },
         {
           "timestampMillis": 1772382530796
+        },
+        {
+          "timestampMillis": 1772383334496
         }
       ]
     },
@@ -8674,7 +8683,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772371973602
@@ -8684,6 +8693,9 @@
         },
         {
           "timestampMillis": 1772382529341
+        },
+        {
+          "timestampMillis": 1772383338812
         }
       ]
     },
@@ -8747,6 +8759,16 @@
         },
         {
           "timestampMillis": 1772382521844
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-28_微观权利生存术 - 芒果猴思维破局.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772383349825
         }
       ]
     }
