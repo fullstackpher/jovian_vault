@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 25296000,
-      "openCount": 434
+      "duration": 25440000,
+      "openCount": 435
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -3172,7 +3172,7 @@
       "fileId": "1772369195255",
       "filePath": "0.Inbox/2026-03-01_AI创业5个残酷真相 - 张与AI.md",
       "duration": 30000,
-      "openCount": 4
+      "openCount": 5
     },
     "0.Inbox/2026-02-28_未来5年AI时代 - 艾财说.md": {
       "fileId": "1772369199650",
@@ -3191,6 +3191,24 @@
       "filePath": "0.Inbox/2026-03-01_好生意的三个标准看看老王怎么说创业 赚钱思维 商业认知 干货分享 胡说老王.md",
       "duration": 42000,
       "openCount": 3
+    },
+    "3.Resources/图书笔记/2026-03-01_毛选破局思维_深度阅读总结.md": {
+      "fileId": "1772371955250",
+      "filePath": "3.Resources/图书笔记/2026-03-01_毛选破局思维_深度阅读总结.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md": {
+      "fileId": "1772371949251",
+      "filePath": "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md": {
+      "fileId": "1772371979249",
+      "filePath": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md",
+      "duration": 6000,
+      "openCount": 1
     }
   }
 }
