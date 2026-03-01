@@ -8734,10 +8734,33 @@
     {
       "path": "0.Inbox/2026-03-01_这个 mckinsey-consultant skill就是专门解决这种商业问题可行性研究的它不是陪.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772373478410
+        },
+        {
+          "timestampMillis": 1772374558950
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-03-01_穷爸爸富爸爸第五章富人的投资穷爸爸富爸爸读书财富自由之路 穷爸爸富爸爸.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772374552342
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-28_24小时设计百万生意模型 - 可行创业手册.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772374566294
         }
       ]
     }
