@@ -47,7 +47,7 @@ limit 100
 - [x] 学习JavaScript数组 ✅ 2026-01-29
 - [x] 学习JavaScript面向对象 ✅ 2026-01-28
 - [x] 学习JavaScriptDOM 🔺 📅 2026-02-15 ✅ 2026-02-14
-- [ ] 学习JavaScriptBOM 📅 2026-02-23
+- [x] 学习JavaScriptBOM 📅 2026-02-23 ✅ 2026-02-23
 - [ ] 学习Promise 📅 2026-02-25
 - [ ] 学习正则表达式 📅 2026-02-25
 - [ ] 学习Ajax 📅 2026-02-26
