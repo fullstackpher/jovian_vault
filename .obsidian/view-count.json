@@ -8740,13 +8740,16 @@
     {
       "path": "0.Inbox/2026-03-01_这个 mckinsey-consultant skill就是专门解决这种商业问题可行性研究的它不是陪.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772373478410
         },
         {
           "timestampMillis": 1772374558950
+        },
+        {
+          "timestampMillis": 1772380455095
         }
       ]
     },
@@ -8782,10 +8785,13 @@
     {
       "path": "0.Inbox/2026-03-01_油管疯传上亿26年一人公司3招秒掉99竞争对手 颠覆认知赚钱 ai 认知 思维 油管.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772376858657
+        },
+        {
+          "timestampMillis": 1772380456636
         }
       ]
     }
