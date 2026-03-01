@@ -7690,8 +7690,8 @@
     },
     {
       "path": "8.Info/私密-Minimax订阅信息.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1771933851894
@@ -7707,6 +7707,12 @@
         },
         {
           "timestampMillis": 1772003913877
+        },
+        {
+          "timestampMillis": 1772342139758
+        },
+        {
+          "timestampMillis": 1772343458788
         }
       ]
     },
@@ -8012,8 +8018,8 @@
     },
     {
       "path": "3.Resources/效率工具/Clawx安装配置指南.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1772017201173
@@ -8041,6 +8047,9 @@
         },
         {
           "timestampMillis": 1772272078819
+        },
+        {
+          "timestampMillis": 1772342693469
         }
       ]
     },
@@ -8479,14 +8488,20 @@
     },
     {
       "path": "3.Resources/效率工具/ClawX（OpenClaw）安装文档.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772272077501
         },
         {
           "timestampMillis": 1772272078138
+        },
+        {
+          "timestampMillis": 1772342692198
+        },
+        {
+          "timestampMillis": 1772342692519
         }
       ]
     },
