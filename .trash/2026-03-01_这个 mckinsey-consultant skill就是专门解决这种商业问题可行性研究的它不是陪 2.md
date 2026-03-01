@@ -5,7 +5,7 @@ tags:
 date: 2026-03-01
 source: https://v.douyin.com/NGup-NrBk2c/
 创建时间: 2026-03-01T20:49
-更新时间: 2026-03-01T21:01
+更新时间: 2026-03-01T21:18
 ---
 
 # 这个 mckinsey-consultant skill，就是专门解决这种“商业问题可行性研究”的。它不是陪你聊天的 AI，而是一个真正按顶级咨询公司方法论工作的顾问型技能。 #AI工具 #Skills #AI教程 #咨询顾问 #mckins

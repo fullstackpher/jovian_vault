@@ -8626,13 +8626,16 @@
     {
       "path": "0.Inbox/2026-03-01_毛选破局思维_深度阅读总结.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772363160166
         },
         {
           "timestampMillis": 1772369196036
+        },
+        {
+          "timestampMillis": 1772371133858
         }
       ]
     },
@@ -8655,30 +8658,45 @@
     {
       "path": "0.Inbox/2026-03-01_Openclaw搞钱-公众号文章编写发布自动化f100026.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772369191977
+        },
+        {
+          "timestampMillis": 1772371149377
         }
       ]
     },
     {
       "path": "0.Inbox/2026-03-01_AI创业5个残酷真相 - 张与AI.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1772369194536
+        },
+        {
+          "timestampMillis": 1772371157791
+        },
+        {
+          "timestampMillis": 1772371184377
+        },
+        {
+          "timestampMillis": 1772371187422
         }
       ]
     },
     {
       "path": "0.Inbox/2026-02-28_未来5年AI时代 - 艾财说.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772369197409
+        },
+        {
+          "timestampMillis": 1772371135277
         }
       ]
     },
@@ -8689,16 +8707,6 @@
       "openLogs": [
         {
           "timestampMillis": 1772369199710
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/2026-03-01_这个 mckinsey-consultant skill就是专门解决这种商业问题可行性研究的它不是陪.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1772369513399
         }
       ]
     }
