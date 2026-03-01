@@ -8589,7 +8589,7 @@
     {
       "path": "7.Daily/每日日志/2026-03-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1772339942364
@@ -8617,6 +8617,9 @@
         },
         {
           "timestampMillis": 1772366703362
+        },
+        {
+          "timestampMillis": 1772372243944
         }
       ]
     },
@@ -8672,6 +8675,29 @@
         },
         {
           "timestampMillis": 1772372050282
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772372272777
+        },
+        {
+          "timestampMillis": 1772372308090
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-03-01_Openclaw搞钱-公众号文章编写发布自动化f100026.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772372307218
         }
       ]
     }

@@ -10111,7 +10111,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-01.md": {
-    "scroll": 24.371841889931307,
+    "scroll": 40.337292977579104,
     "cursor": {
       "from": {
         "line": 24,
@@ -10301,6 +10301,48 @@
       },
       "to": {
         "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/2026-02-28_5年致富 - Will.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/2026-03-01_Openclaw搞钱-公众号文章编写发布自动化f100026.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/2026-02-28_5年致富 - Will.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
         "ch": 0
       }
     },
