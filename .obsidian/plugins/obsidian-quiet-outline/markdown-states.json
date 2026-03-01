@@ -10111,15 +10111,29 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-01.md": {
-    "scroll": 17.750625507574195,
+    "scroll": 17.12257087541465,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 3
+        "line": 37,
+        "ch": 31
       },
       "to": {
-        "line": 26,
-        "ch": 3
+        "line": 37,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/2026-03-01_毛选破局思维_深度阅读总结.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
       }
     },
     "expandedKeys": []

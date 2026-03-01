@@ -8589,13 +8589,26 @@
     {
       "path": "7.Daily/每日日志/2026-03-01.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772339942364
         },
         {
           "timestampMillis": 1772362563252
+        },
+        {
+          "timestampMillis": 1772363198979
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-03-01_毛选破局思维_深度阅读总结.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772363160166
         }
       ]
     }
