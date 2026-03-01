@@ -3,18 +3,17 @@
   "title": "Complete Monthly Review Summary",
   "titleGenerationStatus": "success",
   "createdAt": 1772274707831,
-  "updatedAt": 1772274794823,
-  "lastResponseAt": 1772274794823,
+  "updatedAt": 1772339954428,
+  "lastResponseAt": 1772339954428,
   "sessionId": "5aadba9e-1b17-4e6c-bdfe-cd5e4c48f3fb",
   "sdkSessionId": "5aadba9e-1b17-4e6c-bdfe-cd5e4c48f3fb",
-  "currentNote": "7.Daily/月度复盘/2026-02.md",
   "usage": {
     "model": "MiniMax-M2.5",
-    "inputTokens": 823,
-    "cacheCreationInputTokens": 289,
-    "cacheReadInputTokens": 27084,
+    "inputTokens": 209,
+    "cacheCreationInputTokens": 1125,
+    "cacheReadInputTokens": 25782,
     "contextWindow": 200000,
-    "contextTokens": 28196,
+    "contextTokens": 27116,
     "percentage": 14
   }
 }

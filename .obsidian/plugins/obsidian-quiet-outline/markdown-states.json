@@ -9873,15 +9873,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-02-28.md": {
-    "scroll": 74.39787292480469,
+    "scroll": 1.8582202514372261,
     "cursor": {
       "from": {
-        "line": 37,
-        "ch": 52
+        "line": 19,
+        "ch": 0
       },
       "to": {
-        "line": 37,
-        "ch": 52
+        "line": 19,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -10105,6 +10105,20 @@
       },
       "to": {
         "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-01.md": {
+    "scroll": 3.167420814479638,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },
