@@ -8536,7 +8536,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1772281357980
@@ -8558,6 +8558,9 @@
         },
         {
           "timestampMillis": 1772383334496
+        },
+        {
+          "timestampMillis": 1772385345228
         }
       ]
     },
@@ -8702,7 +8705,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772372272777
@@ -8715,6 +8718,9 @@
         },
         {
           "timestampMillis": 1772382536742
+        },
+        {
+          "timestampMillis": 1772385347432
         }
       ]
     },
@@ -8769,6 +8775,19 @@
       "openLogs": [
         {
           "timestampMillis": 1772383349825
+        }
+      ]
+    },
+    {
+      "path": "0.Inbox/2026-03-02_赚100万并不难照着做就可以个人成长 认知提升 认知觉醒 赚钱.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772385328559
+        },
+        {
+          "timestampMillis": 1772385359154
         }
       ]
     }
