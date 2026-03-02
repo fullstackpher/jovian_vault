@@ -10,7 +10,7 @@ date: 2026-03-02
 source: https://www.bilibili.com/video/BV1hrABzSEDZ/
 作者: 卷卷juan
 创建时间: 2026-03-02T10:55:00
-更新时间: 2026-03-02T11:13
+更新时间: 2026-03-03T00:17
 ---
 
 # 【AI】我的 Notion × YouMind 自动化工作流，让 AI 自动整理你的信息库并生成周报
