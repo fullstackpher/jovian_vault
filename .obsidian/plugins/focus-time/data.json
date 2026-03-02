@@ -3315,7 +3315,13 @@
     "7.Daily/每日日志/2026-03-02.md": {
       "fileId": "1772450195515",
       "filePath": "7.Daily/每日日志/2026-03-02.md",
-      "duration": 186000,
+      "duration": 870000,
+      "openCount": 2
+    },
+    "7.Daily/每日日志/2026-03-03.md": {
+      "fileId": "1772467636822",
+      "filePath": "7.Daily/每日日志/2026-03-03.md",
+      "duration": 0,
       "openCount": 1
     }
   }
