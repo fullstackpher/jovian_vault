@@ -531,7 +531,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 43,
-      "totalTimesOpened": 623,
+      "totalTimesOpened": 624,
       "openLogs": [
         {
           "timestampMillis": 1769748668350
@@ -1909,6 +1909,9 @@
         },
         {
           "timestampMillis": 1772384401275
+        },
+        {
+          "timestampMillis": 1772450193220
         }
       ]
     },
@@ -8830,13 +8833,16 @@
     {
       "path": "0.Inbox/2026-03-02_Notion-YouMind自动化工作流.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772420275332
         },
         {
           "timestampMillis": 1772427340811
+        },
+        {
+          "timestampMillis": 1772450191878
         }
       ]
     },
@@ -8850,6 +8856,16 @@
         },
         {
           "timestampMillis": 1772447679376
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-03-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772450195332
         }
       ]
     }

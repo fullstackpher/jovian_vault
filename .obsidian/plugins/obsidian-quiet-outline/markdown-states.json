@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 245.8703251061785,
+    "scroll": 244.7670665295355,
     "cursor": {
       "from": {
         "line": 95,
@@ -10567,6 +10567,20 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-02.md": {
+    "scroll": 58.62904656292249,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
         "ch": 0
       }
     },
