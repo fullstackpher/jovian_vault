@@ -10543,5 +10543,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "0.Inbox/2026-03-02_Notion-YouMind自动化工作流.md": {
+    "scroll": 84.70691080274604,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

@@ -3297,8 +3297,14 @@
     "0.Inbox/2026-03-02_为何翻身之路如此艰难.md": {
       "fileId": "1772419520093",
       "filePath": "0.Inbox/2026-03-02_为何翻身之路如此艰难.md",
-      "duration": 144000,
-      "openCount": 11
+      "duration": 150000,
+      "openCount": 12
+    },
+    "0.Inbox/2026-03-02_Notion-YouMind自动化工作流.md": {
+      "fileId": "1772420276085",
+      "filePath": "0.Inbox/2026-03-02_Notion-YouMind自动化工作流.md",
+      "duration": 36000,
+      "openCount": 1
     }
   }
 }

@@ -8826,6 +8826,16 @@
           "timestampMillis": 1772419743210
         }
       ]
+    },
+    {
+      "path": "0.Inbox/2026-03-02_Notion-YouMind自动化工作流.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772420275332
+        }
+      ]
     }
   ]
 }
