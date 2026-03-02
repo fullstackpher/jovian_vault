@@ -8705,7 +8705,7 @@
     {
       "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772372272777
@@ -8724,6 +8724,9 @@
         },
         {
           "timestampMillis": 1772385598576
+        },
+        {
+          "timestampMillis": 1772413818613
         }
       ]
     },
@@ -8778,16 +8781,6 @@
       "openLogs": [
         {
           "timestampMillis": 1772383349825
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/2026-03-02_一小时让你改变人生的定律 为什么你越努力越穷财富 自我成长 认知 思维.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1772389312695
         }
       ]
     }
