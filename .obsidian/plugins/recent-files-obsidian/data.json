@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian-Direct-直接操作技能",
+      "path": "4.Archives/Obsidian-Direct-直接操作技能.md"
+    },
+    {
+      "basename": "AI邪修搞钱法_8种方法总结",
+      "path": "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md"
+    },
+    {
+      "basename": "Feishu-Bitable-飞书多维表格技能",
+      "path": "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md"
+    },
+    {
+      "basename": "2026-03-02_为何翻身之路如此艰难",
+      "path": "3.Resources/链接收藏/2026-03-02_为何翻身之路如此艰难.md"
+    },
+    {
+      "basename": "2026-03-02",
+      "path": "7.Daily/每日日志/2026-03-02.md"
+    },
+    {
       "basename": "2026-03-03",
       "path": "7.Daily/每日日志/2026-03-03.md"
+    },
+    {
+      "basename": "Video-Frames-视频帧提取技能",
+      "path": "3.Resources/工具教程/Video-Frames-视频帧提取技能.md"
+    },
+    {
+      "basename": "Universal-Video-Downloader-通用视频下载技能",
+      "path": "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md"
+    },
+    {
+      "basename": "Tavily-Search-AI搜索技能",
+      "path": "3.Resources/工具教程/Tavily-Search-AI搜索技能.md"
+    },
+    {
+      "basename": "Summarize-摘要技能",
+      "path": "3.Resources/工具教程/Summarize-摘要技能.md"
+    },
+    {
+      "basename": "OpenClaw 最热 15 个使用场景",
+      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
+    },
+    {
+      "basename": "OpenClaw 索引",
+      "path": "3.Resources/工具教程/OpenClaw 索引.md"
+    },
+    {
+      "basename": "Obsidian任务管理教程整体脉络",
+      "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md"
+    },
+    {
+      "basename": "Obsidian基础-CLI版本技能",
+      "path": "3.Resources/工具教程/Obsidian基础-CLI版本技能.md"
+    },
+    {
+      "basename": "Notion-API-技能",
+      "path": "3.Resources/工具教程/Notion-API-技能.md"
+    },
+    {
+      "basename": "mh-Obsidian-MantouHub版技能",
+      "path": "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md"
+    },
+    {
+      "basename": "Markdown-Formatter-Markdown格式化技能",
+      "path": "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md"
+    },
+    {
+      "basename": "GitHub-Assistant-GitHub助手",
+      "path": "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md"
+    },
+    {
+      "basename": "Gaode-Map-高德地图技能",
+      "path": "3.Resources/工具教程/Gaode-Map-高德地图技能.md"
+    },
+    {
+      "basename": "Feishu-Messaging-飞书消息技能",
+      "path": "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md"
+    },
+    {
+      "basename": "Feishu-Doc-飞书文档技能",
+      "path": "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md"
+    },
+    {
+      "basename": "Faster-Whisper-GPU-视频转录技能",
+      "path": "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md"
+    },
+    {
+      "basename": "Diagram-Generator-图表生成技能",
+      "path": "3.Resources/工具教程/Diagram-Generator-图表生成技能.md"
+    },
+    {
+      "basename": "Brave-Search-Brave搜索技能",
+      "path": "3.Resources/工具教程/Brave-Search-Brave搜索技能.md"
+    },
+    {
+      "basename": "Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili",
+      "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
+    },
+    {
+      "basename": "Agent-Reach-全网采集技能",
+      "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md"
+    },
+    {
+      "basename": "Agent-Browser-浏览器自动化技能",
+      "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md"
     },
     {
       "basename": "2026-03-03_233750",
@@ -15,18 +119,6 @@
     {
       "basename": "Dashboard",
       "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "Agent-Browser-浏览器自动化技能",
-      "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md"
-    },
-    {
-      "basename": "Agent-Reach-全网采集技能",
-      "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md"
-    },
-    {
-      "basename": "2026-03-02",
-      "path": "7.Daily/每日日志/2026-03-02.md"
     },
     {
       "basename": "Summarize-摘要技能",
@@ -107,98 +199,6 @@
     {
       "basename": "openclaw操作指南",
       "path": "3.Resources/工具教程/openclaw操作指南.md"
-    },
-    {
-      "basename": "OpenClaw 最热 15 个使用场景",
-      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
-    },
-    {
-      "basename": "OpenClaw 索引",
-      "path": "3.Resources/工具教程/OpenClaw 索引.md"
-    },
-    {
-      "basename": "Obsidian任务管理教程整体脉络",
-      "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md"
-    },
-    {
-      "basename": "Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili",
-      "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
-    },
-    {
-      "basename": "思考致富",
-      "path": "3.Resources/链接收藏/思考致富.md"
-    },
-    {
-      "basename": "AI导演创业",
-      "path": "3.Resources/链接收藏/AI导演创业.md"
-    },
-    {
-      "basename": "一人公司-超级个体",
-      "path": "3.Resources/链接收藏/一人公司-超级个体.md"
-    },
-    {
-      "basename": "土豆变黄金",
-      "path": "3.Resources/链接收藏/土豆变黄金.md"
-    },
-    {
-      "basename": "如何变得强大",
-      "path": "3.Resources/链接收藏/如何变得强大.md"
-    },
-    {
-      "basename": "创业指南",
-      "path": "2.Areas/财富管理/04-创业指南/创业指南.md"
-    },
-    {
-      "basename": "成功学",
-      "path": "2.Areas/财富管理/04-创业指南/成功学.md"
-    },
-    {
-      "basename": "财富思维",
-      "path": "2.Areas/财富管理/01-财富思维/财富思维.md"
-    },
-    {
-      "basename": "README",
-      "path": "2.Areas/自我提升/README.md"
-    },
-    {
-      "basename": "PARA方法",
-      "path": "2.Areas/自我提升/06-认知提升/PARA方法.md"
-    },
-    {
-      "basename": "稀archy效应",
-      "path": "2.Areas/自我提升/06-认知提升/稀archy效应.md"
-    },
-    {
-      "basename": "认知提升",
-      "path": "2.Areas/自我提升/06-认知提升/认知提升.md"
-    },
-    {
-      "basename": "必读经典",
-      "path": "2.Areas/自我提升/06-认知提升/必读经典.md"
-    },
-    {
-      "basename": "OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
-      "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
-    },
-    {
-      "basename": "Obsidian让AI来",
-      "path": "3.Resources/链接收藏/Obsidian让AI来.md"
-    },
-    {
-      "basename": "Article 2026-02-06 13-43-47",
-      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md"
-    },
-    {
-      "basename": "2026-02",
-      "path": "7.Daily/月度复盘/2026-02.md"
-    },
-    {
-      "basename": "2026-01",
-      "path": "7.Daily/月度复盘/2026-01.md"
-    },
-    {
-      "basename": "草稿-openclaw写日报",
-      "path": "8.Info/草稿-openclaw写日报.md"
     }
   ],
   "omittedPaths": [],

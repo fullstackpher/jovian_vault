@@ -4823,8 +4823,8 @@
     },
     {
       "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770097917829
@@ -4840,6 +4840,9 @@
         },
         {
           "timestampMillis": 1772281622276
+        },
+        {
+          "timestampMillis": 1772553580965
         }
       ]
     },
@@ -5889,8 +5892,8 @@
     },
     {
       "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1770809855399
@@ -5906,6 +5909,9 @@
         },
         {
           "timestampMillis": 1772281620319
+        },
+        {
+          "timestampMillis": 1772553489601
         }
       ]
     },
@@ -7417,8 +7423,8 @@
     },
     {
       "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771933728061
@@ -7428,13 +7434,16 @@
         },
         {
           "timestampMillis": 1772281624997
+        },
+        {
+          "timestampMillis": 1772553583336
         }
       ]
     },
     {
       "path": "3.Resources/工具教程/OpenClaw 索引.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771933749925
@@ -7444,6 +7453,9 @@
         },
         {
           "timestampMillis": 1772281623946
+        },
+        {
+          "timestampMillis": 1772553582365
         }
       ]
     },
@@ -8561,8 +8573,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-03-02.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772450195332
@@ -8575,13 +8587,16 @@
         },
         {
           "timestampMillis": 1772539040770
+        },
+        {
+          "timestampMillis": 1772553621569
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-03-03.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772467635761
@@ -8606,6 +8621,9 @@
         },
         {
           "timestampMillis": 1772552854747
+        },
+        {
+          "timestampMillis": 1772553613357
         }
       ]
     },
@@ -8645,7 +8663,7 @@
     {
       "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1772551442515
@@ -8670,16 +8688,22 @@
         },
         {
           "timestampMillis": 1772551600361
+        },
+        {
+          "timestampMillis": 1772553487412
         }
       ]
     },
     {
       "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772551507680
+        },
+        {
+          "timestampMillis": 1772553488199
         }
       ]
     },
@@ -8696,6 +8720,196 @@
         },
         {
           "timestampMillis": 1772552827334
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Brave-Search-Brave搜索技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553491564
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Diagram-Generator-图表生成技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553495185
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553501535
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553512531
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553522231
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Gaode-Map-高德地图技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553527477
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553535652
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553547281
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553555927
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Notion-API-技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553566844
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Obsidian基础-CLI版本技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553576666
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Summarize-摘要技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553585257
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Tavily-Search-AI搜索技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553588803
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553594932
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Video-Frames-视频帧提取技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553600057
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-03-02_为何翻身之路如此艰难.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553648220
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553710534
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553724408
+        }
+      ]
+    },
+    {
+      "path": "4.Archives/Obsidian-Direct-直接操作技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553782451
         }
       ]
     }

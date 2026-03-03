@@ -10573,29 +10573,29 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-02.md": {
-    "scroll": 29.301000207994772,
+    "scroll": 23.264858647617896,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 44
+        "line": 68,
+        "ch": 0
       },
       "to": {
-        "line": 19,
-        "ch": 44
+        "line": 68,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-03.md": {
-    "scroll": 24.371841889931307,
+    "scroll": 29.065750640563028,
     "cursor": {
       "from": {
-        "line": 31,
-        "ch": 0
+        "line": 62,
+        "ch": 13
       },
       "to": {
-        "line": 31,
-        "ch": 0
+        "line": 62,
+        "ch": 13
       }
     },
     "expandedKeys": []
@@ -10657,6 +10657,286 @@
     "expandedKeys": []
   },
   "3.Resources/Agent-Reach-全网采集技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Agent-Reach-全网采集技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Brave-Search-Brave搜索技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Diagram-Generator-图表生成技能.md": {
+    "scroll": 53.13725353422619,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md": {
+    "scroll": 47.83753415917148,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md": {
+    "scroll": 45.292908459174924,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md": {
+    "scroll": 39.14453439273162,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Gaode-Map-高德地图技能.md": {
+    "scroll": 15.555555455824909,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md": {
+    "scroll": 42.17688036123664,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md": {
+    "scroll": 35.70839462355571,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md": {
+    "scroll": 35.55269562964346,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Notion-API-技能.md": {
+    "scroll": 27.9739965759551,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Obsidian基础-CLI版本技能.md": {
+    "scroll": 40.542016293822215,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Summarize-摘要技能.md": {
+    "scroll": 46.773283715341606,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Tavily-Search-AI搜索技能.md": {
+    "scroll": 41.92361076205385,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md": {
+    "scroll": 49.260511129431166,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Video-Frames-视频帧提取技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/2026-03-02_为何翻身之路如此艰难.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/Feishu-Bitable-飞书多维表格技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/Obsidian-Direct-直接操作技能.md": {
     "scroll": 0,
     "cursor": {
       "from": {

@@ -2397,14 +2397,14 @@
     "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md": {
       "fileId": "1770097922551",
       "filePath": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
-      "duration": 198000,
-      "openCount": 5
+      "duration": 204000,
+      "openCount": 6
     },
     "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md": {
       "fileId": "1770809855510",
       "filePath": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
-      "duration": 24000,
-      "openCount": 6
+      "duration": 30000,
+      "openCount": 7
     },
     "3.Resources/工具教程/openclaw操作指南.md": {
       "fileId": "1771282914207",
@@ -2752,13 +2752,13 @@
       "fileId": "1771933733209",
       "filePath": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md",
       "duration": 30000,
-      "openCount": 4
+      "openCount": 5
     },
     "3.Resources/工具教程/OpenClaw 索引.md": {
       "fileId": "1771933751238",
       "filePath": "3.Resources/工具教程/OpenClaw 索引.md",
       "duration": 66000,
-      "openCount": 4
+      "openCount": 5
     },
     "0.Inbox/临时待办.md": {
       "fileId": "1771933799205",
@@ -3309,14 +3309,14 @@
     "7.Daily/每日日志/2026-03-02.md": {
       "fileId": "1772450195515",
       "filePath": "7.Daily/每日日志/2026-03-02.md",
-      "duration": 870000,
-      "openCount": 4
+      "duration": 900000,
+      "openCount": 5
     },
     "7.Daily/每日日志/2026-03-03.md": {
       "fileId": "1772467636822",
       "filePath": "7.Daily/每日日志/2026-03-03.md",
-      "duration": 732000,
-      "openCount": 4
+      "duration": 780000,
+      "openCount": 6
     },
     "0.Inbox/Agent-Browser-浏览器自动化技能.md": {
       "fileId": "1772519038602",
@@ -3346,13 +3346,13 @@
       "fileId": "1772551508443",
       "filePath": "3.Resources/工具教程/Agent-Reach-全网采集技能.md",
       "duration": 0,
-      "openCount": 1
+      "openCount": 2
     },
     "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md": {
       "fileId": "1772551537447",
       "filePath": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md",
       "duration": 60000,
-      "openCount": 2
+      "openCount": 3
     },
     "3.Resources/工具教程/README.md": {
       "fileId": "1770188345908",
@@ -3365,6 +3365,120 @@
       "filePath": "5.Zattchments/图片/截图/2026-03-03_233750.png",
       "duration": 132000,
       "openCount": 2
+    },
+    "3.Resources/工具教程/Brave-Search-Brave搜索技能.md": {
+      "fileId": "1772553495122",
+      "filePath": "3.Resources/工具教程/Brave-Search-Brave搜索技能.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "3.Resources/工具教程/Diagram-Generator-图表生成技能.md": {
+      "fileId": "1772553497014",
+      "filePath": "3.Resources/工具教程/Diagram-Generator-图表生成技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md": {
+      "fileId": "1772553503008",
+      "filePath": "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md": {
+      "fileId": "1772553515009",
+      "filePath": "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md": {
+      "fileId": "1772553527008",
+      "filePath": "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Gaode-Map-高德地图技能.md": {
+      "fileId": "1772553533008",
+      "filePath": "3.Resources/工具教程/Gaode-Map-高德地图技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md": {
+      "fileId": "1772553539008",
+      "filePath": "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md": {
+      "fileId": "1772553551025",
+      "filePath": "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md": {
+      "fileId": "1772553557051",
+      "filePath": "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Notion-API-技能.md": {
+      "fileId": "1772553569008",
+      "filePath": "3.Resources/工具教程/Notion-API-技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Obsidian基础-CLI版本技能.md": {
+      "fileId": "1772553580907",
+      "filePath": "3.Resources/工具教程/Obsidian基础-CLI版本技能.md",
+      "duration": 0,
+      "openCount": 1
+    },
+    "3.Resources/工具教程/Summarize-摘要技能.md": {
+      "fileId": "1772553587008",
+      "filePath": "3.Resources/工具教程/Summarize-摘要技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Tavily-Search-AI搜索技能.md": {
+      "fileId": "1772553593029",
+      "filePath": "3.Resources/工具教程/Tavily-Search-AI搜索技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md": {
+      "fileId": "1772553599007",
+      "filePath": "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Video-Frames-视频帧提取技能.md": {
+      "fileId": "1772553605006",
+      "filePath": "3.Resources/工具教程/Video-Frames-视频帧提取技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/2026-03-02_为何翻身之路如此艰难.md": {
+      "fileId": "1772553653006",
+      "filePath": "3.Resources/链接收藏/2026-03-02_为何翻身之路如此艰难.md",
+      "duration": 60000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md": {
+      "fileId": "1772553713008",
+      "filePath": "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md": {
+      "fileId": "1772553725007",
+      "filePath": "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md",
+      "duration": 60000,
+      "openCount": 2
+    },
+    "4.Archives/Obsidian-Direct-直接操作技能.md": {
+      "fileId": "1772553785009",
+      "filePath": "4.Archives/Obsidian-Direct-直接操作技能.md",
+      "duration": 18000,
+      "openCount": 1
     }
   }
 }
