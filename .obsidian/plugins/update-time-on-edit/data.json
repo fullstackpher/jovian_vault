@@ -46,7 +46,6 @@
     "3.Resources/速查手册/Linux命令速查.md": "0de005b8fa610c7cdfef326baf697d0d9b16b1c2ef7dcaefd96be8d7476508ee",
     "3.Resources/速查手册/Docker命令速查.md": "4277f4c60ca3a63b8ff0313f3af304f71779d8855eaac03bcf8f63a164986ed0",
     "3.Resources/速查手册/Git命令速查.md": "06ab25cceae7cad2dfae796380143250146baf7d664dfa98b342594892715d7b",
-    "4.Archives/01-项目-2026-02/学习CSS-2026-02-13.md": "8633df1aca3e3dd1db4e36d2306e1bfe0344ea60ca544d076d300633583751ce",
     "4.Archives/01-项目-2026-02/学习HTML-2026-02.md": "2fa392080af55bd6d9e6da6fec8d2f1e6036dded29f1c78cf62f05a2051a16b9",
     "3.Resources/最佳实践/在obsidian使用GTD+PARA方法论实践个人知识管理.md": "b5c5c1f82b89de4af3f5164956fc9d805cf08779c87c739fc78341d8de8045a3",
     "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": "927fcafa137c687124efec061ff0b9d2683b83e8c89380418462d1e9aeb8daff",
@@ -183,9 +182,6 @@
     "3.Resources/链接收藏/一人公司-超级个体.md": "7ae606a5dc1fcb793712291fa332899526faa58ef3773cc6cbb50c7f2814e02a",
     "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md": "0897fbdd9d1c41820f0357823f1f3f674d8eb1dcd72b62bc9399e388132572d1",
     "2.Areas/自我提升/README.md": "8026c43cde3508a97378169ea6a8846f16c7c610137a9e9370776f8c78ac95cf",
-    "4.Archives/2026-02-28_一篇2万字长文吓坏了华尔街 - 熊猫的出海攻略.md": "62a190ff72c9fcd3cfb01287bfae8fa82706df71d2b1df3a8a23bea80dadbc7e",
-    "4.Archives/2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber.md": "6a668234e2731a0197b8030a4f96ae47b33a87a0954673b92994cce19cc59a20",
-    "4.Archives/2026-02-28_未来5年AI时代 - 艾财说.md": "62838ccda14cdbb107e6d88e821fcdb2429c9ba3b7970925de72df0fa9430ddf",
     "3.Resources/图书笔记/2026-03-01_毛选破局思维_深度阅读总结.md": "ecec3f60dde38cde1be3a6272b824a35cd6e7568f251cc919e5d43f070944834",
     "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md": "5c628fde7a91a7a94f7f6732f0dddd418502a4c3e9fc347f3e813abddffb0bd5",
     "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md": "5f47c6128eaddc182b0f05353d490af3774d8543b863431f410cf20c65718c97",
@@ -193,8 +189,6 @@
     "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md": "6ca8c3d86324639eaf0fe4ad07d9c425bf9dd0848f4828ccc0ad5aefec85b8e3",
     "3.Resources/链接收藏/2026-02-28_24小时设计百万生意模型 - 可行创业手册.md": "e18bf6f21274fbc37b0d20b9288afe31635901016081fb0502ba95430fdad548",
     "3.Resources/链接收藏/2026-02-28_微观权利生存术 - 芒果猴思维破局.md": "a500367eadd00db0e9892ee94c3b9211777a56ce61ece77e8ff55a6b6fa3928f",
-    "4.Archives/2026-03-02_一小时让你改变人生的定律 为什么你越努力越穷财富 自我成长 认知 思维.md": "986b0f3e59164343835327e77b7c49b6807b65c652e3d6e4a8e32601584896aa",
-    "4.Archives/2026-03-02_停止卖课2026 年赚钱的终极形态是卖你的商业系统 一人公司 知识付费 郑经说.md": "87f162a9657b068468373f26c98678a900b17bc060defe28c43017647e26f45b",
     "0.Inbox/Feishu-Messaging-飞书消息技能.md": "57f2030071090e7c94e459e7e7b929cda932bede42754bcdb1e6b1244c50aeb5",
     "0.Inbox/Feishu-Doc-飞书文档技能.md": "fbb87f937d3d7db2488ce3aaa5be205326855717a7a7465051b9b11901106a93",
     "0.Inbox/Obsidian-Direct-直接操作技能.md": "2a00a9b941fc8c7cef5287b2a267929e9e3759a9567f8fba27c6afe3dfc0e6bc",
@@ -243,6 +237,13 @@
     "3.Resources/工具教程/Video-Frames-视频帧提取技能.md": "2a23eb6eab0d939743972b6d8c2095b5411e3c8a50e94442de5aab7a015a8195",
     "3.Resources/链接收藏/2026-03-02_为何翻身之路如此艰难.md": "10e8185f86c3e4736530dfcb3e09b5cc6dcbc5926af197971f716195cd642b0d",
     "3.Resources/链接收藏/2026-03-02_Notion-YouMind自动化工作流.md": "4bf2f021e85e3c49700af63324a61f9d24fa38e2fef165989988bd2a22708127",
-    "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md": "de6b504e647f7f06693a7b5c53c890546659e5dd6f521036035063acaeb39cf6"
+    "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md": "de6b504e647f7f06693a7b5c53c890546659e5dd6f521036035063acaeb39cf6",
+    "4.Archives/01-项目-2026-02/学习CSS-2026-02.md": "8633df1aca3e3dd1db4e36d2306e1bfe0344ea60ca544d076d300633583751ce",
+    "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md": "113b5e6865fa0b97d37fc54ea516234b8cd15f3c0ce70b8d0293a6f247743d52",
+    "3.Resources/链接收藏/2026-02-28_一篇2万字长文吓坏了华尔街 - 熊猫的出海攻略.md": "62a190ff72c9fcd3cfb01287bfae8fa82706df71d2b1df3a8a23bea80dadbc7e",
+    "3.Resources/链接收藏/2026-02-28_中配我如何利用 Obsidian 和 Claude Code 管理人生 - Greg Isenber.md": "6a668234e2731a0197b8030a4f96ae47b33a87a0954673b92994cce19cc59a20",
+    "3.Resources/链接收藏/2026-03-02_停止卖课2026 年赚钱的终极形态是卖你的商业系统 一人公司 知识付费 郑经说.md": "87f162a9657b068468373f26c98678a900b17bc060defe28c43017647e26f45b",
+    "3.Resources/链接收藏/2026-03-02_一小时让你改变人生的定律 为什么你越努力越穷财富 自我成长 认知 思维.md": "986b0f3e59164343835327e77b7c49b6807b65c652e3d6e4a8e32601584896aa",
+    "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md": "2921ea34bfda5560f81ba782f36636aa080ffd15f56e9ce9da784f255762fdfc"
   }
 }

@@ -8904,12 +8904,25 @@
       ]
     },
     {
-      "path": "4.Archives/Obsidian-Direct-直接操作技能.md",
+      "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772553782451
+        },
+        {
+          "timestampMillis": 1772553824089
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1772553782451
+          "timestampMillis": 1772553804373
         }
       ]
     }

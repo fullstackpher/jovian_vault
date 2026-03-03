@@ -3474,11 +3474,17 @@
       "duration": 60000,
       "openCount": 2
     },
-    "4.Archives/Obsidian-Direct-直接操作技能.md": {
-      "fileId": "1772553785009",
-      "filePath": "4.Archives/Obsidian-Direct-直接操作技能.md",
+    "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md": {
+      "fileId": "1772553809035",
+      "filePath": "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md",
       "duration": 18000,
-      "openCount": 1
+      "openCount": 2
+    },
+    "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md": {
+      "fileId": "1772553785009",
+      "filePath": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md",
+      "duration": 66000,
+      "openCount": 2
     }
   }
 }

@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "Obsidian-Direct-直接操作技能",
-      "path": "4.Archives/Obsidian-Direct-直接操作技能.md"
+      "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md"
+    },
+    {
+      "basename": "2026-02-28_未来5年AI时代 - 艾财说",
+      "path": "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md"
     },
     {
       "basename": "AI邪修搞钱法_8种方法总结",
@@ -195,10 +199,6 @@
     {
       "basename": "ClawX（OpenClaw）安装文档",
       "path": "3.Resources/效率工具/ClawX（OpenClaw）安装文档.pdf"
-    },
-    {
-      "basename": "openclaw操作指南",
-      "path": "3.Resources/工具教程/openclaw操作指南.md"
     }
   ],
   "omittedPaths": [],
