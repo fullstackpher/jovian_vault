@@ -3,11 +3,10 @@
   "title": "完成本周笔记复盘",
   "titleGenerationStatus": "success",
   "createdAt": 1772363652744,
-  "updatedAt": 1772363787284,
+  "updatedAt": 1772552310601,
   "lastResponseAt": 1772363787284,
   "sessionId": "c5794053-09af-4983-a582-6b5627ca1e13",
   "sdkSessionId": "c5794053-09af-4983-a582-6b5627ca1e13",
-  "currentNote": "7.Daily/每周复盘/2026-W09.md",
   "usage": {
     "model": "MiniMax-M2.5",
     "inputTokens": 770,

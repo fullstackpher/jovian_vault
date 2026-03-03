@@ -8679,6 +8679,16 @@
           "timestampMillis": 1772551507680
         }
       ]
+    },
+    {
+      "path": "5.Zattchments/图片/截图/2026-03-03_233750.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772552319977
+        }
+      ]
     }
   ]
 }
