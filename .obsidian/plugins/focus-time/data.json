@@ -3345,8 +3345,14 @@
     "3.Resources/Agent-Browser-浏览器自动化技能.md": {
       "fileId": "1772551447306",
       "filePath": "3.Resources/Agent-Browser-浏览器自动化技能.md",
-      "duration": 66000,
+      "duration": 78000,
       "openCount": 2
+    },
+    "3.Resources/Agent-Reach-全网采集技能.md": {
+      "fileId": "1772551508443",
+      "filePath": "3.Resources/Agent-Reach-全网采集技能.md",
+      "duration": 0,
+      "openCount": 1
     }
   }
 }
