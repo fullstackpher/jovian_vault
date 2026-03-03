@@ -3316,13 +3316,31 @@
       "fileId": "1772450195515",
       "filePath": "7.Daily/每日日志/2026-03-02.md",
       "duration": 870000,
-      "openCount": 3
+      "openCount": 4
     },
     "7.Daily/每日日志/2026-03-03.md": {
       "fileId": "1772467636822",
       "filePath": "7.Daily/每日日志/2026-03-03.md",
-      "duration": 18000,
-      "openCount": 1
+      "duration": 30000,
+      "openCount": 2
+    },
+    "0.Inbox/Agent-Browser-浏览器自动化技能.md": {
+      "fileId": "1772519038602",
+      "filePath": "0.Inbox/Agent-Browser-浏览器自动化技能.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "0.Inbox/YouTube-Watcher-YouTube技能.md": {
+      "fileId": "1772519044607",
+      "filePath": "0.Inbox/YouTube-Watcher-YouTube技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "0.Inbox/Summarize-摘要技能.md": {
+      "fileId": "1772519056604",
+      "filePath": "0.Inbox/Summarize-摘要技能.md",
+      "duration": 12000,
+      "openCount": 2
     }
   }
 }

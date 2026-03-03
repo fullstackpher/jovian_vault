@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 244.7670665295355,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 95,
@@ -10595,6 +10595,48 @@
       },
       "to": {
         "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Agent-Browser-浏览器自动化技能.md": {
+    "scroll": 27.845605961767255,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/YouTube-Watcher-YouTube技能.md": {
+    "scroll": 36.80269562964346,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/Summarize-摘要技能.md": {
+    "scroll": 55.42758649401064,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
         "ch": 0
       }
     },
