@@ -8906,13 +8906,16 @@
     {
       "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772553782451
         },
         {
           "timestampMillis": 1772553824089
+        },
+        {
+          "timestampMillis": 1772553882823
         }
       ]
     },
