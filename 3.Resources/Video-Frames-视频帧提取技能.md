@@ -60,3 +60,7 @@ ffmpeg -i video.mp4 -ss 00:01:30 -vframes 1 frame.jpg
 
 - [[Faster-Whisper-GPU]] - 视频转录
 - [[Universal-Video-Downloader]] - 视频下载
+
+
+---
+相关链接: [[3.Resources]]

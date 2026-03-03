@@ -10590,12 +10590,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 24
+        "line": 7,
+        "ch": 0
       },
       "to": {
-        "line": 19,
-        "ch": 24
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -10630,6 +10630,34 @@
   },
   "0.Inbox/Summarize-摘要技能.md": {
     "scroll": 55.42758649401064,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Agent-Browser-浏览器自动化技能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 21
+      },
+      "to": {
+        "line": 12,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/Agent-Reach-全网采集技能.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 8,

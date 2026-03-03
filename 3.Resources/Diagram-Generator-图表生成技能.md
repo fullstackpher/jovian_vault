@@ -66,3 +66,7 @@ Environment → Datacenter → Zone → Device
 - get_config() - 查看配置
 - init_config() - 初始化
 - generate_diagram() - 生成图表
+
+
+---
+相关链接: [[3.Resources]]

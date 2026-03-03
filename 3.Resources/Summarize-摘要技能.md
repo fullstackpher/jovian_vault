@@ -64,3 +64,7 @@ summarize "https://youtu.be/xxx" --youtube auto
 
 - [[Agent-Reach]] - 内容采集
 - [[YouTube-Watcher]] - YouTube 专用
+
+
+---
+相关链接: [[3.Resources]]

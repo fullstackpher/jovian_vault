@@ -47,3 +47,7 @@ brew install yakitrak/yakitrak/obsidian-cli
 
 - [[Obsidian-Direct]] - 直接操作
 - [[Obsidian基础]] - CLI 版本
+
+
+---
+相关链接: [[3.Resources]]

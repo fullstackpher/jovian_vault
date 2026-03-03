@@ -53,3 +53,7 @@ Feishu-Messaging 是 OpenClaw 的飞书消息发送技能，让你可以通过 A
 - [[Feishu-Doc]] - 飞书文档操作
 - [[Feishu-Bridge]] - 飞书桥接
 - [[Feishu-Bitable]] - 飞书多维表格
+
+
+---
+相关链接: [[3.Resources]]

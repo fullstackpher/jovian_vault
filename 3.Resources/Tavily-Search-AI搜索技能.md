@@ -56,3 +56,7 @@ node scripts/search.mjs "关键词" --topic news
 
 - [[Brave-Search]] - Brave 搜索
 - [[Agent-Reach]] - 全网内容采集
+
+
+---
+相关链接: [[3.Resources]]

@@ -45,3 +45,7 @@ created: 2026-03-03
 
 - [[Obsidian-Direct]] - Obsidian 笔记
 - [[Summarize]] - 内容摘要
+
+
+---
+相关链接: [[3.Resources]]

@@ -3321,8 +3321,8 @@
     "7.Daily/每日日志/2026-03-03.md": {
       "fileId": "1772467636822",
       "filePath": "7.Daily/每日日志/2026-03-03.md",
-      "duration": 258000,
-      "openCount": 2
+      "duration": 330000,
+      "openCount": 3
     },
     "0.Inbox/Agent-Browser-浏览器自动化技能.md": {
       "fileId": "1772519038602",
@@ -3340,6 +3340,12 @@
       "fileId": "1772519056604",
       "filePath": "0.Inbox/Summarize-摘要技能.md",
       "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/Agent-Browser-浏览器自动化技能.md": {
+      "fileId": "1772551447306",
+      "filePath": "3.Resources/Agent-Browser-浏览器自动化技能.md",
+      "duration": 66000,
       "openCount": 2
     }
   }

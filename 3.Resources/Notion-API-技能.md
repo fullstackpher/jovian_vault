@@ -43,3 +43,7 @@ echo "ntn_your_key" > ~/.config/notion/api_key
 
 - [[Obsidian-Direct]] - Obsidian 操作
 - [[Ontology]] - 知识图谱
+
+
+---
+相关链接: [[3.Resources]]

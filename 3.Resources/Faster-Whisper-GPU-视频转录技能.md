@@ -62,3 +62,7 @@ python faster_whisper_gpu.py video.mp4 --output_format srt
 - [[YouTube-Watcher]] - YouTube Transcript
 - [[Video-Frames]] - 视频帧提取
 - [[Universal-Video-Downloader]] - 视频下载
+
+
+---
+相关链接: [[3.Resources]]

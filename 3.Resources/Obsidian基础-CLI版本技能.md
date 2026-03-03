@@ -59,3 +59,7 @@ obsidian-cli delete "path/note"
 
 - [[Obsidian-Direct]] - 直接操作（推荐 Windows）
 - [[mh-Obsidian]] - MantouHub 版本
+
+
+---
+相关链接: [[3.Resources]]

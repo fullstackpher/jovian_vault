@@ -47,3 +47,7 @@ created: 2026-03-03
 ## 相关技能
 
 - [[Tavily-Search]] - 网页搜索
+
+
+---
+相关链接: [[3.Resources]]

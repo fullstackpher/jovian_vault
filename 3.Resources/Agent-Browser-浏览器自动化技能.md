@@ -5,7 +5,7 @@ tags:
   - automation
 created: 2026-03-03
 创建时间: 2026-03-03T12:51
-更新时间: 2026-03-03T12:51
+更新时间: 2026-03-03T23:25
 ---
 
 # Agent-Browser 浏览器自动化技能
@@ -51,3 +51,7 @@ agent-browser install --with-deps
 
 - [[Tavily-Search]] - 网页搜索
 - [[Agent-Reach]] - 内容采集
+
+
+---
+相关链接: [[3.Resources]]

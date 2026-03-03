@@ -59,3 +59,7 @@ Feishu-Doc 支持读取和创建飞书文档、Wiki、表格、多维表格。
 需要飞书应用权限：
 - im:message
 - im:chat
+
+
+---
+相关链接: [[3.Resources]]
