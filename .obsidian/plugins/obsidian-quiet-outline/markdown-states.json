@@ -10587,15 +10587,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-03.md": {
-    "scroll": 6.334841628959276,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 19,
+        "ch": 24
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 19,
+        "ch": 24
       }
     },
     "expandedKeys": []
