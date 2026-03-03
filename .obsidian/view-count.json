@@ -8581,7 +8581,7 @@
     {
       "path": "7.Daily/每日日志/2026-03-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1772467635761
@@ -8603,6 +8603,9 @@
         },
         {
           "timestampMillis": 1772551625663
+        },
+        {
+          "timestampMillis": 1772552854747
         }
       ]
     },
@@ -8683,13 +8686,16 @@
     {
       "path": "5.Zattchments/图片/截图/2026-03-03_233750.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772552319977
         },
         {
           "timestampMillis": 1772552805901
+        },
+        {
+          "timestampMillis": 1772552827334
         }
       ]
     }
