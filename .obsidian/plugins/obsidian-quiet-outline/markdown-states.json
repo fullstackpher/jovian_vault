@@ -10965,7 +10965,7 @@
     "expandedKeys": []
   },
   "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md": {
-    "scroll": 0,
+    "scroll": 21.30634028840801,
     "cursor": {
       "from": {
         "line": 9,
@@ -10974,6 +10974,20 @@
       "to": {
         "line": 9,
         "ch": 24
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/Foundry-自我进化技能.md": {
+    "scroll": 45.27919872234344,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 33
+      },
+      "to": {
+        "line": 41,
+        "ch": 33
       }
     },
     "expandedKeys": []

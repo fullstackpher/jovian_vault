@@ -3483,8 +3483,14 @@
     "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md": {
       "fileId": "1772553785009",
       "filePath": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md",
+      "duration": 108000,
+      "openCount": 3
+    },
+    "3.Resources/工具教程/Foundry-自我进化技能.md": {
+      "fileId": "1772553923009",
+      "filePath": "3.Resources/工具教程/Foundry-自我进化技能.md",
       "duration": 90000,
-      "openCount": 2
+      "openCount": 1
     }
   }
 }

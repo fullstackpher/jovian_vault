@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Foundry-自我进化技能",
+      "path": "3.Resources/工具教程/Foundry-自我进化技能.md"
+    },
+    {
       "basename": "Obsidian-Direct-直接操作技能",
       "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Clawx安装配置指南",
       "path": "3.Resources/效率工具/Clawx安装配置指南.md"
-    },
-    {
-      "basename": "ClawX（OpenClaw）安装文档",
-      "path": "3.Resources/效率工具/ClawX（OpenClaw）安装文档.pdf"
     }
   ],
   "omittedPaths": [],
