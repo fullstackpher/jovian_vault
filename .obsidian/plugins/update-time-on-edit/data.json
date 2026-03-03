@@ -212,6 +212,19 @@
     "0.Inbox/Foundry-自我进化技能.md": "38ed70ca4045d1f5ed92aac68c6a47c32cab6cd5ec8d1527dda66aabaf91a4e0",
     "0.Inbox/Summarize-摘要技能.md": "a89afbb4d80f87415c55e0bd5e66dd8524b8fdd9c1901ca05d284df9f1f33941",
     "0.Inbox/Find-Skills-技能发现.md": "e6c4969f21d95bf501b6859974736c01cbd8559bb9084ede77437f8af872fb1d",
-    "0.Inbox/Notion-API-技能.md": "e58491ef2c9e6694727660808882a0af29b71f7fb9e397fa7dd51c5dc502c6f3"
+    "0.Inbox/Notion-API-技能.md": "e58491ef2c9e6694727660808882a0af29b71f7fb9e397fa7dd51c5dc502c6f3",
+    "0.Inbox/Agent-Browser-浏览器自动化技能.md": "f2cb23a808ae52861850f69a38d08b85c6fe3a8b85c8be3f2bfb3a49aa6d91d8",
+    "0.Inbox/Brave-Search-Brave搜索技能.md": "85d0ad2355cded3750a6fd2277bb10456d291963d70df13697fba31ad43604db",
+    "0.Inbox/Feishu-Bitable-飞书多维表格技能.md": "28e05a82b1b7a7591cd1057ba40e19904f1500f7f3ac976f3f8bdc1f9cbc3f3d",
+    "0.Inbox/Feishu-Bridge-飞书桥接技能.md": "fe894ffe539b7203a325c05cf4d601b55a57ae6cb4985aebbf667f9cfb456b0f",
+    "0.Inbox/Gaode-Map-高德地图技能.md": "a6331e4452c862e151c4e548adca3e2cceef8682e660c4822556decbe4e84017",
+    "0.Inbox/Markdown-Formatter-Markdown格式化技能.md": "b96876d3757d65222583ca0ad31859d1afe29e6989690d5052cd9655e0064e94",
+    "0.Inbox/mh-Obsidian-MantouHub版技能.md": "e84a61dc590e362a6f5f0349499d4e50affd3d4c096e77a428e6c4392225bf71",
+    "0.Inbox/Newsletter-Digest-新闻简报技能.md": "9b5e364b0931cf7294bf8d5f9c0343c2e5efd0fc1b6c6bb4f16d9024e5d9ffdd",
+    "0.Inbox/Obsidian基础-CLI版本技能.md": "37ccd35e1231d2338ec9780f42889347ec4e57273ded464dbe1aa569439bc795",
+    "0.Inbox/Self-Improving-Agent-自我改进代理技能.md": "5101ef1fc0ed4f48b8dd4fdc345df7b37112496d6451b74839d2a656b09e0b0d",
+    "0.Inbox/Video-Frames-视频帧提取技能.md": "4008eed0253713d0556efd3e025e8d3d5aba26d91d5df6843d413607db38f523",
+    "0.Inbox/YouTube-Watcher-YouTube技能.md": "277f632c058abee0032c67a4abd60e2009d9756d7da39729cf68a03e3f353ce8",
+    "0.Inbox/Universal-Video-Downloader-通用视频下载技能.md": "6c2603338b3c7bf0ea48fdfa4299f736e4fd5393de3bd62ac9c43596ccac1c4c"
   }
 }
