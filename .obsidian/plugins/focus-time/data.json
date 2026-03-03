@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 26508000,
-      "openCount": 438
+      "duration": 26532000,
+      "openCount": 439
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1445,12 +1445,6 @@
       "filePath": "2.Areas/README.md",
       "duration": 66000,
       "openCount": 4
-    },
-    "3.Resources/README.md": {
-      "fileId": "1770188345908",
-      "filePath": "3.Resources/README.md",
-      "duration": 456000,
-      "openCount": 8
     },
     "5.Zattchments/README.md": {
       "fileId": "1770188357912",
@@ -3321,7 +3315,7 @@
     "7.Daily/每日日志/2026-03-03.md": {
       "fileId": "1772467636822",
       "filePath": "7.Daily/每日日志/2026-03-03.md",
-      "duration": 330000,
+      "duration": 504000,
       "openCount": 3
     },
     "0.Inbox/Agent-Browser-浏览器自动化技能.md": {
@@ -3345,14 +3339,26 @@
     "3.Resources/Agent-Browser-浏览器自动化技能.md": {
       "fileId": "1772551447306",
       "filePath": "3.Resources/Agent-Browser-浏览器自动化技能.md",
-      "duration": 78000,
+      "duration": 90000,
       "openCount": 2
     },
-    "3.Resources/Agent-Reach-全网采集技能.md": {
+    "3.Resources/工具教程/Agent-Reach-全网采集技能.md": {
       "fileId": "1772551508443",
-      "filePath": "3.Resources/Agent-Reach-全网采集技能.md",
+      "filePath": "3.Resources/工具教程/Agent-Reach-全网采集技能.md",
       "duration": 0,
       "openCount": 1
+    },
+    "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md": {
+      "fileId": "1772551537447",
+      "filePath": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md",
+      "duration": 60000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/README.md": {
+      "fileId": "1770188345908",
+      "filePath": "3.Resources/工具教程/README.md",
+      "duration": 456000,
+      "openCount": 8
     }
   }
 }

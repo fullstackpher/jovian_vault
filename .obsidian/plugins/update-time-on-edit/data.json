@@ -22,7 +22,6 @@
     "1.Projects/02-知识管理/学习Obsidian.md": "ddb34e27a94a31a8290dcd763ccb76daf326ca2c31796be2349be2bceb5b69ed",
     "2.Areas/README.md": "0574a78eb487cf53fb1286905c1d4fce72d47832941b3c2045f4e5e9e8826d96",
     "2.Areas/Frontend/Frontend知识体系总览.md": "dc6383f66cbdeb030a9611e16fae39cfd58c36ea24c93770f99134d8b050d5d5",
-    "3.Resources/README.md": "e761e4c2368c80141c22a8b121ebcd53bf0808fc8b05d1f063e47c1984450ada",
     "4.Archives/README.md": "e14666e1adaf70b1f7303280d75ec69bc61543e72a3c7ee01556334692ea7a9f",
     "4.Archives/03-资源-2026-02/Callout指南-2026-02.md": "a8d7c3d518362d3b9b68de9d37985b8ff1e06cb0b0706ce323079a44c678d288",
     "4.Archives/03-资源-2026-02/Claudian使用指南-2026-02.md": "f9fd804d2ffd9e32046e7a0d002764a22d189ae75646ba766e08b2d8f0839d82",
@@ -226,7 +225,8 @@
     "0.Inbox/Video-Frames-视频帧提取技能.md": "4008eed0253713d0556efd3e025e8d3d5aba26d91d5df6843d413607db38f523",
     "0.Inbox/YouTube-Watcher-YouTube技能.md": "277f632c058abee0032c67a4abd60e2009d9756d7da39729cf68a03e3f353ce8",
     "0.Inbox/Universal-Video-Downloader-通用视频下载技能.md": "6c2603338b3c7bf0ea48fdfa4299f736e4fd5393de3bd62ac9c43596ccac1c4c",
-    "3.Resources/Agent-Browser-浏览器自动化技能.md": "1b4a1765b999ada5095776b6b8076c57dd042e1f3a9b59ccf628f81750e62eda",
-    "3.Resources/Agent-Reach-全网采集技能.md": "900a4f647cb2f65f4f19c113126aa59c13286ba8650cae117776e6c946713137"
+    "3.Resources/工具教程/Agent-Reach-全网采集技能.md": "900a4f647cb2f65f4f19c113126aa59c13286ba8650cae117776e6c946713137",
+    "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md": "1b4a1765b999ada5095776b6b8076c57dd042e1f3a9b59ccf628f81750e62eda",
+    "3.Resources/工具教程/README.md": "e761e4c2368c80141c22a8b121ebcd53bf0808fc8b05d1f063e47c1984450ada"
   }
 }

@@ -531,7 +531,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 44,
-      "totalTimesOpened": 625,
+      "totalTimesOpened": 626,
       "openLogs": [
         {
           "timestampMillis": 1769833351336
@@ -1678,6 +1678,9 @@
         },
         {
           "timestampMillis": 1772539042432
+        },
+        {
+          "timestampMillis": 1772551602566
         }
       ]
     },
@@ -3253,7 +3256,7 @@
       ]
     },
     {
-      "path": "3.Resources/README.md",
+      "path": "3.Resources/工具教程/README.md",
       "uniqueDaysOpened": 9,
       "totalTimesOpened": 20,
       "openLogs": [
@@ -8575,7 +8578,7 @@
     {
       "path": "7.Daily/每日日志/2026-03-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772467635761
@@ -8594,6 +8597,9 @@
         },
         {
           "timestampMillis": 1772551257798
+        },
+        {
+          "timestampMillis": 1772551625663
         }
       ]
     },
@@ -8631,9 +8637,9 @@
       ]
     },
     {
-      "path": "3.Resources/Agent-Browser-浏览器自动化技能.md",
+      "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1772551442515
@@ -8652,11 +8658,17 @@
         },
         {
           "timestampMillis": 1772551508514
+        },
+        {
+          "timestampMillis": 1772551597952
+        },
+        {
+          "timestampMillis": 1772551600361
         }
       ]
     },
     {
-      "path": "3.Resources/Agent-Reach-全网采集技能.md",
+      "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
