@@ -8935,10 +8935,13 @@
     {
       "path": "3.Resources/工具教程/Foundry-自我进化技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772553919413
+        },
+        {
+          "timestampMillis": 1772594998875
         }
       ]
     }
