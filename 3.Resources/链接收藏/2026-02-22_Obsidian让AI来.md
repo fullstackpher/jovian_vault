@@ -9,12 +9,11 @@ tags:
   - MCP
   - 懒人必备
   - 职场黑科技
-date: 2026-02-05
 source: 小红书
 author: 职场懒人姐
 url: https://www.xiaohongshu.com/discovery/item/69845877000000001a024ec9
 创建时间: 2026-02-22T17:49
-更新时间: 2026-02-25T22:14
+更新时间: 2026-03-04T12:04
 paracategory: Resources
 ---
 

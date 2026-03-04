@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 158.18698975169758,
+    "scroll": 94.94304788678372,
     "cursor": {
       "from": {
         "line": 95,
@@ -6033,7 +6033,7 @@
     "expandedKeys": []
   },
   "Dashboards/待处理区.md": {
-    "scroll": 61.990097799670394,
+    "scroll": 2.2605293159792144,
     "cursor": {
       "from": {
         "line": 0,
@@ -6135,7 +6135,7 @@
     "expandedKeys": []
   },
   "1.Projects/03-学习前端/学习JavaScript.md": {
-    "scroll": 42.852898432924704,
+    "scroll": 96.6545327783941,
     "cursor": {
       "from": {
         "line": 54,
@@ -8809,7 +8809,7 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/两周内学会任何东西.md": {
-    "scroll": 63.384394552193434,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 15,
@@ -8837,7 +8837,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/思考致富.md": {
-    "scroll": 37.67075288062002,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 16,
@@ -8851,7 +8851,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/土豆变黄金.md": {
-    "scroll": 44.48622367052528,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 25,
@@ -8868,12 +8868,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 6,
+        "ch": 104
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 6,
+        "ch": 104
       }
     },
     "expandedKeys": []
@@ -8963,15 +8963,15 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
-    "scroll": 415.7654605634186,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 509,
-        "ch": 40
+        "line": 13,
+        "ch": 22
       },
       "to": {
-        "line": 509,
-        "ch": 40
+        "line": 13,
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -9453,7 +9453,7 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/专注个人提升的obsidian标签体系.md": {
-    "scroll": 25.966315450688658,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 4,
@@ -9551,7 +9551,7 @@
     "expandedKeys": []
   },
   "3.Resources/效率工具/Clawx安装配置指南.md": {
-    "scroll": 98.47660004720476,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 99,
@@ -9691,7 +9691,7 @@
     "expandedKeys": []
   },
   "1.Projects/04-学习AI/学习AI Agent.md": {
-    "scroll": 246.9599582447725,
+    "scroll": 55.55836223062924,
     "cursor": {
       "from": {
         "line": 46,
@@ -9817,7 +9817,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/一人公司-超级个体.md": {
-    "scroll": 3.6199095022624435,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 15,
@@ -9985,7 +9985,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/AI导演创业.md": {
-    "scroll": 7.5,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 8,
@@ -10069,7 +10069,7 @@
     "expandedKeys": []
   },
   "3.Resources/链接收藏/如何变得强大.md": {
-    "scroll": 28.328364757341422,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 10,
@@ -10988,6 +10988,272 @@
       "to": {
         "line": 41,
         "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/README.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw技能/OpenClaw 索引.md": {
+    "scroll": 3.1358885017421603,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw技能/OpenClaw 最热 15 个使用场景.md": {
+    "scroll": 5.643750143051148,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 7
+      },
+      "to": {
+        "line": 14,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-02-22_Obsidian让AI来.md": {
+    "scroll": 53.96062242659426,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-02-22_OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 22
+      },
+      "to": {
+        "line": 13,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/添加快速任务.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-02-22_两周内学会任何东西.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Calendar使用指南.md": {
+    "scroll": 21.07820982988505,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/omisearch使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Obsidian shared to Notion使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Inbox面板搭建指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Excalidraw插件使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Editing Toolbar使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/效率工具/Dashboard使用指南.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "4.Archives/03-资源-2026-03/Clawx安装配置指南-2026-03.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 99,
+        "ch": 21
+      },
+      "to": {
+        "line": 99,
+        "ch": 21
       }
     },
     "expandedKeys": []

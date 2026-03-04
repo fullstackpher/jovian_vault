@@ -1,24 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "Clawx安装配置指南-2026-03",
+      "path": "4.Archives/03-资源-2026-03/Clawx安装配置指南-2026-03.md"
+    },
+    {
+      "basename": "Dashboard使用指南",
+      "path": "3.Resources/效率工具/Dashboard使用指南.md"
+    },
+    {
+      "basename": "Editing Toolbar使用指南",
+      "path": "3.Resources/效率工具/Editing Toolbar使用指南.md"
+    },
+    {
+      "basename": "Excalidraw插件使用指南",
+      "path": "3.Resources/效率工具/Excalidraw插件使用指南.md"
+    },
+    {
+      "basename": "Inbox面板搭建指南",
+      "path": "3.Resources/效率工具/Inbox面板搭建指南.md"
+    },
+    {
+      "basename": "Obsidian ReadItLater 插件使用教程",
+      "path": "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md"
+    },
+    {
+      "basename": "Obsidian shared to Notion使用指南",
+      "path": "3.Resources/效率工具/Obsidian shared to Notion使用指南.md"
+    },
+    {
+      "basename": "omisearch使用指南",
+      "path": "3.Resources/效率工具/omisearch使用指南.md"
+    },
+    {
+      "basename": "openclaw_knowledge_base",
+      "path": "3.Resources/效率工具/openclaw_knowledge_base.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "Foundry-自我进化技能",
-      "path": "3.Resources/工具教程/Foundry-自我进化技能.md"
+      "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md"
+    },
+    {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
+      "basename": "ClawX（OpenClaw）安装文档-2026-03",
+      "path": "4.Archives/03-资源-2026-03/ClawX（OpenClaw）安装文档-2026-03.pdf"
+    },
+    {
+      "basename": "Calendar使用指南",
+      "path": "3.Resources/效率工具/Calendar使用指南.md"
+    },
+    {
+      "basename": "Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili",
+      "path": "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md"
+    },
+    {
+      "basename": "专注个人提升的obsidian标签体系",
+      "path": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md"
+    },
+    {
+      "basename": "2026-02-22_两周内学会任何东西",
+      "path": "3.Resources/链接收藏/2026-02-22_两周内学会任何东西.md"
+    },
+    {
+      "basename": "2026-02-22_OpenClaw 教学：25 个Tools + 53 个Skills 完整指南",
+      "path": "3.Resources/链接收藏/2026-02-22_OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md"
+    },
+    {
+      "basename": "2026-02-22_Obsidian让AI来",
+      "path": "3.Resources/链接收藏/2026-02-22_Obsidian让AI来.md"
+    },
+    {
+      "basename": "2026-02-23_AI邪修搞钱法_8种方法总结",
+      "path": "3.Resources/链接收藏/2026-02-23_AI邪修搞钱法_8种方法总结.md"
+    },
+    {
+      "basename": "2026-02-25_AI导演创业",
+      "path": "3.Resources/链接收藏/2026-02-25_AI导演创业.md"
+    },
+    {
+      "basename": "2022-02-26_一人公司-超级个体",
+      "path": "3.Resources/链接收藏/2022-02-26_一人公司-超级个体.md"
+    },
+    {
+      "basename": "2026-02-22_土豆变黄金",
+      "path": "3.Resources/链接收藏/2026-02-22_土豆变黄金.md"
+    },
+    {
+      "basename": "2026-02-22_思考致富",
+      "path": "3.Resources/链接收藏/2026-02-22_思考致富.md"
+    },
+    {
+      "basename": "2026-02-24_如何变得强大",
+      "path": "3.Resources/链接收藏/2026-02-24_如何变得强大.md"
+    },
+    {
+      "basename": "2026-02-26_利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务",
+      "path": "3.Resources/链接收藏/2026-02-26_利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务.md"
+    },
+    {
+      "basename": "OpenClaw 最热 15 个使用场景",
+      "path": "3.Resources/工具教程/openclaw/OpenClaw 最热 15 个使用场景.md"
+    },
+    {
+      "basename": "OpenClaw 索引",
+      "path": "3.Resources/工具教程/openclaw/OpenClaw 索引.md"
+    },
+    {
+      "basename": "Agent-Browser-浏览器自动化技能",
+      "path": "3.Resources/工具教程/openclaw/Agent-Browser-浏览器自动化技能.md"
+    },
+    {
+      "basename": "README",
+      "path": "3.Resources/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "5.Zattchments/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "4.Archives/README.md"
+    },
+    {
+      "basename": "学习JavaScript",
+      "path": "1.Projects/03-学习前端/学习JavaScript.md"
+    },
+    {
+      "basename": "学习AI Agent",
+      "path": "1.Projects/04-学习AI/学习AI Agent.md"
+    },
+    {
+      "basename": "草稿-openclaw写日报",
+      "path": "8.Info/草稿-openclaw写日报.md"
+    },
+    {
+      "basename": "草稿-Obsidian主页排版参考",
+      "path": "8.Info/草稿-Obsidian主页排版参考.md"
+    },
+    {
+      "basename": "草稿-视频转笔记工作流",
+      "path": "8.Info/草稿-视频转笔记工作流.md"
+    },
+    {
+      "basename": "草稿-浏览器自动化",
+      "path": "8.Info/草稿-浏览器自动化.md"
     },
     {
       "basename": "Obsidian-Direct-直接操作技能",
-      "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md"
+      "path": "3.Resources/工具教程/openclaw/Obsidian-Direct-直接操作技能.md"
     },
     {
       "basename": "2026-02-28_未来5年AI时代 - 艾财说",
       "path": "3.Resources/链接收藏/2026-02-28_未来5年AI时代 - 艾财说.md"
     },
     {
-      "basename": "AI邪修搞钱法_8种方法总结",
-      "path": "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md"
-    },
-    {
       "basename": "Feishu-Bitable-飞书多维表格技能",
-      "path": "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md"
+      "path": "3.Resources/工具教程/openclaw/Feishu-Bitable-飞书多维表格技能.md"
     },
     {
       "basename": "2026-03-02_为何翻身之路如此艰难",
@@ -34,171 +178,27 @@
     },
     {
       "basename": "Video-Frames-视频帧提取技能",
-      "path": "3.Resources/工具教程/Video-Frames-视频帧提取技能.md"
+      "path": "3.Resources/工具教程/openclaw/Video-Frames-视频帧提取技能.md"
     },
     {
       "basename": "Universal-Video-Downloader-通用视频下载技能",
-      "path": "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md"
+      "path": "3.Resources/工具教程/openclaw/Universal-Video-Downloader-通用视频下载技能.md"
     },
     {
       "basename": "Tavily-Search-AI搜索技能",
-      "path": "3.Resources/工具教程/Tavily-Search-AI搜索技能.md"
+      "path": "3.Resources/工具教程/openclaw/Tavily-Search-AI搜索技能.md"
     },
     {
       "basename": "Summarize-摘要技能",
-      "path": "3.Resources/工具教程/Summarize-摘要技能.md"
-    },
-    {
-      "basename": "OpenClaw 最热 15 个使用场景",
-      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md"
-    },
-    {
-      "basename": "OpenClaw 索引",
-      "path": "3.Resources/工具教程/OpenClaw 索引.md"
+      "path": "3.Resources/工具教程/openclaw/Summarize-摘要技能.md"
     },
     {
       "basename": "Obsidian任务管理教程整体脉络",
-      "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md"
+      "path": "3.Resources/工具教程/openclaw/Obsidian任务管理教程整体脉络.md"
     },
     {
       "basename": "Obsidian基础-CLI版本技能",
-      "path": "3.Resources/工具教程/Obsidian基础-CLI版本技能.md"
-    },
-    {
-      "basename": "Notion-API-技能",
-      "path": "3.Resources/工具教程/Notion-API-技能.md"
-    },
-    {
-      "basename": "mh-Obsidian-MantouHub版技能",
-      "path": "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md"
-    },
-    {
-      "basename": "Markdown-Formatter-Markdown格式化技能",
-      "path": "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md"
-    },
-    {
-      "basename": "GitHub-Assistant-GitHub助手",
-      "path": "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md"
-    },
-    {
-      "basename": "Gaode-Map-高德地图技能",
-      "path": "3.Resources/工具教程/Gaode-Map-高德地图技能.md"
-    },
-    {
-      "basename": "Feishu-Messaging-飞书消息技能",
-      "path": "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md"
-    },
-    {
-      "basename": "Feishu-Doc-飞书文档技能",
-      "path": "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md"
-    },
-    {
-      "basename": "Faster-Whisper-GPU-视频转录技能",
-      "path": "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md"
-    },
-    {
-      "basename": "Diagram-Generator-图表生成技能",
-      "path": "3.Resources/工具教程/Diagram-Generator-图表生成技能.md"
-    },
-    {
-      "basename": "Brave-Search-Brave搜索技能",
-      "path": "3.Resources/工具教程/Brave-Search-Brave搜索技能.md"
-    },
-    {
-      "basename": "Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili",
-      "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md"
-    },
-    {
-      "basename": "Agent-Reach-全网采集技能",
-      "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md"
-    },
-    {
-      "basename": "Agent-Browser-浏览器自动化技能",
-      "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md"
-    },
-    {
-      "basename": "2026-03-03_233750",
-      "path": "5.Zattchments/图片/截图/2026-03-03_233750.png"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
-    },
-    {
-      "basename": "Summarize-摘要技能",
-      "path": "0.Inbox/Summarize-摘要技能.md"
-    },
-    {
-      "basename": "YouTube-Watcher-YouTube技能",
-      "path": "0.Inbox/YouTube-Watcher-YouTube技能.md"
-    },
-    {
-      "basename": "Agent-Browser-浏览器自动化技能",
-      "path": "0.Inbox/Agent-Browser-浏览器自动化技能.md"
-    },
-    {
-      "basename": "2026-02-28_5年致富 - Will",
-      "path": "3.Resources/链接收藏/2026-02-28_5年致富 - Will.md"
-    },
-    {
-      "basename": "2026-02-27_复利信徒_赚钱第一性原理",
-      "path": "3.Resources/链接收藏/2026-02-27_复利信徒_赚钱第一性原理.md"
-    },
-    {
-      "basename": "2026-02-28_微观权利生存术 - 芒果猴思维破局",
-      "path": "3.Resources/链接收藏/2026-02-28_微观权利生存术 - 芒果猴思维破局.md"
-    },
-    {
-      "basename": "2026-02-28_417小时定律 - 小红书",
-      "path": "3.Resources/链接收藏/2026-02-28_417小时定律 - 小红书.md"
-    },
-    {
-      "basename": "README",
-      "path": "0.Inbox/README.md"
-    },
-    {
-      "basename": "2026-02-28_24小时设计百万生意模型 - 可行创业手册",
-      "path": "3.Resources/链接收藏/2026-02-28_24小时设计百万生意模型 - 可行创业手册.md"
-    },
-    {
-      "basename": "2026-03-01_Openclaw搞钱-公众号文章编写发布自动化f100026",
-      "path": "3.Resources/链接收藏/2026-03-01_Openclaw搞钱-公众号文章编写发布自动化f100026.md"
-    },
-    {
-      "basename": "2026-03-01",
-      "path": "7.Daily/每日日志/2026-03-01.md"
-    },
-    {
-      "basename": "2026-02-28_赚钱的本质 - 魔卡见解",
-      "path": "3.Resources/链接收藏/2026-02-28_赚钱的本质 - 魔卡见解.md"
-    },
-    {
-      "basename": "2026-03-01_毛选破局思维_深度阅读总结",
-      "path": "3.Resources/图书笔记/2026-03-01_毛选破局思维_深度阅读总结.md"
-    },
-    {
-      "basename": "2026-02-28",
-      "path": "7.Daily/每日日志/2026-02-28.md"
-    },
-    {
-      "basename": "2026-W09",
-      "path": "7.Daily/每周复盘/2026-W09.md"
-    },
-    {
-      "basename": "2026-W08",
-      "path": "7.Daily/每周复盘/2026-W08.md"
-    },
-    {
-      "basename": "私密-Minimax订阅信息",
-      "path": "8.Info/私密-Minimax订阅信息.md"
-    },
-    {
-      "basename": "Clawx安装配置指南",
-      "path": "3.Resources/效率工具/Clawx安装配置指南.md"
+      "path": "3.Resources/工具教程/openclaw/Obsidian基础-CLI版本技能.md"
     }
   ],
   "omittedPaths": [],

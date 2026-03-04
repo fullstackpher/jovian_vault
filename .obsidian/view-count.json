@@ -530,276 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 44,
-      "totalTimesOpened": 626,
+      "uniqueDaysOpened": 45,
+      "totalTimesOpened": 627,
       "openLogs": [
-        {
-          "timestampMillis": 1769833351336
-        },
-        {
-          "timestampMillis": 1769833354971
-        },
-        {
-          "timestampMillis": 1769834120551
-        },
-        {
-          "timestampMillis": 1769834646682
-        },
-        {
-          "timestampMillis": 1769834653325
-        },
-        {
-          "timestampMillis": 1769834676408
-        },
-        {
-          "timestampMillis": 1769841219503
-        },
-        {
-          "timestampMillis": 1769841491461
-        },
-        {
-          "timestampMillis": 1769843139286
-        },
-        {
-          "timestampMillis": 1769843160771
-        },
-        {
-          "timestampMillis": 1769843273574
-        },
-        {
-          "timestampMillis": 1769843627874
-        },
-        {
-          "timestampMillis": 1769848919691
-        },
-        {
-          "timestampMillis": 1769849880211
-        },
-        {
-          "timestampMillis": 1769850135553
-        },
-        {
-          "timestampMillis": 1769850454022
-        },
-        {
-          "timestampMillis": 1769850755140
-        },
-        {
-          "timestampMillis": 1769851370259
-        },
-        {
-          "timestampMillis": 1769851431105
-        },
-        {
-          "timestampMillis": 1769851433049
-        },
-        {
-          "timestampMillis": 1769852182053
-        },
-        {
-          "timestampMillis": 1769852453957
-        },
-        {
-          "timestampMillis": 1769852614684
-        },
-        {
-          "timestampMillis": 1769852762434
-        },
-        {
-          "timestampMillis": 1769852789517
-        },
-        {
-          "timestampMillis": 1769852897089
-        },
-        {
-          "timestampMillis": 1769853388294
-        },
-        {
-          "timestampMillis": 1769853491021
-        },
-        {
-          "timestampMillis": 1769853550424
-        },
-        {
-          "timestampMillis": 1769853632152
-        },
-        {
-          "timestampMillis": 1769853699015
-        },
-        {
-          "timestampMillis": 1769853759935
-        },
-        {
-          "timestampMillis": 1769853869056
-        },
-        {
-          "timestampMillis": 1769853870557
-        },
-        {
-          "timestampMillis": 1769856683937
-        },
-        {
-          "timestampMillis": 1769857452745
-        },
-        {
-          "timestampMillis": 1769857560721
-        },
-        {
-          "timestampMillis": 1769858469366
-        },
-        {
-          "timestampMillis": 1769859536081
-        },
-        {
-          "timestampMillis": 1769860182053
-        },
-        {
-          "timestampMillis": 1769860524895
-        },
-        {
-          "timestampMillis": 1769860531869
-        },
-        {
-          "timestampMillis": 1769860547930
-        },
-        {
-          "timestampMillis": 1769860592705
-        },
-        {
-          "timestampMillis": 1769860632975
-        },
-        {
-          "timestampMillis": 1769860700169
-        },
-        {
-          "timestampMillis": 1769864181227
-        },
-        {
-          "timestampMillis": 1769864310790
-        },
-        {
-          "timestampMillis": 1769864703139
-        },
-        {
-          "timestampMillis": 1769864815109
-        },
-        {
-          "timestampMillis": 1769865159743
-        },
-        {
-          "timestampMillis": 1769865191066
-        },
-        {
-          "timestampMillis": 1769865200474
-        },
-        {
-          "timestampMillis": 1769865224486
-        },
-        {
-          "timestampMillis": 1769865235929
-        },
-        {
-          "timestampMillis": 1769865262812
-        },
-        {
-          "timestampMillis": 1769865269157
-        },
-        {
-          "timestampMillis": 1769865279086
-        },
-        {
-          "timestampMillis": 1769865287955
-        },
-        {
-          "timestampMillis": 1769865296213
-        },
-        {
-          "timestampMillis": 1769865304430
-        },
-        {
-          "timestampMillis": 1769865320002
-        },
-        {
-          "timestampMillis": 1769865324766
-        },
-        {
-          "timestampMillis": 1769865335697
-        },
-        {
-          "timestampMillis": 1769865361080
-        },
-        {
-          "timestampMillis": 1769865380524
-        },
-        {
-          "timestampMillis": 1769865536726
-        },
-        {
-          "timestampMillis": 1769865631537
-        },
-        {
-          "timestampMillis": 1769865660730
-        },
-        {
-          "timestampMillis": 1769865676072
-        },
-        {
-          "timestampMillis": 1769865717270
-        },
-        {
-          "timestampMillis": 1769865762014
-        },
-        {
-          "timestampMillis": 1769865774861
-        },
-        {
-          "timestampMillis": 1769865807358
-        },
-        {
-          "timestampMillis": 1769865837686
-        },
-        {
-          "timestampMillis": 1769865857953
-        },
-        {
-          "timestampMillis": 1769865879326
-        },
-        {
-          "timestampMillis": 1769866034011
-        },
-        {
-          "timestampMillis": 1769866855818
-        },
-        {
-          "timestampMillis": 1769866880397
-        },
-        {
-          "timestampMillis": 1769866994918
-        },
-        {
-          "timestampMillis": 1769867085643
-        },
-        {
-          "timestampMillis": 1769867117428
-        },
-        {
-          "timestampMillis": 1769867129037
-        },
-        {
-          "timestampMillis": 1769867148020
-        },
-        {
-          "timestampMillis": 1769867173212
-        },
-        {
-          "timestampMillis": 1769867300074
-        },
-        {
-          "timestampMillis": 1769867327887
-        },
-        {
-          "timestampMillis": 1769867561168
-        },
         {
           "timestampMillis": 1769920609004
         },
@@ -1681,6 +1414,9 @@
         },
         {
           "timestampMillis": 1772551602566
+        },
+        {
+          "timestampMillis": 1772597278337
         }
       ]
     },
@@ -2709,57 +2445,9 @@
     },
     {
       "path": "1.Projects/03-学习前端/学习JavaScript.md",
-      "uniqueDaysOpened": 19,
-      "totalTimesOpened": 64,
+      "uniqueDaysOpened": 20,
+      "totalTimesOpened": 66,
       "openLogs": [
-        {
-          "timestampMillis": 1769401772899
-        },
-        {
-          "timestampMillis": 1769425482676
-        },
-        {
-          "timestampMillis": 1769425737228
-        },
-        {
-          "timestampMillis": 1769504186652
-        },
-        {
-          "timestampMillis": 1769504266073
-        },
-        {
-          "timestampMillis": 1769504271785
-        },
-        {
-          "timestampMillis": 1769533412031
-        },
-        {
-          "timestampMillis": 1769607358406
-        },
-        {
-          "timestampMillis": 1769688273605
-        },
-        {
-          "timestampMillis": 1769688626915
-        },
-        {
-          "timestampMillis": 1769690348849
-        },
-        {
-          "timestampMillis": 1769752867871
-        },
-        {
-          "timestampMillis": 1769761869606
-        },
-        {
-          "timestampMillis": 1769761937215
-        },
-        {
-          "timestampMillis": 1769767736737
-        },
-        {
-          "timestampMillis": 1769866488020
-        },
         {
           "timestampMillis": 1769930742697
         },
@@ -2849,6 +2537,12 @@
         },
         {
           "timestampMillis": 1772102822190
+        },
+        {
+          "timestampMillis": 1772596550098
+        },
+        {
+          "timestampMillis": 1772596550469
         }
       ]
     },
@@ -3256,25 +2950,10 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/README.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 20,
+      "path": "3.Resources/README.md",
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 21,
       "openLogs": [
-        {
-          "timestampMillis": 1769495754369
-        },
-        {
-          "timestampMillis": 1769750749821
-        },
-        {
-          "timestampMillis": 1769750785580
-        },
-        {
-          "timestampMillis": 1769750806339
-        },
-        {
-          "timestampMillis": 1769750859422
-        },
         {
           "timestampMillis": 1770036541111
         },
@@ -3319,20 +2998,17 @@
         },
         {
           "timestampMillis": 1772075891994
+        },
+        {
+          "timestampMillis": 1772596658507
         }
       ]
     },
     {
       "path": "4.Archives/README.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 12,
       "openLogs": [
-        {
-          "timestampMillis": 1769495799026
-        },
-        {
-          "timestampMillis": 1769495869483
-        },
         {
           "timestampMillis": 1770033898758
         },
@@ -3359,6 +3035,9 @@
         },
         {
           "timestampMillis": 1770188349781
+        },
+        {
+          "timestampMillis": 1772596610527
         }
       ]
     },
@@ -4822,7 +4501,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Obsidian任务管理教程整体脉络.md",
+      "path": "3.Resources/工具教程/openclaw/Obsidian任务管理教程整体脉络.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -4940,8 +4619,8 @@
     },
     {
       "path": "Dashboards/待处理区.md",
-      "uniqueDaysOpened": 10,
-      "totalTimesOpened": 31,
+      "uniqueDaysOpened": 11,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1770198755024
@@ -5035,6 +4714,12 @@
         },
         {
           "timestampMillis": 1772552126090
+        },
+        {
+          "timestampMillis": 1772596632992
+        },
+        {
+          "timestampMillis": 1772597274340
         }
       ]
     },
@@ -5891,7 +5576,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
+      "path": "3.Resources/工具教程/openclaw/Bilibili - 高效阅读 高效笔记_哔哩哔哩_bilibili.md",
       "uniqueDaysOpened": 4,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -6418,7 +6103,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/openclaw操作指南.md",
+      "path": "3.Resources/工具教程/openclaw/openclaw操作指南.md",
       "uniqueDaysOpened": 5,
       "totalTimesOpened": 25,
       "openLogs": [
@@ -6909,9 +6594,9 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/Obsidian让AI来.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "path": "3.Resources/链接收藏/2026-02-22_Obsidian让AI来.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1771754125973
@@ -6933,6 +6618,12 @@
         },
         {
           "timestampMillis": 1772281398926
+        },
+        {
+          "timestampMillis": 1772597013475
+        },
+        {
+          "timestampMillis": 1772597040861
         }
       ]
     },
@@ -6981,9 +6672,9 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/思考致富.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 14,
+      "path": "3.Resources/链接收藏/2026-02-22_思考致富.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1771765043261
@@ -7026,6 +6717,9 @@
         },
         {
           "timestampMillis": 1772281516475
+        },
+        {
+          "timestampMillis": 1772596800434
         }
       ]
     },
@@ -7046,9 +6740,9 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/土豆变黄金.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 10,
+      "path": "3.Resources/链接收藏/2026-02-22_土豆变黄金.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1771766194282
@@ -7079,13 +6773,16 @@
         },
         {
           "timestampMillis": 1772281499430
+        },
+        {
+          "timestampMillis": 1772596822943
         }
       ]
     },
     {
-      "path": "3.Resources/链接收藏/OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 8,
+      "path": "3.Resources/链接收藏/2026-02-22_OpenClaw 教学：25 个Tools + 53 个Skills 完整指南.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1771774415220
@@ -7110,6 +6807,12 @@
         },
         {
           "timestampMillis": 1772281400286
+        },
+        {
+          "timestampMillis": 1772597072805
+        },
+        {
+          "timestampMillis": 1772597107775
         }
       ]
     },
@@ -7218,14 +6921,17 @@
     },
     {
       "path": "5.Zattchments/README.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771787721274
         },
         {
           "timestampMillis": 1771787754700
+        },
+        {
+          "timestampMillis": 1772596616470
         }
       ]
     },
@@ -7407,8 +7113,8 @@
     },
     {
       "path": "8.Info/草稿-Obsidian主页排版参考.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771933646008
@@ -7418,13 +7124,16 @@
         },
         {
           "timestampMillis": 1772200420983
+        },
+        {
+          "timestampMillis": 1772595022204
         }
       ]
     },
     {
-      "path": "3.Resources/工具教程/OpenClaw 最热 15 个使用场景.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 4,
+      "path": "3.Resources/工具教程/openclaw/OpenClaw 最热 15 个使用场景.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771933728061
@@ -7437,13 +7146,16 @@
         },
         {
           "timestampMillis": 1772553583336
+        },
+        {
+          "timestampMillis": 1772596732350
         }
       ]
     },
     {
-      "path": "3.Resources/工具教程/OpenClaw 索引.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 4,
+      "path": "3.Resources/工具教程/openclaw/OpenClaw 索引.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1771933749925
@@ -7456,6 +7168,9 @@
         },
         {
           "timestampMillis": 1772553582365
+        },
+        {
+          "timestampMillis": 1772596714037
         }
       ]
     },
@@ -7661,9 +7376,9 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/如何变得强大.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "path": "3.Resources/链接收藏/2026-02-24_如何变得强大.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1771940195107
@@ -7688,6 +7403,12 @@
         },
         {
           "timestampMillis": 1772281494704
+        },
+        {
+          "timestampMillis": 1772596751971
+        },
+        {
+          "timestampMillis": 1772596778780
         }
       ]
     },
@@ -7702,15 +7423,21 @@
       ]
     },
     {
-      "path": "3.Resources/效率工具/两周内学会任何东西.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "3.Resources/链接收藏/2026-02-22_两周内学会任何东西.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771940247271
         },
         {
           "timestampMillis": 1771940252474
+        },
+        {
+          "timestampMillis": 1772597163505
+        },
+        {
+          "timestampMillis": 1772597193947
         }
       ]
     },
@@ -7726,18 +7453,24 @@
     },
     {
       "path": "3.Resources/效率工具/专注个人提升的obsidian标签体系.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1771940262534
+        },
+        {
+          "timestampMillis": 1772597151177
+        },
+        {
+          "timestampMillis": 1772597195412
         }
       ]
     },
     {
       "path": "8.Info/草稿-openclaw写日报.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1771994103273
@@ -7747,6 +7480,9 @@
         },
         {
           "timestampMillis": 1772209930013
+        },
+        {
+          "timestampMillis": 1772595023529
         }
       ]
     },
@@ -7807,9 +7543,9 @@
       ]
     },
     {
-      "path": "3.Resources/效率工具/Clawx安装配置指南.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 10,
+      "path": "4.Archives/03-资源-2026-03/Clawx安装配置指南-2026-03.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1772017201173
@@ -7840,13 +7576,16 @@
         },
         {
           "timestampMillis": 1772342693469
+        },
+        {
+          "timestampMillis": 1772597303270
         }
       ]
     },
     {
-      "path": "3.Resources/链接收藏/AI导演创业.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "path": "3.Resources/链接收藏/2026-02-25_AI导演创业.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772028569006
@@ -7865,6 +7604,9 @@
         },
         {
           "timestampMillis": 1772281500251
+        },
+        {
+          "timestampMillis": 1772596899836
         }
       ]
     },
@@ -7998,8 +7740,8 @@
     },
     {
       "path": "1.Projects/04-学习AI/学习AI Agent.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1772080357210
@@ -8033,6 +7775,9 @@
         },
         {
           "timestampMillis": 1772103187529
+        },
+        {
+          "timestampMillis": 1772596526711
         }
       ]
     },
@@ -8081,9 +7826,9 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/一人公司-超级个体.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
+      "path": "3.Resources/链接收藏/2022-02-26_一人公司-超级个体.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772102448996
@@ -8096,19 +7841,9 @@
         },
         {
           "timestampMillis": 1772281499767
-        }
-      ]
-    },
-    {
-      "path": "3.Resources/链接收藏/Article 2026-02-06 13-43-47.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1772102472720
         },
         {
-          "timestampMillis": 1772281397057
+          "timestampMillis": 1772596848301
         }
       ]
     },
@@ -8139,8 +7874,8 @@
     },
     {
       "path": "8.Info/草稿-浏览器自动化.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772166278800
@@ -8153,13 +7888,16 @@
         },
         {
           "timestampMillis": 1772200407741
+        },
+        {
+          "timestampMillis": 1772595018736
         }
       ]
     },
     {
       "path": "3.Resources/效率工具/openclaw_knowledge_base.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772172902765
@@ -8172,13 +7910,16 @@
         },
         {
           "timestampMillis": 1772194730844
+        },
+        {
+          "timestampMillis": 1772597283308
         }
       ]
     },
     {
       "path": "8.Info/草稿-视频转笔记工作流.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1772183416134
@@ -8191,6 +7932,9 @@
         },
         {
           "timestampMillis": 1772200410566
+        },
+        {
+          "timestampMillis": 1772595021573
         }
       ]
     },
@@ -8283,9 +8027,9 @@
       ]
     },
     {
-      "path": "3.Resources/效率工具/ClawX（OpenClaw）安装文档.pdf",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "path": "4.Archives/03-资源-2026-03/ClawX（OpenClaw）安装文档-2026-03.pdf",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1772272077501
@@ -8298,6 +8042,15 @@
         },
         {
           "timestampMillis": 1772342692519
+        },
+        {
+          "timestampMillis": 1772597204293
+        },
+        {
+          "timestampMillis": 1772597204568
+        },
+        {
+          "timestampMillis": 1772597273915
         }
       ]
     },
@@ -8661,9 +8414,9 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Agent-Browser-浏览器自动化技能.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "path": "3.Resources/工具教程/openclaw/Agent-Browser-浏览器自动化技能.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1772551442515
@@ -8691,11 +8444,14 @@
         },
         {
           "timestampMillis": 1772553487412
+        },
+        {
+          "timestampMillis": 1772596682412
         }
       ]
     },
     {
-      "path": "3.Resources/工具教程/Agent-Reach-全网采集技能.md",
+      "path": "3.Resources/工具教程/openclaw/Agent-Reach-全网采集技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
@@ -8724,7 +8480,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Brave-Search-Brave搜索技能.md",
+      "path": "3.Resources/工具教程/openclaw/Brave-Search-Brave搜索技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8734,7 +8490,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Diagram-Generator-图表生成技能.md",
+      "path": "3.Resources/工具教程/openclaw/Diagram-Generator-图表生成技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8744,7 +8500,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Faster-Whisper-GPU-视频转录技能.md",
+      "path": "3.Resources/工具教程/openclaw/Faster-Whisper-GPU-视频转录技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8754,7 +8510,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Feishu-Doc-飞书文档技能.md",
+      "path": "3.Resources/工具教程/openclaw/Feishu-Doc-飞书文档技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8764,7 +8520,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Feishu-Messaging-飞书消息技能.md",
+      "path": "3.Resources/工具教程/openclaw/Feishu-Messaging-飞书消息技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8774,7 +8530,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Gaode-Map-高德地图技能.md",
+      "path": "3.Resources/工具教程/openclaw/Gaode-Map-高德地图技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8784,7 +8540,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/GitHub-Assistant-GitHub助手.md",
+      "path": "3.Resources/工具教程/openclaw/GitHub-Assistant-GitHub助手.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8794,7 +8550,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Markdown-Formatter-Markdown格式化技能.md",
+      "path": "3.Resources/工具教程/openclaw/Markdown-Formatter-Markdown格式化技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8804,7 +8560,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/mh-Obsidian-MantouHub版技能.md",
+      "path": "3.Resources/工具教程/openclaw/mh-Obsidian-MantouHub版技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8814,7 +8570,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Notion-API-技能.md",
+      "path": "3.Resources/工具教程/openclaw/Notion-API-技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8824,7 +8580,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Obsidian基础-CLI版本技能.md",
+      "path": "3.Resources/工具教程/openclaw/Obsidian基础-CLI版本技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8834,7 +8590,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Summarize-摘要技能.md",
+      "path": "3.Resources/工具教程/openclaw/Summarize-摘要技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8844,7 +8600,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Tavily-Search-AI搜索技能.md",
+      "path": "3.Resources/工具教程/openclaw/Tavily-Search-AI搜索技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8854,7 +8610,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Universal-Video-Downloader-通用视频下载技能.md",
+      "path": "3.Resources/工具教程/openclaw/Universal-Video-Downloader-通用视频下载技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8864,7 +8620,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Video-Frames-视频帧提取技能.md",
+      "path": "3.Resources/工具教程/openclaw/Video-Frames-视频帧提取技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8884,7 +8640,7 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Feishu-Bitable-飞书多维表格技能.md",
+      "path": "3.Resources/工具教程/openclaw/Feishu-Bitable-飞书多维表格技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -8894,17 +8650,20 @@
       ]
     },
     {
-      "path": "3.Resources/链接收藏/AI邪修搞钱法_8种方法总结.md",
+      "path": "3.Resources/链接收藏/2026-02-23_AI邪修搞钱法_8种方法总结.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1772553724408
+        },
+        {
+          "timestampMillis": 1772596919114
         }
       ]
     },
     {
-      "path": "3.Resources/工具教程/Obsidian-Direct-直接操作技能.md",
+      "path": "3.Resources/工具教程/openclaw/Obsidian-Direct-直接操作技能.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 4,
       "openLogs": [
@@ -8933,15 +8692,124 @@
       ]
     },
     {
-      "path": "3.Resources/工具教程/Foundry-自我进化技能.md",
+      "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1772553919413
         },
         {
           "timestampMillis": 1772594998875
+        },
+        {
+          "timestampMillis": 1772597275582
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/链接收藏/2026-02-26_利用 OpenClaw 自动化搭建 SaaS 封装工具，实现日入 200 美金的复利业务.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772596591298
+        },
+        {
+          "timestampMillis": 1772596755782
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Bilibili - 【模板分享】笔记总是积灰？这套AI驱动的笔记系统让知识真正流动起来_哔哩哔哩_bilibili.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597162008
+        },
+        {
+          "timestampMillis": 1772597198551
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Calendar使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597200242
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/omisearch使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597294470
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Obsidian shared to Notion使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597296066
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Obsidian ReadItLater 插件使用教程.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597296687
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Inbox面板搭建指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597297725
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Excalidraw插件使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597299408
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Editing Toolbar使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597300008
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/效率工具/Dashboard使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1772597300709
         }
       ]
     }
