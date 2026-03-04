@@ -10587,15 +10587,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-03.md": {
-    "scroll": 29.065750640563028,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 62,
-        "ch": 13
+        "line": 17,
+        "ch": 10
       },
       "to": {
-        "line": 62,
-        "ch": 13
+        "line": 17,
+        "ch": 10
       }
     },
     "expandedKeys": []
@@ -11254,6 +11254,20 @@
       "to": {
         "line": 99,
         "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-04.md": {
+    "scroll": 12.121203173442941,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 14
+      },
+      "to": {
+        "line": 31,
+        "ch": 14
       }
     },
     "expandedKeys": []
