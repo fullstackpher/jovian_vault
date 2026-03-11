@@ -5706,8 +5706,8 @@
     },
     {
       "path": "3.Resources/速查手册/openclaw常用技能.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1771374983042
@@ -5759,6 +5759,9 @@
         },
         {
           "timestampMillis": 1772089410764
+        },
+        {
+          "timestampMillis": 1773204409727
         }
       ]
     },
@@ -8518,23 +8521,45 @@
     {
       "path": "7.Daily/每日日志/2026-03-11.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1773203620128
+        },
+        {
+          "timestampMillis": 1773204318178
+        },
+        {
+          "timestampMillis": 1773225118176
+        },
+        {
+          "timestampMillis": 1773225123542
         }
       ]
     },
     {
       "path": "7.Daily/每周复盘/2026-W10.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1773203887964
         },
         {
           "timestampMillis": 1773203896973
+        },
+        {
+          "timestampMillis": 1773204323631
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/速查手册/打工出行必备清单.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1773204401070
         }
       ]
     }

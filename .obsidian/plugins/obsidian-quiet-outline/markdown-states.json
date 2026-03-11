@@ -8767,7 +8767,7 @@
     "expandedKeys": []
   },
   "3.Resources/速查手册/openclaw常用技能.md": {
-    "scroll": 85.60784159855348,
+    "scroll": 10.097630669088925,
     "cursor": {
       "from": {
         "line": 8,
@@ -11427,15 +11427,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-11.md": {
-    "scroll": 12.121203173442941,
+    "scroll": 13.007257862457713,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 25
+        "line": 30,
+        "ch": 7
       },
       "to": {
-        "line": 28,
-        "ch": 25
+        "line": 30,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -11458,12 +11458,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 2
+        "line": 11,
+        "ch": 9
       },
       "to": {
-        "line": 9,
-        "ch": 2
+        "line": 11,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -11534,6 +11534,20 @@
       "to": {
         "line": 9,
         "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/速查手册/打工出行必备清单.md": {
+    "scroll": 28.382720509608898,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []
