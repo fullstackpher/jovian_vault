@@ -11430,12 +11430,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 30,
-        "ch": 26
+        "line": 34,
+        "ch": 4
       },
       "to": {
-        "line": 30,
-        "ch": 26
+        "line": 34,
+        "ch": 4
       }
     },
     "expandedKeys": []

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "待处理区",
+      "path": "Dashboards/待处理区.md"
+    },
+    {
       "basename": "2026-03-11",
       "path": "7.Daily/每日日志/2026-03-11.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Foundry-自我进化技能",
       "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
     },
     {
       "basename": "ClawX（OpenClaw）安装文档-2026-03",
