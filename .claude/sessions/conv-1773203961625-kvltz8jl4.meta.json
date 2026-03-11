@@ -3,6 +3,18 @@
   "title": "Review and supplement weekly summary",
   "titleGenerationStatus": "success",
   "createdAt": 1773203961625,
-  "updatedAt": 1773203972926,
-  "sessionId": null
+  "updatedAt": 1773204056803,
+  "lastResponseAt": 1773204056803,
+  "sessionId": "f31de514-0907-4a0e-95bb-70da901eeeb3",
+  "sdkSessionId": "f31de514-0907-4a0e-95bb-70da901eeeb3",
+  "currentNote": "7.Daily/每周复盘/2026-W10.md",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 809,
+    "cacheCreationInputTokens": 412,
+    "cacheReadInputTokens": 29696,
+    "contextWindow": 200000,
+    "contextTokens": 30917,
+    "percentage": 15
+  }
 }
