@@ -11427,15 +11427,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-11.md": {
-    "scroll": 13.007257862457713,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 30,
-        "ch": 16
+        "ch": 26
       },
       "to": {
         "line": 30,
-        "ch": 16
+        "ch": 26
       }
     },
     "expandedKeys": []
