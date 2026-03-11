@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773204114602-jgodwaul6",
+  "title": "Organize Inbox contents into Resource directories",
+  "titleGenerationStatus": "success",
+  "createdAt": 1773204114602,
+  "updatedAt": 1773204191941,
+  "lastResponseAt": 1773204191941,
+  "sessionId": "29c1efdf-5860-4c9b-b813-f855f923177e",
+  "sdkSessionId": "29c1efdf-5860-4c9b-b813-f855f923177e",
+  "usage": {
+    "model": "MiniMax-M2.5",
+    "inputTokens": 99,
+    "cacheCreationInputTokens": 901,
+    "cacheReadInputTokens": 20706,
+    "contextWindow": 200000,
+    "contextTokens": 21706,
+    "percentage": 11
+  }
+}
