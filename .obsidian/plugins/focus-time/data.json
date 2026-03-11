@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 26538000,
-      "openCount": 440
+      "openCount": 441
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -1138,7 +1138,7 @@
       "fileId": "1769495637567",
       "filePath": "1.Projects/README.md",
       "duration": 294000,
-      "openCount": 9
+      "openCount": 10
     },
     "2.Areas/Frontend/背景.md": {
       "fileId": "1768805305769",
@@ -3609,7 +3609,31 @@
     "7.Daily/每日日志/2026-03-04.md": {
       "fileId": "1772597543839",
       "filePath": "7.Daily/每日日志/2026-03-04.md",
-      "duration": 354000,
+      "duration": 420000,
+      "openCount": 4
+    },
+    "3.Resources/链接收藏/2026-03-04_钱七步创造终身收入.md": {
+      "fileId": "1772631389563",
+      "filePath": "3.Resources/链接收藏/2026-03-04_钱七步创造终身收入.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "3.Resources/链接收藏/2026-03-04_今天这三招，学会一个就能用.md": {
+      "fileId": "1772631383571",
+      "filePath": "3.Resources/链接收藏/2026-03-04_今天这三招，学会一个就能用.md",
+      "duration": 24000,
+      "openCount": 3
+    },
+    "3.Resources/链接收藏/2026-03-04_五条社会铁律.md": {
+      "fileId": "1772631431561",
+      "filePath": "3.Resources/链接收藏/2026-03-04_五条社会铁律.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "3.Resources/链接收藏/2026-03-04_身份决定成功层级.md": {
+      "fileId": "1772631437562",
+      "filePath": "3.Resources/链接收藏/2026-03-04_身份决定成功层级.md",
+      "duration": 42000,
       "openCount": 2
     }
   }

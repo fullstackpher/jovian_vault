@@ -11259,15 +11259,99 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-04.md": {
-    "scroll": 13.007257862457713,
+    "scroll": 33.930554707845054,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 4
+        "line": 30,
+        "ch": 25
       },
       "to": {
-        "line": 29,
-        "ch": 4
+        "line": 30,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/2026-03-04_今天这三招，学会一个就能用.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/2026-03-04_钱七步创造终身收入.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 12
+      },
+      "to": {
+        "line": 7,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "2.Areas/2026-03-04_五条社会铁律.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/2026-03-04_身份决定成功层级.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/链接收藏/2026-03-04_身份决定成功层级.md": {
+    "scroll": 0.7125000178813934,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-05.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
       }
     },
     "expandedKeys": []
