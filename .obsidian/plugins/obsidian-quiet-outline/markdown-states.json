@@ -11343,15 +11343,127 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-05.md": {
+    "scroll": 19.080237465744247,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 23
+      },
+      "to": {
+        "line": 24,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-06.md": {
+    "scroll": 10.804330414416743,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 16
+      },
+      "to": {
+        "line": 23,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-07.md": {
+    "scroll": 14.134963830294696,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 21
+      },
+      "to": {
+        "line": 25,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-08.md": {
+    "scroll": 14.134963830294696,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 21
+      },
+      "to": {
+        "line": 28,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-09.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 24
+      },
+      "to": {
+        "line": 26,
+        "ch": 24
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-10.md": {
+    "scroll": 14.134963830294696,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 29
+      },
+      "to": {
+        "line": 30,
+        "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-11.md": {
+    "scroll": 12.121203173442941,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 25
+      },
+      "to": {
+        "line": 28,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-W11.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
+        "line": 4,
         "ch": 0
       },
       "to": {
-        "line": 7,
+        "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每周复盘/2026-W10.md": {
+    "scroll": 21.162136732225285,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 2
+      },
+      "to": {
+        "line": 9,
+        "ch": 2
       }
     },
     "expandedKeys": []
