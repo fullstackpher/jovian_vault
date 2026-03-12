@@ -5,6 +5,18 @@
       "path": "7.Daily/每日日志/2026-03-12.md"
     },
     {
+      "basename": "2026-02-26",
+      "path": "7.Daily/每日日志/2026-02-26.md"
+    },
+    {
+      "basename": "2026-02-15",
+      "path": "7.Daily/每日日志/2026-02-15.md"
+    },
+    {
+      "basename": "2026-W10",
+      "path": "7.Daily/每周复盘/2026-W10.md"
+    },
+    {
       "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-inHzAddOeD",
       "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-inHzAddOeD.png"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "打工出行必备清单",
       "path": "3.Resources/速查手册/打工出行必备清单.md"
-    },
-    {
-      "basename": "2026-W10",
-      "path": "7.Daily/每周复盘/2026-W10.md"
     },
     {
       "basename": "2026-03-10",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-22_土豆变黄金",
       "path": "3.Resources/链接收藏/2026-02-22_土豆变黄金.md"
-    },
-    {
-      "basename": "2026-02-22_思考致富",
-      "path": "3.Resources/链接收藏/2026-02-22_思考致富.md"
-    },
-    {
-      "basename": "2026-02-24_如何变得强大",
-      "path": "3.Resources/链接收藏/2026-02-24_如何变得强大.md"
     }
   ],
   "omittedPaths": [],
