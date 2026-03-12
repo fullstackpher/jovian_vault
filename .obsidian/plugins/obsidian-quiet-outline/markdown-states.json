@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 263.9753087166821,
     "cursor": {
       "from": {
         "line": 95,
@@ -11547,6 +11547,34 @@
       },
       "to": {
         "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-12.md": {
+    "scroll": 13.279869262166793,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 4
+      },
+      "to": {
+        "line": 29,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/AI强化学习48小时学完一学期课.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

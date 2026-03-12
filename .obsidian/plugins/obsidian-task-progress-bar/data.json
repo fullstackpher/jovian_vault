@@ -843,9 +843,9 @@
   "customDateFormats": [],
   "onboarding": {
     "completed": false,
-    "version": "",
+    "version": "9.13.1",
     "configMode": "beginner",
-    "skipOnboarding": false,
+    "skipOnboarding": true,
     "completedAt": ""
   },
   "fileSource": {
@@ -963,7 +963,7 @@
       "ws_1770874906591_c7qebxs6e": {
         "id": "ws_1770874906591_c7qebxs6e",
         "name": "Default",
-        "updatedAt": 1770875912733,
+        "updatedAt": 1773288209155,
         "settings": {
           "fluentFilterState": {
             "working-on": {
@@ -990,9 +990,59 @@
               "filters": {},
               "advancedFilter": null,
               "viewMode": "list"
+            },
+            "gantt": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "kanban": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "habit": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "quadrant": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "table": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "review": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "flagged": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "inbox": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "upcoming": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            },
+            "today": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "calendar"
+          "fluentActiveViewId": "today"
         }
       }
     }
