@@ -530,15 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 46,
-      "totalTimesOpened": 628,
+      "uniqueDaysOpened": 47,
+      "totalTimesOpened": 630,
       "openLogs": [
-        {
-          "timestampMillis": 1770548709358
-        },
-        {
-          "timestampMillis": 1770549042346
-        },
         {
           "timestampMillis": 1770614837001
         },
@@ -949,6 +943,12 @@
         },
         {
           "timestampMillis": 1773202555410
+        },
+        {
+          "timestampMillis": 1773226979301
+        },
+        {
+          "timestampMillis": 1773288084168
         }
       ]
     },
@@ -1037,84 +1037,9 @@
     },
     {
       "path": "Dashboards/项目看板.md",
-      "uniqueDaysOpened": 20,
-      "totalTimesOpened": 60,
+      "uniqueDaysOpened": 21,
+      "totalTimesOpened": 61,
       "openLogs": [
-        {
-          "timestampMillis": 1769533188363
-        },
-        {
-          "timestampMillis": 1769756605976
-        },
-        {
-          "timestampMillis": 1769756879483
-        },
-        {
-          "timestampMillis": 1769759778918
-        },
-        {
-          "timestampMillis": 1769761866359
-        },
-        {
-          "timestampMillis": 1769762055308
-        },
-        {
-          "timestampMillis": 1769762058541
-        },
-        {
-          "timestampMillis": 1769766149704
-        },
-        {
-          "timestampMillis": 1769852178799
-        },
-        {
-          "timestampMillis": 1769852449351
-        },
-        {
-          "timestampMillis": 1769852726103
-        },
-        {
-          "timestampMillis": 1769852736801
-        },
-        {
-          "timestampMillis": 1769853375093
-        },
-        {
-          "timestampMillis": 1769853386641
-        },
-        {
-          "timestampMillis": 1769860527739
-        },
-        {
-          "timestampMillis": 1769860631269
-        },
-        {
-          "timestampMillis": 1769860699171
-        },
-        {
-          "timestampMillis": 1769927409823
-        },
-        {
-          "timestampMillis": 1769930741187
-        },
-        {
-          "timestampMillis": 1770039029587
-        },
-        {
-          "timestampMillis": 1770188319361
-        },
-        {
-          "timestampMillis": 1770214355185
-        },
-        {
-          "timestampMillis": 1770304818453
-        },
-        {
-          "timestampMillis": 1770304838361
-        },
-        {
-          "timestampMillis": 1770355349211
-        },
         {
           "timestampMillis": 1770969651716
         },
@@ -1159,6 +1084,9 @@
         },
         {
           "timestampMillis": 1772200235066
+        },
+        {
+          "timestampMillis": 1773226976952
         }
       ]
     },
