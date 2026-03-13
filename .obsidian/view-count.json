@@ -530,54 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 47,
-      "totalTimesOpened": 631,
+      "uniqueDaysOpened": 48,
+      "totalTimesOpened": 632,
       "openLogs": [
-        {
-          "timestampMillis": 1770614837001
-        },
-        {
-          "timestampMillis": 1770614860077
-        },
-        {
-          "timestampMillis": 1770623866284
-        },
-        {
-          "timestampMillis": 1770624641709
-        },
-        {
-          "timestampMillis": 1770624754925
-        },
-        {
-          "timestampMillis": 1770624756413
-        },
-        {
-          "timestampMillis": 1770625106409
-        },
-        {
-          "timestampMillis": 1770625162269
-        },
-        {
-          "timestampMillis": 1770634078956
-        },
-        {
-          "timestampMillis": 1770634118104
-        },
-        {
-          "timestampMillis": 1770643217862
-        },
-        {
-          "timestampMillis": 1770643627631
-        },
-        {
-          "timestampMillis": 1770643826501
-        },
-        {
-          "timestampMillis": 1770643903703
-        },
-        {
-          "timestampMillis": 1770643931451
-        },
         {
           "timestampMillis": 1770711235046
         },
@@ -952,6 +907,9 @@
         },
         {
           "timestampMillis": 1773288208849
+        },
+        {
+          "timestampMillis": 1773410035619
         }
       ]
     },
@@ -8607,26 +8565,6 @@
         },
         {
           "timestampMillis": 1773409861082
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/2026-03-13-抖音-不瞎说的老王-看懂这3条，2026年翻身.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1773409871766
-        }
-      ]
-    },
-    {
-      "path": "0.Inbox/2026-03-13-抖音-AB（AI创业版）-对赚钱第一性原理链路的思考.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1773409874505
         }
       ]
     }

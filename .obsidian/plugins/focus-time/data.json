@@ -915,7 +915,7 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 31620000,
+      "duration": 31680000,
       "openCount": 442
     },
     "Templates/今日日报模板.md": {
@@ -3789,8 +3789,14 @@
     "0.Inbox/2026-03-13-抖音-不瞎说的老王-看懂这3条，2026年翻身.md": {
       "fileId": "1773409873913",
       "filePath": "0.Inbox/2026-03-13-抖音-不瞎说的老王-看懂这3条，2026年翻身.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 18000,
+      "openCount": 3
+    },
+    "0.Inbox/2026-03-13-抖音-AB（AI创业版）-对赚钱第一性原理链路的思考.md": {
+      "fileId": "1773409879913",
+      "filePath": "0.Inbox/2026-03-13-抖音-AB（AI创业版）-对赚钱第一性原理链路的思考.md",
+      "duration": 36000,
+      "openCount": 3
     }
   }
 }
