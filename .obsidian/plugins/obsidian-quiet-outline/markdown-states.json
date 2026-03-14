@@ -11719,5 +11719,33 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-13.md": {
+    "scroll": 9.597997759066123,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 6
+      },
+      "to": {
+        "line": 19,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-14.md": {
+    "scroll": 12.495021141735672,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 18
+      },
+      "to": {
+        "line": 23,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
   }
 }
