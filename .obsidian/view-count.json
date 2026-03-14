@@ -8584,20 +8584,23 @@
     {
       "path": "7.Daily/每日日志/2026-03-13.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1773487048189
         },
         {
           "timestampMillis": 1773487057176
+        },
+        {
+          "timestampMillis": 1773489696843
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-03-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1773487050717
@@ -8607,6 +8610,9 @@
         },
         {
           "timestampMillis": 1773489587339
+        },
+        {
+          "timestampMillis": 1773489611643
         }
       ]
     }
