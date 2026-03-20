@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 184.2425477562881,
+    "scroll": 183.40890263576134,
     "cursor": {
       "from": {
         "line": 199,
@@ -4054,15 +4054,15 @@
     "expandedKeys": []
   },
   "Templates/日记模版.md": {
-    "scroll": 0,
+    "scroll": 15.55610846611791,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 27
+        "line": 17,
+        "ch": 10
       },
       "to": {
-        "line": 23,
-        "ch": 27
+        "line": 17,
+        "ch": 10
       }
     },
     "expandedKeys": [
@@ -11721,21 +11721,91 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-13.md": {
-    "scroll": 12.080927960305907,
+    "scroll": 9.384427130828222,
     "cursor": {
       "from": {
         "line": 19,
-        "ch": 6
+        "ch": 2
       },
       "to": {
         "line": 19,
-        "ch": 6
+        "ch": 2
       }
     },
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-14.md": {
-    "scroll": 12.011691564201634,
+    "scroll": 10.020016688926548,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 10
+      },
+      "to": {
+        "line": 17,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 33
+      },
+      "to": {
+        "line": 31,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-15.md": {
+    "scroll": 8.660131117876839,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-16.md": {
+    "scroll": 13.730196728767101,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 27
+      },
+      "to": {
+        "line": 30,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-17.md": {
+    "scroll": 14.96537231579853,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 23
+      },
+      "to": {
+        "line": 27,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-18.md": {
+    "scroll": 13.658592620059245,
     "cursor": {
       "from": {
         "line": 31,
