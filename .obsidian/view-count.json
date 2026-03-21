@@ -530,15 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 49,
-      "totalTimesOpened": 634,
+      "uniqueDaysOpened": 50,
+      "totalTimesOpened": 635,
       "openLogs": [
-        {
-          "timestampMillis": 1771204838331
-        },
-        {
-          "timestampMillis": 1771284719827
-        },
         {
           "timestampMillis": 1771378909360
         },
@@ -796,6 +790,9 @@
         },
         {
           "timestampMillis": 1773931269716
+        },
+        {
+          "timestampMillis": 1774100611674
         }
       ]
     },
@@ -6356,8 +6353,8 @@
     },
     {
       "path": "7.Daily/临时待办.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1771939672799
@@ -6373,6 +6370,9 @@
         },
         {
           "timestampMillis": 1771939998384
+        },
+        {
+          "timestampMillis": 1774100586190
         }
       ]
     },
@@ -8333,13 +8333,45 @@
     {
       "path": "7.Daily/每日日志/2026-03-20.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1774100333048
         },
         {
           "timestampMillis": 1774100334094
+        },
+        {
+          "timestampMillis": 1774100519837
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-03-21.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1774100513045
+        },
+        {
+          "timestampMillis": 1774100546908
+        },
+        {
+          "timestampMillis": 1774100667577
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-03-22.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1774100628156
+        },
+        {
+          "timestampMillis": 1774100628499
         }
       ]
     }

@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 183.40890263576134,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 199,
@@ -9400,12 +9400,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 3,
+        "ch": 20
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 3,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -11819,15 +11819,43 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-20.md": {
-    "scroll": 11.99379074188645,
+    "scroll": 13.067856469739866,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 22,
+        "ch": 10
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 22,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 6
+      },
+      "to": {
+        "line": 22,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-03-22.md": {
+    "scroll": 6.334841628959276,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 10
+      },
+      "to": {
+        "line": 19,
+        "ch": 10
       }
     },
     "expandedKeys": []
