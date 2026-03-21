@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-20",
+      "path": "7.Daily/每日日志/2026-03-20.md"
+    },
+    {
       "basename": "私密-Minimax订阅信息",
       "path": "8.Info/私密-Minimax订阅信息.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Editing Toolbar使用指南",
       "path": "3.Resources/效率工具/Editing Toolbar使用指南.md"
-    },
-    {
-      "basename": "Excalidraw插件使用指南",
-      "path": "3.Resources/效率工具/Excalidraw插件使用指南.md"
     }
   ],
   "omittedPaths": [],
