@@ -530,147 +530,9 @@
     },
     {
       "path": "Dashboards/Dashboard.md",
-      "uniqueDaysOpened": 50,
-      "totalTimesOpened": 635,
+      "uniqueDaysOpened": 51,
+      "totalTimesOpened": 636,
       "openLogs": [
-        {
-          "timestampMillis": 1771378909360
-        },
-        {
-          "timestampMillis": 1771378953588
-        },
-        {
-          "timestampMillis": 1771378995818
-        },
-        {
-          "timestampMillis": 1771379049093
-        },
-        {
-          "timestampMillis": 1771379079783
-        },
-        {
-          "timestampMillis": 1771392132018
-        },
-        {
-          "timestampMillis": 1771392141142
-        },
-        {
-          "timestampMillis": 1771418616574
-        },
-        {
-          "timestampMillis": 1771460449993
-        },
-        {
-          "timestampMillis": 1771663233441
-        },
-        {
-          "timestampMillis": 1771753815795
-        },
-        {
-          "timestampMillis": 1771754089831
-        },
-        {
-          "timestampMillis": 1771754272944
-        },
-        {
-          "timestampMillis": 1771759739121
-        },
-        {
-          "timestampMillis": 1771759765421
-        },
-        {
-          "timestampMillis": 1771759796242
-        },
-        {
-          "timestampMillis": 1771760340930
-        },
-        {
-          "timestampMillis": 1771760345225
-        },
-        {
-          "timestampMillis": 1771764704436
-        },
-        {
-          "timestampMillis": 1771764710007
-        },
-        {
-          "timestampMillis": 1771773480967
-        },
-        {
-          "timestampMillis": 1771774226960
-        },
-        {
-          "timestampMillis": 1771782060108
-        },
-        {
-          "timestampMillis": 1771782435095
-        },
-        {
-          "timestampMillis": 1771783715796
-        },
-        {
-          "timestampMillis": 1771785608886
-        },
-        {
-          "timestampMillis": 1771785771494
-        },
-        {
-          "timestampMillis": 1771787181396
-        },
-        {
-          "timestampMillis": 1771787260326
-        },
-        {
-          "timestampMillis": 1771787260720
-        },
-        {
-          "timestampMillis": 1771787643916
-        },
-        {
-          "timestampMillis": 1771787658068
-        },
-        {
-          "timestampMillis": 1771788289578
-        },
-        {
-          "timestampMillis": 1771788317895
-        },
-        {
-          "timestampMillis": 1771788508565
-        },
-        {
-          "timestampMillis": 1771789495281
-        },
-        {
-          "timestampMillis": 1771789547462
-        },
-        {
-          "timestampMillis": 1771789664485
-        },
-        {
-          "timestampMillis": 1771789735774
-        },
-        {
-          "timestampMillis": 1771790154728
-        },
-        {
-          "timestampMillis": 1771790157537
-        },
-        {
-          "timestampMillis": 1771790212359
-        },
-        {
-          "timestampMillis": 1771790400042
-        },
-        {
-          "timestampMillis": 1771790429194
-        },
-        {
-          "timestampMillis": 1771847247643
-        },
-        {
-          "timestampMillis": 1771847288754
-        },
         {
           "timestampMillis": 1771911125828
         },
@@ -793,6 +655,9 @@
         },
         {
           "timestampMillis": 1774100611674
+        },
+        {
+          "timestampMillis": 1774621894794
         }
       ]
     },
@@ -8348,8 +8213,8 @@
     },
     {
       "path": "7.Daily/每日日志/2026-03-21.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1774100513045
@@ -8359,6 +8224,9 @@
         },
         {
           "timestampMillis": 1774100667577
+        },
+        {
+          "timestampMillis": 1774621887184
         }
       ]
     },
@@ -8372,6 +8240,19 @@
         },
         {
           "timestampMillis": 1774100628499
+        }
+      ]
+    },
+    {
+      "path": "未命名.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1774621903789
+        },
+        {
+          "timestampMillis": 1774621904092
         }
       ]
     }

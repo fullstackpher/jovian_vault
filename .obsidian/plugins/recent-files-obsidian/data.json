@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "2026-03-21",
       "path": "7.Daily/每日日志/2026-03-21.md"
     },
     {
       "basename": "2026-03-22",
       "path": "7.Daily/每日日志/2026-03-22.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "临时待办",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-04",
       "path": "7.Daily/每日日志/2026-03-04.md"
-    },
-    {
-      "basename": "2026-03-03",
-      "path": "7.Daily/每日日志/2026-03-03.md"
     }
   ],
   "omittedPaths": [],

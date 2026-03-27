@@ -2101,11 +2101,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -11833,7 +11833,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-03-21.md": {
-    "scroll": 0,
+    "scroll": 67.67724977523561,
     "cursor": {
       "from": {
         "line": 22,
