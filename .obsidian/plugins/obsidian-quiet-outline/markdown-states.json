@@ -8767,15 +8767,15 @@
     "expandedKeys": []
   },
   "3.Resources/速查手册/openclaw常用技能.md": {
-    "scroll": 10.097630669088925,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 0
+        "line": 22,
+        "ch": 67
       },
       "to": {
-        "line": 8,
-        "ch": 0
+        "line": 22,
+        "ch": 67
       }
     },
     "expandedKeys": []
@@ -11945,14 +11945,14 @@
     "expandedKeys": []
   },
   "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md": {
-    "scroll": 42.60326529002014,
+    "scroll": 21.39338212854722,
     "cursor": {
       "from": {
-        "line": 7,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 7,
+        "line": 10,
         "ch": 0
       }
     },
@@ -12024,6 +12024,76 @@
       "to": {
         "line": 33,
         "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md": {
+    "scroll": 38.380308413038065,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 2
+      },
+      "to": {
+        "line": 10,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md": {
+    "scroll": 32.007541969111365,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw/OpenClaw 索引.md": {
+    "scroll": 32.043968538063886,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md": {
+    "scroll": 37.56658591476141,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Personal-Assistant.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []

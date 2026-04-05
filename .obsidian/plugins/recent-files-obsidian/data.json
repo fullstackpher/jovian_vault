@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "openclaw常用技能",
+      "path": "3.Resources/速查手册/openclaw常用技能.md"
+    },
+    {
+      "basename": "Personal-Assistant",
+      "path": "Personal-Assistant.md"
+    },
+    {
+      "basename": "Proactive-Agent-主动式代理技能",
+      "path": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md"
+    },
+    {
+      "basename": "OpenClaw 索引",
+      "path": "3.Resources/工具教程/openclaw/OpenClaw 索引.md"
+    },
+    {
+      "basename": "Ontology-知识图谱技能",
+      "path": "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md"
+    },
+    {
+      "basename": "Foundry-自我进化技能",
+      "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md"
+    },
+    {
+      "basename": "强者思维",
+      "path": "3.Resources/书籍/强者思维.pdf"
+    },
+    {
+      "basename": "2026-03-21_刘邦 - 人生迷茫必读",
+      "path": "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md"
+    },
+    {
       "basename": "2026-04-05",
       "path": "7.Daily/每日日志/2026-04-05.md"
     },
@@ -35,10 +67,6 @@
     {
       "basename": "2026-03-15-douyin-openclaw-coze",
       "path": "0.Inbox/resources/video-notes/2026-03-15-douyin-openclaw-coze.md"
-    },
-    {
-      "basename": "2026-03-21_刘邦 - 人生迷茫必读",
-      "path": "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md"
     },
     {
       "basename": "2026-03-25_Awesome_OpenClaw_Skills",
@@ -171,34 +199,6 @@
     {
       "basename": "【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-2YvOJMDsxY",
       "path": "0.Inbox/assets/【保姆级教程】告别命令行！ClawX：首款 OpenClaw 可视化桌面客户端，零门槛玩转 AI 智能体！-2YvOJMDsxY.png"
-    },
-    {
-      "basename": "AI强化学习48小时学完一学期课",
-      "path": "0.Inbox/AI强化学习48小时学完一学期课.md"
-    },
-    {
-      "basename": "项目看板",
-      "path": "Dashboards/项目看板.md"
-    },
-    {
-      "basename": "待处理区",
-      "path": "Dashboards/待处理区.md"
-    },
-    {
-      "basename": "2026-03-11",
-      "path": "7.Daily/每日日志/2026-03-11.md"
-    },
-    {
-      "basename": "openclaw常用技能",
-      "path": "3.Resources/速查手册/openclaw常用技能.md"
-    },
-    {
-      "basename": "打工出行必备清单",
-      "path": "3.Resources/速查手册/打工出行必备清单.md"
-    },
-    {
-      "basename": "2026-03-10",
-      "path": "7.Daily/每日日志/2026-03-10.md"
     }
   ],
   "omittedPaths": [],

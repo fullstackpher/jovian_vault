@@ -4262,14 +4262,14 @@
     },
     {
       "path": "3.Resources/书籍/强者思维.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
-          "timestampMillis": 1770643856667
+          "timestampMillis": 1775378587821
         },
         {
-          "timestampMillis": 1770643857243
+          "timestampMillis": 1775378588482
         }
       ]
     },
@@ -4947,62 +4947,14 @@
     },
     {
       "path": "3.Resources/速查手册/openclaw常用技能.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 18,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
-          "timestampMillis": 1771374983042
-        },
-        {
-          "timestampMillis": 1771375002797
-        },
-        {
-          "timestampMillis": 1771375019842
-        },
-        {
-          "timestampMillis": 1771375427752
-        },
-        {
-          "timestampMillis": 1771375626616
-        },
-        {
-          "timestampMillis": 1771375645102
-        },
-        {
-          "timestampMillis": 1771376267847
-        },
-        {
-          "timestampMillis": 1771386798697
-        },
-        {
-          "timestampMillis": 1771588521877
-        },
-        {
-          "timestampMillis": 1771598135413
-        },
-        {
-          "timestampMillis": 1771600627808
-        },
-        {
-          "timestampMillis": 1771665579843
-        },
-        {
-          "timestampMillis": 1771666902516
-        },
-        {
-          "timestampMillis": 1771754155505
-        },
-        {
-          "timestampMillis": 1771765348807
-        },
-        {
-          "timestampMillis": 1771765361858
-        },
-        {
-          "timestampMillis": 1772089410764
-        },
-        {
           "timestampMillis": 1773204409727
+        },
+        {
+          "timestampMillis": 1775378945424
         }
       ]
     },
@@ -5918,23 +5870,11 @@
     },
     {
       "path": "3.Resources/工具教程/openclaw/OpenClaw 索引.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
-          "timestampMillis": 1771933749925
-        },
-        {
-          "timestampMillis": 1772028915742
-        },
-        {
-          "timestampMillis": 1772281623946
-        },
-        {
-          "timestampMillis": 1772553582365
-        },
-        {
-          "timestampMillis": 1772596714037
+          "timestampMillis": 1775378869093
         }
       ]
     },
@@ -7451,17 +7391,11 @@
     },
     {
       "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
-          "timestampMillis": 1772553919413
-        },
-        {
-          "timestampMillis": 1772594998875
-        },
-        {
-          "timestampMillis": 1772597275582
+          "timestampMillis": 1775378821899
         }
       ]
     },
@@ -8139,7 +8073,7 @@
     {
       "path": "7.Daily/每日日志/2026-04-05.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1775373555535
@@ -8152,6 +8086,9 @@
         },
         {
           "timestampMillis": 1775377878181
+        },
+        {
+          "timestampMillis": 1775378345031
         }
       ]
     },
@@ -8201,10 +8138,13 @@
     {
       "path": "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1775373669057
+        },
+        {
+          "timestampMillis": 1775378345375
         }
       ]
     },
@@ -8258,6 +8198,36 @@
       "openLogs": [
         {
           "timestampMillis": 1775373853583
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1775378856332
+        }
+      ]
+    },
+    {
+      "path": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1775378880899
+        }
+      ]
+    },
+    {
+      "path": "Personal-Assistant.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1775378927903
         }
       ]
     }

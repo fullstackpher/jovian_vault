@@ -1995,8 +1995,8 @@
     "3.Resources/书籍/强者思维.pdf": {
       "fileId": "1770643861414",
       "filePath": "3.Resources/书籍/强者思维.pdf",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 240000,
+      "openCount": 3
     },
     "3.Resources/书籍/纳瓦尔宝典.pdf": {
       "fileId": "1770643867426",
@@ -2343,7 +2343,7 @@
     "3.Resources/速查手册/openclaw常用技能.md": {
       "fileId": "1771374987473",
       "filePath": "3.Resources/速查手册/openclaw常用技能.md",
-      "duration": 3270000,
+      "duration": 3312000,
       "openCount": 10
     },
     "3.Resources/最佳实践/个人管理-目标指标项目任务关系 1.md": {
@@ -3429,8 +3429,8 @@
     "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md": {
       "fileId": "1772553923009",
       "filePath": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md",
-      "duration": 114000,
-      "openCount": 3
+      "duration": 150000,
+      "openCount": 4
     },
     "3.Resources/工具教程/openclaw/Gaode-Map-高德地图技能.md": {
       "fileId": "1772553533008",
@@ -3471,8 +3471,8 @@
     "3.Resources/工具教程/openclaw/OpenClaw 索引.md": {
       "fileId": "1771933751238",
       "filePath": "3.Resources/工具教程/openclaw/OpenClaw 索引.md",
-      "duration": 84000,
-      "openCount": 6
+      "duration": 96000,
+      "openCount": 7
     },
     "3.Resources/工具教程/openclaw/OpenClaw 最热 15 个使用场景.md": {
       "fileId": "1771933733209",
@@ -3867,8 +3867,8 @@
     "7.Daily/每日日志/2026-04-05.md": {
       "fileId": "1775373556758",
       "filePath": "7.Daily/每日日志/2026-04-05.md",
-      "duration": 180000,
-      "openCount": 4
+      "duration": 222000,
+      "openCount": 5
     },
     "0.Inbox/resources/video-notes/2026-03-15-douyin-agency-agents.md": {
       "fileId": "1775373634754",
@@ -3897,8 +3897,8 @@
     "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md": {
       "fileId": "1775373670753",
       "filePath": "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md",
-      "duration": 12000,
-      "openCount": 2
+      "duration": 30000,
+      "openCount": 3
     },
     "0.Inbox/resources/video-notes/2026-03-15-douyin-openclaw-coze.md": {
       "fileId": "1775373682751",
@@ -3928,6 +3928,24 @@
       "fileId": "1775373856724",
       "filePath": "7.Daily/每日日志/2026-04-04.md",
       "duration": 276000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md": {
+      "fileId": "1775378860410",
+      "filePath": "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md": {
+      "fileId": "1775378884395",
+      "filePath": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md",
+      "duration": 48000,
+      "openCount": 2
+    },
+    "Personal-Assistant.md": {
+      "fileId": "1775378932396",
+      "filePath": "Personal-Assistant.md",
+      "duration": 18000,
       "openCount": 2
     }
   }
