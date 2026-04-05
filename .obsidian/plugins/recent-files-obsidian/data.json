@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-04",
+      "path": "7.Daily/每日日志/2026-04-04.md"
+    },
+    {
+      "basename": "2026-04-05",
+      "path": "7.Daily/每日日志/2026-04-05.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "攒钱目标-商梦公司线下学习",
       "path": "1.Projects/攒钱目标-商梦公司线下学习.md"
     },
@@ -35,14 +47,6 @@
     {
       "basename": "OpenClaw小白教程-时安",
       "path": "0.Inbox/OpenClaw小白教程-时安.md"
-    },
-    {
-      "basename": "2026-04-05",
-      "path": "7.Daily/每日日志/2026-04-05.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "私密-Minimax订阅信息",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-10",
       "path": "7.Daily/每日日志/2026-03-10.md"
-    },
-    {
-      "basename": "2026-03-09",
-      "path": "7.Daily/每日日志/2026-03-09.md"
     }
   ],
   "omittedPaths": [],

@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 0,
+    "scroll": 249.6680757029274,
     "cursor": {
       "from": {
         "line": 199,
@@ -11875,7 +11875,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-04-05.md": {
-    "scroll": 0,
+    "scroll": 0.02111613939250756,
     "cursor": {
       "from": {
         "line": 26,
@@ -12010,6 +12010,20 @@
       "to": {
         "line": 5,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-04.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 10
+      },
+      "to": {
+        "line": 25,
+        "ch": 10
       }
     },
     "expandedKeys": []

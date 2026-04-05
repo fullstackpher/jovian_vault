@@ -915,8 +915,8 @@
     "Dashboards/Dashboard.md": {
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
-      "duration": 33252000,
-      "openCount": 447
+      "duration": 33270000,
+      "openCount": 448
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -3868,7 +3868,7 @@
       "fileId": "1775373556758",
       "filePath": "7.Daily/每日日志/2026-04-05.md",
       "duration": 78000,
-      "openCount": 2
+      "openCount": 3
     },
     "0.Inbox/resources/video-notes/2026-03-15-douyin-agency-agents.md": {
       "fileId": "1775373634754",
@@ -3915,14 +3915,20 @@
     "1.Projects/攒钱目标-商梦公司线下学习.md": {
       "fileId": "1775373724743",
       "filePath": "1.Projects/攒钱目标-商梦公司线下学习.md",
-      "duration": 84000,
-      "openCount": 2
+      "duration": 108000,
+      "openCount": 3
     },
     "1.Projects/MOC.md": {
       "fileId": "1775373748722",
       "filePath": "1.Projects/MOC.md",
       "duration": 6000,
       "openCount": 2
+    },
+    "7.Daily/每日日志/2026-04-04.md": {
+      "fileId": "1775373856724",
+      "filePath": "7.Daily/每日日志/2026-04-04.md",
+      "duration": 102000,
+      "openCount": 1
     }
   }
 }
