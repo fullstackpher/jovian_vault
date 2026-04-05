@@ -9401,11 +9401,11 @@
     "cursor": {
       "from": {
         "line": 3,
-        "ch": 20
+        "ch": 0
       },
       "to": {
         "line": 3,
-        "ch": 20
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -11875,15 +11875,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-04-05.md": {
-    "scroll": 0.02111613939250756,
+    "scroll": 43.32146875104639,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 13
+        "line": 28,
+        "ch": 27
       },
       "to": {
-        "line": 26,
-        "ch": 13
+        "line": 28,
+        "ch": 27
       }
     },
     "expandedKeys": []
@@ -12015,15 +12015,15 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-04-04.md": {
-    "scroll": 0,
+    "scroll": 37.7875789567536,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 10
+        "line": 33,
+        "ch": 12
       },
       "to": {
-        "line": 25,
-        "ch": 10
+        "line": 33,
+        "ch": 12
       }
     },
     "expandedKeys": []
