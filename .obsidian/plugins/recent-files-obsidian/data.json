@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-05",
+      "path": "7.Daily/每日日志/2026-04-05.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
       "basename": "私密-Minimax订阅信息",
       "path": "8.Info/私密-Minimax订阅信息.md"
     },
     {
       "basename": "私密-MagicPodCast秘钥",
       "path": "私密-MagicPodCast秘钥.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "2026-03-21",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "1.Projects/README.md"
-    },
-    {
-      "basename": "2026-03-04",
-      "path": "7.Daily/每日日志/2026-03-04.md"
     }
   ],
   "omittedPaths": [],

@@ -916,7 +916,7 @@
       "fileId": "1768479037631",
       "filePath": "Dashboards/Dashboard.md",
       "duration": 33252000,
-      "openCount": 446
+      "openCount": 447
     },
     "Templates/今日日报模板.md": {
       "fileId": "1769759662414",
@@ -2727,8 +2727,8 @@
     "8.Info/私密-Minimax订阅信息.md": {
       "fileId": "1771933853201",
       "filePath": "8.Info/私密-Minimax订阅信息.md",
-      "duration": 276000,
-      "openCount": 6
+      "duration": 288000,
+      "openCount": 7
     },
     "2.Areas/SelfImprovement/06-认知提升/PARA方法.md": {
       "fileId": "1771934093178",
@@ -3863,6 +3863,12 @@
       "filePath": "私密-MagicPodCast秘钥.md",
       "duration": 72000,
       "openCount": 3
+    },
+    "7.Daily/每日日志/2026-04-05.md": {
+      "fileId": "1775373556758",
+      "filePath": "7.Daily/每日日志/2026-04-05.md",
+      "duration": 24000,
+      "openCount": 1
     }
   }
 }

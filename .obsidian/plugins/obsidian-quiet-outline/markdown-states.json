@@ -11873,5 +11873,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-05.md": {
+    "scroll": 13.758224133878556,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 16
+      },
+      "to": {
+        "line": 25,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
   }
 }
