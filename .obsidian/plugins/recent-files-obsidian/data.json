@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboards/Dashboard.md"
+    },
+    {
+      "basename": "Foundry-自我进化技能",
+      "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md"
+    },
+    {
+      "basename": "Proactive-Agent-主动式代理技能",
+      "path": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md"
+    },
+    {
       "basename": "openclaw常用技能",
       "path": "3.Resources/速查手册/openclaw常用技能.md"
     },
@@ -9,20 +21,12 @@
       "path": "Personal-Assistant.md"
     },
     {
-      "basename": "Proactive-Agent-主动式代理技能",
-      "path": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md"
-    },
-    {
       "basename": "OpenClaw 索引",
       "path": "3.Resources/工具教程/openclaw/OpenClaw 索引.md"
     },
     {
       "basename": "Ontology-知识图谱技能",
       "path": "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md"
-    },
-    {
-      "basename": "Foundry-自我进化技能",
-      "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md"
     },
     {
       "basename": "强者思维",
@@ -43,10 +47,6 @@
     {
       "basename": "2026-04-04",
       "path": "7.Daily/每日日志/2026-04-04.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboards/Dashboard.md"
     },
     {
       "basename": "攒钱目标-商梦公司线下学习",

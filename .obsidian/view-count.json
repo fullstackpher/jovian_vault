@@ -531,7 +531,7 @@
     {
       "path": "Dashboards/Dashboard.md",
       "uniqueDaysOpened": 52,
-      "totalTimesOpened": 639,
+      "totalTimesOpened": 640,
       "openLogs": [
         {
           "timestampMillis": 1773202555410
@@ -568,6 +568,9 @@
         },
         {
           "timestampMillis": 1775373837774
+        },
+        {
+          "timestampMillis": 1775403222890
         }
       ]
     },
@@ -7392,10 +7395,16 @@
     {
       "path": "3.Resources/工具教程/openclaw/Foundry-自我进化技能.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1775378821899
+        },
+        {
+          "timestampMillis": 1775379027782
+        },
+        {
+          "timestampMillis": 1775403218427
         }
       ]
     },
@@ -8214,10 +8223,13 @@
     {
       "path": "3.Resources/工具教程/openclaw/Proactive-Agent-主动式代理技能.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1775378880899
+        },
+        {
+          "timestampMillis": 1775379011543
         }
       ]
     },
