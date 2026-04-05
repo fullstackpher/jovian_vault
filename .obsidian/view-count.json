@@ -8231,10 +8231,23 @@
     {
       "path": "1.Projects/攒钱目标-商梦公司线下学习.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1775373720119
+        },
+        {
+          "timestampMillis": 1775373753258
+        }
+      ]
+    },
+    {
+      "path": "1.Projects/MOC.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1775373743802
         }
       ]
     }
