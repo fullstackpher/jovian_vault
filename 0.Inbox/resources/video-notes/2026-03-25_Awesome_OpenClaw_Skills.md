@@ -1,9 +1,13 @@
 ---
-tags: [视频笔记, inbox, OpenClaw]
+tags:
+  - 视频笔记
+  - inbox
+  - OpenClaw
 date: 2026-03-25
 source: https://v.douyin.com/1SRcnfzqh9Q/
 author: 牛码架构
 创建时间: 2026-03-25T22:48:05.106791
+更新时间: 2026-04-05T15:21
 ---
 
 # Awesome OpenClaw Skills - 解锁OpenClaw全部潜力

@@ -11875,15 +11875,127 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-04-05.md": {
-    "scroll": 13.758224133878556,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 16
+        "line": 26,
+        "ch": 13
       },
       "to": {
-        "line": 25,
-        "ch": 16
+        "line": 26,
+        "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/resources/video-notes/2026-03-15-douyin-agency-agents.md": {
+    "scroll": 36.92392887043806,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/OpenClaw小白教程-时安.md": {
+    "scroll": 42.492644066904106,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/什么叫空手套白狼.md": {
+    "scroll": 48.79087865122275,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/resources/video-notes/2026-03-25_Awesome_OpenClaw_Skills.md": {
+    "scroll": 13.562908322203393,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/resources/video-notes/2026-03-21_刘邦 - 人生迷茫必读.md": {
+    "scroll": 42.60326529002014,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "0.Inbox/resources/video-notes/2026-03-15-douyin-openclaw-coze.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/目标/2026年目标.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1.Projects/攒钱目标-商梦公司线下学习.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 24
+      },
+      "to": {
+        "line": 21,
+        "ch": 24
       }
     },
     "expandedKeys": []
