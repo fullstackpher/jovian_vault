@@ -3625,7 +3625,7 @@
     "expandedKeys": []
   },
   "Dashboards/Dashboard.md": {
-    "scroll": 249.37686241068465,
+    "scroll": 255.92881978352864,
     "cursor": {
       "from": {
         "line": 199,
@@ -12099,7 +12099,7 @@
     "expandedKeys": []
   },
   "7.Daily/每日日志/2026-04-06.md": {
-    "scroll": 82.80841490801643,
+    "scroll": 99.3717316272212,
     "cursor": {
       "from": {
         "line": 6,
@@ -12107,6 +12107,160 @@
       },
       "to": {
         "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-11.md": {
+    "scroll": 7.0788393207624845,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-12.md": {
+    "scroll": 14.8999533584526,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-13.md": {
+    "scroll": 14.044094349523125,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-14.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-17.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-18.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-19.md": {
+    "scroll": 13.188235340593648,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 14
+      },
+      "to": {
+        "line": 31,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-20.md": {
+    "scroll": 7.562091303806679,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 28
+      },
+      "to": {
+        "line": 29,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-09.md": {
+    "scroll": 11.266341462237516,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 17
+      },
+      "to": {
+        "line": 22,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "7.Daily/每日日志/2026-04-10.md": {
+    "scroll": 23.803920970243567,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
