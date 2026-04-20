@@ -8187,11 +8187,14 @@
     },
     {
       "path": "7.Daily/每日日志/2026-04-04.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1775373853583
+        },
+        {
+          "timestampMillis": 1776690755389
         }
       ]
     },
@@ -8231,39 +8234,48 @@
     {
       "path": "7.Daily/每日日志/2026-04-06.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1775483214076
         },
         {
           "timestampMillis": 1776690079882
+        },
+        {
+          "timestampMillis": 1776690812439
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-04-11.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1776690121090
         },
         {
           "timestampMillis": 1776690121751
+        },
+        {
+          "timestampMillis": 1776690689415
         }
       ]
     },
     {
       "path": "7.Daily/每日日志/2026-04-12.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1776690134699
         },
         {
           "timestampMillis": 1776690136015
+        },
+        {
+          "timestampMillis": 1776690709811
         }
       ]
     },
@@ -8358,10 +8370,13 @@
     {
       "path": "7.Daily/每日日志/2026-04-09.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1776690626731
+        },
+        {
+          "timestampMillis": 1776690711439
         }
       ]
     },
@@ -8372,6 +8387,29 @@
       "openLogs": [
         {
           "timestampMillis": 1776690676259
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-04-08.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1776690713107
+        }
+      ]
+    },
+    {
+      "path": "7.Daily/每日日志/2026-04-07.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1776690739488
+        },
+        {
+          "timestampMillis": 1776690772589
         }
       ]
     }

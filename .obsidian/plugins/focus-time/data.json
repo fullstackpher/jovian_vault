@@ -3903,8 +3903,8 @@
     "7.Daily/每日日志/2026-04-04.md": {
       "fileId": "1775373856724",
       "filePath": "7.Daily/每日日志/2026-04-04.md",
-      "duration": 276000,
-      "openCount": 2
+      "duration": 288000,
+      "openCount": 3
     },
     "3.Resources/工具教程/openclaw/Ontology-知识图谱技能.md": {
       "fileId": "1775378860410",
@@ -3951,20 +3951,20 @@
     "7.Daily/每日日志/2026-04-06.md": {
       "fileId": "1775483215950",
       "filePath": "7.Daily/每日日志/2026-04-06.md",
-      "duration": 42000,
+      "duration": 84000,
       "openCount": 2
     },
     "7.Daily/每日日志/2026-04-11.md": {
       "fileId": "1776690123498",
       "filePath": "7.Daily/每日日志/2026-04-11.md",
-      "duration": 18000,
-      "openCount": 2
+      "duration": 36000,
+      "openCount": 3
     },
     "7.Daily/每日日志/2026-04-12.md": {
       "fileId": "1776690141581",
       "filePath": "7.Daily/每日日志/2026-04-12.md",
       "duration": 24000,
-      "openCount": 2
+      "openCount": 3
     },
     "7.Daily/每日日志/2026-04-13.md": {
       "fileId": "1776690243495",
@@ -4011,14 +4011,26 @@
     "7.Daily/每日日志/2026-04-09.md": {
       "fileId": "1776690628927",
       "filePath": "7.Daily/每日日志/2026-04-09.md",
-      "duration": 48000,
-      "openCount": 2
+      "duration": 54000,
+      "openCount": 3
     },
     "7.Daily/每日日志/2026-04-10.md": {
       "fileId": "1776690676928",
       "filePath": "7.Daily/每日日志/2026-04-10.md",
-      "duration": 6000,
-      "openCount": 1
+      "duration": 18000,
+      "openCount": 2
+    },
+    "7.Daily/每日日志/2026-04-08.md": {
+      "fileId": "1776690718931",
+      "filePath": "7.Daily/每日日志/2026-04-08.md",
+      "duration": 24000,
+      "openCount": 2
+    },
+    "7.Daily/每日日志/2026-04-07.md": {
+      "fileId": "1776690742916",
+      "filePath": "7.Daily/每日日志/2026-04-07.md",
+      "duration": 60000,
+      "openCount": 3
     }
   }
 }
